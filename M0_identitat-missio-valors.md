@@ -12,7 +12,7 @@ estat: revisat
 
 La identitat i missió de l'educació jesuïta no és un text promulgat un cop per sempre. És una **tradició viva**, tal com la denomina el document homònim de 2019: un exercici continu de discerniment que, en cada època, pregunta de nou *a qui servim, per a quina humanitat eduquem i com es concreta avui la missió fundacional*. Reduir la identitat jesuïta al document ICAJE de 1986 seria com creure que la Companyia va néixer el 1986. El 1986 és un moment de sistematització en un fil de cinc segles d'evolució creativa.
 
-Aquest document reconstrueix l'arc evolutiu de la missió educativa de la Companyia de Jesús, des de les Constitucions de 1540 fins a la Declaració Final del JESEDU-Jogja2024, per oferir als agents educatius FJE una comprensió dinàmica de la identitat que orienta el projecte PASSAREL·LA i tots els assistents del corpus RAG.
+Aquest document reconstrueix l'arc evolutiu de la missió educativa de la Companyia de Jesús, des de les Constitucions de 1540 fins a la Declaració Final del JESEDU-Jogja2024, per oferir als agents educatius FJE una comprensió dinàmica de la identitat que orienta tots els assistents del corpus RAG.
 
 ---
 
@@ -104,11 +104,11 @@ Al llarg de cinc segles d'evolució, cinc trets es mantenen constants, si bé es
 
 **Aplicació:** El docent proposa un exercici inspirat en el discurs d'Arrupe a València: *"Hem estat educats per a la justícia?"* Els alumnes han de respondre dos qüestionaris: un sobre les seves condicions de vida i un sobre les dels veïns de la zona menys afavorida del barri. La reflexió posterior no és culpabilitzadora sinó interpel·ladora: *"Quin tipus de persona vols ser? Una que viu d'esquena als problemes o una que s'implica?"* L'objectiu no és que tots facin voluntariat: és que la pregunta sobre la justícia formi part del seu procés de construcció de la identitat personal. Aquí el docent actualitza el "gir profètic" d'Arrupe (moment 2) en un context contemporani.
 
-### Exemple 3 (Batxillerat/FP — PASSAREL·LA): Discerniment vocacional des de la missió reconciliadora
+### Exemple 3 (Batxillerat/FP): Discerniment vocacional des de la missió reconciliadora
 
-**Situació:** Un alumne de PASSAREL·LA, que ha abandonat el sistema educatiu i ara reprèn els estudis, es pregunta si té sentit tornar a estudiar quan el mercat laboral de totes maneres no li ofereció el que esperava.
+**Situació:** Un alumne que ha abandonat el sistema educatiu i ara reprèn els estudis en un centre de segona oportunitat es pregunta si té sentit tornar a estudiar quan el mercat laboral de totes maneres no li ha ofert el que esperava.
 
-**Aplicació:** El tutor activa un procés de discerniment ignasià (moment 5 — PAU A) que no respon amb arguments pragmàtics ("et guanyaràs millor la vida") sinó amb preguntes de primer ordre: *"En quin moment de la teva vida has sentit que estaves fent quelcom que tenia sentit? Qui et necessita? Quins problemes del món et mouen per dins?"* La connexió entre el retorn als estudis i la missió personal no és automàtica: demana acompanyament. Però el marc de la missió reconciliadora (Sosa, moment 4) és l'horitzó des del qual el tutor acompanya: l'objectiu no és que l'alumne "s'integri al mercat" sinó que descobreixi el seu lloc en una humanitat reconciliada. PASSAREL·LA no és un programa de reinserció: és un espai de discerniment vocacional per a joves que la societat ha descartat (PAU B i C en acció).
+**Aplicació:** El tutor activa un procés de discerniment ignasià (moment 5 — PAU A) que no respon amb arguments pragmàtics ("et guanyaràs millor la vida") sinó amb preguntes de primer ordre: *"En quin moment de la teva vida has sentit que estaves fent quelcom que tenia sentit? Qui et necessita? Quins problemes del món et mouen per dins?"* La connexió entre el retorn als estudis i la missió personal no és automàtica: demana acompanyament. El marc de la missió reconciliadora (Sosa, moment 4) és l'horitzó des del qual el tutor acompanya: l'objectiu no és que l'alumne "s'integri al mercat" sinó que descobreixi el seu lloc en una humanitat reconciliada. Un centre de segona oportunitat d'inspiració ignasiana no és un programa de reinserció: és un espai de discerniment vocacional per a joves que la societat ha descartat (PAU B i C en acció).
 
 ---
 

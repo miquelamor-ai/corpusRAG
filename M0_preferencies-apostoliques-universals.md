@@ -44,7 +44,7 @@ En el context de Jesuïtes Educació, les PAU no són un marc extern que cal "ad
 
 **PAU A en l'escola:** Els espais d'interioritat, el discerniment vocacional, les pràctiques de *examen* ignasià, les propostes de retir i silenci, les tutories de discerniment personal — tot això és expressió directa de la PAU A. L'escola jesuïta és un lloc on l'alumnat aprèn a preguntar-se *per a qui sóc jo?* i a reconèixer la veu de Déu en la pròpia experiència.
 
-**PAU B en l'escola:** L'orientació cap als alumnes més vulnerables, les escoles de segona oportunitat (com PASSAREL·LA), els projectes d'Aprenentatge i Servei, la presència en entorns socioeconòmicament desafavorits, la mirada estructural a les causes de la pobresa — tot això és expressió de la PAU B. No es tracta únicament de fer assistència: es tracta de caminar al costat, aprendre dels pobres i treballar per canviar les estructures que generen exclusió.
+**PAU B en l'escola:** L'orientació cap als alumnes més vulnerables, les escoles de segona oportunitat, els projectes d'Aprenentatge i Servei, la presència en entorns socioeconòmicament desafavorits, la mirada estructural a les causes de la pobresa — tot això és expressió de la PAU B. No es tracta únicament de fer assistència: es tracta de caminar al costat, aprendre dels pobres i treballar per canviar les estructures que generen exclusió.
 
 **PAU C en l'escola:** Tota l'acció educativa de FJE és, per definició, acompanyament de joves. Però la PAU C demana quelcom específic: que els centres s'interroguin sobre si el seu estil d'acompanyament genera esperança, sentit i capacitat d'agència en els joves d'avui, especialment els més desafavorits. La pregunta no és "els eduquem bé?" sinó "els ajudem a crear un futur esperançador?".
 
