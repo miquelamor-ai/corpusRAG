@@ -1,194 +1,139 @@
 ---
-titol: "Identitat ignasiana: missió educativa, valors i ICAJE"
-modul: M0
-tipus: marc
-etiquetes: [identitat, missio, valors, ICAJE, ignasiana, FJE, cura-personalis, caracter-propi, pluralisme]
-descripcio: "Identitat ignasiana aplicada a l'educació: missió FJE, valors institucionals, model ICAJE 1986, caràcter propi dels centres i pluralisme."
-review_status: esborrany
+títol: "0.0_Identitat, Missió i Valors: Una Tradició Viva en Discerniment Permanent"
+mòdul: 0
+etiquetes: [identitat, missió, valors, ICAJE, tradició viva, CG, reconciliació, justícia, Arrupe, Kolvenbach, Sosa, JESEDU]
+fonts: ["Companyia de Jesús (1540/1556). Constitucions. Roma.", "Companyia de Jesús (1599). Ratio Studiorum. Roma.", "Companyia de Jesús (1966). Decrets CG31. Roma.", "Companyia de Jesús (1975). Decrets CG32. Roma: Razón y Fe.", "Arrupe, P. SJ (1973). Hombres para los demás. Discurs al X Congrés Europeu d'Antics Alumnes. València, 1 d'agost de 1973.", "ICAJE — Comissió Internacional (1986). Característiques de l'educació a la Companyia de Jesús. Roma: Secretariat d'Educació SJ.", "ICAJE — Comissió Internacional (1993). Pedagogia Ignasiana. Un plantejament pràctic. Roma: Secretariat d'Educació SJ.", "Companyia de Jesús (2016). Decret 1 CG36: Companys en una missió de reconciliació i justícia. Roma.", "Sosa, A. SJ (2017). La educación de la Compañía: una pedagogía al servicio de la formación de un ser humano reconciliado. JESEDU-Rio2017. Rio de Janeiro, 20 d'octubre de 2017.", "Secretariat d'Educació Secundària i Pre-secundària SJ (2019). Escoles Jesuïtes: Una Tradició Viva en el Segle XXI. Roma: Companyia de Jesús.", "Sosa, A. SJ (2019). Preferències Apostòliques Universals 2019-2029. CG 2019/06. Roma.", "Xarxa Global Jesuïta de Col·legis (2024). JESEDU-Jogja2024: Declaració Final. Educar per a la fe al segle XXI. Yogyakarta, juny 2024."]
+estat: revisat
 ---
 
-# 1. CONTINGUT
+# 1. FONAMENT TEÒRIC
 
-## Definició i principis
+## La missió com a tradició viva, no com a document fix
 
-La identitat ignasiana en l'àmbit educatiu és un sistema de valors, finalitats i pràctiques que deriva de l'experiència espiritual d'Ignasi de Loiola i ha estat formalitzat per la Companyia de Jesús en successius documents fundacionals. No es tracta d'una identitat folklòrica ni de mera afiliació religiosa, sinó d'un marc de sentit que orienta totes les dimensions de la vida del centre: la pedagogia, les relacions, la gestió i la cultura institucional.
+La identitat i missió de l'educació jesuïta no és un text promulgat un cop per sempre. És una **tradició viva**, tal com la denomina el document homònim de 2019: un exercici continu de discerniment que, en cada època, pregunta de nou *a qui servim, per a quina humanitat eduquem i com es concreta avui la missió fundacional*. Reduir la identitat jesuïta al document ICAJE de 1986 seria com creure que la Companyia va néixer el 1986. El 1986 és un moment de sistematització en un fil de cinc segles d'evolució creativa.
 
-El document fundacional per excel·lència és **Característiques de l'Educació de la Companyia de Jesús** (ICAJE, 1986), que estableix els trets definidors de l'escola jesuïta a tot el món. Kolvenbach, en presentar-lo, afirmà que "del mismo modo que la Ratio nacida a finales del siglo XVI, este documento puede darnos a todos una visión compartida de la educación de la Compañía". El document no és una nova Ratio Studiorum —és a dir, no prescriu mètodes— sinó que estableix els principis filosòfics i espirituals que han d'inspirar qualsevol pràctica educativa jesuïta.
-
-El **Caràcter Propi dels Centres Educatius de la Companyia de Jesús** (EDUCSI, 1996) concreta l'ICAJE en el context espanyol i estableix tres pilars: (1) la identitat bàsica del centre, (2) l'educació de l'alumne en totes les seves dimensions, i (3) el centre com a comunitat educativa participativa. Afirma: "Un Col·legi de la Companyia de Jesús inspira la seva vida i acció educativa en la visió dinàmica d'Ignasi de Loiola en relació amb el món d'avui, i funda el seu plantejament educatiu en els elements essencials que van constituir el procés de maduració humana i cristiana del propi Ignasi: experiències, interiorització, comunicació i acció."
-
-La **Fundació Jesuïtes Educació (FJE)** sintetitza aquesta identitat en tres dimensions pràctiques:
-- **Missió**: oferir un model educatiu basat en l'humanisme cristià i l'excel·lència; proposar, des del diàleg, una visió cristiana de la persona; promoure el compromís; desenvolupar tot el potencial de l'alumnat; compartir amb les famílies la responsabilitat d'educar; possibilitar que l'educació de qualitat sigui accessible a tots.
-- **Visió**: ser un centre amb clara identitat cristiana, qualitat educativa, obert i accessible, amb innovació pedagògica contínua des de la tradició ignasiana, metodologia activa i tracte personalitzat.
-- **Valors**: l'Evangeli de Jesús com a referència; l'atenció personal; el compromís amb la justícia i l'entorn social; la responsabilitat i exigència; la implicació de l'alumnat en el seu procés; la llibertat d'expressió i iniciativa; la varietat metodològica; l'excel·lència professional.
-
-La identitat cristiana s'exerceix en clau d'oferiment, no d'imposició. El pluralisme religiós i cultural és un valor: l'escola ignasiana acull tots els alumnes i proposa sense imposar. La CG36 (2017) recorda que la missió és "de reconciliació i justícia", no d'adoctrinament. L'Identificador Global #1 (*Una Tradició Viva*, 2019) explicita: "Les escoles jesuïtes estan compromeses a ser catòliques i oferir formació profunda en la fe en diàleg amb altres religions i visions del món."
-
-## Autors i evidència clau
-
-- **Ignasi de Loiola** (1491-1556): Fundador de la Companyia de Jesús. Els *Exercicis Espirituals* (c.1548) i les *Constitucions* (1556) estableixen el marc espiritual del qual deriva tota la pedagogia jesuïta. El "Principi i Fonament": "l'home és creat per lloar, fer reverència i servir Déu", orienta una educació que transcendeix el rendiment acadèmic.
-- **ICAJE** (1986): *Característiques de l'Educació de la Companyia de Jesús*. Document marc de l'escola jesuïta mundial: 28 característiques agrupades en cinc blocs (visió del món, objectius educatius, ambient, relació docent-alumne, estructura de la comunitat). Document fundacional, disponible al corpus en format escanejat.
-- **Kolvenbach, P.-H.** (1986): *Carta de presentació de les Característiques*. Situa l'ICAJE en la tradició de la Ratio Studiorum i l'obre a tots els col·laboradors laics i religiosos dels centres.
-- **Kolvenbach, P.-H.** (1993): Carta de presentació del PPI. Defineix el perfil de l'educat ignasià: "homes i dones competents, conscients i compromesos en la compassió".
-- **EDUCSI** (1996): *Caràcter Propi dels Centres Educatius de la Companyia de Jesús* (3a ed.). Adapta l'ICAJE al context espanyol. Defineix la missió educadora ignasiana i els aspectes bàsics de la identitat dels centres. Cita la CG34 que "urge" a aplicar els documents en "declaraciones de principios, orientaciones, programas pedagógicos y todo el medio ambiente escolar".
-- **Kolvenbach, P.-H.** (1998): Discurs a Caracas per al 75è aniversari del Col·legi San Ignacio. Reitera les característiques com a marc de discerniment institucional permanent.
-- **Congregació General 36** (2017): *Decret 1 — Companys en una missió de reconciliació i justícia*. Actualitza la identitat: "reconciliació amb Déu, amb la humanitat i amb la creació" com a triple dimensió de la missió.
-- **EDUCSI** (s.d.): *Missió, Visió i Valors EDUCSI*. Síntesi operativa dels principis de la CdJ per als centres educatius espanyols.
-
-## Exemples concrets d'aplicació a l'aula
-
-### Exemple 1 — La identitat als rituals quotidians, no als actes especials
-
-Un claustre de professorat de batxillerat debat com la identitat ignasiana no pot quedar confinada a l'assignatura de religió o als actes litúrgics. Acorden que cada hora de classe pot incorporar un moment breu d'inici (context) on el docent explicita per a quin propòsit treballen avui aquella matèria: no des del programa, sinó des de la pregunta "per a quin món i per a quina persona estem treballant?". A matemàtiques, el docent de càlcul diferencial explica que estudien el canvi perquè entendre com canvien les coses —en el clima, en l'economia, en la vida personal— és una competència per ser-hi present en el món. No predica ni evangelitza: contextualitza. Al final del trimestre fan una jornada de reflexió on cada grup de matèria comparteix com han vinculat el seu contingut a la missió FJE. Resultat: el professorat experimenta que la identitat no és una sobrecàrrega sinó un marc de sentit.
-
-### Exemple 2 — El Caràcter Propi en un conflicte de valors
-
-L'escola detecta un incident greu de discriminació entre alumnes de diferent origen cultural. El consell pedagògic convoca una reunió extraordinària. En lloc de tractar-ho com un problema de disciplina, el director pedagògic convoca la reunió citant dos valors del Caràcter Propi: "atenció personal" i "compromís amb la justícia i l'entorn social i cultural". La reunió no és una sessió de normativa sinó una conversa sobre identitat: "Quin centre volem ser? Com actuem quan la nostra identitat és posada a prova?". Es prenen mesures pràctiques (protocol d'actuació, pla de sensibilització), però el marc des del qual s'actua és el dels valors institucionals. Famílies i alumnat perceben que el centre actua des de coherència.
-
-## Errors comuns (què NO fer)
-
-- **Confondre identitat amb confessionalitat**: la identitat ignasiana no exigeix que tots els membres del claustre siguin catòlics practicants; exigeix que comparteixin els valors i la missió.
-- **Reservar la identitat als espais "de pastoral"**: la cura personalis, el magis, la visió integral de la persona han d'impregnar matemàtiques, educació física i qualsevol altra matèria.
-- **Citar l'ICAJE com a marc sense operativitzar-lo**: la identitat s'ha de poder observar en les rutines del centre, no només en els discursos.
-- **Tractar els documents fundacionals com a relíquies**: l'ICAJE, el PPI i el Caràcter Propi han de ser objecte de lectura, debat i actualització permanent al claustre.
-- **Imposar la identitat a les famílies**: la missió és proposar, no imposar.
-
-## Matissos i excepcions
-
-La identitat ignasiana és "una", però s'expressa de maneres molt diverses en cada centre. Un centre d'un barri socialment vulnerable i una escola de classe mitjana-alta expressen la mateixa identitat en pràctiques molt diferenciades. La fidelitat a l'essència no implica uniformitat de formes.
-
-La relació entre identitat cristiana i pluralisme és una tensió fèrtil: l'escola jesuïta manté una identitat confessada (cristiana, catòlica) alhora que acull la diversitat, sense contradicció.
+Aquest document reconstrueix l'arc evolutiu de la missió educativa de la Companyia de Jesús, des de les Constitucions de 1540 fins a la Declaració Final del JESEDU-Jogja2024, per oferir als agents educatius FJE una comprensió dinàmica de la identitat que orienta el projecte PASSAREL·LA i tots els assistents del corpus RAG.
 
 ---
 
-# 2. CONNEXIONS AMB ALTRES DOCUMENTS DEL CORPUS
+## Arc evolutiu de la missió educativa jesuïta
 
-| Document relacionat | Tipus de connexió |
-|---------------------|-------------------|
-| `M0_PPI-paradigma-pedagogic-ignasia` | El PPI és la concreció pràctica de l'ICAJE. La identitat es fa operativa en el cicle context-experiència-reflexió-acció-avaluació |
-| `M0_ledesma-kolvenbach` | Ledesma-Kolvenbach és el marc teleològic (utilitas, iustitia, humanitas, fides) que dona sentit a la identitat institucional |
-| `M0_magis-i-servei` | El magis és la dinàmica interior de la identitat: la cerca del "millor servei" en cada decisió |
-| `M0_cura-personalis` | La cura personalis és el principi pedagògic que deriva directament de la identitat ignasiana |
-| `M0_educador-samarita` | El perfil de l'educador samarità és la concreció personal de la identitat institucional |
-| `M0_identificadors-globals` | Els 10 Identificadors Globals (*Una Tradició Viva*, 2019) actualitzen l'ICAJE en clau contemporània |
-| `M0_preferencies-apostoliques-universals` | Les PAU (2019-2029) defineixen les prioritats actuals de la missió, inscrites en la identitat ignasiana |
-| `M1_convivencia-i-clima` | La identitat marca el clima de centre: acollida, respecte, comunitat educativa com a comunitat de sentit |
+### MOMENT 1 (1540-1599): Les arrels — Missió i Humanisme
+
+La Companyia de Jesús no va néixer com a orde educativa. Les Constitucions (1540) conceben la missió com a mobilitat apostòlica al servei de l'Església i dels pobres: predicació itinerant, sacraments, treball en hospitals i presons. L'escola s'incorpora progressivament com a vehicle apostòlic quan Ignasi percep que *educar el caràcter de les persones és una de les formes més eficaces d'acció apostòlica a llarg termini*. Les famoses "15 raons per tenir col·legis" articulen per primera vegada la lògica apostòlica de l'educació jesuïta.
+
+La **Ratio Studiorum** (1599) codifica el mètode: la *prelecció*, la *repetició*, la *disputatio*, la *composició*. Però darrere del mètode hi ha una antropologia: l'ésser humà és capaç de perfeccionament, i l'educació ha d'ajudar-lo a descobrir la seva vocació per al servei. La *cura personalis* —atenció individualitzada a cada alumne— no és una tècnica pedagògica sinó una conseqüència d'una teologia de la persona.
+
+**Frase clau del moment:** *"Educar el caràcter de les persones, en funció del bé comú, és una tasca apostòlica de primer ordre."* (Sosa, 2017, parafrasejant la intuïció fundacional)
 
 ---
 
-# 3. DETECCIÓ (Variables de Context)
+### MOMENT 2 (1965-1975): El gir profètic — Fe i Justícia
 
-## Senyals del docent
+El Concili Vaticà II (1965) sacseja profundament la Companyia. La CG31 (1966) reconeix que el **apostolat educatiu** —fins aleshores enfocat en l'excel·lència acadèmica i la formació del caràcter— necessita integrar explícitament la dimensió de la justícia social.
 
-1. El docent pregunta per la diferència entre "escola catòlica" i "escola ignasiana" i no sap explicar-la.
-2. El docent dissenya una activitat que "podria fer-se en qualsevol escola" sense cap rastre de la visió FJE.
-3. El docent manifesta incertesa sobre com explicar la identitat del centre quan no és religiós practicant.
-4. El docent nouvingut no ha rebut formació sobre el Projecte Educatiu ni sobre l'ICAJE.
-5. El docent percep la identitat ignasiana com una restricció en lloc d'una habilitació.
-6. El docent demana recursos per treballar la identitat a la seva àrea.
-7. El docent ha de participar en una Setmana Ignasiana i necessita preparació.
+El moment decisiu és el discurs de Pedro Arrupe als antics alumnes jesuïtes a **València, l'1 d'agost de 1973**. Arrupe els interpel·la directament: *"Us hem educat per a la justícia? Esteu vosaltres educats per a la justícia?"* I respon amb honestedat que no prou. I proposa el concepte que marcarà una generació: l'**"home per als altres"** — un ideal educatiu que no es mesura per les notes ni pels càrrecs assolits, sinó per la disposició a servir els més vulnerables. L'excel·lència ignasiana es reorienta: ja no és excelència *per al propi prestigi* sinó excel·lència *al servei dels altres*.
 
-## Senyals de l'alumne
+La **CG32** (1975) constitucionalitza aquest gir amb el cèlebre Decret 4: *"La nostra missió avui: el servei de la fe i la promoció de la justícia."* És un canvi de paradigma: el servei de la fe *inclou necessàriament* la promoció de la justícia. No es pot proclamar l'Evangeli sense treballar per les condicions que permeten a totes les persones viure amb dignitat. Aquesta afirmació genera tensions internes i externes, però la Companyia no l'abandona: la radicalitza.
 
-1. L'alumne pregunta "per què els jesuïtes teniu aquesta norma?" o "en què sou diferents d'altres escoles catòliques?".
-2. L'alumne de religió no catòlica o sense confessió mostra incertesa sobre si és benvingut al centre.
-3. L'alumne cita valors FJE (cura personalis, magis, servei) sense comprendre'n el significat profund.
-
-## Senyals de context
-
-- Procés d'inducció de nou professorat.
-- Revisió o actualització del Projecte Educatiu de Centre (PEC).
-- Sessió del consell pedagògic sobre missió institucional.
-- Debat públic sobre el model d'escola concertada o religiosa.
-- Preparació d'activitats de Setmana Ignasiana.
-
-## Anti-senyals (quan NO activar)
-
-- No activar quan la consulta és sobre tàctiques didàctiques concretes sense dimensió identitària: en aquest cas, els documents de metodologia activa o del PPI són més pertinents.
-- No usar per resoldre conflictes normatius puntuals: la identitat ignasiana no és un reglament de disciplina.
+**Frase clau del moment:** *"El jesuïta d'avui és un home la missió del qual consisteix a lliurar-se totalment al servei de la fe i la promoció de la justícia, en comunió de vida, treball i sacrifici amb els companys que s'han congregat sota el mateix Esperit."* (CG32, Decret 4)
 
 ---
 
-# 4. HEURÍSTIQUES I RAONAMENT PER A L'AGENT
+### MOMENT 3 (1986-1993): La sistematització — ICAJE i el PPI
 
-## H1 — Connecta la identitat amb la pràctica quotidiana, no amb els actes especials — DOCENT
+Dues dècades de "gir profètic" demanen sistematització. El 1986, la Comissió Internacional per a l'Apostolat de l'Educació Jesuïta (ICAJE) publica les **Característiques de l'educació a la Companyia de Jesús**: el primer document que defineix de manera orgànica les trets que fan jesuïta una escola. No és un codi normatiu sinó un *mirall* que permet als centres reconèixer-se i avaluar-se.
 
-**Quan aplica:** El docent pregunta com "viure la identitat ignasiana" a la seva classe.
+El 1993, el mateix ICAJE publica la **Pedagogia Ignasiana: un plantejament pràctic (PPI)**, que operacionalitza el mètode: el cicle *context – experiència – reflexió – acció – avaluació* com a dinàmica de tot aprenentatge ignasià. El PPI és la traducció pedagògica dels Exercicis Espirituals: just com Ignasi acompanya el retreiant a través d'un cicle d'experiència i discerniment, el docent ignasià acompanya l'alumne a través d'un cicle d'experiència, reflexió i transformació.
 
-**Fonament:** L'ICAJE i el Caràcter Propi insisteixen que la identitat no és un vestit que es posa en dies festius sinó una manera de ser i fer permanent. La CG34 urgia que els principis del documents "deben inspirar las declaraciones de principios, orientaciones, programas pedagógicos y todo el medio ambiente escolar" (Caràcter Propi, 1996).
+Kolvenbach, com a Pare General, insistirà en una clau de lectura essencial: les Característiques i el PPI no defineixen *el* model jesuïta d'escola, sinó que ofereixen un marc de discerniment que cada centre ha d'encarnar en el seu context concret. No hi ha una escola jesuïta universal: hi ha escoles jesuïtes que comparteixen una mateixa espiritualitat i un compromís comú amb la missió.
 
-**Exemple:** Una professora d'educació física de 2n d'ESO vol integrar la identitat ignasiana a la seva àrea. En lloc de buscar activitats "religioses", identifica que el magis es pot treballar com a esforç personal per superar-se, que la cura personalis es concreta en adaptar les activitats a les capacitats reals de cada alumne i que la reflexió post-acció (del PPI) es pot fer en forma d'un minut de silenci i escriptura al final de cada sessió sobre "què he après avui de mi mateix/a". La identitat no desplaça el contingut curricular: l'ennobleix dotant-lo d'una dimensió formativa que va més enllà del domini tècnic. Al trimestre, l'alumnat constata que les classes d'educació física serveixen per a coses més profundes que córrer i saltar.
-
----
-
-## H2 — Diferencia clarament entre identitat cristiana i imposició confessional — DOCENT
-
-**Quan aplica:** El docent té alumnes de diverses confessions i no sap com gestionar activitats de la identitat del centre.
-
-**Fonament:** El Caràcter Propi (1996) i els Identificadors Globals (*Una Tradició Viva*, 2019) expliciten que les escoles jesuïtes estan compromeses a ser catòliques "en diàleg amb altres religions i visions del món" (IG #1). Diàleg implica acollida genuïna, no tolerància condescendent.
-
-**Exemple:** En un grup de 4t d'ESO hi ha alumnes musulmans, agnòstics i catòlics. El tutor prepara la Setmana Ignasiana. En lloc de dissenyar activitats d'espiritualitat catòlica exclusiva, proposa una activitat de "preguntes profundes" on cadascú —des de la seva tradició o des de la seva no-creença— es fa les preguntes que Ignasi va fer: "Per a qui sóc? Quin és el sentit del que faig? Quin món vull construir?" Les preguntes ignasianes transcendeixen les confessions perquè toquen l'arrel de la condició humana. L'alumna musulmana viu l'activitat des de la seva fe; l'alumne agnòstic des de la seva recerca racional; tots dos han treballat la mateixa dimensió formativa des de la seva autenticitat.
+**Frase clau del moment:** *"El veritable objectiu dels nostres centres d'ensenyament —millor diríem d'educació— és el que és específicament humà i cristià: no només transmetre continguts sinó formar persones."* (Arrupe, parafrasejat per Kolvenbach en la tradició del periode)
 
 ---
 
-## H3 — Usa el Caràcter Propi com a marc en conflictes de valors institucionals — DOCENT
+### MOMENT 4 (2012-2017): La xarxa global — Missió compartida
 
-**Quan aplica:** Sorgeix un conflicte entre els interessos d'una família, una decisió de centre i els valors institucionals.
+El cicle de discerniment educatiu mundial comença amb el **Col·loqui de Boston (2012)**, continua amb el **SIPEI de Manresa (2014)** i culmina al **JESEDU-Rio (2017)**. Per primera vegada, la missió educativa es pensa globalment: una xarxa de 1.700 centres en 5 continents, amb mil·ions d'alumnes, és un instrument apostòlic d'enorme potencial si actua de manera coordinada.
 
-**Fonament:** El Caràcter Propi (1996) estableix la identitat del centre amb caràcter normatiu per a tots els membres de la comunitat educativa. Inclou seccions sobre drets de l'alumnat, relació amb les famílies i la comunitat educativa participativa.
+Al JESEDU-Rio, el P. General Arturo Sosa reformula la missió amb una nova síntesi que el farà seva: l'educació jesuïta al servei de la *"formació d'un ésser humà reconciliat amb els seus semblants, amb la creació i amb Déu"*. Tres reconciliacions que ressonan amb les tres dimensions del Decret 1 de la CG36 (2016): reconciliació amb Déu, amb els humans i amb la creació. La **CG36** consolida el vocabulari de la reconciliació i reafirma que la Companyia és una *"mínima Companyia"* —petita, humil, col·laboradora— que no actua sola sinó en xarxa amb tots els homes i dones de bona voluntat.
 
-**Exemple:** Una família demana que el seu fill quedi exempt de totes les activitats que tinguin component "religiós". El director pedagògic revisa el Caràcter Propi i explica que les activitats de reflexió ignasiana no són actes de culte sinó activitats formatives que el centre ofereix com a part del seu projecte educatiu. Proposa una conversa per distingir entre actes litúrgics (opcionals per a no catòlics) i activitats formatives de la identitat del centre (part del projecte educatiu). La resolució respecta la consciència de l'alumne sense liquidar la identitat del centre.
-
----
-
-## H4 — Explica els documents fundacionals de manera accessible — ALUMNE
-
-**Quan aplica:** El docent nouvingut o l'alumne curiós vol entendre "qui és la Companyia de Jesús" i en quin marc opera FJE.
-
-**Fonament:** L'ICAJE (1986) és el document marc, però és llarg i tècnic. Kolvenbach el descriu com "una visió compartida" que es concreta en cada centre. Una bona explicació combina la "gran narrativa" (Ignasi, tradició de 500 anys) amb la concreció local (FJE, centres catalans).
-
-**Exemple:** En una sessió d'acollida de nou professorat, el cap d'estudis presenta tres documents en dos fulls: (1) les 5 paraules clau de l'ICAJE (missió, excel·lència, fe, justícia, acompanyament), (2) els 3 pilars del Caràcter Propi (identitat, alumne integral, comunitat), (3) les 4 PAU 2019-2029 com a brúixola actual. Dedica 20 minuts a la lectura en grups i 30 a la discussió sobre "com es veu cadascun d'aquests elements en la nostra escola avui?". El resultat no és un test de coneixements sinó una conversa que inicia el professorat nouvingut en la cultura de discerniment del centre.
+**Frase clau del moment:** *"Una pedagogia al servei de la formació d'un ésser humà reconciliat amb els seus semblants, amb la creació i amb Déu."* (Sosa, JESEDU-Rio 2017)
 
 ---
 
-## H5 — Vincula identitat amb innovació pedagògica — DOCENT
+### MOMENT 5 (2019-present): Tradició viva — Fe, diàleg i ecologia
 
-**Quan aplica:** El centre debat si un projecte innovador és "compatible" amb la identitat ignasiana.
+**Una Tradició Viva (2019)** és el document més recent del Secretariat d'Educació que sintetitza cinc segles en un marc contemporani: les cinc dimensions de l'educació jesuïta (apostòlica, ignasiana, catòlica, humanista i universal). No substitueix les Característiques ni el PPI: els llegeix des del present.
 
-**Fonament:** L'ICAJE i el Caràcter Propi no prescriuen metodologies: prescriuen finalitats. Qualsevol metodologia és ignasiana si promou la persona integral, el compromís amb la justícia, la relació personal i el discerniment.
+Les **PAU 2019-2029** ofereixen l'orientació apostòlica de conjunt per a la dècada: EE i discerniment (A), pobres (B), joves (C), Casa Comuna (D). Les escoles jesuïtes no les reben com a llista de projectes sinó com a brúixola de discerniment per revisar el propi apostolat.
 
-**Exemple:** El claustre debat la incorporació de la IA com a eina habitual. Alguns docents temen que "despersonalitzi" l'educació. El director pedagògic convoca una sessió on la pregunta no és "podem usar IA?" sinó "com podem usar IA de manera ignasiana?". Es generen criteris: (a) la IA no substitueix la relació personal docent-alumne (cura personalis); (b) l'ús de la IA s'ha de reflexionar críticament (dimensió crítica del PPI); (c) si la IA facilita que els docents tinguin més temps per acompanyar els alumnes, és un instrument al servei de la missió. El resultat és un protocol d'ús de la IA que és un marc de discerniment ignasià aplicat.
+El **JESEDU-Jogja2024** afegeix la pregunta que marcarà la propera dècada: *"Que significa educar per a la fe al segle XXI?"* En un context de secularització, pluralisme religiós i canvi cultural accelerat, la missió de transmetre la fe demana noves formes. El document alerta contra la temptació de *"eliminar Déu de les pràctiques i valors jesuïtes i substituir-lo per valors seculars vestits de llenguatge ignasià"* — un risc real en contextos occidentals secularitzats.
 
-## Heurístiques per a l'Agent ALUMNE
-
----
-
-## H6 — Connecta la identitat del centre amb les preguntes vitals de l'alumne — ALUMNE
-
-**Quan aplica:** L'alumne pregunta "per a què serveix tot això" en un context de reflexió sobre el sentit de l'educació o de la vida.
-
-**Fonament:** La identitat ignasiana no és patrimoni exclusiu dels adults: és una invitació a l'alumne a fer-se les preguntes que Ignasi va fer. La cura personalis es concreta en ajudar cada alumne a descobrir qui és i per a qui vol ser.
-
-**Exemple:** En una tutoria de 2n de batxillerat, un alumne manifesta que estudia "pel títol" i no troba sentit en el que fa. El tutor li pregunta: "Si poguessis dissenyar el teu propi camí, per a quin propòsit el dissenyaries? Qui voldries que se'n beneficiés?" Usa les preguntes ignasianes del discerniment sense mencionar Ignasi. L'alumne reflexiona sobre la diferència entre el que vol fer i el que vol ser. El tutor li proposa llegir un fragment de *Samaritans, mestres i testimonis* (EDUCSI): "voldríem que els alumnes haguessin incorporat al seu equipatge vital una manera de mirar el món i de somiar la societat." L'alumne reconeix en aquella formulació quelcom que ressona amb el que busca.
+**Frase clau del moment:** *"Educar per a la fe no és un projecte entre d'altres: és el cor de la missió jesuïta, que s'expressa en el diàleg amb la cultura, amb altres religions i amb els pobres."* (JESEDU-Jogja2024, paràfrasi)
 
 ---
 
-## H7 — Respon les preguntes sobre la dimensió religiosa amb obertura i profunditat — ALUMNE
+## Els cinc trets identitaris persistents
 
-**Quan aplica:** L'alumne o les seves famílies pregunta sobre la dimensió catòlica del centre i si cal "ser creient".
+Al llarg de cinc segles d'evolució, cinc trets es mantenen constants, si bé es reformulen en cada època:
 
-**Fonament:** L'escola jesuïta proposa, no imposa. La identitat és una invitació al diàleg sobre les preguntes de sentit, no una exigència de professió de fe.
+**1. Apostolicitat.** L'escola no existeix per si mateixa: existeix al servei de la missió de l'Església i del bé de la humanitat. Cada decisió pedagògica, arquitectònica o de govern ha de poder respondre a la pregunta: *"Per a què i per a qui fem això?"*
 
-**Exemple:** Una família d'alumnes de nova matriculació, d'origen budista, pregunta si la seva filla haurà de fer "coses catòliques" que vagin contra la seva fe. El tutor explica que el centre celebra la fe catòlica com a part de la seva identitat, però que mai demana als alumnes ni a les famílies que abandoneixin les seves conviccions. Al contrari, el centre considera que tenir alumnes de diverses tradicions és un enriquiment. Explica la diferència entre les activitats litúrgiques (participació lliure per a no catòlics) i les activitats de reflexió i servei (universals, perquè la justícia social i la cura de la creació no pertanyen a cap religió exclusivament). La família marxa tranquil·la.
+**2. Cura Personalis.** El coneixement profund i l'acompanyament integral de cada persona. No és una tècnica: és una teologia de la singularitat humana.
+
+**3. Excel·lència al servei.** El *magis* ignasià no és perfeccionisme: és la cerca del "major servei diví i bé universal". L'excel·lència sense servei és arrogància; el servei sense excel·lència és paternalisme.
+
+**4. Fe i Justícia.** Des de la CG32, no hi ha fe jesuïta autèntica que no inclogui la promoció activa de la justícia. Ara reformulada com a "reconciliació i justícia" (CG36).
+
+**5. Discerniment com a mètode.** La Companyia no aplica receptes: discerneix. En cada context, en cada moment, en cada persona, la pregunta és: *"Quin és el major servei en aquestes circumstàncies concretes?"* El discerniment —personal, comunitari, institucional— és la metodologia que permet a la tradició ser viva i no morta.
+
+---
+
+# 2. EXEMPLES CONCRETS D'APLICACIÓ A L'AULA
+
+### Exemple 1 (Primària): La pregunta "per a qui?" en els projectes — Excel·lència al servei
+
+**Situació:** Un grup de 5è de Primària treballa un projecte sobre els ecosistemes locals. La tutora vol que no sigui un treball "per treure nota" sinó que tingui connexió amb la missió del centre.
+
+**Aplicació:** Al final del projecte, la tutora introdueix una sessió de reflexió on pregunta: *"Tot el que hem après sobre el nostre riu, per a qui serveix?"* Els alumnes discuteixen: podria servir per a l'Ajuntament, per als veïns del barri, per als nens de l'escola de primària propera. Decideixen fer una exposició per als alumnes de 3r. La pregunta *"per a qui?"* no és un afegit final: és la pregunta que il·lumina el sentit de tot l'aprenentatge. Aquesta és la lògica del moment 1 (apostolicitat fundacional): el saber no és un fi en si mateix sinó un instrument al servei del bé comú.
+
+### Exemple 2 (Secundària): Llegir el context local des de la Fe i la Justícia — CG32 viva
+
+**Situació:** Un grup de 2n d'ESO treballa una unitat sobre desigualtats econòmiques al seu barri. Alguns alumnes mostren actituds de distanciament: *"Aquests problemes no van amb mi."*
+
+**Aplicació:** El docent proposa un exercici inspirat en el discurs d'Arrupe a València: *"Hem estat educats per a la justícia?"* Els alumnes han de respondre dos qüestionaris: un sobre les seves condicions de vida i un sobre les dels veïns de la zona menys afavorida del barri. La reflexió posterior no és culpabilitzadora sinó interpel·ladora: *"Quin tipus de persona vols ser? Una que viu d'esquena als problemes o una que s'implica?"* L'objectiu no és que tots facin voluntariat: és que la pregunta sobre la justícia formi part del seu procés de construcció de la identitat personal. Aquí el docent actualitza el "gir profètic" d'Arrupe (moment 2) en un context contemporani.
+
+### Exemple 3 (Batxillerat/FP — PASSAREL·LA): Discerniment vocacional des de la missió reconciliadora
+
+**Situació:** Un alumne de PASSAREL·LA, que ha abandonat el sistema educatiu i ara reprèn els estudis, es pregunta si té sentit tornar a estudiar quan el mercat laboral de totes maneres no li ofereció el que esperava.
+
+**Aplicació:** El tutor activa un procés de discerniment ignasià (moment 5 — PAU A) que no respon amb arguments pragmàtics ("et guanyaràs millor la vida") sinó amb preguntes de primer ordre: *"En quin moment de la teva vida has sentit que estaves fent quelcom que tenia sentit? Qui et necessita? Quins problemes del món et mouen per dins?"* La connexió entre el retorn als estudis i la missió personal no és automàtica: demana acompanyament. Però el marc de la missió reconciliadora (Sosa, moment 4) és l'horitzó des del qual el tutor acompanya: l'objectiu no és que l'alumne "s'integri al mercat" sinó que descobreixi el seu lloc en una humanitat reconciliada. PASSAREL·LA no és un programa de reinserció: és un espai de discerniment vocacional per a joves que la societat ha descartat (PAU B i C en acció).
 
 ---
 
-## H8 — Ajuda l'alumne a entendre la tradició dels 500 anys com un recurs, no un pes — ALUMNE
+## Errors comuns (Què NO fer)
 
-**Quan aplica:** L'alumne percep la identitat ignasiana com un element "de pares" o "de capellans" aliè a la seva vida.
+**Congelar la identitat en un document.** Dir que "som jesuïtes perquè complim les Característiques del 1986" és tan parcial com dir que el Crist és el Jesús del 30 d.C. L'esperit ignasià és fidelitat creativa: en cada època, es pregunta de nou *"Quin és el major servei?"* Un centre que no es pregunta periòdicament si el seu model respon als reptes del present ha deixat de discernir i ha passat a administrar.
 
-**Fonament:** Cinc-cents anys de pedagogia jesuïta han generat mètodes i intuïcions que la recerca educativa contemporània confirma: aprenentatge experiencial, metacognició, acompanyament personal. La tradició és un fons de saviesa pedagògica que la ciència continua redescobrint.
+**Separar la fe de la justícia.** Des de la CG32, la separació entre "educació religiosa" (al·ludint a la fe) i "compromís social" (al·ludint a la justícia) és una dicotomia falsa. L'educació jesuïta no té un "departament de valors" al costat d'un "departament acadèmic": tota l'acció educativa és, alhora, transmissió de fe i promoció de justícia, o no és plenament jesuïta.
 
-**Exemple:** En una classe de Cultura i Valors de 3r d'ESO, la professora proposa un exercici: "Imagina que ets un inspector educatiu del 2523 i has de jutjar si les escoles del 2026 eren innovadores. Quines pràctiques trobaríeu valuoses?" Els alumnes citen l'acompanyament personal, el diàleg i la connexió entre estudi i vida com a trets "avançats". La professora els mostra que aquestes pràctiques ja eren al cor de la pedagogia jesuïta del segle XVI. La tradició deixa de ser "vella" i es converteix en una perspectiva que ha resistit cinc-cents anys perquè toca quelcom essencial de l'educació humana.
+**Usar el vocabulari ignasià sense la substància.** El risc identificat pel JESEDU-Jogja2024 és real: *"substituir Déu per valors seculars vestits de llenguatge ignasià"*. Parlar de *magis*, *discerniment* i *cura personalis* sense que aquests conceptes remetin a una relació real amb Déu i amb els pobres és un ús decoratiu del carisma que el buida de contingut.
+
+**Pensar la missió sense els pobres.** Des d'Arrupe, passant per la CG32 i les PAU B, la missió jesuïta s'orienta explícitament cap als "descartats del món". Un centre que mai no revisa si la seva política d'admissions, les seves quotes, la seva ubicació geogràfica o la seva cultura interna exclouen els pobres no pot reclamar plenament la identitat jesuïta.
 
 ---
+
+# 3. CONNEXIONS AMB ALTRES DOCUMENTS DEL CORPUS
+
+| Document | Connexió | Tipus |
+|---|---|---|
+| M0_PPI-paradigma-pedagogic-ignasia.md | El PPI (1993) com a operacionalització pedagògica del moment 3 d'aquest document | Obligatòria |
+| M0_preferencies-apostoliques-universals.md | Les PAU (2019) com a expressió contemporània del moment 5 | Obligatòria |
+| M0_cura-personalis.md | La Cura Personalis com a tret identitari persistent al llarg dels cinc moments | Obligatòria |
+| M0_magis-i-servei.md | El Magis com a criteri de discerniment en cada moment de l'evolució | Obligatòria |
+| M0_ciutadania-global-justicia.md | La "fe i justícia" (CG32, moment 2) com a arrel de la ciutadania global | Obligatòria |
+| M0_ledesma-kolvenbach.md | El paradigma Ledesma-Kolvenbach com a marc interpretatiu del moment 3 | Recomanada |
+| M0_identificadors-globals.md | Els identificadors globals com a eines operatives dels cinc trets identitaris | Recomanada |
+| M2_ABP-aprenentatge-servei.md | L'APS com a metodologia que activa el tret "excel·lència al servei" | Recomanada |
+| M7_espais-aprenentatge-interioritat.md | Els espais d'interioritat com a expressió del discerniment (moments 1 i 5) | Recomanada |
