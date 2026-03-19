@@ -6,6 +6,23 @@ descripcio: "Perfil, necessitats i estratègies d'acollida lingüística, cultur
 review_status: esborrany
 ---
 
+## Tensions de fons que habitem
+
+Aquest document ofereix eines pedagògiques, però se situa en una cruïlla que no es pot resoldre amb estratègies. Tres tensions travessen qualsevol treball amb alumnat nouvingut. Negar-les seria simplificar; reconèixer-les és condició per actuar amb honradesa.
+
+**Integrar o co-construir?**
+Quan parlem d'"integrar" l'alumne nouvingut, el centre de gravetat és implícit: "nosaltres", la norma existent, el sistema. La pregunta que emergeix és altra: i si la seva arribada ens crida a tots a construir junts alguna cosa nova? No incorporar-lo a "la nostra aula" sinó deixar que la seva presència la transformi.
+
+**Individual o estructural?**
+Les estratègies d'aquest document actuen sobre la persona: el docent adapta, l'alumne aprèn, la família es comunica. Però darrere de cada alumne nouvingut hi ha fenòmens estructurals —polítiques migratòries, desigualtat global, fronteres— que cap estratègia pedagògica pot resoldre. Tenir-ho present no paralitza l'acció; la situa en el seu lloc i n'evita la ingenuïtat.
+
+**"Nouvingut" o "migrant"?**
+El mot *nouvingut* és tècnic, neutral, pedagògic. El mot *migrant* porta en ell la política, la història, el cos que ha travessat una frontera. No hi ha una paraula correcta, però l'elecció no és innocent. Nomenar-les totes dues és una manera d'estar alerta davant el que cada vocabulari amaga.
+
+*Aquestes tensions no s'han de resoldre. S'han d'habitar.*
+
+---
+
 # 1. CONTINGUT
 
 ## Descripció del perfil
@@ -58,6 +75,7 @@ Les barreres que pot enfrontar l'alumnat nouvingut van molt més allà de la lin
 - Desconeixement dels rituals i convencions socials de l'escola.
 - Possible xoc cultural entre els valors familiars i els de l'escola.
 - Risc d'estigmatització o rebuig per part dels companys.
+- **Aporofòbia:** El rebuig que pateix l'alumne nouvingut sovint no és per ser estranger sinó per la intersecció de *pobresa + origen*. Treballar la diversitat cultural no és suficient si no s'aborda explícitament la discriminació per classe socioeconòmica.
 
 **Barreres emocionals i psicològiques:**
 - Dol migratori: pèrdua del context familiar, dels amics, del país.
@@ -70,6 +88,8 @@ Les barreres que pot enfrontar l'alumnat nouvingut van molt més allà de la lin
 - Possibles barreres d'accés dels pares a les comunicacions del centre (notes en català, reunions sense traducció).
 - Situació laboral precària dels progenitors que dificulta l'acompanyament escolar.
 
+> **Important:** La família nouvinguda no és únicament una barrera de comunicació. Darrere de cada família migrant hi ha una decisió estratègica complexa, xarxes de suport construïdes i un projecte vital sòlid. Tractar-la exclusivament com a "problema de comunicació" invisibilitza un capital que el centre pot i ha d'activar com a recurs.
+
 ### Fortaleses a aprofitar
 
 L'alumnat nouvingut porta un bagatge que sovint es tracta com a obstacle però que és, de fet, un recurs pedagògic extraordinari:
@@ -81,6 +101,8 @@ L'alumnat nouvingut porta un bagatge que sovint es tracta com a obstacle però q
 - **Habilitats acadèmiques no lingüístiques:** Matemàtiques, ciències, arts, esport, música — competències que no depenen de la llengua i que sovint superen la mitjana del grup.
 
 **Principi clau — La cultura d'origen com a referent:** La intervenció pedagògica més eficaç és aquella que usa la cultura d'origen de l'alumne nouvingut com a **punt de partida i referent constant**, no com a anècdota. Quan el mestre pregunta "a casa teva, com es fa?", quan el problema de matemàtiques es formula amb dades del país d'origen, quan la lectura del text es compara amb com es narraria en la seva cultura — en tots aquests casos, el nouvingut passa de ser "l'alumne que no sap" a ser "l'expert en la seva experiència". Aquesta inversió del rol és transformadora per a l'autoestima, la motivació i la connexió amb l'aprenentatge. La cultura d'origen no és un afegit puntual: és el fil conductor des del qual l'alumne teixeix la comprensió del nou context.
+
+**Principi ignasià — La classe com a comunitat de migrants:** Des de la perspectiva "Migrants som tots" (Companyia de Jesús, 2022), cap alumne és "l'excepció": si el grup explora els orígens familiars de tothom, sovint apareix que la majoria té avis o besavis que van migrar. Fer visible aquesta continuïtat transforma la dinàmica: el nouvingut deixa de ser l'estrany a integrar i es reconeix com a part d'una condició humana compartida. El docent no gestiona un "cas" sinó que facilita un reconeixement mutu que enriqueix el grup sencer.
 
 ### Necessitats prioritàries
 
@@ -132,6 +154,9 @@ L'alumnat nouvingut porta un bagatge que sovint es tracta com a obstacle però q
 | M7_participacio-families.md | La implicació de les famílies nouvingudes en el centre | Obligatòria |
 | M9_normativa-llengua-escola.md | El marc legal que regula l'ús del català a les escoles i els drets lingüístics de l'alumnat nouvingut | Condicional |
 | M9_protocols-atencio-diversitat.md | Els protocols específics d'atenció a l'alumnat nouvingut | Obligatòria |
+| M0_cura-personalis.md | L'acollida de l'alumne nouvingut com a realització concreta de la Cura Personalis: atenció integral a la persona en la seva singularitat cultural, emocional i vital | Condicional |
+| M0_ciutadania-global-justicia.md | La migració com a fenomen de justícia global que demana una resposta educativa des de la missió ignasiana | Condicional |
+| M0_identitat-missio-valors.md | La tradició ignasiana d'hospitalitat (PAU 2a, Servei Jesuïta als Refugiats) com a fonament del model d'acollida FJE | Condicional |
 
 ---
 
@@ -246,6 +271,16 @@ L'alumnat nouvingut porta un bagatge que sovint es tracta com a obstacle però q
 
 ---
 
+## H9 L'encontre transforma el grup — DOCENT
+
+**Quan aplica:** Quan arriba un alumne nouvingut i el docent ha de decidir si tracta la incorporació com un "cas individual" a gestionar o com una oportunitat de transformació del grup sencer.
+
+**Fonament:** La perspectiva ignasiana de l'hospitalitat sosté que "en la trobada tots i totes som transformats" (Companyia de Jesús, 2022). Quan el docent aborda l'arribada d'un nouvingut exclusivament com a problema logístic i lingüístic, perd l'oportunitat pedagògica més profunda: fer visible la condició migratòria compartida de tot el grup. La recerca en pedagogia intercultural mostra que les aules on tothom reflexiona sobre els propis orígens generen climes de pertinença significativament més alts que les aules on s'aïlla el cas del nouvingut.
+
+**Exemple (≥80 paraules):** Quan arriba el Khalil, de 11 anys, procedent de Síria, la tutora Montse no anuncia que "tenim un alumne nou que no parla català". En canvi, organitza una activitat d'una sessió on cada alumne pregunta a casa seva: "D'on venen els nostres avis o besavis?". L'endemà comparteixen: la mare del Pau va venir d'Andalusia als anys 70, els avis de la Laia eren asturians, la família de la Maria va arribar de Romania fa deu anys. De 22 alumnes, 16 tenen alguna arrel migratòria recent o llunyana. Quan el Khalil comparteix la seva història, ja no és "l'estrany": és el membre del grup amb la migració més recent, en una comunitat que porta la migració en l'ADN. El canvi en la dinàmica de grup és immediat i durador: el nouvingut deixa de ser objecte d'acollida i es converteix en subjecte d'una història compartida.
+
+---
+
 ### Fonts i referències
 
 - Coelho, E., Oller, J., & Serra, J. M. (s.d.). *Más allá del primer contacto: ¿cómo dar la bienvenida a los estudiantes inmigrantes y a sus familias?* Consello da Cultura Galega.
@@ -256,6 +291,7 @@ L'alumnat nouvingut porta un bagatge que sovint es tracta com a obstacle però q
 - Cummins, J. (1984). *Bilingualism and Special Education: Issues in Assessment and Pedagogy*. Multilingual Matters.
 - Llei 12/2009, del 10 de juliol, d'educació. Generalitat de Catalunya.
 - Convenció sobre els Drets de l'Infant (ONU, 1989).
+- Equip de Migracions, Companyia de Jesús — Província d'Espanya (2022). *Migrants som tots. Construir una cultura de l'hospitalitat al servei d'una societat comuna.*
 
 ### Fonts del corpus scraped
 
