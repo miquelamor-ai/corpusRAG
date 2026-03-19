@@ -1,195 +1,175 @@
 ---
-titol: "Cura Personalis"
-modul: M0
-tipus: marc
-etiquetes: [cura-personalis, persona-integral, tutoria, acompanyament, benestar]
-descripcio: "Cura Personalis — atenció integral a la persona com a eix de la missió educativa FJE: dimensió espiritual, emocional, intel·lectual i social"
-review_status: esborrany
+títol: "0.2_Cura_Personalis"
+mòdul: 0
+etiquetes: [cura personalis, acompanyament, personalització, discreta caritat, pedagogia ignasiana]
+fonts: ["Comissió Internacional (1986). Característiques de l'educació a la Companyia de Jesús.", "Comissió Internacional (1993). Pedagogia Ignasiana. Un plantejament pràctic.", "Comissió Internacional (2019). Escoles Jesuïtes: Una Tradició Viva al Segle XXI.", "Charmot, F. (1952). La Pedagogía de los Jesuitas.", "Sacchini, F. (1625). Protrepticon ad Magistros.", "Jesuïtes Educació (2023). Per a qui sóc jo? Cap a una cultura vocacional."]
+estat: revisat
 ---
 
-# 1. CONTINGUT
+# 1. FONAMENT TEÒRIC
 
-## Definició i principis
+## Definició i Principis
 
-La Cura Personalis és un dels principis fonamentals de la tradició educativa jesuïta. Literalment significa "cura de la persona" en llatí, i en el context de la FJE designa l'atenció integral, personalitzada i profunda que cada docent, tutor i centre ha de tenir envers cada alumne com a individu únic i irrepetible. No és un complement afegit al treball acadèmic: és la condició que fa possible que l'aprenentatge sigui genuí i que la persona creixi en la seva totalitat.
+La *cura personalis* (cura de la persona) no és una simple "atenció individualitzada" ni un servei de tutoria tècnica. Representa l'eix vertebrador de tota la pedagogia ignasiana: una antropologia que reconeix cada alumne com un subjecte únic, irrepetible i capaç de creixement. L'acció educativa no és una transferència d'informació sinó una trobada entre llibertats on el mestre actua com a guia que "deixa obrar el Creador amb la criatura".
 
-La Cura Personalis arrenca dels Exercicis Espirituals d'Ignasi de Loiola, en els quals el director espiritual adapta el seu acompanyament a la historia concreta, els moviments interiors i les necessitats específiques de cada exercitant. Ignasi no concep una guia espiritual genèrica: el que importa és aquella persona, amb el seu passat, les seves pors, els seus desitjos i el seu moment vital. Aquesta mateixa lògica es trasllada a l'aula: el docent jesuïta no ensenya "la classe" sinó cadascú dels alumnes que hi ha a la classe.
+### Principis fonamentals
 
-En termes pràctics, la Cura Personalis implica cinc dimensions que s'han d'atendre simultàniament:
+**Coneixement exhaustiu del subjecte.** Ignasi de Loiola, a les *Constitucions*, estableix que cal procedir segons "temps, llocs i persones". Per a un agent educatiu, això implica que cap intervenció és vàlida si no considera el context multidimensional de l'alumne: familiar, emocional, intel·lectual i espiritual. No hi ha receptes universals.
 
-**1. Dimensió intel·lectual** — Conèixer el nivell de comprensió real de l'alumne, els seus estils d'aprenentatge, les seves fortaleses cognitives i les seves dificultats específiques. Adaptar el ritme, el tipus d'activitat i el tipus de suport a cada alumne.
+**Integritat de la persona.** La *cura personalis* rebutja el reduccionisme acadèmic. S'ocupa de la salut física, l'equilibri afectiu i la profunditat espiritual. Com afirma *Una Tradició Viva* (2019), educar el cap sense educar el cor és un fracàs pedagògic. L'educador no és un tècnic que transmet continguts sinó un acompanyant que ajuda l'alumne a descobrir-se com a projecte de futur.
 
-**2. Dimensió emocional** — Saber com es troba l'alumne: les seves tensions, els seus moments de crisi, les seves alegries. No per fer teràpia, sinó per poder acompanyar amb realisme. Un alumne que viu un dol familiar o una ruptura d'amistat no pot ser tractat com si res no passés.
+**La dialèctica entre Cura Personalis i Cura Apostolica.** Aquesta és la tensió central del marc. Mentre la *cura personalis* mira el bé de l'individu, la *cura apostolica* mira el bé de la missió i de la comunitat. Un docent ignasià no cuida l'alumne perquè es tanqui en si mateix, sinó perquè esdevingui un "home o dona per als altres". El creixement personal està finalitzat en el servei.
 
-**3. Dimensió social** — Comprendre la posició de l'alumne en el grup: si és integrat o aïllat, si té referents positius entre els iguals, si pateix o exerceix dinàmiques de poder negatives.
+**Discreta Caritat.** És el criteri mestre per aplicar el marc. Significa amor intel·ligent i ponderat. La *cura personalis* de vegades exigeix fermesa o "correcció fraterna" per ajudar l'alumne a vèncer els seus propis bloquejos. Sacchini descriu l'educador com un *divini caelator* (cizelador diví): algú que esculpeix amb delicadesa, no un verdugo que colpeja la norma. La diferència entre els dos és la caritat — sense ella, el mètode esdevé una mecànica buida.
 
-**4. Dimensió física** — Atendre les condicions de salut, son, alimentació i activitat física que afecten la capacitat d'aprenentatge i benestar. En adolescents, la privació de son és un factor que altera radicalment el rendiment i l'estat emocional.
+**L'educador com a testimoni.** Autors com Bonifacio i Sacchini subratllen la paradoxa de la vocació educativa: persones de talent que renuncien a posicions de prestigi per dedicar-se al treball humil de l'acompanyament. Aquesta "segona puresa" — el sacrifici del propi ego — és el que transforma el magisteri en paternitat/maternitat espiritual. Charmot adverteix contra el "magisteri mercenari": el docent que compleix un horari sense comprometre la seva pròpia vida en el procés.
 
-**5. Dimensió espiritual (o de sentit)** — En termes no confessionals: atendre les preguntes de sentit de l'alumne. Qui sóc? Què vull? Per a què visc? Quins valors orienten les meves decisions? Aquesta dimensió no és exclusiva dels alumnes creients: tothom necessita trobar sentit al que fa i a qui és.
+**Plasticitat i responsabilitat.** L'alumne, especialment en les primeres etapes, posseeix una plasticitat única — els hàbits gravats aviat persistiran tota la vida. Per tant, l'acció pedagògica ha de combinar fermesa en els costums i dolcesa en el tracte. L'educador no actua en nom propi sinó com a facilitador perquè l'alumne trobi la seva pròpia inclinació natural cap al bé.
 
-La Cura Personalis no és possible sense un coneixement real de cada alumne. Ignasi ho formulava com a "conocer a cada uno": saber el nom, la història, la situació familiar, les aficions, els projectes, les dificultats. Això exigeix temps, presència i una relació de confiança que no es construeix amb eines sinó amb actitud.
+## Exemples Concrets d'Aplicació a l'Aula
 
-La recerca actual en educació recolza la Cura Personalis des de diverses tradicions: la psicologia positiva de Martin Seligman (model PERMA de benestar: Positive emotions, Engagement, Relationships, Meaning, Achievement), l'aprenentatge socioemocional (SEL, CASEL), la neuroeducació (l'emoció com a condició de l'aprenentatge, Francisco Mora) i l'educació inclusiva (personalització com a dret de tots els alumnes, no únicament dels que presenten necessitats especials).
+### Exemple 1 (Primària): El trànsit del MOPI al PIN
 
-## Autors i evidència clau
+**Situació:** Un alumne de 1r de Primària mostra una forta regressió en l'autonomia, plorant al matí i negant-se a participar en els Nodes d'Aprenentatge.
 
-- **Ignasi de Loiola** — *Exercicis Espirituals* (1548). El principi original del "conocer a cada uno" com a fonament de l'acompanyament personalitzat.
-- **Peter-Hans Kolvenbach, SJ** — Múltiples discursos sobre la missió educativa jesuïta que emfatitzen l'atenció a la persona sencera, no al rendiment acadèmic.
-- **CASEL (Collaborative for Academic, Social, and Emotional Learning)** — Marc SEL que documenta l'impacte de l'aprenentatge socioemocional sobre el rendiment acadèmic i el benestar a llarg termini (meta-anàlisi de Durlak et al., 2011: +11 punts en rendiment acadèmic en programes SEL).
-- **Martin Seligman** — *Flourish* (2011). Model PERMA de benestar que coincideix amb les dimensions de la Cura Personalis en subratllat la necessitat d'atendre les relacions, el sentit i el compromís, no únicament els assoliments.
-- **Francisco Mora** — *Neuroeducación* (2013). L'emoció com a porta d'entrada al coneixement: sense activació emocional positiva no hi ha atenció, i sense atenció no hi ha aprenentatge.
-- **FJE — Model d'Orientació i Tutoria** — Document intern que operacionalitza la Cura Personalis en el sistema de tutoria dels centres jesuïtes.
+**Aplicació:** El docent no activa només un protocol disciplinari. Primer, realitza una "investigació de context" (PPI): parla amb els educadors d'infantil i la família per entendre si hi ha canvis a la llar. Descobreix que l'alumne se sent aclaparat per l'espai gran de l'aula de primària. La *cura personalis* es concreta creant un "espai de seguretat" on l'alumne pot estar deu minuts abans d'iniciar el repte del node. El tutor l'acompanya ajudant-lo a nomenar la seva por i validant la seva emoció abans d'exigir-li el treball cooperatiu. Aquí la cura és dolcesa de qui amassa cera sense trencar-la — aprofitar la plasticitat de l'infant per transformar la por en confiança.
 
-## Exemples concrets d'aplicació a l'aula
+### Exemple 2 (Secundària): La refracció en el Projecte TQE
 
-**Tutoria individual a 3r ESO:** El tutor es reuneix deu minuts amb cada alumne una vegada per trimestre (no per resoldre un problema, sinó per parlar de com va tot). Li pregunta per les assignatures que troba més dures, per la seva vida social al centre, per algun projecte personal que tingui. Aquesta conversa no és un tràmit administratiu: és el moment en què el tutor actualitza el seu coneixement de l'alumne i transmet que és important per ell o ella com a persona.
+**Situació:** Una alumna de 3r-4t d'ESO amb altes capacitats però gran desmotivació social es nega a participar en un projecte d'Aprenentatge i Servei (APS) amb persones sense llar.
 
-**Adaptació dins l'aula ordinària (1r ESO):** Un docent detecta que una alumna que normalment participa ha deixat de fer-ho en les darreres dues setmanes. No ho interpreta com a desinterès i no li baixa la nota de participació. Li pregunta en privat com es troba. Descobreix que hi ha hagut una situació familiar difícil. Comunica al tutor, que coordina una resposta de suport. L'alumna no cau per les escletxes del sistema perquè algú l'ha vista.
+**Aplicació:** El professor no l'obliga a fer la tasca externa d'entrada. Utilitza la Prelecció per plantejar preguntes que toquin la seva pròpia experiència de solitud. A través d'un diari de reflexió, li proposa un rol que aprofiti el seu talent (crear un sistema de dades per a una ONG). La *cura personalis* reconeix el seu enginy i inclinació però la "doblega" (refracció) cap a la compassió. El talent és un do que ha de trobar sentit en el servei als altres.
 
-**Cura Personalis en l'avaluació:** En lloc de retornar un examen amb una nota i prou, el docent escriu una frase personalitzada per a cada alumne: "Has millorat molt en la part de síntesi. Et recomano que dediquis temps a les demostracions." Això és Cura Personalis aplicada a l'avaluació: el feedback és per a aquell alumne concret, no per a una classe abstracta.
+### Exemple 3 (Batxillerat/FP): El Projecte Vital i Vocacional
 
-## Errors comuns (què NO fer)
+**Situació:** Un estudiant de Cicle Superior d'FP vol abandonar els estudis perquè ha rebut una oferta de feina precària però immediata.
 
-- **Reduir la Cura Personalis a suport emocional i oblidar el repte intel·lectual:** La cura de la persona inclou exigir-li que creixi intel·lectualment. Un docent que "protegeix" l'alumne d'activitats difícils perquè "no passa bé" no practica la Cura Personalis: li nega la possibilitat de créixer.
-- **Tractar tots els alumnes de manera idèntica "en nom de la igualtat":** Igualtat de tracte no és equitat. Donar el mateix a tothom quan les necessitats són diverses no és just: és uniformitat. La Cura Personalis exigeix precisament el contrari: que cada alumne rebi el que necessita.
-- **Confondre la Cura Personalis amb el paternalisme:** Cuidar no vol dir decidir per l'alumne ni protegir-lo de tota dificultat. La cura autèntica respecta l'autonomia creixent de la persona i l'acompanya cap a la llibertat, no cap a la dependència.
-- **Limitar-la a la relació tutor-alumne:** La Cura Personalis no és responsabilitat exclusiva del tutor. Cada docent, en cada assignatura, ha de practicar-la. Un professor de matemàtiques que sap que un alumne viu una situació difícil i ho té en compte en com se li dirigeix, també practica la Cura Personalis.
-- **No documentar ni compartir el coneixement de l'alumne:** La Cura Personalis requereix coordinació d'equip. Si cada docent té informació de l'alumne però no la comparteix amb el tutor o l'orientador, l'atenció es fragmenta i l'alumne pot rebre missatges contradictoris.
+**Aplicació:** L'orientador no fa un sermó moralista. Activa una conversa de discerniment on l'eix és la pregunta "Per a qui sóc jo?". Ajuda l'alumne a "mirar pel retrovisor" dels darrers anys: en quins moments ha sentit consolació (sentit de vida) vs desolació (buidor del consumisme). La *cura personalis* aquí és acompanyar el discerniment entre el "bé" (el sou ràpid) i el "millor" (la seva formació per a un servei més universal en el futur). No decideix per ell — respecta la seva llibertat.
 
-## Matissos i excepcions
+## Errors Comuns (Què NO fer)
 
-La intensitat de la Cura Personalis ha d'adaptar-se a l'etapa. En educació infantil, es manifesta en la relació física, en el nom que es diu amb afecte, en el coneixement de les rutines de cada nen o nena. En secundària, es manifesta en el respecte a la intimitat de l'adolescent i en la capacitat d'estar disponible sense ser intrusiu. En batxillerat, la Cura Personalis inclou ajudar l'alumne a construir el seu propi projecte vital i vocacional.
+**Error 1: Confondre Cura amb Proteccionisme.** El docent evita que l'alumne s'enfronti al fracàs per "no fer-lo patir". La pedagogia ignasiana veu l'error com una oportunitat de creixement i la frustració com un element necessari per enfortir la voluntat. Una *cura personalis* sense exigència no és ignasiana — és negligència afectiva. Sacchini adverteix: el cizelador ha de ser ferm perquè esculpeix matèria que resisteix.
 
-La Cura Personalis no implica que el docent sigui el terapeuta de l'alumne. Quan les necessitats emocionals o psicològiques superen la capacitat de l'acompanyament educatiu ordinari, el docent ha de derivar als serveis d'orientació i psicopedagogia. Saber els límits del propi rol és part de la Cura Personalis.
+**Error 2: Reduir la Cura al pla psicològic.** Tractar el malestar de l'alumne com si només fos una qüestió de "salut mental" (psiquiatrització), oblidant la dimensió espiritual i de sentit. Molts problemes d'atenció o desànim brollen d'una falta d'horitzó vocacional. El "magisteri mercenari" de Charmot — que separa el saber de la saviesa — contribueix a aquest buit.
 
----
+**Error 3: Usar la Cura com a eina de manipulació.** Utilitzar la informació personal que l'alumne dóna en confiança per forçar una decisió que convé al centre. Ignasi adverteix a l'Anotació 15 que el docent s'ha d'estar com la "llengüeta d'una balança", respectant la llibertat sagrada de l'alumne en la seva relació amb la veritat. El distanciament emocional disfressat de dignitat jeràrquica impedeix la comunió de vida necessària per a la transformació.
 
-# 2. CONNEXIONS AMB ALTRES DOCUMENTS DEL CORPUS
+## Matissos i Excepcions
 
-| Document | Tipus de connexió | Quan activar conjuntament |
-|---|---|---|
-| M0_PPI-paradigma-pedagogic-ignasia | Marc pedagògic | Quan es dissenya una seqüència d'aprenentatge que vol atendre la diversitat d'alumnes |
-| M0_magis-i-servei | Complementari | Quan l'acompanyament personal s'orienta cap al descobriment de la vocació de servei |
-| M0_excellencia-humana-4C | Marc avaluatiu | Quan es vol valorar el creixement integral de la persona més enllà de les notes |
-| M0_ciutadania-global-justicia | Ampliant | Quan la Cura Personalis s'estén a la consciència de la responsabilitat social de cada alumne |
-| M0_ecologia-integral | Contextual | Quan el benestar de l'alumne s'analitza en relació amb el seu entorn físic i comunitari |
+**Quan canvia l'enfocament:** El marc de la *cura personalis* mai "no aplica", però el seu enfocament canvia radicalment quan l'individu amenaça el bé comú. Si un alumne exerceix abús o violència, la *cura personalis* de la víctima (que exigeix protecció immediata i entorns segurs) preval sobre el procés d'acompanyament de l'agressor, el qual requereix llavors una "cura" en forma de límit clar i sanció formativa.
 
-**Co-activació recomanada:** Quan un tutor pregunta com estructurar l'acompanyament d'un alumne en dificultat, activar M0_cura-personalis com a marc de valors i M0_PPI com a estructura de procés per dissenyar les converses i les intervencions.
+**Límits de la competència:** L'educador no és un psicoterapeuta. La *cura personalis* té el límit de la competència professional. Davant patologies greus, la cura consisteix precisament a derivar a professionals externs — no danyar amb una bona intenció inexperta.
 
----
+**Tensió norma-persona:** Quan la normativa oficial entra en conflicte amb el bé de l'alumne concret, la *cura personalis* no justifica saltar-se la llei, però sí obliga a cercar la flexibilitat dins del marc legal. La Ratio és un organisme viu, no lletra morta.
+
+
+# 2. CONNEXIONS AMB ALTRES MARCS
+
+| Mòdul relacionat | Relació |
+|---|---|
+| **M0 - Identitat/Missió (PPI)** | La cura és el "mode de procedir" ignasià. Sense ella, la missió esdevé burocràcia. L'educació s'entén com un ministeri de col·laboració amb la transformació del món. |
+| **M1 - Subjecte/Alumnat** | Defineix l'alumne com un ésser únic i capaç, no com una dada estadística. La cura exigeix conèixer la seva singularitat irrepetible (context familiar, emocional, cultural). |
+| **M2 - Mètode/DUA** | El DUA és la *cura personalis* estructural: dissenyar per a la diversitat abans que aparegui la dificultat. L'adaptació ha de ser preventiva, no un "pegat" reactiu. |
+| **M3 - Llengua** | Per a alumnat nouvingut, la cura es concreta en respectar la llengua d'origen com a part de la identitat, oferir bastimentatge lingüístic i no reduir la persona a la seva barrera idiomàtica. |
+| **M4 - Marc Legal** | La cura s'eleva a rang legal en els protocols de protecció d'infants i entorns segurs. Tensió entre flexibilitat ignasiana i compliment normatiu. |
+| **M5 - Tecnopedagogia** | La IA i el software adaptatiu han de servir per personalitzar, no per aïllar. La tecnologia és un instrument de la cura, no un substitut. |
+| **M6 - Avaluació** | L'avaluació ha de ser formadora: un moment de diàleg mestre-alumne sobre el propi procés. Es mesura el creixement integral, no només l'adquisició de dades. |
+| **M7 - Entorn/Convivència** | La cura del clima d'aula és cura de les persones. La "conversió de la mirada" cap al món ferit connecta la cura personal amb la cura del planeta (Laudato si'). |
+
+Quan l'agent activi aquest marc, també ha de consultar: `0.1_PPI`, `0.3_Magis_i_Servei`, `0.9_Educador_Samarita`, `0.10_Cultura_Vocacional`, `0.11_Acompanyament_i_Tutoria`.
+
 
 # 3. DETECCIÓ (Variables de Context)
 
-## Senyals del docent
+## Senyals del Docent
 
-1. El docent parla d'un alumne concret i expressa preocupació pel seu benestar o la seva evolució personal.
-2. El tutor pregunta com estructurar les tutories individuals o grupals.
-3. El docent demana com atendre la diversitat de l'aula sense "perdre el fil" del programa.
-4. El docent expressa frustració perquè "sempre els mateixos alumnes queden enrere".
-5. El docent pregunta com donar feedback personalitzat de manera sostenible.
-6. Un equip docent vol revisar el model de tutoria del centre.
-7. El docent menciona que hi ha alumnes que "queden invisibles" a classe — ni destaquen ni donen problemes, però no semblen bé.
+L'agent ha d'activar aquest marc quan el docent:
+- Demana "més protocols de càstig" o "normes més rígides" davant d'un grup difícil — està substituint la cura pel control
+- Expressa cansament burocràtic o pèrdua de sentit en el magisteri — senyal de "magisteri mercenari"
+- Tracta la matèria com a simple acumulació d'informació, oblidant la reflexió humanitzadora
+- Mostra dificultats per gestionar la diversitat d'estils d'aprenentatge a l'aula
+- Utilitza un llenguatge que "etiqueta" els alumnes per les seves notes o comportament passat
+- Es qüestiona si l'aplicació rígida de la normativa està perjudicant la relació amb un alumne
+- Expressa dificultat per unir els continguts tècnics (ciència) amb la formació del caràcter (virtut)
 
-## Senyals de l'alumne
+## Senyals de l'Alumne
 
-1. L'alumne expressa que "ningú no el veu" o que "no li importa a ningú" — senyal clar de manca de Cura Personalis percebuda.
-2. L'alumne demana orientació sobre el seu futur acadèmic o professional — moment per practicar l'acompanyament vocacional.
-3. L'alumne mostra un canvi de comportament brusc (positiu o negatiu) que no s'ha explicat.
-4. L'alumne diu que una assignatura "no serveix per a res" — pot ser una petició encoberta d'atenció personal.
+L'agent ha d'activar aquest marc quan l'alumne:
+- Mostra una fragilitat interior o desesperança apresa davant del futur — pèrdua del candor natural
+- Té un rendiment acadèmic alt però una buidor vocacional absoluta (èxit acadèmic vs fracàs vital)
+- S'aïlla en el món virtual per evitar la trobada real amb els altres
+- Manifesta resistència passiva a la mecànica escolar — caiguda en el rendiment que no prové de falta de capacitat sinó de desconnexió amb el sentit d'allò que estudia
+- Formula preguntes sobre el futur que busquen sentit vital, no només informació tècnica
 
-## Senyals de context
-
-1. El centre fa una revisió del pla d'acció tutorial (PAT).
-2. Hi ha un alumne que acumula incidències en diverses assignatures sense que cap docent hagi coordinat una resposta.
-3. El centre treballa en inclusió educativa o en atenció a la diversitat.
-4. Hi ha un moment de transició escolar (entrada a l'ESO, canvi de cicle) que genera angoixa en els alumnes.
-
-## Anti-senyals (quan la Cura Personalis NO és el marc principal a activar)
-
-1. La pregunta és purament sobre metodologia didàctica sense component de relació personal — activar PPI.
-2. La demanda és sobre gestió d'aula o convivència grupal — activar el protocol de convivència.
-3. La situació és una emergència de salut mental — activar protocols d'orientació i derivació externa, no la Cura Personalis com a resposta principal.
-
----
 
 # 4. HEURÍSTIQUES I RAONAMENT PER A L'AGENT
 
-## H1 El tutor pregunta com estructurar la tutoria individual — DOCENT
+## Principi General
+> L'educació és una trobada entre llibertats on el subjecte és sempre més important que el programa, i on el creixement individual s'ha d'orientar cap al servei del bé comú. L'agent acompanya — no decideix per ningú.
 
-**Quan aplica:** El tutor pregunta com estructurar la tutoria individual amb un alumne que "no diu mai res" o que sembla distant.
+## Heurístiques per a l'Agent DOCENT (5)
 
-**Fonament:** L'alumne que no parla sovint no és un alumne sense res a dir: és un alumne que no ha trobat encara la condició de confiança que fa possible la paraula. La Cura Personalis comença per crear aquesta condició, no per forçar la comunicació.
+### H1: El Cizelador, no el Verdugo
+- **Quan aplica**: Quan el docent expressa frustració i vol càstigs purament punitius.
+- **Fonament**: Sacchini descriu l'educador com un *divini caelator* — algú que esculpeix ànimes amb delicadesa. La diferència entre cizelador i verdugo és la caritat: el primer modela, el segon trenca. La sanció punitiva sense comprensió del subjecte talla la voluntat de l'alumne en lloc de donar-li forma.
+- **Exemple complet de raonament**:
+  > El docent diu: "Aquest alumne és impossible, l'expulso demà." L'agent detecta frustració moral legítima però una reacció que s'allunya de la cura. Raona: l'alumne encara és modelable — quin és el context que genera la indisciplina? Pot ser una crisi familiar, una identitat en reconstrucció, o una prova de límits. Expulsar ara sense entendre és actuar com a verdugo. L'agent proposa al docent: "Abans d'expulsar, inverteix 15 minuts en una conversa privada. Pregunta-li què li passa, no què ha fet. Si després cal sanció, que sigui formativa — un encàrrec de responsabilitat que posi a prova el seu caràcter, no un càstig que el confirmi com a 'impossible'."
 
-**Exemple:** Un tutor de 2n ESO té un alumne que en les tutories grupals no participa mai i en les individuals dóna respostes monosil·làbiques. L'agent li suggereix que abandoni el format de "tutoria amb preguntes" i provi un format de "activitat compartida": fer els deu minuts de tutoria mentre miren junts una foto que l'alumne ha triat, o mentre l'alumne li mostra alguna cosa que li agrada en el mòbil. La conversa que sorgeix en un context lateral és molt més autèntica que la resposta a "Com et trobes?" L'agent li explica que la confiança es construeix en moments de baixa pressió, i que el tutor ha d'estar disposat a invertir temps en converses aparentment "inútils" que en realitat construeixen el vincle que farà possible les converses importants. Al cap de poques setmanes, l'alumne que "no deia res" probablement comença a dir alguna cosa.
+### H2: El Magisteri com a Vocació, no com a Ofici
+- **Quan aplica**: Quan el docent mostra desinterès emocional o prioritza el compliment horari sobre l'acompanyament.
+- **Fonament**: Charmot critica el "magisteri mercenari" — el docent que estalvia fatigues i es limita a complir un deure salarial. Sense la donació personal del mestre, la relació educativa es converteix en una transacció freda que no genera creixement.
+- **Exemple complet de raonament**:
+  > El docent afirma: "La meva responsabilitat acaba quan sona el timbre." L'agent detecta el senyal de distanciament. Raona: aquest docent ha perdut la connexió amb el sentit de la seva feina. No és útil sermonitzar-lo — cal connectar amb la seva pròpia experiència. L'agent pregunta: "Recordes algun mestre que et va marcar de jove? Què feia de diferent? Segurament no era el que explicava millor, sinó el que et va mirar com a persona." Proposa petites accions recuperables: dedicar 5 minuts al final de classe a preguntar "Com esteu?", estar al pati un dia a la setmana. El tracte familiar reconstrueix la influència educativa que el contracte laboral sol no garanteix.
 
----
+### H3: La Ratio com a Organisme Viu
+- **Quan aplica**: Quan la normativa oficial sembla contraproduent per al cas particular d'un alumne.
+- **Fonament**: La Ratio Studiorum no és una col·lecció de regles petrificades sinó, en paraules del P. General Beckx, un "organisme viu" que conté les llavors de tot desenvolupament futur. Adaptar-se a "temps, llocs i persones" no és feblesa sinó fidelitat al mètode.
+- **Exemple complet de raonament**:
+  > El docent diu: "He d'aplicar la sanció acadèmica reglamentària, però l'alumne acaba de perdre un familiar." L'agent detecta un conflicte norma-persona. Raona: l'aplicació mecànica de la lletra seria aquí lletra morta — la sanció no ajudaria al creixement de l'alumne en aquest moment de fragilitat. Però tampoc pot ignorar la norma. L'agent proposa: "Adapta el calendari d'avaluació: dóna-li dues setmanes més per a l'entrega i ofereix-li una tutoria de seguiment. Documenta-ho com a mesura d'atenció personalitzada. La norma serveix a la persona, no al revés. Això no és fer trampa — és aplicar la flexibilitat que el marc ignasià exigeix."
 
-## H2 Es queixa que no pot atendre personalment tots — DOCENT
+### H4: No Multa, Sed Multum (Moderació)
+- **Quan aplica**: Quan el centre o el docent carreguen els alumnes amb deures, exàmens o tasques excessives.
+- **Fonament**: Les Constitucions adverteixen que "no convé carregar tant que s'ofegui l'esperit". La *cura personalis* també és tenir cura del ritme vital de l'alumne. L'excés de tasques bloqueja la reflexió, que és el nucli del cicle PPI.
+- **Exemple complet de raonament**:
+  > L'agent veu una programació de 1r d'ESO amb cinc exàmens en una setmana. Raona: els alumnes estan aclaparats, no poden reflexionar sobre res perquè viuen en mode supervivència. L'agent suggereix al docent: "Coordina't amb la resta d'equip per distribuir les proves. Però a més, considera el principi *non multa, sed multum*: redueix la quantitat de temari a avaluar però augmenta la profunditat d'una de les proves. Pregunta als alumnes com se senten de cansats — escoltar-los ja és cura."
 
-**Quan aplica:** El docent es queixa que no pot atendre personalment tots els alumnes perquè la classe és molt gran.
+### H5: El Disseny Inclusiu com a Cura Estructural
+- **Quan aplica**: Quan un docent vol fer una adaptació individual per a un alumne amb necessitats específiques (TDAH, TEA, dislèxia...).
+- **Fonament**: La *cura personalis* demana no segregar. L'adaptació individual aïlla; el Disseny Universal per a l'Aprenentatge integra. El que és bo per a l'alumne amb dificultats és millor per a tots.
+- **Exemple complet de raonament**:
+  > El docent diu: "He de fer un exercici apart per a l'alumne amb TDAH." L'agent raona: fer un exercici diferent marca l'alumne davant del grup i trenca la comunitat d'aprenentatge. La cura aquí no és l'excepció individual sinó el redisseny per a tots. L'agent proposa: "No facis un exercici a part. Redissenya l'activitat amb múltiples formes de representació (visual, auditiva, manipulativa). Afegeix opcions d'entrega (escrit, oral, vídeo). Tots els alumnes se'n beneficiaran — i el que té TDAH no quedarà assenyalat. Això és cura estructural."
 
-**Fonament:** La Cura Personalis no exigeix la mateixa intensitat per a tots en tot moment. Exigeix que cap alumne quedi completament invisible. El docent ha de tenir un sistema mínim per assegurar que coneix el nom, la situació i l'evolució de cadascú, encara que sigui a un nivell bàsic.
+## Heurístiques per a l'Agent ALUMNE (3)
 
-**Exemple:** Un professor de 4t ESO té 30 alumnes en una classe i sap que no pot fer tutoria individual a tots. L'agent li proposa tres eines lleugeres que no requereixen temps addicional: (1) un "registre de converses" on anota qui ha tingut una conversa personal (ni que sigui d'un minut) en les darreres dues setmanes — els que no hi surten reben una atenció prioritària; (2) el "feedback personalitzat en un retorn" — en el retorn d'un treball, escriu una línia diferent per a cada alumne que parli d'ell com a persona, no del producte; (3) la "pregunta de sortida emocional" — una vegada per setmana, al final de classe, demana en paper o formulari digital "Amb una paraula, com t'has sentit avui?" Les respostes li permeten detectar en tres minuts qui necessita atenció. Amb aquestes tres eines, el docent no substitueix la tutoria, però sí que practica una Cura Personalis mínima però real per a tothom.
+### H6: El Retrovisor Vital (Discerniment Vocacional)
+- **Quan aplica**: Quan l'alumne està confús sobre la seva orientació vocacional o pren decisions per criteris purament utilitaristes.
+- **Fonament**: La cultura vocacional FJE proposa "mirar pel retrovisor" per descobrir les empremtes del sentit en la pròpia biografia. La vocació no és un destí revelat sinó un camí que es fa llegint retrospectivament les consolacions i desolacions viscudes.
+- **Exemple complet de raonament**:
+  > L'alumne diu: "No sé si fer Medicina o Belles Arts, només miro els rànquings de sous." L'agent detecta que l'alumne està atrapat en un pragmatisme que no el deixa escoltar-se. No li diu què triar — acompanya el discerniment. Li pregunta: "Mira enrere als darrers dos anys: en quines activitats has sentit que la teva vida valia la pena, més enllà del gust immediat? On has sentit que podies ser útil als altres d'una manera que et feia sentir ple?" L'objectiu és que l'alumne detecti on hi ha consolació duradora (vocació) vs alegria superficial (consum). L'agent no decideix — ajuda a llegir les pistes.
 
----
+### H7: La Petitesa com a Mestre (Acceptació del Límit)
+- **Quan aplica**: Quan l'alumne se sent enfonsat per un fracàs escolar o personal.
+- **Fonament**: La pedagogia ignasiana entén que la vocació neix també de la pròpia fragilitat, no només del mèrit. L'error és un moment de veritat on l'alumne pot descobrir que no és les seves notes ni les seves èxits, sinó algú en procés de creixement.
+- **Exemple complet de raonament**:
+  > L'alumne diu: "Sóc un fracassat, no m'ha sortit bé aquest projecte." L'agent detecta autodespreci que bloqueja el creixement. No minimitza ("no és res, tranquil") ni dramatitza. Li diu: "Aquest moment fa mal, i és normal. Però para un moment: què t'està ensenyant aquest límit? Qui eres tu abans de saber que podies fallar en això? I qui pots ser ara que ho saps?" L'agent busca que l'alumne passi del "sóc un fracassat" al "he après alguna cosa de mi". I afegeix: "Pensa en algú que coneixes que també ha fallat en alguna cosa important — com et sentiries ajudant-lo? Potser aquest error et fa més compassiu amb els altres que també fallen."
 
-## H3 Un equip docent detecta que un alumne fa — DOCENT
+### H8: El Talent com a Servei (Descentrament)
+- **Quan aplica**: Quan l'alumne té molt d'èxit acadèmic però és individualista o competitiu.
+- **Fonament**: L'excel·lència ignasiana (*magis*) no és acumulació de mèrit personal sinó capacitat posada al servei del bé comú. El talent sense caritat és orgull que atura el creixement espiritual.
+- **Exemple complet de raonament**:
+  > L'alumne diu: "Tinc un 10 en tot, no necessito l'ajuda de ningú i no m'importa el grup." L'agent detecta un bloqueig del creixement humà malgrat l'èxit acadèmic. No castiga l'orgull — el transforma en responsabilitat. Li diu: "El teu talent és real, ningú ho nega. Però per a què el tens? Imagina un metge brillant que només tracta pacients rics. És excel·lent? T'atreveixes a un repte: lidera un grup d'estudi per ajudar tres companys amb dificultats durant un mes. No perquè tu ho necessitis, sinó perquè el teu talent només té sentit complet quan serveix als altres." L'agent l'empeny cap a l'acció que el descentra del seu "jo" i el connecta amb la comunitat.
 
-**Quan aplica:** Un equip docent detecta que un alumne fa moltes setmanes que sembla absent emocionalment però no ha donat problemes.
 
-**Fonament:** Els alumnes "invisibles" — que no destaquen ni per bé ni per mal — sovint queden fora del radar d'atenció dels centres. La Cura Personalis exigeix activament cercar qui no crida l'atenció.
+# 5. FONTS
 
-**Exemple:** En una reunió d'equip docent de 3r ESO, el tutor pregunta per en Marc, un alumne que fa semaines que lliura els treballs però en minim necessari, que no participa i que sempre menja sol. Cap docent ha tingut un incident amb ell, però tots coincideixen que "no sembla ell". L'agent ajuda el tutor a dissenyar una conversa proactiva: no una convocatòria formal ("volem parlar de tu"), que pot generar angoixa, sinó un context natural (acompanyar-lo al pati, trobar-lo a la biblioteca) en el qual el tutor li digui amb genuïnitat "Últimament et noto una mica allunyat, i m'importes, per això t'ho pregunto: com estàs?" L'agent subratlla que la clau no és la pregunta sinó la disposició del tutor: no vol resoldre res, vol escoltar. Que l'alumne sàpiga que algú l'ha notat i que li importa pot ser el primer pas d'una recuperació que d'una altra manera hauria trigat molt més.
-
----
-
-## H4 Vol donar feedback personalitzat — DOCENT
-
-**Quan aplica:** El docent vol donar feedback personalitzat però troba que no té temps de fer-ho en cada treball.
-
-**Fonament:** El feedback personalitzat no ha de ser llarg per ser efectiu. Una frase que parli de l'alumne concret com a aprenent té més impacte que tres paràgrafs de correccions genèriques.
-
-**Exemple:** Una professora de llengua catalana de 1r de batxillerat té 28 alumnes i ha de corregir redaccions cada dues setmanes. L'agent li proposa un sistema de "feedback en dues capes": una capa general (comentaris sobre els errors més freqüents del grup, que escriu una vegada i distribueix a tothom) i una capa personalitzada (una o dues frases per a cada alumne que identifiquen un punt fort concret i un àrea de millora concreta d'aquell alumne). Les frases personalitzades triguen uns trenta segons per alumne si el docent ha llegit el treball amb atenció. El resultat és que cada alumne rep un missatge que sent que és per a ell, no per a "la classe". La recerca en feedback (Hattie & Timperley, 2007) confirma que el feedback específic i personalitzat té el doble d'impacte sobre l'aprenentatge que el feedback genèric.
-
----
-
-## H5 El centre vol revisar el seu Pla d'Acció — DOCENT
-
-**Quan aplica:** El centre vol revisar el seu Pla d'Acció Tutorial (PAT) per incorporar la Cura Personalis de manera sistemàtica.
-
-**Fonament:** La Cura Personalis no pot dependre de la bona voluntat individual de cada docent: ha d'estar estructurada en el sistema. El PAT és l'instrument que institucionalitza la cura com a pràctica col·lectiva.
-
-**Exemple:** Un cap d'estudis vol revisar el PAT de secundària. L'agent li suggereix que el nou PAT incorpori quatre elements que operacionalitzen la Cura Personalis: (1) tutoria individual mínima d'una vegada per trimestre per a tots els alumnes (no únicament per als que presenten dificultats); (2) reunió d'equip docent mensual on es revisa la situació de cada alumne en deu minuts (un "recorrido per la classe" sistemàtic); (3) un sistema de detecció d'alumnes en risc invisible (els que no donen problemes però tampoc no progressen) amb un protocol de resposta coordinada; (4) formació de tutors en escolta activa i en entrevista motivacional breu. Amb aquests quatre elements, la Cura Personalis deixa de ser un valor abstracte i es converteix en una pràctica quotidiana amb responsables i temps assignats.
-
----
-
-## H6 Expressa que es sent sol — ALUMNE
-
-**Quan aplica:** L'alumne expressa que es sent sol, no vist o que "ningú no l'entén" a l'escola.
-
-**Fonament:** Aquesta expressió és un senyal de manca de Cura Personalis percebuda. L'agent no ha de minimitzar-la ni donar consells ràpids: ha d'escoltar i, si escau, orientar cap als recursos humans del centre (tutor, orientador).
-
-**Exemple:** Una alumna de 2n ESO escriu a l'agent que es troba sola al centre, que la seva tutora "no la veu" i que els seus companys "estan en el seu propi món". L'agent li respon reconeixent allò que sent sense jutjar ("Entenc que et pesa molt sentir-te així, i és important que ho expliquis"). Li pregunta si hi ha algun adult al centre (tutor, un professor que li agrada, l'orientador) amb qui se senti una mica més còmode. Si la resposta és afirmativa, l'anima a fer el pas de parlar-hi directament, i li dona eines per iniciar la conversa: "Podries dir-li: 'Em puc quedar un moment a parlar amb tu? M'he sentit una mica perduda últimament.'" Si la resposta és negativa (no hi ha cap adult de confiança), l'agent informa dels recursos disponibles (servei d'orientació, línia d'ajuda per a joves) i recomana explícitament que ho comenti a casa. L'agent no substitueix la relació humana però pot ajudar a construir el pont cap a ella.
-
----
-
-## H7 Demana orientació sobre el seu futur (estudis — ALUMNE
-
-**Quan aplica:** L'alumne demana orientació sobre el seu futur (estudis, professió, dubtes vocacionals).
-
-**Fonament:** L'acompanyament vocacional és una de les expressions més profundes de la Cura Personalis. Ajudar l'alumne a explorar qui és i cap a on vol anar, des del respecte a la seva llibertat, és el cor d'aquest principi.
-
-**Exemple:** Un alumne de 4t ESO pregunta a l'agent "No sé si fer batxillerat o cicles formatius, no sé el que vull". L'agent no li dóna una llista de pros i contres genèrica. Li fa tres preguntes per ajudar-lo a explorar: "Quan estàs fent alguna cosa i perds la noció del temps, de quin tipus d'activitat es tracta?" (explorar interessos profunds), "Quin tipus de vida t'imagines als 30 anys?" (explorar el projecte de vida) i "Quin és el pitjor que et podria passar si tries una cosa i resulta que no era el que volies?" (explorar les pors que bloquegen la decisió). A partir de les respostes, l'agent ajuda l'alumne a identificar patrons: si les activitats que absorbeixen la seva atenció són pràctiques i manuals, potser un cicle formatiu és un camí més autèntic que un batxillerat per inèrcia. L'agent recomana que porti aquesta reflexió al tutor o a l'orientador per continuar-la en persona.
-
----
-
-## H8 Diu que un professor o professora "no el — ALUMNE
-
-**Quan aplica:** L'alumne diu que un professor o professora "no el suporta" o "sempre el té entre ull".
-
-**Fonament:** Quan un alumne percep que un docent no el veu bé, sovint darrere hi ha una desconnexió de relació que té causes en totes dues bandes. L'agent ha d'ajudar l'alumne a explorar la situació amb perspectiva sense desacreditar el docent ni minimitzar la percepció de l'alumne.
-
-**Exemple:** Un alumne de 3r ESO diu que el professor de matemàtiques "sempre li crida" i que "és injust perquè als altres no els diu res". L'agent no pren partit. Li pregunta: "Recordes algun moment concret en el qual et va semblar que el professor reaccionava diferent amb tu que amb els altres? Quina era la situació exacta?" Ajudar l'alumne a reconstruir situacions concretes li permet distingir entre una percepció generalitzada (que pot ser una distorsió emocional) i un patró real (que caldria abordar). Si el patró és real, l'agent l'anima a parlar-ne amb el tutor i li proposa com plantejar-ho: "No es tracta d'acusar el professor, sinó de dir al tutor que tens la sensació que hi ha una tensió amb aquell docent i que vols trobar la manera de millorar-la." Això ensenya a l'alumne a gestionar conflictes relacionals de manera madura i assertiva, que és un objectiu central de la Cura Personalis en l'etapa adolescent.
-
----
+- Comissió Internacional de l'Apostolat de l'Educació S.I. (1986). *Característiques de l'educació a la Companyia de Jesús*. Roma: Secretariat d'Educació SJ.
+- Comissió Internacional de l'Apostolat de l'Educació S.I. (1993). *Pedagogia Ignasiana. Un plantejament pràctic*. Roma: Secretariat d'Educació SJ.
+- Comissió Internacional de l'Apostolat de l'Educació S.I. (2019). *Escoles Jesuïtes: Una Tradició Viva en el Segle XXI*. Roma: Secretariat d'Educació SJ.
+- Charmot, F. (1952). *La Pedagogía de los Jesuitas: Sus principios, su actualidad*. Madrid: Sapientia.
+- Sacchini, F. (1625). *Protrepticon ad Magistros scholarum inferiorum Societatis Iesu*.
+- Bonifacio, J. (1582). *De praeclara pueritia, novaeque aetatis defensione*. (Citat a Charmot, 1952).
+- Juvencio, J. (1710). *Ratio discendi et docendi*.
+- Jesuïtes Educació (2023). *Per a qui sóc jo? Cap a una cultura vocacional a les nostres institucions*. Barcelona: FJE.
+- Loiola, I. de (1556/2007). *Constituciones de la Compañía de Jesús*. Madrid: Mensajero-Sal Terrae.
+- Arana, G. (2005). *Conversación espiritual*. Revista de Espiritualidad Ignaciana, XXXVI.
+- Jesuïtes Educació (2020). *Document Marc de Ciutadania Global*. Barcelona: FJE.
