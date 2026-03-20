@@ -4,176 +4,150 @@ titol: "Competències Bàsiques i Perfil de Sortida"
 tipus: marc
 descripcio: "Marc competencial vigent a Catalunya, perfil de sortida i connexió amb el disseny curricular"
 review_status: esborrany
-generat_at: 2026-03-17T22:27:02
+generat_at: 2026-03-18T15:32:34
 ---
 
-# 1. CONTINGUT ESPECÍFIC DEL DOCUMENT
+# 1. CONTINGUT ESPECÍFIC
 
 ## Definició i principis
 
-El currículum a Catalunya, tal com es concreta per a l'educació infantil i primària, es fonamenta en un enfocament competencial. Això significa que l'educació no es limita a la transmissió de coneixements, sinó que busca el desenvolupament integral de la persona en totes les seves dimensions: cognitives, emocionals, afectives i relacionals. L'objectiu final és que l'alumnat assoleixi les competències clau, específiques i transversals que conformen el Perfil de Sortida, capacitant-lo per utilitzar allò que aprèn en entorns diversos, que el coneixement perduri en el temps i que pugui resoldre problemes en diferents contextos de la vida real.
+El marc competencial actual a Catalunya sorgeix de la necessitat d'anar més enllà de l'adquisició de coneixements i tècniques aïllades, tal com es prioritzava en currículums anteriors (per exemple, els de 1992, que ja incloïen capacitats, però amb un enfocament diferent). L'evolució cap a un model basat en competències (com el del Decret 143/2007 i posteriors) respon a la premissa que l'alumnat ha de poder desenvolupar els continguts de manera **funcional i significativa**. L'objectiu principal és que els aprenentatges adquirits siguin útils i possibilitin la **resolució de problemes** al llarg de tota la vida, ja siguin quotidians, laborals o de relació.
 
-Aquest marc competencial es construeix sobre principis fonamentals que guien l'acció educativa:
-*   **Inclusió i equitat:** Garantir l'accessibilitat de tots els infants a l'educació, promovent la igualtat d'oportunitats i l'èxit educatiu per a tothom.
-*   **Desenvolupament integral:** Abordar totes les dimensions de l'infant i l'alumne, des del benestar emocional fins a la ciutadania democràtica.
-*   **Universalitat del currículum:** Dissenyar propostes que s'adaptin a la diversitat de l'alumnat des de l'origen, mitjançant el Disseny Universal per a l'Aprenentatge (DUA) i la personalització.
-*   **Aprenentatges competencials:** Enfocar l'ensenyament cap a la capacitat d'aplicar el coneixement i les habilitats en situacions pràctiques i complexes.
-*   **Perspectiva de gènere:** Integrar la coeducació i la perspectiva de gènere en tots els àmbits educatius.
-*   **Qualitat de l'educació de les llengües:** Promoure un bon domini de les llengües com a eina essencial per a l'aprenentatge i la comunicació.
-*   **Ciutadania democràtica i consciència global:** Formar ciutadans actius, crítics i compromesos amb el seu entorn i amb els reptes globals.
-*   **Benestar emocional:** Crear un ambient de benestar, relació i aprenentatges on l'alumnat se senti acollit i segur.
+Una competència es defineix com la capacitat d'**utilitzar els coneixements i habilitats, de manera transversal i interactiva, en contextos i situacions que requereixen la intervenció de coneixements vinculats a diferents sabers**. Això implica un procés de **comprensió, reflexió i discerniment**, sempre tenint en compte la **dimensió social de cada situació**.
 
-El Perfil de Sortida, per tant, no és una llista de continguts, sinó el conjunt de les competències que es considera que l'alumnat ha d'haver desenvolupat en finalitzar l'educació bàsica (primària i secundària obligatòria). Aquest perfil orienta tot el disseny curricular de les etapes, des de la selecció de continguts fins a les metodologies i l'avaluació.
+D'aquesta definició es deriven tres aspectes fonamentals que guien la proposta curricular competencial:
+*   **La integració de coneixements:** Les competències no són compartiments estancs, sinó que requereixen la connexió i l'ús combinat de sabers de diferents àrees.
+*   **La funcionalitat dels aprenentatges:** El que s'aprèn ha de tenir un propòsit pràctic i ser aplicable a situacions reals, no només teòriques.
+*   **L'autonomia personal en el procés d'aprenentatge:** Es busca que l'alumnat sigui capaç de gestionar el seu propi aprenentatge, reflexionar sobre ell i prendre decisions informades.
+
+Aquest enfocament prepara els nois i les noies per afrontar amb èxit els reptes del futur, dotant-los d'eines per adaptar-se i intervenir de manera activa en la societat. El "Perfil de Sortida" de l'alumnat, tot i no ser un terme explícitament definit en el document font, s'entén com el conjunt de competències que l'alumnat ha d'haver adquirit al final de l'escolaritat obligatòria per poder desenvolupar-se plenament com a ciutadà i professional.
 
 ## Autors i evidència clau
 
-El marc competencial vigent a Catalunya es fonamenta en la normativa legal que emana de l'Estat i es concreta a nivell autonòmic. Els documents clau que estableixen i desenvolupen aquest currículum són:
+El concepte de competència, tot i tenir múltiples definicions segons autors i administracions, es fonamenta en la idea de l'aplicació funcional del saber. En el context de les competències comunicatives, un autor clau és **M. Canale**, que en els anys setanta va introduir el concepte de **competència comunicativa** per ampliar la visió més restrictiva de la competència lingüística.
 
-*   **Llei Orgànica 3/2020, de 29 de desembre (LOMLOE):** Modifica la Llei Orgànica 2/2006, de 3 de maig, d'Educació, establint les bases del currículum competencial a nivell estatal.
-*   **Reial Decret 95/2022, d'1 de febrer:** Concreta per a l'educació infantil els aspectes curriculars derivats de la LOMLOE.
-*   **Decret 21/2023, de 7 de febrer:** Desenvolupa el currículum de l'educació infantil a Catalunya, fonamentant-lo en un enfocament competencial i global.
-*   **Decret 175/2022, de 27 de setembre:** Estableix el currículum de l'educació primària a Catalunya, orientant-lo cap a l'aprenentatge competencial i els sis vectors clau.
-*   **Decret 150/2017, de 17 d'octubre:** Regula els criteris per a l'organització i gestió dels centres, les mesures i suports per a l'atenció educativa i la continuïtat formativa de tot l'alumnat, sent un marc per a la inclusió.
+Canale va plantejar una orientació pluridimensional o modular de la competència comunicativa, identificant diverses **subcompetències que interactuen en la comunicació diària** i permeten la creativitat en l'ús del llenguatge. Aquestes són:
+*   **Competència gramatical:** Domini del codi lingüístic (fonètica, morfologia, sintaxi, lèxic).
+*   **Competència sociolingüística:** Coneixement i ús de les normes socials i culturals que regeixen la comunicació (registres, formalitat, adequació al context).
+*   **Competència discursiva:** Capacitat d'organitzar les idees i el llenguatge per produir textos coherents i cohesionats (narrar, descriure, argumentar).
+*   **Competència estratègica:** Habilitats per compensar les deficiències en la comunicació i per mantenir la interacció (reformular, demanar aclariments, utilitzar recursos no verbals).
 
-Aquests documents són l'evidència normativa que sustenta el model competencial, prioritzant el desenvolupament integral i l'aplicació pràctica dels aprenentatges.
+Aquesta visió de Canale subratlla que aprendre una llengua no és només adquirir un codi, sinó desenvolupar un conjunt d'habilitats per utilitzar-lo de manera efectiva en diferents situacions.
 
 ## Exemples concrets d'aplicació a l'aula
 
-1.  **Educació Primària:** En lloc d'una lliçó magistral sobre els rius de Catalunya, el docent proposa una "situació d'aprenentatge" on els alumnes, organitzats en equips, han de dissenyar una campanya de sensibilització sobre la contaminació d'un riu proper. Això implica investigar el riu (competència en coneixement i interacció amb el món físic), redactar missatges (competència lingüística), crear materials visuals (competència digital i artística), presentar la campanya (competència comunicativa) i col·laborar en equip (competència personal, social i d'aprendre a aprendre). L'objectiu és que apliquin coneixements de geografia, ciències naturals i llengua en un context real i significatiu.
+1.  **Educació Primària:**
+    *   **Activitat:** Dissenyar i presentar un projecte sobre un animal en perill d'extinció.
+    *   **Aplicació:** Els alumnes han de buscar informació (integració de coneixements de ciències i llengua), seleccionar-la, organitzar-la i presentar-la oralment i visualment als companys i a les famílies. Això implica la funcionalitat de l'aprenentatge (comunicar un missatge, convèncer), l'ús de diferents registres (competència sociolingüística) i la capacitat de reflexió sobre el contingut i la forma de la presentació.
 
-2.  **Educació Secundària Obligatòria (ESO):** En l'assignatura de Tecnologia, els alumnes no només aprenen a utilitzar eines de disseny 3D, sinó que se'ls planteja el repte de dissenyar un prototip que resolgui una necessitat real de l'institut (per exemple, un sistema de recollida selectiva més eficient o un suport per a dispositius electrònics a l'aula). Aquesta tasca requereix la investigació de problemes, la ideació de solucions, el disseny, la construcció (o simulació) del prototip i la seva avaluació. Així, desenvolupen la competència digital, la competència emprenedora, la matemàtica i científica, i la de resolució de problemes, anant més enllà de la simple manipulació de programes.
+2.  **Educació Secundària (ESO):**
+    *   **Activitat:** Organitzar un debat sobre un tema d'actualitat (per exemple, l'ús de les xarxes socials o la sostenibilitat energètica).
+    *   **Aplicació:** Els alumnes han de preparar arguments sòlids (integració de coneixements de socials, ciències, ètica), escoltar activament, refutar amb respecte i arribar a conclusions. Aquesta tasca desenvolupa la competència comunicativa en totes les seves dimensions (gramatical, sociolingüística, discursiva i estratègica), així com la capacitat de discerniment, la reflexió crítica i la dimensió social de l'aprenentatge.
 
-3.  **Batxillerat/Formació Professional (FP):** En un mòdul de FP de Màrqueting i Publicitat, els estudiants no només estudien teories de màrqueting, sinó que han de crear un pla de màrqueting complet per a una petita empresa local real. Això implica analitzar el mercat (competència matemàtica i científica), definir el públic objectiu, dissenyar estratègies de comunicació (competència lingüística i digital), gestionar un pressupost (competència emprenedora) i presentar la proposta al client real. Aquesta aplicació pràctica consolida les competències professionals i transversals, preparant-los per al món laboral amb una visió global i aplicada.
+3.  **Batxillerat/Formació Professional (FP):**
+    *   **Activitat:** Elaborar un pla de negoci o un projecte tècnic per a una empresa simulada o un repte real de l'entorn.
+    *   **Aplicació:** Els estudiants han de realitzar una recerca exhaustiva, estructurar idees complexes, redactar informes tècnics, dissenyar presentacions eficaces i defensar les seves propostes davant d'un "jurat" o públic especialitzat. Aquesta activitat exigeix la integració de coneixements de diverses àrees (economia, tecnologia, llengua, matemàtiques), la funcionalitat dels aprenentatges per resoldre un problema concret i una gran autonomia personal en la gestió del projecte.
 
 ## Errors comuns — què NO fer
 
-1.  **Reduir les competències a una llista de continguts:** Un error freqüent és interpretar el currículum competencial com una simple reetiquetació dels continguts tradicionals. El Perfil de Sortida no es pot assolir memoritzant dades, sinó aplicant coneixements, habilitats i actituds en situacions complexes. Si el docent només se centra en "cobrir el temari" sense generar oportunitats per a l'aplicació i la transferència, l'aprenentatge competencial no es produeix.
-2.  **Ignorar la dimensió integral de l'aprenentatge:** El currículum competencial emfatitza el desenvolupament cognitiu, emocional, afectiu i relacional. Limitar l'ensenyament als aspectes purament acadèmics o intel·lectuals, sense atendre el benestar emocional, les habilitats socials o la capacitat d'aprendre a aprendre, és desvirtuar el propòsit del marc. Per exemple, centrar-se només en la resolució de problemes matemàtics sense considerar la gestió de la frustració o la col·laboració en grup.
-3.  **No aplicar el Disseny Universal per a l'Aprenentatge (DUA):** Pensar en la diversitat com una excepció que requereix adaptacions posteriors, en lloc de dissenyar les activitats i materials des de l'inici per ser accessibles a tothom. Si les propostes d'aprenentatge no ofereixen múltiples formes de representació, d'acció i expressió, i de compromís, s'està limitant la participació i l'èxit de part de l'alumnat, contradient el principi d'inclusió i equitat.
+1.  **Reduir les competències a una llista de continguts a memoritzar:** El marc competencial no busca una simple acumulació de sabers. L'error és tractar les competències com un nou temari sense canviar la metodologia. **Per què és un error:** El fonament de la competència és la funcionalitat i la capacitat de resoldre problemes, no la reproducció de dades. Si només es memoritza, no s'integren els coneixements ni es desenvolupa la capacitat de transferència.
+2.  **Avaluar les competències només amb proves de coneixements teòrics descontextualitzats:** Si l'avaluació es limita a exàmens que demanen definicions o fets aïllats, no s'està valorant la capacitat d'aplicació. **Per què és un error:** Una competència implica la comprensió, la reflexió i el discerniment en contextos reals. L'avaluació ha de reflectir aquesta aplicació i la capacitat de l'alumne per fer ús dels seus coneixements i habilitats en situacions significatives.
+3.  **Ignorar la dimensió social de l'aprenentatge competencial:** Centrar-se exclusivament en tasques individuals sense espais per a la interacció, el debat o el treball col·laboratiu. **Per què és un error:** La definició de competència subratlla la "dimensió social de cada situació". Moltes competències, especialment les comunicatives i les socials, es desenvolupen i es manifesten en la interacció amb els altres. A més, la resolució de problemes sovint requereix perspectives diverses i treball en equip.
+4.  **Enfocar-se només en la competència lingüística sense considerar la comunicativa global:** Limitar l'ensenyament de la llengua a la gramàtica i el vocabulari sense abordar l'ús en context. **Per què és un error:** M. Canale va ampliar el concepte de competència lingüística a comunicativa precisament per destacar que el domini d'una llengua va més enllà del codi i inclou les habilitats sociolingüístiques, discursives i estratègiques per comunicar-se de manera efectiva en el món real.
 
 ## Matissos i excepcions
 
-El marc competencial és la base del sistema educatiu, però la seva aplicació requereix flexibilitat i adaptació. No hi ha "excepcions" al marc en si, ja que és la norma, però sí matisos en la seva implementació:
+El marc competencial és un model pedagògic ambiciós que busca una transformació profunda de l'ensenyament i l'aprenentatge. No obstant això, la seva implementació pot tenir matisos i trobar-se amb certes limitacions:
 
-*   **Contextos específics:** Cada centre educatiu té una realitat pròpia (entorn socioeconòmic, recursos, projecte educatiu). El currículum competencial proporciona una direcció, però la concreció de les situacions d'aprenentatge i els projectes ha de respondre a les necessitats i característiques de l'alumnat i de l'entorn.
-*   **Ritmes d'aprenentatge:** L'assoliment de les competències no és lineal ni uniforme. El marc competencial promou la personalització i l'atenció a la diversitat, reconeixent que cada alumne té el seu propi ritme i necessita suports diferents per assolir el Perfil de Sortida. Això no significa rebaixar les expectatives, sinó oferir camins diversos.
-*   **Coordinació entre etapes:** Tot i que cada etapa té el seu propi decret curricular, el Perfil de Sortida és un objectiu comú. La coordinació entre l'educació infantil, primària i secundària és crucial per garantir la continuïtat formativa i evitar la fragmentació dels aprenentatges, assegurant que les competències es construeixen de manera progressiva.
-
----
+*   **Integració versus especialització:** Si bé la transversalitat és un pilar, la realitat curricular encara està molt estructurada per matèries. Això pot generar tensions entre la necessitat d'aprofundir en sabers específics de cada àrea i la demanda d'integració competencial. Requereix una coordinació docent molt activa i un canvi de mentalitat per part de tot el claustre.
+*   **Recursos i formació:** L'aplicació efectiva d'un currículum competencial demana recursos (temps per a projectes, materials diversos) i una formació continuada del professorat en metodologies actives i avaluació autèntica. La manca d'aquests elements pot dificultar la seva plena implementació.
+*   **La base dels coneixements:** El marc competencial no nega la importància dels coneixements fundacionals. Al contrari, són la base sobre la qual es construeixen les competències. L'excepció no és que els coneixements no siguin importants, sinó que no han de ser un fi en si mateixos, sinó eines per a l'aplicació i la resolució de problemes. Hi ha moments en l'aprenentatge on l'adquisició de coneixements bàsics és prioritària abans de poder-los aplicar de manera competent.
+*   **Avaluació de la complexitat:** Avaluar una competència en la seva totalitat és complex, ja que implica múltiples dimensions (coneixements, habilitats, actituds, contextos). No sempre és possible avaluar totes les facetes d'una competència en cada activitat, i cal dissenyar un sistema d'avaluació continu i diversificat.
 
 # 2. CONNEXIONS AMB ALTRES DOCUMENTS DEL CORPUS
-
-| Document Relacionat | Relació Concreta | Co-activació Obligatòria | Co-activació Condicional |
-| :------------------ | :--------------- | :----------------------- | :----------------------- |
-| **tipus: normativa** (Decret 21/2023, Decret 175/2022) | Proporciona el detall legal i curricular de les etapes d'Infantil i Primària, fonamentant aquest marc. | Sí, per entendre la base legal. | N/A |
-| **tipus: estrategia** (Disseny Universal per a l'Aprenentatge - DUA) | El DUA és una estratègia clau per implementar la universalitat del currículum i l'atenció a la diversitat, principis fonamentals d'aquest marc. | Sí, per dissenyar activitats inclusives. | Quan es busquin adaptacions o personalització. |
-| **tipus: protocol** (Pla de Suport Individualitzat - PI) | El PI és l'eina per concretar els suports necessaris per a l'alumnat amb necessitats específiques, en el marc del desenvolupament competencial. | N/A | Quan es detectin necessitats de suport individualitzat. |
-| **tipus: perfil** (Qualsevol perfil d'alumnat) | Ajuda a entendre com les barreres i necessitats d'un perfil concret d'alumnat impacten en l'assoliment de les competències i com el marc competencial aborda la seva inclusió. | N/A | Quan es vulgui adaptar la pràctica a un perfil d'alumnat específic. |
-| **tipus: eina** (Rúbriques d'avaluació de competències) | Les rúbriques són instruments per avaluar el grau d'assoliment de les competències, alineades amb el Perfil de Sortida. | N/A | Quan es vulgui avaluar l'assoliment competencial. |
+*   **Estratègia_AprenentatgeBasatEnProjectes**: Aquesta estratègia és fonamental per desenvolupar la funcionalitat i la transversalitat dels aprenentatges, pilars del marc competencial.
+*   **Eina_RúbricaAvaluacioCompetencial**: Permet avaluar de manera autèntica l'aplicació de coneixements i habilitats en contextos reals, alineant-se amb els principis d'avaluació del marc.
+*   **Marc_DissenyUniversalAprenentatge (DUA)**: Ofereix pautes per fer el currículum competencial accessible a tot l'alumnat, assegurant que les oportunitats de desenvolupament competencial arribin a tots.
+*   **Perfil_AlumnatAmbDificultatsAprenentatge**: La comprensió d'aquest perfil és crucial per adaptar les activitats competencials i els suports necessaris, garantint la inclusió i l'èxit de tots els estudiants.
+*   **Protocol_DeteccioNecessitatsEducativesEspecials**: La identificació primerenca de necessitats educatives pot influir en com es planifiquen i es desenvolupen les competències, assegurant una resposta educativa ajustada.
+*   **Estratègia_AprenentatgeCooperatiu**: Aquesta estratègia fomenta la dimensió social de l'aprenentatge i la resolució de problemes en grup, aspectes clau del marc competencial.
 
 # 3. DETECCIÓ (Variables de Context)
-
-**Senyals del docent:**
-*   "Com puc assegurar que els meus alumnes no només memoritzen, sinó que entenen i apliquen el que aprenen?"
-*   "M'agradaria dissenyar activitats que connectin més amb la vida real i fomentin la resolució de problemes."
-*   "Quines són les competències clau que els meus alumnes han d'assolir al final de l'etapa?"
-*   "Com puc integrar la perspectiva de gènere o el benestar emocional en el meu dia a dia a l'aula?"
-*   "Necessito orientació per entendre com el meu currículum s'articula amb el Perfil de Sortida."
-
-**Senyals de l'alumne:**
-*   Expressa dificultat per transferir coneixements d'una assignatura a una altra o a situacions quotidianes.
-*   Mostra desmotivació davant tasques purament memorístiques o desconnectades de la seva realitat.
-*   Pregunta "Per a què serveix això?" o "Quan utilitzaré això a la vida real?".
-
-**Senyals de context:**
-*   Implementació d'un nou currículum o revisió del Projecte Educatiu de Centre (PEC).
-*   Resultats d'avaluacions diagnòstiques que mostren mancances en l'aplicació de coneixements.
-*   Debats en claustre sobre la necessitat de metodologies més actives i participatives.
-*   Necessitat d'alinear la programació didàctica amb els objectius competencials.
-
-**Anti-senyals (quan NO activar malgrat les aparences):**
-*   El docent busca exclusivament llistes de continguts per "fer el temari" sense interès per la seva aplicació.
-*   L'alumne mostra un rendiment excel·lent en tasques de memorització i reproducció, però no hi ha indicis que necessiti un enfocament més aplicat o integral.
-*   El context demana una solució ràpida a un problema disciplinari puntual, sense relació directa amb el disseny curricular o les competències.
+*   **Senyals del docent**
+    *   "Com puc fer que els meus alumnes apliquin el que aprenen a situacions reals i no només memoritzin?"
+    *   "Necessito dissenyar activitats que connectin diferents àrees de coneixement i tinguin un sentit pràctic."
+    *   "Els meus alumnes saben la teoria, però els costa resoldre problemes complexos o expressar-se amb claredat."
+    *   "Com puc avaluar de manera més significativa, anant més enllà de la simple reproducció de continguts?"
+    *   "Vull entendre millor el propòsit del currículum actual i com s'espera que els alumnes es preparin per al futur."
+*   **Senyals de l'alumne**
+    *   "Per a què serveix això que estem aprenent? No li veig la utilitat."
+    *   Dificultat per transferir coneixements o habilitats d'una assignatura a una altra o a la vida quotidiana.
+    *   Manca d'autonomia o iniciativa per resoldre tasques complexes que requereixen reflexió i discerniment.
+*   **Senyals de context**
+    *   El docent està en procés de dissenyar o revisar la programació didàctica del curs o d'una unitat.
+    *   El centre educatiu està implementant o formant el professorat en metodologies actives o projectes interdisciplinaris.
+    *   Es debat sobre els objectius educatius a llarg termini de l'escola i el perfil de l'alumnat que es vol formar.
+    *   S'està preparant una avaluació que busca mesurar habilitats d'aplicació i resolució de problemes.
+*   **Anti-senyals**
+    *   La pregunta del docent es refereix exclusivament a la memorització de fets o dades aïllades sense cap intenció d'aplicació.
+    *   La preocupació principal és la cobertura exhaustiva d'un temari molt extens sense considerar la seva funcionalitat o connexió amb altres àrees.
+    *   Es busca una solució ràpida per a un problema de gestió de l'aula o de disciplina que no té relació directa amb el disseny curricular o l'aprenentatge competencial.
+    *   El docent expressa un rebuig total a qualsevol enfocament que no sigui l'ensenyament tradicional basat en la transmissió de continguts.
 
 # 4. HEURÍSTIQUES I RAONAMENT PER A L'AGENT
 
-## H1 Dissenyar Situacions d'Aprenentatge Significatives — DOCENT
+*   **Principi general:** Fomentar l'aplicació funcional i transversal dels aprenentatges per a la resolució de problemes reals, promovent la reflexió i l'autonomia.
 
-**Quan aplica:** Quan el docent vol que l'alumnat connecti els aprenentatges amb la realitat, desenvolupi competències de manera integrada i vegi el sentit del que aprèn. *
+*   **Heurístiques per a l'Agent DOCENT**
 
-**Fonament:** El currículum competencial, especialment en Infantil i Primària, emfatitza les "situacions d'aprenentatge" com a vehicle per al desenvolupament integral i l'aplicació pràctica. Aquestes situacions permeten que el que s'aprèn es pugui utilitzar en entorns diversos i perduri. *
+    *   **Nom:** Disseny per a la Transferència
+    *   **Quan aplica:** Quan el docent expressa la voluntat que els seus alumnes utilitzin els coneixements adquirits en situacions noves i diverses, més enllà de l'aula.
+    *   **Fonament:** El marc competencial defineix la competència com la capacitat d'utilitzar coneixements i habilitats de manera transversal i interactiva en diferents contextos per resoldre problemes. Si el docent dissenya activitats que exigeixen aquesta transferència, està alineant-se amb el propòsit fonamental del currículum competencial, que és preparar l'alumnat per a la vida.
+    *   **Exemple complet de raonament:** "Un docent de 3r d'ESO expressa que els seus alumnes saben les regles gramaticals, però no les apliquen correctament en la redacció de textos propis. L'agent podria raonar: 'El marc competencial subratlla que aprendre una llengua no consisteix tan sols en adquirir un codi, sinó en saber utilitzar-lo de manera efectiva en diferents situacions comunicatives, com va plantejar M. Canale amb la competència comunicativa. Per tant, en lloc de només revisar les regles de forma aïllada, el docent podria dissenyar una tasca on els alumnes hagin de redactar un text amb un propòsit comunicatiu real i un destinatari clar, per exemple, una carta al director d'un diari sobre un problema del barri o un article per al blog de l'escola. En aquesta activitat, la correcció gramatical esdevindria una eina per aconseguir una comunicació efectiva i persuasiva, no un fi en si mateixa. Això promouria la funcionalitat de l'aprenentatge i la seva aplicació en un context significatiu, integrant coneixements i fomentant l'autonomia personal en el procés de creació del text.'"
 
-**Exemple:** Si un docent expressa que els seus alumnes memoritzen conceptes però no saben aplicar-los, l'agent hauria de suggerir el disseny de situacions d'aprenentatge. Per exemple, en lloc d'explicar la fotosíntesi, es podria proposar un projecte on els alumnes hagin de dissenyar un petit hort escolar, investigant les necessitats de les plantes, els cicles de l'aigua i la llum. Això els obligaria a buscar informació, col·laborar, resoldre problemes inesperats i comunicar els seus descobriments, activant diverses competències de manera autèntica i significativa. Aquesta aproximació va més enllà de la simple transmissió de continguts, fomentant la transferència del coneixement.
+    *   **Nom:** Avaluació Autèntica i Formativa
+    *   **Quan aplica:** Quan el docent busca avaluar la capacitat de l'alumne per aplicar coneixements i habilitats en contextos reals o simulats, i no només la memorització.
+    *   **Fonament:** L'avaluació competencial va més enllà de la simple reproducció de continguts, centrant-se en la funcionalitat dels aprenentatges, la resolució de problemes i la demostració de comprensió, reflexió i discerniment. Ha de ser coherent amb els principis d'un currículum orientat a la vida.
+    *   **Exemple complet de raonament:** "Una professora de Batxillerat vol avaluar la comprensió dels seus alumnes sobre un tema científic complex, però sent que els exàmens tradicionals no reflecteixen la seva capacitat real d'aplicació. L'agent podria suggerir: 'En lloc d'un examen tradicional de preguntes tancades, la professora podria demanar als alumnes que dissenyin una campanya de sensibilització sobre un problema de salut pública relacionat amb el tema, dirigida a un públic específic de la comunitat escolar. Aquesta tasca requeriria no només la comprensió dels coneixements científics (competència gramatical en el sentit de domini del codi conceptual), sinó també la capacitat de seleccionar i adaptar la informació (competència discursiva), utilitzar un llenguatge i un format adequats per al públic objectiu (competència sociolingüística) i resoldre els reptes de la comunicació (competència estratègica), tal com descriu Canale. Així s'avalua la competència de manera integral i funcional, proporcionant evidències de la seva capacitat de transferència i aplicació en un context significatiu.'"
 
+    *   **Nom:** Foment de la Reflexió i el Discerniment
+    *   **Quan aplica:** Quan el docent vol que els alumnes desenvolupin un pensament crític, qüestionin la informació i prenguin decisions informades.
+    *   **Fonament:** La definició de competència inclou explícitament la "comprensió, la reflexió i el discerniment" com a elements clau, així com la consideració de la "dimensió social de cada situació". Això va més enllà de la simple adquisició de fets.
+    *   **Exemple complet de raonament:** "Un mestre de Primària observa que els seus alumnes accepten la informació sense qüestionar-la i tenen dificultats per formar opinions pròpies. L'agent podria proposar: 'Per desenvolupar la competència de reflexió i discerniment, el mestre podria introduir dilemes ètics o problemes oberts en les seves classes, com ara la gestió de residus a l'escola o el consum responsable. En lloc de donar la solució, els alumnes haurien de discutir en grup, investigar diferents perspectives, analitzar les conseqüències de cada opció i justificar les seves propostes, tenint en compte l'impacte social i ambiental. Això els força a integrar informació de diverses fonts, a reflexionar sobre les implicacions i a discernir la millor opció, preparant-los per a la resolució de problemes de la vida real, un dels pilars del marc competencial, i fomentant la seva autonomia intel·lectual.'"
+
+    *   **Nom:** Interdisciplinarietat Activa
+    *   **Quan aplica:** Quan el docent vol trencar els compartiments estancs de les matèries i promoure la connexió entre diferents àrees de coneixement.
+    *   **Fonament:** El marc competencial destaca la "transversalitat dels aprenentatges" i la "integració de coneixements" vinculats a diferents sabers per a la resolució de problemes. La col·laboració entre àrees és essencial per aconseguir aquesta integració.
+    *   **Exemple complet de raonament:** "Un grup de professors d'ESO es queixa que els alumnes no veuen la connexió entre el que aprenen en diferents assignatures i que els coneixements queden aïllats. L'agent podria suggerir: 'Per abordar aquesta fragmentació, els professors podrien col·laborar en el disseny i la implementació d'un projecte interdisciplinari que requereixi l'aplicació de coneixements de diverses àrees. Per exemple, un projecte sobre el canvi climàtic podria implicar l'anàlisi de dades en matemàtiques, la investigació científica en ciències naturals, la redacció d'informes i presentacions en llengua, i l'estudi de les implicacions socials i econòmiques en socials. Aquesta aproximació no només faria els aprenentatges més funcionals i significatius per als alumnes, sinó que també reforçaria la idea que les competències es desenvolupen a través de la integració de sabers, preparant els alumnes per a la complexitat dels problemes del món real, tal com propugna el currículum competencial.'"
+
+    *   **Nom:** Foment de l'Autonomia en l'Aprenentatge
+    *   **Quan aplica:** Quan el docent vol que els alumnes prenguin un rol actiu en el seu propi procés d'aprenentatge i desenvolupin la capacitat d'aprendre per si mateixos.
+    *   **Fonament:** Un dels tres aspectes bàsics de la proposta curricular competencial és "l'autonomia personal en el procés d'aprenentatge". Això implica que l'alumnat ha de ser capaç de gestionar el seu propi procés, reflexionar sobre ell i prendre decisions.
+    *   **Exemple complet de raonament:** "Una docent de FP vol que els seus alumnes siguin més proactius i independents en la resolució de tasques tècniques. L'agent podria raonar: 'Per fomentar l'autonomia personal, que és un pilar fonamental del marc competencial, la docent podria implementar metodologies on els alumnes tinguin més control sobre el seu propi aprenentatge. Per exemple, en lloc de donar instruccions pas a pas per a un projecte tècnic, podria presentar un repte o problema complex (com ara dissenyar un prototip amb unes especificacions determinades) i guiar els alumnes perquè investiguin, planifiquin i executin les seves pròpies solucions, oferint suport quan sigui necessari però sense resoldre'ls la tasca. Això els permetria desenvolupar la capacitat de discerniment, la reflexió i la resolució de problemes de manera autònoma, preparant-los per a les demandes del món laboral i la vida adulta, on la iniciativa i la capacitat d'adaptació són clau per a l'èxit professional i personal.'"
+
+*   **Heurístiques per a l'Agent ALUMNE**
+
+    *   **Nom:** Conecta i Aplica
+    *   **Quan aplica:** Quan l'alumne es pregunta per la utilitat o el sentit d'un aprenentatge concret que li sembla abstracte o desconnectat.
+    *   **Fonament:** Les competències busquen la funcionalitat dels aprenentatges i la seva aplicació en diferents contextos per resoldre problemes. L'alumne ha d'entendre que el que aprèn té un propòsit més enllà de l'examen.
+    *   **Exemple complet de raonament:** "Un alumne de 1r d'ESO es pregunta: 'Per a què serveix aprendre els tipus de text si després no els utilitzo enlloc?' L'agent podria respondre: 'El que aprens sobre els tipus de text no és només per memoritzar-los, sinó per saber com utilitzar el llenguatge de manera efectiva en diferents situacions de la teva vida. Per exemple, saber distingir un text descriptiu d'un argumentatiu t'ajuda a entendre millor el que llegeixes i a escriure de manera més clara quan vols explicar alguna cosa o convèncer algú. Pensa en com pots aplicar el que has après sobre, per exemple, un text descriptiu, per descriure un lloc que t'agrada a un amic, o per fer un anunci. L'objectiu és que puguis utilitzar aquests coneixements de manera pràctica per comunicar-te millor i resoldre problemes, no només per a un examen. Això és el que vol dir ser 'competent' en comunicació, anar més enllà de la simple gramàtica per saber actuar en el món real.'"
+
+    *   **Nom:** Pregunta't el Perquè
+    *   **Quan aplica:** Quan l'alumne troba un concepte difícil o abstracte i no en veu la relació amb el món real o amb altres coneixements.
+    *   **Fonament:** La competència implica comprensió, reflexió i discerniment, no només memorització. Qüestionar el "per què" ajuda a construir un aprenentatge significatiu i a integrar coneixements.
+    *   **Exemple complet de raonament:** "Una alumna de 4t d'ESO està estudiant un concepte complex de física i se sent frustrada perquè no li troba sentit. L'agent podria guiar-la: 'Quan un concepte sembla difícil, prova de preguntar-te 'per què és important això?' o 'on podria veure això aplicat en el món real?'. El currículum competencial busca que els aprenentatges siguin funcionals i útils per resoldre problemes. Per exemple, si estudies l'electricitat, pensa en com s'aplica en els aparells que utilitzes cada dia, en la generació d'energia o en fenòmens naturals. Aquesta reflexió t'ajudarà no només a entendre millor el concepte en si mateix, sinó també a connectar-lo amb altres coneixements i a veure la seva utilitat pràctica, que és clau per desenvolupar una competència real i duradora, i no només per aprovar un examen.'"
+
+    *   **Nom:** Col·labora per Resoldre
+    *   **Quan aplica:** Quan l'alumne s'enfronta a un problema complex o una tasca que requereix diferents perspectives i habilitats, i necessita suport o noves idees.
+    *   **Fonament:** La definició de competència inclou la "dimensió social de cada situació" i la resolució de problemes. Molts reptes de la vida real es resolen millor en equip, i la col·laboració és una competència en si mateixa.
+    *   **Exemple complet de raonament:** "Un alumne de Batxillerat té dificultats per estructurar un projecte de recerca individual i se sent bloquejat. L'agent podria suggerir: 'Recorda que molts problemes complexos es resolen millor en equip. El marc competencial subratlla la importància de la dimensió social de l'aprenentatge i la resolució de problemes. Podries parlar amb companys per intercanviar idees sobre com han enfocat projectes similars, o demanar la seva opinió sobre les teves propostes inicials. Aquesta interacció no només t'aportarà noves perspectives i possibles solucions, sinó que també et permetrà practicar la teva competència comunicativa i social, aprenent a col·laborar, a escoltar i a construir coneixement de manera conjunta, la qual cosa és una habilitat molt valorada en qualsevol context, ja sigui acadèmic o professional, i et farà més autònom a llarg termini.'"
 ---
 
-## H2 Integrar els Vectors Clau del Currículum — DOCENT
+## 5. FONTS DEL CORPUS
 
-**Quan aplica:** Quan el docent vol assegurar un enfocament holístic de l'educació, més enllà dels continguts acadèmics, i alinear-se amb els principis del currículum de primària. *
+| # | Títol | URL |
+|---|-------|-----|
+| 1 | cursos:curriculum:eso_btx:dcs1:modul_1:practica_2 [Formació del professorat] | http://ateneu.xtec.cat/wikiform/wikiexport/cursos/curriculum/eso_btx/dcs1/modul_1/practica_2 |
+| 2 | cart_1b04814ca9.pdf | http://www.xtec.cat/~jvert/eso/primer/mare/9/conta/cart.pdf |
 
-**Fonament:** El currículum de primària es fonamenta en sis vectors clau (aprenentatges competencials, perspectiva de gènere, universalitat, qualitat de les llengües, ciutadania democràtica, benestar emocional) que donen identitat a l'acció educativa i asseguren el desenvolupament integral. *
-
-**Exemple:** Si un docent se centra exclusivament en els continguts d'una àrea i no veu com abordar aspectes com la coeducació o el benestar emocional, l'agent pot recordar-li la importància dels vectors clau. Per exemple, en una activitat de lectura, a més de la comprensió lectora (competència lingüística), es podria seleccionar un text que promogui la reflexió sobre rols de gènere (perspectiva de gènere) o que abordi la gestió d'emocions (benestar emocional). Això no només enriqueix l'aprenentatge, sinó que també contribueix a la formació integral de l'alumne, tal com preveu el Perfil de Sortida.
-
----
-
-## H3 Aplicar el Disseny Universal per a l'Aprenentatge (DUA) — DOCENT
-
-**Quan aplica:** Quan el docent vol dissenyar activitats i materials que siguin accessibles i significatius per a tot l'alumnat, incloent la diversitat de necessitats i estils d'aprenentatge. *
-
-**Fonament:** Tant el currículum d'infantil com el de primària subratllen la importància del DUA per promoure i reforçar el sentit dels aprenentatges de tots els infants, garantint la inclusió efectiva i la igualtat d'oportunitats. *
-
-**Exemple:** Si un docent expressa dificultats per atendre la diversitat a l'aula o per adaptar materials per a alumnes amb necessitats específiques, l'agent hauria de guiar-lo cap als principis del DUA. En lloc de fer una única presentació oral, es podria oferir la possibilitat de presentar la informació de diverses maneres (oralment, amb un mural, amb un vídeo, amb un informe escrit) i amb diferents suports (text, imatges, àudio). Això permet que cada alumne pugui demostrar el seu aprenentatge de la manera que millor s'ajusti a les seves fortaleses, sense necessitat d'adaptacions posteriors, sinó amb un disseny inclusiu des de l'inici.
-
----
-
-## H4 Prioritzar les Competències Lingüística i Matemàtica — DOCENT
-
-**Quan aplica:** Quan el docent busca reforçar les bases essencials per a l'organització del pensament i la capacitat d'aprenentatge en totes les àrees. *
-
-**Fonament:** El Pla de Govern i el currículum de primària estableixen la prioritat en la competència lingüística i la competència matemàtica, reconeixent el seu valor fonamental en l'organització del pensament i la capacitat d'aprendre. *
-
-**Exemple:** Si un docent es pregunta quines competències hauria de reforçar de manera transversal en totes les seves classes, l'agent hauria de destacar la importància de la lingüística i la matemàtica. Per exemple, en una classe de ciències socials, a més d'aprendre fets històrics, es pot demanar als alumnes que redactin informes clars i estructurats (lingüística) o que interpretin gràfics i estadístiques sobre dades demogràfiques (matemàtica). Aquesta integració no només millora les competències específiques de l'àrea, sinó que enforteix les eines bàsiques que els alumnes necessiten per a tots els aprenentatges futurs.
-
----
-
-## H5 Fomentar el Desenvolupament Integral i Harmònic — DOCENT
-
-**Quan aplica:** Quan el docent vol anar més enllà de l'acadèmic i contribuir al creixement complet de l'alumnat, tal com es defineix en el currículum d'infantil i primària. *
-
-**Fonament:** El currículum busca el "desenvolupament integral i harmònic dels infants en totes les seves dimensions", incloent aspectes cognitius, emocionals, afectius i relacionals, proporcionant un ambient de benestar i relació. *
-
-**Exemple:** Si un docent se sent desbordat per la pressió dels continguts i oblida la importància del joc o la interacció social, l'agent pot recordar-li el principi del desenvolupament integral. En educació infantil, per exemple, una activitat de joc lliure no és només un moment d'oci, sinó una oportunitat per desenvolupar la creativitat, la resolució de conflictes, l'empatia i les habilitats comunicatives. En primària, projectes col·laboratius on els alumnes han de negociar i prendre decisions conjuntes són tan importants per al desenvolupament social i emocional com per a l'adquisició de coneixements, contribuint a un Perfil de Sortida equilibrat.
-
----
-
-## H6 Connectar l'Aprenentatge amb la Vida Real — ALUMNE
-
-**Quan aplica:** Quan l'alumne no entén la utilitat d'un concepte o es pregunta per a què serveix el que està aprenent. *
-
-**Fonament:** El currículum competencial busca que el que s'aprèn es pugui utilitzar en entorns diversos i permeti resoldre problemes en diferents contextos, fent l'aprenentatge significatiu. *
-
-**Exemple:** Si un alumne pregunta "Per a què em servirà això de les fraccions?", l'agent pot guiar-lo a reflexionar sobre situacions quotidianes. Per exemple, "Pensa en quan comparteixes una pizza amb amics, o quan necessites mesurar ingredients per a una recepta, o fins i tot quan veus ofertes de 'meitat de preu' en una botiga. Les fraccions t'ajuden a entendre i calcular aquestes situacions. Com podries aplicar el que has après avui a un d'aquests exemples?" Aquesta reflexió l'ajuda a veure la rellevància pràctica i a connectar el coneixement amb la seva experiència.
-
----
-
-## H7 Reflexionar sobre com s'utilitzen les Competències — ALUMNE
-
-**Quan aplica:** Quan l'alumne ha completat una tasca i es vol que prengui consciència de les habilitats que ha posat en joc. *
-
-**Fonament:** L'assoliment del Perfil de Sortida implica el domini de competències específiques i transversals, i la metacognició és clau per al seu desenvolupament. *
-
-**Exemple:** Després que un alumne hagi realitzat un projecte en grup, l'agent pot preguntar-li: "A banda del resultat final, quines habilitats creus que has millorat treballant en equip? Has hagut de negociar? Has escoltat les idees dels altres? Com t'has organitzat per complir els terminis? Què has après sobre la teva manera de treballar amb altres persones?" Aquestes preguntes l'ajuden a identificar i valorar les competències transversals (comunicació, col·laboració, aprenentatge a aprendre) que ha desenvolupat, més enllà dels continguts concrets del projecte.
-
----
-
-## H8 Entendre el — ALUMNE
-
-**Quan aplica:** Quan l'alumne només valora els aprenentatges acadèmics i no entén la importància d'altres aspectes com el benestar emocional o les habilitats socials. *
-
-**Fonament:** El currículum busca el desenvolupament integral de la persona en totes les seves dimensions (cognitives, emocionals, afectives i relacionals) per a la vida. *
-
-**Exemple:** Si un alumne es queixa que les activitats de tutoria o de gestió emocional no són "importants" com les matemàtiques, l'agent pot ajudar-lo a comprendre la seva rellevància. "Pensa en un moment en què estaves molt nerviós o enfadat. Et va costar concentrar-te en els estudis, oi? Aprendre a gestionar les teves emocions, a comunicar-te bé amb els companys o a resoldre conflictes no només et fa sentir millor, sinó que també t'ajuda a aprendre millor, a tenir millors relacions i a estar més preparat per a qualsevol repte, tant a l'escola com fora. És part de ser una persona completa i preparada per al futur." # 5. FONTS Generalitat de Catalunya. Departament d'Educació (2025). *Concreció i desenvolupament del currículum de l'educació infantil*. Recuperat de https://documents.espai.educacio.gencat.cat/IPCNormativa/DOIGC/CUR_Infantil.pdf Generalitat de Catalunya. Departament d'Educació (2025). *Concreció i desenvolupament del currículum de l'educació bàsica: educació primària*. Recuperat de https://documents.espai.educacio.gencat.cat/IPCNormativa/DOIGC/CUR_Primaria.pdf
-
----
+*2 documents font · secció generada automàticament*

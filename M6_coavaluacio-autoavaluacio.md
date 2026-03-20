@@ -1,160 +1,254 @@
 ---
-titol: "Coavaluació i autoavaluació"
 modul: M6
+titol: "Co-avaluació i autoavaluació"
 tipus: estrategia
-etiquetes: [coavaluació, autoavaluació, regulació, autonomia, instruments avaluatius, metacognició]
-descripcio: "Estratègies per implicar l'alumnat en l'avaluació del propi aprenentatge i el dels companys, promovent la regulació, l'autonomia i la responsabilitat compartida."
+descripcio: "Estratègies per implicar l'alumnat en l'avaluació: criteris compartits, reflexió i responsabilitat"
 review_status: esborrany
+generat_at: 2026-03-18T15:34:35
 ---
 
+## 1. DESCRIPCIÓ I FONAMENT
 
-# 1. CONTINGUT
+L'autoavaluació i la coavaluació són estratègies clau de l'avaluació formativa que impliquen l'alumnat en la regulació del seu propi aprenentatge i el dels seus companys. Aquestes estratègies representen un canvi de paradigma, passant d'una avaluació merament qualificadora ("avaluació de l'aprenentatge") a una avaluació entesa com a part integral del procés d'aprenentatge ("avaluació com a aprenentatge"). L'objectiu principal és que l'alumne no només demostri el que ha après, sinó que sigui capaç de reflexionar sobre el seu progrés, identificar els seus punts forts i febles, i prendre decisions per millorar.
 
-## Definició i principis
+El fonament d'aquestes estratègies rau en diversos principis pedagògics:
+*   **Promoció de l'autonomia i la motivació:** Quan els alumnes participen activament en l'avaluació, entenen millor les seves dificultats i troben camins per superar-les, augmentant la seva motivació i autoestima. Aquesta implicació és fonamental per al desenvolupament de qualsevol competència, ja que fomenta l'autoregulació i la capacitat de seguir aprenent al llarg de la vida.
+*   **L'error com a oportunitat d'aprenentatge:** L'avaluació formativa entén l'error com una part natural i necessària del procés d'aprenentatge. En un clima d'aula on l'error no és penalitzat, els alumnes poden manifestar les seves dificultats, analitzar-ne les causes i buscar estratègies per superar-les, convertint-se en protagonistes actius de la seva millora.
+*   **Clarificació i internalització de criteris:** Compartir i, si és possible, co-construir els objectius d'aprenentatge i els criteris d'avaluació amb l'alumnat és essencial. Això permet que els estudiants comprenguin què s'espera d'ells i què fa que una tasca sigui de qualitat, facilitant la seva capacitat d'autoregulació i la transferència d'aprenentatges.
+*   **Feedback efectiu:** L'autoavaluació i la coavaluació generen un feedback ric i immediat, que és més eficaç per a la millora que una simple qualificació numèrica. Aquest feedback ha de ser constructiu, orientat a la millora i basat en criteris clars.
 
-La coavaluació i l'autoavaluació són estratègies d'avaluació formativa en què l'alumnat assumeix un rol actiu en el procés avaluatiu: en l'autoavaluació, l'aprenent valora el seu propi treball o procés d'aprenentatge; en la coavaluació, valora el treball o procés d'un company o grup. Ambdues van molt més enllà de posar-se una nota: impliquen comprendre els criteris d'avaluació, aplicar-los a produccions concretes, emetre judicis fonamentats i formular retroalimentació constructiva. Aquestes estratègies es fonamenten en el principi que l'avaluació és una competència que s'aprèn, no un privilegi del docent. Quan l'alumnat entén els criteris de qualitat i és capaç de detectar fortaleses i àrees de millora, tant en el seu treball com en el dels altres, desenvolupa la capacitat d'autoregulació, que és la clau per a l'aprenentatge autònom al llarg de la vida. Els principis fonamentals inclouen: transparència de criteris (l'alumnat ha de conèixer i comprendre els indicadors abans de valorar), gradualitat (de més pautat a més autònom), cultura de confiança i respecte (la retroalimentació entre iguals requereix un clima segur), complementarietat amb l'avaluació docent (no substitueix sinó que enriqueix), i funció formativa prioritària (l'objectiu principal és aprendre, no qualificar).
+Experts com Neus Sanmartí i Jaume Jorba han destacat que "ensenyar, aprendre i avaluar són, de fet, processos coincidents". La Dra. Jane Jones també subratlla que l'avaluació formativa dona suport als estudiants per aprendre millor i ser més bons aprenents, i que la veu dels alumnes és crucial en aquest procés.
 
-## Autors i marcs de referència
+## 2. QUAN I PER A QUI ÉS ÚTIL
 
-L'avaluació formativa i formadora ha estat teoritzada extensament en la tradició anglosaxona i francòfona. El concepte d'avaluació reguladora i la idea que l'alumnat ha de ser protagonista de la seva avaluació són centrals en l'avaluació per a l'aprenentatge (assessment for learning). Els treballs sobre autoregulació de l'aprenentatge emfatitzen el paper de l'autoavaluació com a motor del cicle de planificació-execució-reflexió. En l'àmbit català, el currículum competencial integra l'autoavaluació com a part de la competència d'aprendre a aprendre.
+Aquestes estratègies són útils en **totes les etapes educatives**, des d'Educació Infantil fins al Batxillerat i la Formació Professional, ja que el desenvolupament de l'autonomia i la capacitat d'autoregulació són transversals i fonamentals per a l'aprenentatge al llarg de la vida. És especialment beneficiós començar a treballar-les amb l'alumnat més jove, ja que la internalització d'aquestes habilitats és més senzilla abans dels 14 anys.
 
-## Exemples
+**Són aplicables a:**
+*   **Qualsevol àrea o matèria:** Des de la resolució de problemes matemàtics fins a la creació de textos, projectes científics o presentacions orals.
+*   **Diferents moments del procés d'aprenentatge:**
+    *   **Abans de les activitats:** Per clarificar objectius i criteris, i activar coneixements previs.
+    *   **Durant les activitats:** Per monitoritzar el procés, identificar dificultats i ajustar estratègies.
+    *   **Després de les activitats:** Per reflexionar sobre els aprenentatges assolits, els errors i les oportunitats de millora.
 
-### Exemple 1: Autoavaluació guiada amb escala de regulació
+**Condicions d'èxit:**
+*   **Criteris clars i compartits:** Els objectius d'aprenentatge i els criteris d'avaluació han de ser explícits, comprensibles i, idealment, co-construïts amb l'alumnat.
+*   **Clima de confiança:** L'aula ha de ser un espai segur on l'error sigui vist com una oportunitat d'aprenentatge, no com un motiu de penalització.
+*   **Acompanyament docent:** El professorat ha d'acompanyar l'alumnat en el procés d'autoregulació, tant des del punt de vista cognitiu com emocional, especialment en les fases inicials.
+*   **Diversificació d'instruments:** Adaptar els instruments i canals d'expressió (oral, escrita, visual, manipulativa) és crucial per atendre la diversitat de l'alumnat, especialment els nouvinguts o amb baixa competència lingüística.
+*   **Coherència de centre:** Un treball coherent i coordinat entre el professorat del centre reforça l'aprenentatge de l'autoregulació.
 
-Una mestra de cicle mitjà implementa un instrument d'autoavaluació al final de cada seqüència didàctica. L'instrument consisteix en una escala visual amb quatre nivells representats amb semàfors (verd, groc, taronja, vermell) per a cada criteri d'avaluació prèviament compartit. L'alumnat ha de situar-se en un nivell per a cada criteri i, essencialment, justificar la seva valoració amb una frase concreta: "Em situo en verd perquè al meu text hi ha tres arguments amb exemples" o "Em situo en groc perquè he usat connectors però no tots els que calia." Després, la mestra compara la seva valoració amb la de l'alumne i, en cas de discrepància significativa, obre un diàleg individual per ajustar la percepció. Al llarg del curs, la mestra observa que l'alumnat va afinant la seva capacitat d'autoavaluació: les discrepàncies entre la valoració de l'alumne i la del docent disminueixen, cosa que indica una millor comprensió dels criteris i una major consciència del propi nivell.
+## 3. RECURSOS NECESSARIS
 
-### Exemple 2: Coavaluació entre iguals amb protocol estructurat
+**Temps:**
+*   Dedicar temps explícit a l'inici de les unitats per compartir i co-construir objectius i criteris d'avaluació.
+*   Reservar espais regulars per a la reflexió individual i grupal sobre el procés d'aprenentatge.
+*   Permetre temps suficient perquè l'alumnat pugui realitzar les tasques i les revisions al seu propi ritme, sense pressions excessives.
+*   Temps per al docent per revisar i adaptar les activitats didàctiques a partir de l'avaluació dels alumnes.
+*   Espais de debat pedagògic entre docents per compartir pràctiques i millores.
 
-En un projecte de tecnologia de segon d'ESO, el docent implementa una sessió de coavaluació dels prototips construïts per cada grup. Abans de la sessió, l'alumnat revisa la rúbrica amb quatre criteris: funcionalitat, disseny, documentació tècnica i treball d'equip. Cada grup visita el prototip de dos altres grups i emplena una graella de retroalimentació que inclou, per a cada criteri: un punt fort concret ("Ens ha agradat que el mecanisme de poli es mou suaument perquè heu lubricat les peces") i un suggeriment de millora ("Podríeu afegir un esquema al dossier perquè es vegi el circuit complet"). El docent ha modelat prèviament com donar retroalimentació constructiva amb exemples i contraexemples ("Molt bé" no és vàlid; "El circuit funciona correctament perquè el LED s'encén quan premeu l'interruptor" sí). Cada grup rep les retroalimentacions dels companys i disposa d'una sessió per incorporar millores abans de l'avaluació final del docent. El procés de coavaluació funciona alhora com a aprenentatge: en avaluar els treballs dels altres, l'alumnat identifica solucions que pot aplicar al seu propi projecte.
+**Espai:**
+*   Aules flexibles que permetin agrupaments diversos (individual, parelles, petits grups, gran grup) per facilitar les dinàmiques d'autoavaluació i coavaluació.
 
-## Errors comuns
+**Materials:**
+*   **Rúbriques:** Eines que descriuen els nivells de qualitat esperats per a una tasca, amb criteris clars i descriptors per a cada nivell.
+*   **Llistes de comprovació (checklists):** Instruments senzills amb indicadors de "sí/no" per revisar aspectes concrets d'una tasca.
+*   **Carpetes d'aprenentatge (portfolios):** Reculls d'evidències (treballs, esborranys, reflexions) que mostren l'evolució de l'aprenentatge al llarg del temps. Poden ser físiques o digitals.
+*   **Bases d'orientació:** Seqüències ordenades d'accions per resoldre un problema o realitzar una tasca, útils per planificar i autoavaluar el procés.
+*   **Exemples de treballs:** Models de treballs de qualitat (o amb errors comuns) per analitzar i extreure criteris.
+*   **Formularis d'autoavaluació i coavaluació:** Documents estructurats per guiar la reflexió i el feedback.
+*   **Plans de Suport Individualitzat (PI):** Per a alumnes amb necessitats específiques, com a acord d'avaluació amb criteris i suports adaptats.
 
-- **Introduir la coavaluació sense treball previ de clima d'aula.** Si no hi ha confiança i respecte, la retroalimentació entre iguals pot derivar en comentaris buits, complaents o fins i tot hostils.
-- **No ensenyar a avaluar.** Demanar a l'alumnat que "s'avaluï" o "avaluï un company" sense ensenyar-li explícitament com fer-ho genera valoracions superficials o aleatòries.
-- **Usar l'autoavaluació com a eina qualificadora.** Si la nota de l'alumne depèn directament de la seva autoavaluació, hi ha un incentiu pervers per inflar la valoració. L'autoavaluació ha de ser prioritàriament formativa.
-- **Criteris ambigus.** Si els indicadors d'avaluació no són clars i compartits, l'alumnat no té referents per valorar amb rigor.
-- **No donar continuïtat.** Fer autoavaluació un cop i no tornar-hi impedeix que l'alumnat desenvolupi la competència de manera progressiva.
+**Formació:**
+*   Formació contínua del professorat en avaluació formativa, autoavaluació i coavaluació.
+*   Espais de col·laboració i intercanvi de bones pràctiques entre docents.
 
-## Matissos
+## 4. COM IMPLEMENTAR
 
-L'autoavaluació i la coavaluació no són intercanviables: serveixen propòsits complementaris. L'autoavaluació treballa la mirada interna i la regulació personal; la coavaluació treballa la mirada externa, l'empatia i la capacitat de comunicar judicis de manera constructiva. Ambdues requereixen que els criteris siguin transparents, però la coavaluació exigeix a més un treball específic de comunicació assertiva. Cal tenir present que la capacitat d'autoavaluar-se és evolutiva: un alumne de sis anys necessitarà instruments molt més concrets i visuals que un de catorze. Finalment, cal considerar els biaixos: l'alumnat amb baixa autoestima tendeix a infravalorar-se i el de alta autoestima a sobrevalorar-se; la coavaluació entre amics pot ser massa benevolent i entre alumnes en conflicte, massa severa. El docent ha de supervisar i moderar.
+La implementació de l'autoavaluació i la coavaluació es pot graduar en diferents nivells de complexitat, adaptant-se a l'edat de l'alumnat i a la seva experiència prèvia amb aquestes estratègies.
+
+### Nivell Bàsic
+1.  **Comunicació explícita d'objectius i criteris:** Abans de qualsevol activitat, el docent explica clarament què s'espera que els alumnes aprenguin i quins són els criteris per considerar un treball ben fet. Es pot fer verbalment, amb una presentació senzilla o amb un llistat de punts clau.
+2.  **Reflexió guiada post-activitat:** Després de realitzar una tasca, el docent guia una breu conversa amb preguntes com: "Què hem après avui?", "Què ha estat el més difícil?", "Com creieu que ho podríem haver fet millor?".
+3.  **Llistes de comprovació simples:** Proporcionar als alumnes llistes de comprovació amb ítems de "sí/no" per revisar aspectes bàsics del seu treball (ex: "He posat el títol?", "He revisat l'ortografia?").
+
+### Nivell Intermedi
+1.  **Co-construcció de criteris:** A partir d'exemples de treballs (bons i millorables), els alumnes, en petits grups o en gran grup, identifiquen i consensuen els criteris de qualitat per a una tasca. El docent actua com a facilitador i guia.
+2.  **Autoavaluació amb rúbriques senzilles:** Els alumnes utilitzen rúbriques amb 2-3 nivells de qualitat per avaluar el seu propi treball, identificant en quin nivell es troben i què necessiten fer per millorar.
+3.  **Coavaluació entre iguals amb feedback estructurat:** Els alumnes intercanvien treballs amb un company i utilitzen una rúbrica o llista de comprovació per oferir feedback constructiu, centrat en la millora i no en la qualificació. Es poden utilitzar frases guia com "M'agrada com has fet...", "Crec que podries millorar...", "Tinc un dubte sobre...".
+4.  **Introducció de la carpeta d'aprenentatge:** Els alumnes comencen a recopilar alguns dels seus treballs (esborranys i versions finals) i a escriure breus reflexions sobre el seu procés.
+
+### Nivell Avançat
+1.  **Autoregulació metacognitiva:** Els alumnes no només identifiquen errors, sinó que analitzen les causes profundes, dissenyen les seves pròpies estratègies de millora i les apliquen de forma autònoma, convertint la reflexió en un hàbit.
+2.  **Carpeta d'aprenentatge autònoma:** L'alumnat és responsable de seleccionar els elements de la seva carpeta (incloent-hi materials externs o produccions inicials i millorades), organitzar-los i justificar les seves decisions, demostrant la seva evolució i els seus aprenentatges significatius.
+3.  **Debat i argumentació avaluativa:** Es fomenten debats a l'aula on els alumnes justifiquen les seves avaluacions (pròpies i dels companys) amb evidències i criteris, desenvolupant el pensament crític i la capacitat d'argumentació.
+4.  **Bases d'orientació personalitzades:** Els alumnes creen les seves pròpies bases d'orientació per a tasques complexes, que utilitzen per planificar, executar i autoavaluar el seu treball de manera autònoma.
+
+### Adaptacions per diversitat
+*   **Alumnat nouvingut o amb baixa competència lingüística:**
+    *   Diversificar els canals d'expressió: permetre que demostrin el seu aprenentatge mitjançant dibuixos, maquetes, presentacions orals amb suport visual, o en la seva llengua materna si és possible.
+    *   Adaptar els instruments: utilitzar llistes de comprovació amb pictogrames, rúbriques simplificades o amb suport visual.
+    *   Graduar els objectius: establir objectius d'aprenentatge progressius i realistes, reflectits en un Pla de Suport Individualitzat (PI).
+*   **Alumnat amb necessitats educatives específiques (NEE):**
+    *   El PI esdevé un acord d'avaluació amb criteris adaptats i mesures de suport personalitzades.
+    *   Proporcionar suport addicional en la comprensió dels criteris i en l'ús dels instruments d'auto/coavaluació.
+    *   Permetre més temps per a la reflexió i la revisió.
+*   **Diferents ritmes d'aprenentatge:**
+    *   Oferir tasques amb diferents nivells d'exigència.
+    *   Permetre temps flexible per a la realització de les activitats i les fases d'avaluació.
+    *   Proporcionar acompanyament individualitzat quan sigui necessari.
+
+## 5. EXEMPLES D'APLICACIÓ PER ETAPA
+
+### Primària (Cicle Inicial/Mitjà)
+*   **Activitat:** **"El menú saludable d'en Josep"** (adaptació d'una activitat sobre nutrició).
+    *   **Descripció:** En lloc de classificar aliments, els alumnes analitzen la dieta poc saludable d'un personatge fictici ("En Josep és un noi grassonet i es posa malalt sovint") i, pensant en el que han estudiat sobre nutrició, proposen un menú setmanal sa i equilibrat per a ell, utilitzant la piràmide d'aliments com a referència.
+    *   **Autoavaluació i Coavaluació:**
+        1.  **Co-creació de criteris:** Abans de dissenyar el menú, el docent mostra exemples de menús (bons i no tan bons) i, amb els alumnes, elaboren una llista de comprovació amb criteris clars: "El menú inclou aliments de tots els grups de la piràmide?", "Hi ha varietat d'aliments cada dia?", "El menú és equilibrat (no massa greixos, sucres...)?", "És atractiu per a un nen?".
+        2.  **Autoavaluació:** Cada alumne dissenya el seu menú i, abans de la versió final, l'autoavalua amb la llista de comprovació, marcant "sí" o "no" i anotant què podria millorar.
+        3.  **Coavaluació:** En parelles, intercanvien els menús i les llistes de comprovació, oferint feedback constructiu basat en els criteris acordats. Per exemple, "M'agrada que hagis posat fruita cada dia, però potser hi ha massa pasta".
+    *   **Resultat esperat:** Els alumnes milloren el seu menú, demostren comprensió de la nutrició i desenvolupen la capacitat d'avaluar i millorar el seu propi treball i el dels altres.
+
+### Secundària (ESO)
+*   **Activitat:** **"Resolució reflexiva de problemes matemàtics"**.
+    *   **Descripció:** Els alumnes resolen problemes aritmètics complexos que requereixen no només arribar a la solució correcta, sinó també analitzar la informació, representar la situació, desenvolupar estratègies explícites i justificar-les.
+    *   **Autoavaluació i Coavaluació:**
+        1.  **Rúbrica detallada:** El docent proporciona una rúbrica (com la de l'Escola Banús per a problemes aritmètics) que avalua quatre dimensions: "Analitza la informació", "Representa la situació", "Desenvolupa estratègies i les justifica", i "Comunica la solució correcta". Cada dimensió té 4 nivells de qualitat amb descriptors clars.
+        2.  **Autoavaluació:** Després de resoldre un problema, cada alumne utilitza la rúbrica per autoavaluar el seu procés i la seva solució, identificant en quin nivell es troba en cada dimensió i reflexionant sobre com podria millorar.
+        3.  **Coavaluació:** En grups de 3-4, els alumnes intercanvien els seus problemes resolts i les seves autoavaluacions. Utilitzen la mateixa rúbrica per coavaluar el treball dels companys, proporcionant feedback específic i argumentat.
+    *   **Resultat esperat:** Els alumnes no només milloren la seva capacitat de resoldre problemes, sinó que també desenvolupen habilitats metacognitives, aprenen a justificar les seves decisions i a comunicar el seu raonament matemàtic de manera més efectiva.
+
+### Batxillerat/FP
+*   **Activitat:** **"Elaboració d'un climograma i anàlisi climàtica"**.
+    *   **Descripció:** Els alumnes han d'elaborar un climograma a partir de dades climàtiques i, posteriorment, analitzar les característiques climàtiques de la localitat representada, comparant-la amb altres.
+    *   **Autoavaluació i Coavaluació:**
+        1.  **Base d'orientació:** El docent, juntament amb els alumnes, co-crea una "base d'orientació" que desglossa els passos per a l'elaboració correcta d'un climograma (ex: "L'eix horitzontal es divideix en dotze parts iguals per als mesos?", "Els eixos verticals de temperatures i precipitacions tenen una relació 1:2?", "Les dades estan representades correctament?"). Aquesta base també inclou punts per a l'anàlisi (ex: "S'identifica el tipus de clima?", "Es justifiquen les conclusions amb dades del climograma?").
+        2.  **Autoavaluació:** Durant el procés d'elaboració i anàlisi, els alumnes utilitzen la base d'orientació per autoavaluar cada pas, marcant si l'han realitzat correctament i anotant dubtes o errors.
+        3.  **Coavaluació:** En parelles, intercanvien els seus climogrames i anàlisis. Utilitzen la base d'orientació per revisar el treball del company, assenyalant els punts forts i suggerint millores en els passos o en la justificació de l'anàlisi.
+    *   **Resultat esperat:** Els alumnes milloren la precisió en l'elaboració de gràfics, la capacitat d'anàlisi i argumentació, i la seva autonomia en la realització de tasques complexes, ja que la base d'orientació els serveix de guia i instrument de revisió.
+
+## 6. INDICADORS D'ÈXIT
+
+Els indicadors d'èxit d'aquestes estratègies es manifesten en canvis en l'alumnat, en la pràctica docent i en el clima d'aula:
+
+*   **En l'alumnat:**
+    *   Capacitat d'identificar els objectius d'aprenentatge i els criteris d'avaluació de les tasques.
+    *   Ús actiu del feedback (propi i dels companys) per revisar i millorar el seu treball.
+    *   Major autonomia en la planificació i execució de tasques.
+    *   Verbalització i justificació dels seus aprenentatges, dificultats i estratègies de millora.
+    *   Reducció de l'ansietat davant l'avaluació, percebent-la com una oportunitat de creixement.
+    *   Millora en la qualitat dels productes finals gràcies al procés de revisió.
+    *   Desenvolupament d'habilitats de pensament crític i argumentació.
+*   **En la pràctica docent:**
+    *   Ajustament de les estratègies didàctiques a partir de les evidències d'aprenentatge i les reflexions dels alumnes.
+    *   Major transparència en els processos d'avaluació i qualificació.
+    *   Reducció de la càrrega de correcció centrada exclusivament en el docent.
+    *   Enriquiment del projecte lingüístic de centre mitjançant la catalogació d'activitats exitoses.
+*   **En el clima d'aula:**
+    *   L'error és acceptat i gestionat com a part normal del procés d'aprenentatge.
+    *   Foment d'un ambient de col·laboració i suport entre iguals.
+    *   Augment de la participació i implicació de l'alumnat en el seu propi aprenentatge.
+
+## 7. ERRORS COMUNS
+
+Per evitar que l'autoavaluació i la coavaluació esdevinguin meres formalitats o generin frustració, cal tenir en compte els següents errors comuns:
+
+*   **No explicitar o no compartir els objectius i criteris d'avaluació:** Si els alumnes no saben clarament què s'espera d'ells o com serà avaluat el seu treball, l'autoavaluació i la coavaluació perden el seu sentit formatiu. L'avaluació es percep com un judici extern i arbitrari, no com una eina per a la millora.
+*   **Centrar-se exclusivament en el resultat final sense valorar el procés:** L'essència de l'autoavaluació i la coavaluació és la regulació del procés d'aprenentatge. Ignorar els esborranys, les revisions, les reflexions intermèdies o la justificació de decisions buida de contingut formatiu l'estratègia i desincentiva la millora contínua.
+*   **Utilitzar instruments d'auto/coavaluació massa complexos o poc clars:** Si les rúbriques, llistes de comprovació o bases d'orientació són ambigües, massa llargues, o els indicadors no són objectius i observables, els alumnes no podran utilitzar-les eficaçment per autoregular-se. Cal que els instruments siguin comprensibles i pràctics.
+*   **No dedicar temps suficient a la reflexió i al feedback:** L'autoavaluació i la coavaluació requereixen temps per a la reflexió individual, el diàleg entre iguals i el feedback del docent. Si es fa de pressa o superficialment, sense espais per a la discussió i la reformulació, no hi haurà un aprenentatge significatiu ni una millora real.
+*   **Penalitzar l'error o la identificació de dificultats:** Si els alumnes senten que admetre errors o identificar les seves pròpies dificultats serà penalitzat en la qualificació, no s'atreviran a ser honestos en la seva avaluació, frustrant l'objectiu formatiu de l'estratègia. Cal fomentar un clima de confiança on l'error sigui vist com una font d'aprenentatge.
+*   **No ensenyar explícitament a autoavaluar-se i coavaluar-se:** No es pot assumir que els alumnes saben com fer-ho. Cal modelar, guiar i practicar aquestes habilitats de manera progressiva, proporcionant exemples i pautes clares per a la reflexió i el feedback constructiu.
+*   **No integrar l'auto/coavaluació en la qualificació global:** Si les activitats d'autoavaluació i coavaluació no tenen cap pes o reconeixement en la qualificació final, els alumnes poden percebre-les com una activitat addicional sense importància real, reduint la seva implicació i la seva percepció de valor.
 
 ---
-
 # 2. CONNEXIONS AMB ALTRES DOCUMENTS DEL CORPUS
-
-| Element | Relació | Fitxer |
-|---|---|---|
-| Portfoli i evidències | El portfoli incorpora autoavaluació com a component reflexiu essencial | `M6_portfoli-evidencies.md` |
-| Adaptació avaluació NEE | Cal adaptar els instruments d'autoavaluació i coavaluació per a alumnat amb NEE | `M6_adaptacio-avaluacio-NEE.md` |
-| Gestió aula i rutines | Les rutines d'autoavaluació requereixen un clima d'aula segur i estructurat | `M7_gestio-aula-rutines.md` |
-| Enfocament restauratiu | La coavaluació constructiva comparteix principis comunicatius amb el diàleg restauratiu | `M7_enfocament-restauratiu-ERG.md` |
+*   **Marc_Avaluacio_Formativa**: Aquest document detalla com l'autoavaluació i coavaluació són pilars fonamentals de l'avaluació formativa, que busca la regulació de l'aprenentatge.
+*   **Eina_Rubrica**: Les rúbriques són instruments clau per facilitar l'autoavaluació i coavaluació, proporcionant criteris clars per a la reflexió de l'alumnat.
+*   **Eina_Carpeta_Aprenentatge**: La carpeta d'aprenentatge és un espai idoni per recollir les evidències del procés d'autoavaluació i coavaluació, així com les reflexions dels alumnes.
+*   **Eina_Base_Orientacio**: Les bases d'orientació ajuden els alumnes a estructurar el seu procés de treball, facilitant l'autoavaluació dels passos seguits.
+*   **Perfil_Alumne_Nouvingut**: Aquestes estratègies són crucials per adaptar l'avaluació a alumnes amb baixa competència lingüística, diversificant canals i instruments.
+*   **Protocol_PI**: El Pla Individualitzat (PI) pot incorporar criteris d'autoavaluació i coavaluació adaptats per a alumnes amb necessitats educatives específiques.
+*   **Estrategia_Feedback_Constructiu**: L'autoavaluació i coavaluació generen un feedback ric que, ben gestionat, potencia la millora contínua.
 
 # 3. DETECCIÓ (Variables de Context)
-
-**Senyals docent:**
-1. El docent percep que l'alumnat no té consciència del seu propi nivell i es sorprèn de les qualificacions, tant per amunt com per avall.
-2. Es vol transitar cap a una avaluació més formativa però no es troba la manera d'implicar l'alumnat en el procés.
-3. El docent dedica molt de temps a donar retroalimentació individual i busca maneres d'ampliar-la amb la retroalimentació entre iguals.
-4. Les rúbriques existents no s'utilitzen com a eina d'aprenentatge sinó només com a eina de qualificació docent.
-5. L'alumnat mostra una relació passiva amb l'avaluació: rep notes sense processar-les ni actuar en conseqüència.
-
-**Senyals alumne:**
-- L'alumnat pregunta constantment "està bé?" o "quant trauré?" sense ser capaç de valorar el propi treball.
-- Es detecta dificultat per identificar errors propis o per reconèixer la qualitat en el treball d'altres.
-- L'alumnat no revisa els seus treballs abans de lliurar-los perquè no sap què buscar.
-
-**Senyals context:**
-- El centre vol implementar un model competencial on l'autoregulació sigui una competència transversal.
-- Hi ha una cultura d'aula on el docent és l'única font de validació i l'alumnat no es veu com a agent avaluador.
-
-**Anti-senyals:**
-- Si el clima d'aula és hostil o hi ha dinàmiques d'assetjament, la coavaluació entre iguals pot ser contraproduent fins que no es resolgui el problema de convivència.
-- Si l'alumnat encara no comprèn els criteris d'avaluació, l'autoavaluació serà un exercici buit; cal primer un treball de comprensió dels indicadors.
+*   **Senyals del docent:**
+    *   Pregunta: "Com puc fer els meus alumnes més autònoms en l'avaluació del seu propi aprenentatge?"
+    *   Observa que els alumnes no entenen per què han tret una determinada nota o què han de fer per millorar.
+    *   Vol reduir la seva càrrega de correcció i potenciar la responsabilitat de l'alumnat.
+    *   Busca maneres de fer l'avaluació menys estressant i més motivadora per als alumnes.
+    *   S'adona que els alumnes no transfereixen els aprenentatges d'una tasca a una altra.
+*   **Senyals de l'alumne:**
+    *   Pregunta: "Per què he suspès?" o "Què he de fer per treure millor nota?" sense una comprensió profunda.
+    *   Mostra desmotivació o ansietat davant les proves d'avaluació.
+    *   No és capaç d'identificar els seus propis errors o punts forts en una tasca.
+*   **Senyals de context:**
+    *   S'està implementant un nou currículum per competències que emfatitza l'avaluació formativa.
+    *   L'activitat proposada requereix un procés complex o té múltiples solucions.
+    *   Hi ha una diversitat significativa de ritmes i nivells d'aprenentatge a l'aula.
+*   **Anti-senyals:**
+    *   Si l'objectiu principal és una avaluació sumativa ràpida i estandarditzada sense intenció de millora.
+    *   Si el docent no està disposat a cedir control sobre els criteris d'avaluació o a dedicar temps a la reflexió guiada.
+    *   Si l'alumnat no té les habilitats socials o metacognitives mínimes per participar en una coavaluació constructiva (requereix treball previ).
 
 # 4. HEURÍSTIQUES I RAONAMENT PER A L'AGENT
+*   **Principi general:** Implicar l'alumnat en l'avaluació del seu propi aprenentatge i el dels seus companys potencia la seva autonomia, la comprensió dels criteris de qualitat i la capacitat d'autoregulació.
 
-## H1 Vol introduir l'autoavaluació per primera vegada amb un — DOCENT
-
-**Quan aplica:** El docent vol introduir l'autoavaluació per primera vegada amb un grup sense experiència prèvia.
-
-**Fonament:** La introducció de l'autoavaluació ha de ser molt gradual i molt pautada. Si es demana una reflexió oberta des del primer moment, l'alumnat se sent perdut i les respostes són superficials. Cal començar amb instruments tancats — escales visuals, semàfors, checklists amb preguntes de sí/no — i progressivament anar obrint cap a formats que requereixin justificació i reflexió. La gradualitat construeix la competència autoavaluativa de manera sòlida.
-
-**Exemple:** Una mestra de primer de primària comença amb un sistema molt senzill: al final de cada activitat, l'alumnat tria entre tres cares (content, neutre, preocupat) per respondre "Com m'ha anat?" A les dues setmanes, afegeix una segona pregunta: "Què he fet bé?" amb opcions il·lustrades. Al cap d'un mes, introdueix "Què podria millorar?" amb suport visual. A final de curs, l'alumnat ja és capaç de reflexionar breument sobre el seu procés amb frases senzilles.
-
+*   **Heurístiques per a l'Agent DOCENT:**
+    *   **Nom:** **Clarifica i Co-crea Criteris.**
+        *   **Quan aplica:** Sempre que es comença una nova unitat, projecte o tasca significativa.
+        *   **Fonament:** Els alumnes aprenen millor quan entenen clarament què s'espera d'ells i com serà avaluat el seu treball. La co-creació de criteris augmenta la seva implicació i la internalització d'aquests.
+        *   **Exemple complet de raonament:** Un docent està a punt de començar un projecte de recerca. En lloc de simplement lliurar una rúbrica, l'agent podria suggerir: "Per assegurar la implicació i comprensió dels alumnes, comenceu la sessió preguntant-los què creuen que fa que una recerca sigui 'bona' o 'completa'. Anoteu les seves idees a la pissarra. Després, presenteu la rúbrica que teniu preparada i compareu-la amb les seves aportacions, destacant les coincidències i explicant les diferències. Això no només clarificarà els objectius i criteris d'avaluació des del principi, sinó que també farà que els alumnes se sentin part del procés, augmentant la seva motivació i la probabilitat que utilitzin la rúbrica de manera efectiva per autoregular el seu treball."
+    *   **Nom:** **Fomenta la Reflexió sobre el Procés i l'Error.**
+        *   **Quan aplica:** Durant i després de qualsevol activitat d'aprenentatge, especialment aquelles que impliquen un producte o una resolució de problemes.
+        *   **Fonament:** L'aprenentatge significatiu sorgeix de la reflexió sobre el que s'ha fet, la identificació d'errors com a oportunitats i la planificació de millores. Un clima d'aula segur on l'error no és penalitzat és essencial.
+        *   **Exemple complet de raonament:** Després d'una activitat on els alumnes han dissenyat un prototip, el docent observa que molts han comès errors similars. L'agent podria raonar: "En lloc de corregir directament els errors, organitzeu una sessió de 'galeria' on els alumnes mostrin els seus prototips i, en petits grups, utilitzin una llista de comprovació per identificar punts forts i àrees de millora. Després, feu una posada en comú on es discuteixin els errors més comuns de forma anònima, preguntant 'Per què creieu que va passar això?' i 'Què podríem fer diferent la propera vegada?'. Aquesta aproximació transforma l'error en una font col·lectiva d'aprenentatge, despenalitza la fallada individual i fomenta la metacognició."
+    *   **Nom:** **Diversifica Instruments i Canals.**
+        *   **Quan aplica:** Quan es treballa amb alumnat amb diferents ritmes d'aprenentatge, necessitats educatives específiques o baixa competència lingüística.
+        *   **Fonament:** No tots els alumnes poden demostrar el seu aprenentatge de la mateixa manera. Oferir diverses opcions per expressar el que s'ha après i per avaluar-ho facilita la inclusió i l'equitat.
+        *   **Exemple complet de raonament:** Un docent té alumnes nouvinguts amb un nivell de català inicial. L'agent podria suggerir: "Per avaluar la comprensió d'un concepte científic, en lloc de demanar només una prova escrita, oferiu als alumnes la possibilitat de crear un dibuix amb etiquetes, una maqueta, una presentació oral curta amb suport visual, o una explicació en la seva llengua materna si hi ha un company o recurs disponible per a la traducció. A més, per a l'autoavaluació, proporcioneu llistes de comprovació amb pictogrames o frases senzilles. Això permet que els alumnes demostrin el seu aprenentatge sense que la barrera lingüística sigui un obstacle insuperable i els empodera en el seu propi procés avaluatiu."
+    *   **Nom:** **Integra l'Auto/Coavaluació en la Qualificació.**
+        *   **Quan aplica:** Al planificar l'avaluació global d'una unitat o trimestre.
+        *   **Fonament:** Perquè els alumnes prenguin seriosament l'autoavaluació i la coavaluació, han de percebre que aquestes activitats tenen un valor real i contribueixen al seu progrés acadèmic.
+        *   **Exemple complet de raonament:** Un docent vol que els alumnes facin autoavaluacions de les seves presentacions orals. L'agent podria raonar: "Perquè aquesta autoavaluació sigui efectiva i no percebuda com una mera formalitat, assigneu un petit percentatge de la qualificació final de la presentació a la qualitat de l'autoavaluació realitzada. Això no significa puntuar si l'alumne s'ha posat bona nota, sinó valorar la profunditat de la seva reflexió, la identificació de punts forts i febles amb evidències, i la proposta de millores concretes. Això incentiva una autoavaluació honesta i reflexiva, ja que els alumnes veuran que la seva capacitat de metacognició és valorada i té un impacte real en la seva nota."
+    *   **Nom:** **Utilitza la Carpeta d'Aprenentatge com a Evidència de Procés.**
+        *   **Quan aplica:** Per a projectes llargs, unitats complexes o al final d'un trimestre/curs.
+        *   **Fonament:** La carpeta d'aprenentatge permet recollir el procés d'aprenentatge, no només el producte final, i facilita la reflexió sobre l'evolució, els errors i les millores.
+        *   **Exemple complet de raonament:** Un docent està implementant
 ---
 
-## H2 L'alumnat dona retroalimentació entre iguals — DOCENT
+## 5. FONTS DEL CORPUS
 
-**Quan aplica:** L'alumnat dona retroalimentació entre iguals però els comentaris són vagues o poc útils ("Molt bé", "M'agrada").
+| # | Títol | URL |
+|---|-------|-----|
+| 1 | cursos:escola_inclusiva:ansu:b6:index [Formació del professorat] | https://ateneu.xtec.cat/wikiform/wikiexport/cursos/escola_inclusiva/ansu/b6/index |
+| 2 | cursos:escola_inclusiva:ansu:b6:b6t5 [Formació del professorat] | https://ateneu.xtec.cat/wikiform/wikiexport/cursos/escola_inclusiva/ansu/b6/b6t5 |
+| 3 | cursos:escola_inclusiva:ansu:b7:b7t2 [Formació del professorat] | https://ateneu.xtec.cat/wikiform/wikiexport/cursos/escola_inclusiva/ansu/b7/b7t2 |
+| 4 | cursos:escola_inclusiva:ansu:b6:b6t1 [Formació del professorat] | https://ateneu.xtec.cat/wikiform/wikiexport/cursos/escola_inclusiva/ansu/b6/b6t1 |
+| 5 | cursos:escola_inclusiva:ansu:b6:b6t4 [Formació del professorat] | https://ateneu.xtec.cat/wikiform/wikiexport/cursos/escola_inclusiva/ansu/b6/b6t4 |
+| 6 | cursos:curriculum:inf_pri:cape:aval:index [Formació del professorat] | http://ateneu.xtec.cat/wikiform/wikiexport/cursos/curriculum/inf_pri/cape/aval/index |
+| 7 | cursos:escola_inclusiva:ansu:b6:b6t2 [Formació del professorat] | https://ateneu.xtec.cat/wikiform/wikiexport/cursos/escola_inclusiva/ansu/b6/b6t2 |
+| 8 | cursos:curriculum:inf_pri:cape:aval:taller:index [Formació del professorat] | http://ateneu.xtec.cat/wikiform/wikiexport/cursos/curriculum/inf_pri/cape/aval/taller/index |
+| 9 | cursos:curriculum:inf_pri:cape:aval:taller:s2 [Formació del professorat] | http://ateneu.xtec.cat/wikiform/wikiexport/cursos/curriculum/inf_pri/cape/aval/taller/s2 |
+| 10 | cursos:curriculum:inf_pri:cape:aval:taller:s1 [Formació del professorat] | http://ateneu.xtec.cat/wikiform/wikiexport/cursos/curriculum/inf_pri/cape/aval/taller/s1 |
+| 11 | avaluar_per_aprendre_dc4082466b.pdf | http://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0024/fc53024f-626e-423b-877a-932148c56075/avaluar_per_aprendre.pdf |
+| 12 | carpeta-aprenentatge_2620ab3872.pdf | https://xtec.gencat.cat/web/.content/curriculum/xarxacb/documents/instruments-avaluacio-formativa/carpeta-aprenentatge.pdf |
+| 13 | 3._modificacio_prova_avaluacio_cicle_inicial_8594dbd6d4.pdf | http://ateneu.xtec.cat/wikiform/wikiexport/_media/cursos/curriculum/inf_pri/cape/3._modificacio_prova_avaluacio_cicle_inicial.pdf |
+| 14 | practica_3_8db195af30.pdf | http://ateneu.xtec.cat/wikiform/wikiexport/_media/cursos/curriculum/inf_pri/cape/practica_3.pdf |
+| 15 | avaluaci-formativa_-qu-hi-ha-de-nou_deb2ffb895.pdf | http://ateneu.xtec.cat/wikiform/wikiexport/_media/cursos/curriculum/inf_pri/cape/avaluaci-formativa_-qu-hi-ha-de-nou.pdf |
+| 16 | La-carpeta-daprenentatge_2cdfda0ad0.pdf | http://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0003/0e9f449b-790e-4fd7-a9e9-1cab53252ae3/La-carpeta-daprenentatge.pdf |
+| 17 | 5._modificacio_prova_avaluacio_cicle_superior_e34c732a04.pdf | http://ateneu.xtec.cat/wikiform/wikiexport/_media/cursos/curriculum/inf_pri/cape/5._modificacio_prova_avaluacio_cicle_superior.pdf |
+| 18 | 3a_presentacio_-autoexplicativa_5_9_88d91daaeb.pdf | http://ateneu.xtec.cat/wikiform/wikiexport/_media/cursos/curriculum/inf_pri/cape/3a_presentacio_-autoexplicativa_5_9.pdf |
+| 19 | 4._modificacio_prova_avaluacio_cicle_mitja_506362b8ba.pdf | http://ateneu.xtec.cat/wikiform/wikiexport/_media/cursos/curriculum/inf_pri/cape/4._modificacio_prova_avaluacio_cicle_mitja.pdf |
+| 20 | 2._es_competencial_aquesta_prova_b4b85a43ac.pdf | http://ateneu.xtec.cat/wikiform/wikiexport/_media/cursos/curriculum/inf_pri/cape/2._es_competencial_aquesta_prova.pdf |
+| 21 | Full-indicadors-compartir-objectius-i-criteris-ava_4448f3a238.pdf | http://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0083/c7780a61-36f9-4a59-aeca-21acafc597f3/Full-indicadors-compartir-objectius-i-criteris-avaluacio.pdf |
+| 22 | avaluaci-formativa_-qu-hi-ha-de-nou_228021edaf.pdf | http://xtec.gencat.cat/web/.content/documents/avaluaci-formativa_-qu-hi-ha-de-nou.pdf |
+| 23 | Pautes-per-compartir-objectius-i-criteris-d-avalua_32b5566812.pdf | http://xtec.gencat.cat/web/.content/documents/Pautes-per-compartir-objectius-i-criteris-d-avaluaci.pdf |
+| 24 | Rubrica-Bans_b879cedf7d.pdf | http://xtec.gencat.cat/web/.content/documents/Rubrica-Bans.pdf |
+| 25 | formativa-proves-avaluacio_fde7363bd0.pdf | http://xtec.gencat.cat/web/.content/documents/formativa-proves-avaluacio.pdf |
+| 26 | BANUS_CI_MODIFICACIO_ACTIVITAT_COMPETENCIAL_145f5a418f.pdf | http://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0026/f5b4e60d-88cc-4364-bb7f-4cb2243769bf/BANUS_CI_MODIFICACIO_ACTIVITAT_COMPETENCIAL.pdf |
+| 27 | Mini_GAPPISA_horitzontal_1c526ecc07.pdf | http://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0014/4d35cb97-7bb9-43d3-919b-46cb8f271671/Mini_GAPPISA_horitzontal.pdf |
+| 28 | autoavaluacio-coavaluacio_52971de36c.pdf | http://xtec.gencat.cat/web/.content/curriculum/xarxacb/documents/instruments-avaluacio-formativa/autoavaluacio-coavaluacio.pdf |
+| 29 | 81d0d8_50ad5ebf0be14ae5ac31074d3ec3302d_60f99c9a2a.pdf | https://docs.wixstatic.com/ugd/81d0d8_50ad5ebf0be14ae5ac31074d3ec3302d.pdf |
+| 30 | base-orientacio_7dc60ba889.pdf | http://xtec.gencat.cat/web/.content/curriculum/xarxacb/documents/instruments-avaluacio-formativa/base-orientacio.pdf |
 
-**Fonament:** La qualitat de la retroalimentació entre iguals depèn directament de la qualitat de la instrucció prèvia sobre com donar-la. Cal ensenyar explícitament la diferència entre un comentari genèric i un comentari específic, entre un judici i una observació, entre una crítica destructiva i un suggeriment constructiu. Els protocols estructurats amb plantilles i exemples són essencials en les fases inicials.
-
-**Exemple:** Un docent detecta que la coavaluació de textos escrits genera comentaris com "Molt bé, m'agrada el teu text." Decideix dedicar una sessió a treballar la qualitat de la retroalimentació. Presenta tres comentaris sobre un text anònim: (1) "Molt bé", (2) "El teu text és interessant perquè l'inici enganxa", (3) "L'inici del teu text enganxa perquè comences amb una pregunta que dona curiositat. Al segon paràgraf podries afegir un exemple concret perquè el lector entengui millor la idea." L'alumnat identifica que el tercer és el més útil i per què. Després practiquen amb una plantilla: "Un punt fort concret del teu treball és... perquè... / Un aspecte que podries millorar és... i una manera de fer-ho seria..."
-
----
-
-## H3 Observa que l'alumnat infla les seves autoavaluacions per — DOCENT
-
-**Quan aplica:** El docent observa que l'alumnat infla les seves autoavaluacions per obtenir millors notes.
-
-**Fonament:** Aquest problema sorgeix quan l'autoavaluació es vincula directament a la qualificació. La solució no és eliminar l'autoavaluació sinó separar-la de la nota i centrar-la en la funció formativa. Quan l'alumnat sap que l'autoavaluació serveix per millorar i no per qualificar, la pressió per inflar desapareix i la honestitat augmenta. A més, la comparació explícita entre l'autoavaluació de l'alumne i la del docent és una eina d'aprenentatge molt potent.
-
-**Exemple:** Un docent de secundària canvia el sistema: l'autoavaluació ja no compta per a la nota. En canvi, la utilitza com a punt de partida per a una conversa individual de cinc minuts amb cada alumne on comparen les dues valoracions. Quan coincideixen, felicita la capacitat de discerniment. Quan divergeixen, exploren junts els motius. Al cap de dos trimestres, la precisió de les autoavaluacions millora significativament.
-
----
-
-## H4 L'alumnat es resisteix a avaluar els companys perquè — DOCENT
-
-**Quan aplica:** L'alumnat es resisteix a avaluar els companys perquè "no és cosa seva" o per por de generar conflicte.
-
-**Fonament:** La resistència a la coavaluació sovint reflecteix una cultura d'aula on avaluar és percebut com a jutjar i on jutjar és percebut com a negatiu. Cal reconfigurar la coavaluació com un acte d'ajuda mútua, no de judici. El llenguatge fa una diferència enorme: "donar retroalimentació" en lloc de "posar nota al company", "ajudar a millorar" en lloc de "corregir errors." El modelatge docent és clau.
-
-**Exemple:** Un docent presenta la coavaluació com "ser el primer lector-ajudant del teu company." Abans de la primera sessió, modela davant del grup com ell mateix revisa un text propi demanant ajuda: escriu un text, el projecta, i demana a l'alumnat que li donin retroalimentació usant la plantilla. Mostra que rebre suggeriments és útil i que no vol dir que el treball sigui dolent. Després l'alumnat practica en parelles amb un text de baixa implicació emocional (un exercici de classe, no un text personal).
-
----
-
-## H5 Ha implementat l'autoavaluació — DOCENT
-
-**Quan aplica:** El docent ha implementat l'autoavaluació però observa que l'alumnat la fa mecànicament, sense reflexió real.
-
-**Fonament:** La rutinització buida és un risc quan l'autoavaluació es converteix en un formulari repetitiu. Cal variar els instruments, connectar l'autoavaluació amb accions concretes de millora i assegurar que el docent dona resposta visible a les autoavaluacions perquè l'alumnat percebi que el que escriu es llegeix, s'utilitza i té impacte.
-
-**Exemple:** Una mestra que fa autoavaluació setmanal amb la mateixa graella detecta que les respostes es repeteixen mecànicament. Decideix alternar formats: una setmana, escala visual; la següent, dues preguntes obertes; la següent, autoavaluació oral en parella; la següent, selecció de l'evidència més significativa. A més, dedica cinc minuts a l'inici de la setmana per compartir patrons observats a les autoavaluacions i proposar accions col·lectives de millora.
-
----
-
-## H6 Un alumne amb baixa autoestima sistemàticament es puntua — DOCENT
-
-**Quan aplica:** Un alumne amb baixa autoestima sistemàticament es puntua per sota del que mereix.
-
-**Fonament:** La infravaloració crònica reflecteix un problema d'autopercepció que va més enllà de l'avaluació. L'autoavaluació pot ser una eina terapèutica si s'utilitza per mostrar a l'alumne l'evidència objectiva del seu aprenentatge. La comparació amb la valoració docent i el diàleg sobre les discrepàncies ajuden a construir una autoimage més ajustada.
-
-**Exemple:** La tutora detecta que una alumna sempre es puntua en el nivell més baix malgrat la qualitat evident del seu treball. En la conversa individual, li mostra la seva producció al costat de la rúbrica i li demana que assenyali concretament on veu les mancances. L'alumna no pot trobar-les. La tutora, amb delicadesa, li fa veure les evidències de qualitat i li proposa un exercici: avaluar primer el treball d'un company anònim i després el propi, per guanyar distància i objectivitat.
-
----
-
-## H7 L'alumnat aplica criteris d'avaluació de manera molt diferent — DOCENT
-
-**Quan aplica:** L'alumnat aplica criteris d'avaluació de manera molt diferent entre iguals (uns molt estrictes, uns molt laxos).
-
-**Fonament:** La calibració entre avaluadors és un procés que cal entrenar explícitament. Utilitzar exemples àncora — produccions reals avaluades col·lectivament — ajuda a establir un estàndard comú i a reduir la variabilitat. L'activitat de calibració és en si mateixa una eina d'aprenentatge molt potent perquè obliga a discutir i concretar el significat dels criteris.
-
-**Exemple:** Un docent observa que la coavaluació de textos genera puntuacions molt dispars per a textos de qualitat similar. Dedica una sessió a calibrar: presenta tres textos anònims de diferent qualitat, l'alumnat els avalua individualment amb la rúbrica, i després comparen les puntuacions col·lectivament. Debaten les discrepàncies i arriben a consensos sobre què significa cada nivell amb exemples concrets. A la sessió de coavaluació següent, la variabilitat es redueix notablement.
-
----
-
-## H8 L'alumnat dona retroalimentació positiva falsa als amics i — DOCENT
-
-**Quan aplica:** L'alumnat dona retroalimentació positiva falsa als amics i negativa als companys amb qui tenen conflicte.
-
-**Fonament:** El biaix relacional és un risc inherent a la coavaluació entre iguals, especialment en l'adolescència. Les estratègies per mitigar-lo inclouen l'anonimat (avaluar treballs sense saber l'autor), l'assignació aleatòria de parelles, l'exigència de justificació concreta per a cada valoració i la supervisió docent dels resultats.
-
-**Exemple:** Un docent implementa un sistema de coavaluació anònima: els treballs es lliuren sense nom, s'assignen aleatòriament i la retroalimentació es dona per escrit amb la plantilla estructurada. El docent revisa les retroalimentacions abans de retornar-les als autors per assegurar que són constructives i específiques. Amb el temps, quan el grup ha après a avaluar amb criteri, retira l'anonimat.
-
-### Fonts i referències
-
-> Fonts pendents de verificació
-
----
+*30 documents font · secció generada automàticament*

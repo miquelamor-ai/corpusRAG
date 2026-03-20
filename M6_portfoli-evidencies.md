@@ -1,173 +1,213 @@
 ---
-titol: "Portfoli i evidències d'aprenentatge"
 modul: M6
+titol: "Portfoli i Evidències d'Aprenentatge"
 tipus: eina
-etiquetes: [portfoli, evidències, metacognició, avaluació autèntica, rúbrica]
-descripcio: "El portfoli digital com a eina d'avaluació autèntica que recull evidències seleccionades per l'alumnat, acompanyades de reflexió metacognitiva i valorades amb rúbriques compartides."
+descripcio: "Portafoli digital i analògic: recollida d'evidències, reflexió i demostració de l'aprenentatge"
 review_status: esborrany
+generat_at: 2026-03-18T15:34:16
 ---
 
+# 1. CONTINGUT ESPECÍFIC
 
-# 1. CONTINGUT
+## Descripció i propòsit
 
-## Descripció funcional
+El portfoli, o carpeta d'aprenentatge, és una eina d'avaluació formativa que permet a l'alumnat fer evident què ha après i com ho ha après al llarg d'un període de temps. No es limita a ser un simple recull de treballs, sinó una col·lecció raonada d'evidències que inclou productes finals, activitats resoltes, esborranys, i especialment reflexions sobre el propi procés d'aprenentatge.
 
-El portfoli d'evidències és una eina d'avaluació formativa i sumativa que permet a l'alumnat recopilar, organitzar i reflexionar sobre les seves produccions al llarg d'un període d'aprenentatge. A diferència d'una simple carpeta de treballs, el portfoli implica un procés actiu de selecció: l'alumne tria quines evidències representen millor el seu progrés i justifica aquesta tria mitjançant textos reflexius. En format digital, el portfoli adopta plataformes com blogs, sites o aplicacions específiques que permeten incorporar artefactes multimodals — textos, imatges, àudios, vídeos, captures de pantalla — i faciliten la retroalimentació continuada del docent i dels companys. La seva potència rau en el fet que converteix l'avaluació en un acte d'aprenentatge en si mateix, ja que obliga l'alumnat a fer visible el seu pensament, a identificar fortaleses i àrees de millora, i a establir connexions entre experiències d'aprenentatge diverses. El portfoli funciona com un mirall metacognitiu: no avalua només el producte final, sinó el procés de creixement, la capacitat d'autoregulació i el grau de consciència que l'aprenent té sobre el seu propi itinerari formatiu.
+El seu propòsit principal és doble:
+1.  **Per a l'alumnat:** Fomentar l'autoregulació, la metacognició i l'autonomia. Ajuda a identificar els objectius, planificar l'acció, reconèixer els punts forts i febles, i trobar estratègies per superar dificultats. Permet que l'alumne sigui protagonista de la seva avaluació, entenent l'error com a part del procés d'aprenentatge.
+2.  **Per al docent:** Obtenir evidències d'aprenentatge riques i diverses per a l'avaluació, tant formativa com qualificadora. Permet contrastar el que l'alumne diu que ha après amb el que s'esperava, i autoavaluar la pròpia pràctica docent per ajustar la planificació didàctica. També facilita la comunicació del progrés amb les famílies.
 
-## Quan usar-la
+En un currículum per competències, el portfoli és fonamental perquè va més enllà de la memorització, valorant l'aplicació de coneixements, el raonament i la capacitat de millora contínua.
 
-El portfoli és especialment adequat quan es vol avaluar competències transversals difícils de capturar amb proves puntuals: la capacitat de reflexió, la creativitat, el creixement personal, la integració de sabers de diferents àrees. Resulta idoni en projectes interdisciplinaris, en tutoria, en àmbits artístics o en qualsevol context on el procés sigui tan rellevant com el resultat. També és pertinent quan es vol donar veu a l'alumnat en la seva pròpia avaluació, promovent l'autonomia i la responsabilitat. Convé introduir-lo de manera gradual: primer amb consignes molt pautades i, a mesura que l'alumnat guanya experiència, amb més llibertat de selecció i reflexió.
+## Freqüència i moment d'ús
 
-## Com usar-la
+El portfoli és una eina de seguiment continu, no un esdeveniment puntual. S'utilitza de manera recurrent i en moments clau del procés d'aprenentatge:
 
-1. **Definir el propòsit i l'audiència.** Aclarir si el portfoli és formatiu, sumatiu o mixt; si serà individual o grupal; i qui hi tindrà accés (docent, famílies, companys).
-2. **Triar el suport digital.** Seleccionar una plataforma accessible, intuïtiva i que respecti la privacitat de l'alumnat (Google Sites, Seesaw, blogs de WordPress, Mahara, etc.).
-3. **Establir criteris de selecció.** Acordar amb l'alumnat quantes evidències cal incloure, de quins tipus i amb quina periodicitat.
-4. **Modelar la reflexió.** Oferir exemples de textos reflexius i bastides lingüístiques (frases inici com "He triat aquesta evidència perquè...", "Això mostra que he millorat en...").
-5. **Crear la rúbrica de valoració.** Co-construir amb l'alumnat els indicadors de qualitat del portfoli (varietat d'evidències, profunditat reflexiva, presentació, coherència).
-6. **Implementar cicles de retroalimentació.** Programar moments de revisió entre iguals i amb el docent, permetent la millora iterativa.
-7. **Tancar amb una reflexió global.** Demanar una narrativa final que sintetitzi l'aprenentatge del període.
+*   **Abans d'iniciar una unitat, projecte o activitat:** Per recollir coneixements previs, establir objectius i criteris d'avaluació (compartits amb l'alumnat).
+*   **Durant el desenvolupament:** Per documentar el procés, incloure esborranys, notes de planificació, reflexions intermèdies, i evidències de les diferents etapes de la tasca.
+*   **En finalitzar una unitat, projecte o període de temps (setmana, trimestre):** Per seleccionar les evidències més significatives, realitzar autoavaluacions i coavaluacions, i reflexionar sobre els aprenentatges consolidats i els reptes pendents.
+*   **Periòdicament:** Per revisar el progrés global, establir nous objectius de millora i, si escau, deduir una qualificació final transparent i argumentada.
 
-## Exemples
+## Components i estructura
 
-### Exemple 1: Portfoli de projecte científic a cicle superior
+No existeix un format ni una estructura única per al portfoli; es pot adaptar al contingut, a les característiques de l'alumnat i del docent, i als recursos disponibles. Pot ser digital (blogs, webs, plataformes educatives) o analògic (carpeta física), o una combinació de tots dos. La clau és que l'alumnat participi en la seva organització.
 
-Una mestra de sisè proposa que, durant un projecte sobre ecosistemes, cada alumne mantingui un portfoli digital al Google Sites. Al llarg de sis setmanes, l'alumnat selecciona cinc evidències: un mapa conceptual inicial sobre coneixements previs, una fitxa d'observació de camp amb fotografies, un vídeo breu explicant una cadena tròfica, un esborrany anotat d'un text expositiu amb les correccions marcades, i una reflexió escrita sobre el treball cooperatiu. Cada evidència va acompanyada d'un text de dues-tres frases on l'alumne explica per què l'ha triada i què demostra sobre el seu aprenentatge. La mestra revisa els portfolis a la tercera setmana i deixa comentaris amb preguntes que estimulen l'aprofundiment. A la sessió final, els alumnes comparteixen els portfolis en petits grups i es donen retroalimentació mútua usant una rúbrica simplificada. La mestra valora el portfoli complet amb la rúbrica co-construïda a l'inici.
+Components habituals que pot incloure un portfoli:
 
-### Exemple 2: Portfoli de tutoria a secundària
+*   **Evidències d'aprenentatge:**
+    *   Activitats resoltes, productes finals de projectes.
+    *   Esborranys, versions preliminars i versions millorades de treballs.
+    *   Dibuixos, maquetes, presentacions, enregistraments d'àudio o vídeo.
+    *   Mapes conceptuals, esquemes, resums, bases d'orientació.
+    *   Problemes resolts, exercicis creatius.
+    *   Treballs d'investigació, articles, textos argumentatius.
+    *   Qualsevol altre artefacte que demostri un aprenentatge.
+*   **Elements de reflexió i metacognició:**
+    *   **Justificació de la selecció:** L'alumne explica per què ha escollit cada evidència i què li ha servit més per aprendre.
+    *   **Reflexions sobre el procés:** Respostes a preguntes com "Què he après?", "Com ho he après?", "Què em va costar més?", "Què faria diferent?", "Què em queda per aprendre?".
+    *   **Autoavaluacions i coavaluacions:** Llistes de comprovació, rúbriques o diaris on l'alumne valora el seu propi treball o el dels companys.
+    *   **Feedback rebut:** Comentaris del docent o dels companys i la reflexió sobre com s'han incorporat.
+*   **Elements de planificació:**
+    *   Objectius d'aprenentatge inicials i revisats.
+    *   Plans d'acció per a futures millores.
+    *   Instruments de planificació personal o grupal.
 
-Un tutor de tercer d'ESO implementa un portfoli reflexiu trimestral. L'alumnat tria tres moments significatius del trimestre — un repte acadèmic superat, una situació de convivència i un aprenentatge personal — i els documenta amb evidències diverses: captures de pantalla, fotografies, fragments de dietari. Per a cada moment, escriuen una reflexió guiada que inclou: què va passar, com es van sentir, què van aprendre i què farien diferent. El tutor llegeix els portfolis individualment i els utilitza com a base per a l'entrevista de tutoria individual, convertint l'avaluació en un diàleg personalitzat sobre el creixement integral de l'alumne. Les famílies reben accés de lectura al portfoli, cosa que enriqueix també la comunicació escola-família.
+L'organització dels materials pot ser temàtica, cronològica, per competències, o segons els interessos de l'alumne, amb títols significatius com "El que ja sabia", "El que més m'ha agradat", "El que em servirà per al futur", "El que he fet millor", "El que no havia fet bé però vaig millorar".
 
-## Errors comuns
+## Guia d'ús pas a pas
 
-- **Confondre portfoli amb arxiu.** Si l'alumnat simplement acumula tots els treballs sense seleccionar ni reflexionar, es perd l'essència metacognitiva de l'eina.
-- **No modelar la reflexió.** Sense exemples i bastides, les reflexions tendeixen a ser superficials ("M'ha agradat molt aquest treball").
-- **Rúbrica imposada.** Si els criteris de valoració no es comparteixen prèviament, l'alumnat no entén què s'espera i el portfoli perd coherència.
-- **Sobrecàrrega.** Demanar massa evidències o reflexions massa freqüents genera fatiga i respostes mecàniques.
-- **Descuidar la privacitat.** Publicar portfolis amb dades o imatges sense consentiment vulnera la normativa de protecció de dades.
+L'ús del portfoli es centra en la implicació activa de l'alumnat en la gestió del seu aprenentatge.
 
-## Alternatives
+**1. Preparació i Disseny (Rol del docent i implicació de l'alumnat):**
+*   **Definir el propòsit:** Clarificar per a què s'utilitzarà el portfoli (seguiment, qualificació, reflexió).
+*   **Compartir objectius i criteris:** Explicitar i consensuar amb l'alumnat els objectius d'aprenentatge i els criteris d'avaluació. Es poden usar rúbriques o llistes de comprovació.
+*   **Establir el format i l'estructura:** Decidir si serà digital o analògic, i quins apartats bàsics tindrà, deixant marge per a la personalització de l'alumnat.
+*   **Modelar exemples:** Mostrar exemples de portfolis o evidències de qualitat (anonimitzades) per clarificar expectatives.
 
-- **Dietari d'aprenentatge:** Menys estructurat, se centra en la narració lliure del procés sense requerir selecció d'evidències.
-- **Carpeta de treballs (sense reflexió):** Útil com a registre, però sense component metacognitiu.
-- **Rúbriques d'autoavaluació puntuals:** Permeten la reflexió sobre un producte concret sense la visió longitudinal del portfoli.
-- **Entrevistes metacognitives orals:** Alternativa per a alumnat amb dificultats d'expressió escrita.
+**2. Recollida d'Evidències (Rol de l'alumnat amb guia docent):**
+*   **Selecció intencionada:** L'alumne selecciona quins materials inclourà, justificant per què els considera rellevants per demostrar el seu aprenentatge. La pregunta clau és: "De tot el que he fet, què és el que m'ha servit més per aprendre?".
+*   **Documentació del procés:** Incloure no només els productes finals, sinó també esborranys, versions inicials, notes de planificació, i qualsevol element que mostri l'evolució.
+*   **Inclusió de recursos externs:** L'alumne pot afegir materials o recursos que hagi trobat pel seu compte i que li hagin estat útils, indicant la font i la seva utilitat.
+
+**3. Reflexió i Regulació (Rol de l'alumnat amb feedback docent i entre iguals):**
+*   **Organització significativa:** L'alumne decideix com organitza els materials de manera que tinguin sentit per a ell, creant apartats i títols propis.
+*   **Reflexió guiada:** Acompanyar la recollida d'evidències amb preguntes reflexives: "Què he après?", "Com ho he après?", "Què em queda per aprendre?", "Què faré per seguir aprenent?".
+*   **Autoavaluació i coavaluació:** Utilitzar llistes de comprovació o rúbriques per valorar el propi treball i el dels companys, identificant punts forts i àrees de millora.
+*   **Ús de bases d'orientació:** Si s'han creat, aplicar-les per autoavaluar la realització d'una tasca pas a pas.
+
+**4. Comunicació i Qualificació (si escau) (Rol del docent i l'alumnat):**
+*   **Sessions de feedback:** Realitzar sessions individuals o grupals per revisar els portfolis, oferir feedback constructiu i planificar els següents passos.
+*   **Revisió i millora:** Donar oportunitats per revisar i millorar els treballs a partir del feedback rebut.
+*   **Qualificació transparent:** Si el portfoli s'utilitza per a la qualificació, assegurar que el procés i els criteris són transparents i coneguts per l'alumnat i les famílies.
+
+## Exemples completats
+
+**Exemple 1: Portfoli de Ciències Naturals (Cicle Mitjà de Primària)**
+
+*   **Context:** Unitat didàctica sobre la reproducció de les plantes i l'impacte ambiental.
+*   **Evidències incloses:**
+    *   **Dibuix inicial:** Un dibuix de "com crec que es reprodueixen les plantes" abans d'iniciar la unitat.
+    *   **Notícia de diari:** Retall de la notícia sobre la reducció de la població d'insectes a la vall de Sant Jeroni (similar a DOC 19).
+    *   **Gràfica de collita:** Gràfica de la producció de cireres de l'avi d'en Miquel (similar a DOC 19).
+    *   **Esborrany de carta:** Primera versió d'una carta adreçada a l'avi d'en Miquel, explicant per què la seva collita de cireres és escassa, amb anotacions de coavaluació d'un company ("més clar", "posa més exemples").
+    *   **Carta final:** Versió revisada i millorada de la carta, incorporant conceptes com pol·linització, abelles, insecticides, i la seva relació amb la collita.
+    *   **Reflexió personal:** "Al principi, només pensava que si no plovia no hi havia cireres. Amb la notícia i la gràfica, vaig entendre que els insectes són molt importants. El meu dibuix inicial no tenia abelles! Vaig haver de buscar com pol·linitzen les flors per explicar-ho bé a l'avi. Ara sé que tot està connectat."
+*   **Interpretació:** El portfoli mostra l'evolució de la comprensió de l'alumne, des d'una idea simple fins a una explicació complexa i contextualitzada, evidenciant la mobilització de coneixements de ciències i llengua.
+
+**Exemple 2: Portfoli de Biologia (ESO/Batxillerat)**
+
+*   **Context:** Projecte sobre la nutrició de les plantes.
+*   **Evidències incloses:**
+    *   **Maqueta inicial:** Fotografia d'una maqueta o dibuix digital que representa "què crec que passa dins d'un arbre quan es nodreix" (similar a DOC 29).
+    *   **Notes de debat:** Apunts de la discussió en petit grup sobre les idees inicials, amb preguntes dels companys i hipòtesis plantejades.
+    *   **Esquemes de recerca:** Esquemes i resums de la informació consultada en llibres de text i pàgines web sobre fotosíntesi, absorció radicular i transport de saba.
+    *   **Maqueta revisada:** Fotografia d'una maqueta o dibuix digital millorat, incorporant conceptes científics com xilema, floema, clorofil·la, diòxid de carboni, etc.
+    *   **Justificació argumentada:** Text on l'alumne explica els canvis realitzats en la maqueta i els fonaments científics darrere de cada element, citant les fonts consultades.
+    *   **Autoavaluació:** "La meva primera maqueta era molt bàsica. Gràcies als companys, em vaig adonar que no havia pensat en l'aire ni en la llum. Vaig haver de buscar molta informació sobre la fotosíntesi. Encara em costa recordar tots els noms dels components, però entenc el procés general. El pròxim cop, intentaré fer un vídeo explicatiu."
+*   **Interpretació:** Aquest portfoli il·lustra la capacitat de l'alumne per revisar les seves preconcepcions, integrar nova informació, aplicar coneixements complexos i comunicar-los de manera argumentada.
+
+## Adaptacions per context
+
+El portfoli és una eina flexible que es pot adaptar a diverses necessitats i etapes educatives:
+
+*   **Educació Infantil i Primària:**
+    *   **Simplificació:** Menys text, més dibuixos, fotos, enregistraments de veu.
+    *   **Guia més explícita:** El docent ha de guiar més la selecció d'evidències i les preguntes de reflexió.
+    *   **Focus en el procés:** Valorar petits avenços i la participació en la reflexió.
+    *   **Inici primerenc:** L'aprenentatge de l'autoregulació és més efectiu com més aviat es comença (abans dels 14 anys).
+*   **Educació Secundària i Batxillerat/FP:**
+    *   **Major autonomia:** L'alumnat assumeix més responsabilitat en la selecció, organització i reflexió.
+    *   **Complexitat creixent:** S'esperen reflexions més profundes, anàlisi crítica i justificació argumentada.
+    *   **Diversificació de formats:** Ús més intensiu de portfolis digitals, blogs, wikis, etc., que permeten integrar multimèdia i compartir amb una audiència més àmplia.
+*   **Alumnat amb Necessitats Educatives Específiques (NEE) o baixa competència lingüística:**
+    *   **Pla de Suport Individualitzat (PI):** El portfoli pot ser un instrument clau del PI, adaptant els criteris d'avaluació i els objectius.
+    *   **Diversificació de canals d'expressió:** Permetre que l'alumnat demostri el seu aprenentatge a través de dibuixos, gestos, objectes, llenguatge oral (enregistrat), en lloc de només text escrit.
+    *   **Suports visuals i materials:** Utilitzar imatges, pictogrames o materials manipulables per facilitar la comprensió de les tasques i la reflexió.
+    *   **Ajudes i instruments alternatius:** Proporcionar plantilles de reflexió simplificades, llistes de comprovació amb suport visual, o la possibilitat de fer reflexions orals amb el docent.
+    *   **Temps addicional:** Oferir més temps per a la realització de tasques i la reflexió.
+
+## Com interpretar resultats
+
+La interpretació dels resultats d'un portfoli va més enllà de la simple assignació d'una nota. Se centra en la funció reguladora de l'avaluació:
+
+*   **Identificació del progrés:** Observar l'evolució de l'alumne a través de les diferents evidències (esborranys vs. versions finals) i les seves reflexions. Permet veure *com* l'alumne ha millorat i *en què*.
+*   **Detecció de dificultats i errors:** Analitzar les àrees on l'alumne mostra més dificultat, les causes subjacents (segons la seva reflexió) i les estratègies que ha intentat per superar-les. L'error esdevé una oportunitat d'aprenentatge.
+*   **Ajust de la pràctica docent:** Les evidències del portfoli informen el docent sobre l'eficàcia de les seves metodologies i la necessitat d'adaptar la planificació didàctica a les característiques i interessos del grup o d'alumnes individuals.
+*   **Feedback constructiu:** Utilitzar la informació del portfoli per proporcionar un feedback específic, orientat a la millora, que ajudi l'alumne a entendre què ha de fer per avançar.
+*   **Qualificació transparent:** Si s'utilitza per qualificar, el portfoli ofereix una base sòlida i transparent per a la nota, ja que mostra no només el producte final sinó tot el procés d'aprenentatge i la capacitat d'autoregulació de l'alumne.
+*   **Autoavaluació docent:** Permet al docent reflexionar sobre la coherència entre els objectius plantejats, les activitats proposades i els aprenentatges assolits per l'alumnat.
 
 ---
 
 # 2. CONNEXIONS AMB ALTRES DOCUMENTS DEL CORPUS
 
-| Element | Relació | Fitxer |
-|---|---|---|
-| Coavaluació i autoavaluació | El portfoli integra naturalment processos d'autoavaluació i coavaluació entre iguals | `M6_coavaluacio-autoavaluacio.md` |
-| Adaptació avaluació NEE | El format portfoli permet adaptacions flexibles per a alumnat amb necessitats específiques | `M6_adaptacio-avaluacio-NEE.md` |
-| Participació famílies | El portfoli digital pot ser un canal de comunicació escola-família sobre el progrés | `M7_participacio-families.md` |
-| Espais i interioritat | La reflexió del portfoli connecta amb la dimensió d'interioritat i autoconeixement | `M7_espais-aprenentatge-interioritat.md` |
+*   **Marc: Avaluació Formativa:** El portfoli és una eina central per implementar els principis de l'avaluació formativa i formadora, posant l'èmfasi en la regulació de l'aprenentatge.
+*   **Estratègia: Aprenentatge Basat en Projectes:** Els projectes generen una gran quantitat d'evidències de procés i producte que són ideals per ser recollides i reflexionades en un portfoli.
+*   **Eina: Rúbriques:** Les rúbriques són instruments clau per definir els criteris d'avaluació de les evidències del portfoli i per facilitar l'autoavaluació i coavaluació.
+*   **Eina: Autoavaluació i Coavaluació:** Aquestes pràctiques són components essencials de la reflexió que acompanya la recollida d'evidències en un portfoli.
+*   **Eina: Base d'Orientació:** Les bases d'orientació poden ser incloses en el portfoli com a evidències de planificació i com a eines per a l'autoavaluació de tasques complexes.
+*   **Protocol: Pla de Suport Individualitzat (PI):** Per a alumnes amb necessitats específiques, el portfoli pot ser un instrument fonamental per documentar i avaluar el progrés segons els objectius adaptats del seu PI.
 
 # 3. DETECCIÓ (Variables de Context)
 
-**Senyals docent:**
-1. El docent percep que les proves escrites no capturen adequadament el creixement competencial de l'alumnat.
-2. Es detecta que l'alumnat no és conscient del seu propi progrés i tendeix a infravalorar el que aprèn.
-3. Les famílies demanen més informació qualitativa sobre l'aprenentatge dels fills més enllà de les notes.
-4. El docent vol integrar l'avaluació dins del procés d'aprenentatge en lloc de separar-la com un acte final.
-5. Es busca un instrument que doni coherència avaluativa a un projecte interdisciplinari llarg.
+**Senyals del docent**
+*   "Vull que els meus alumnes siguin més conscients del seu propi aprenentatge."
+*   "Necessito una manera de veure el procés d'aprenentatge dels meus alumnes, no només el resultat final."
+*   "Les meves avaluacions actuals no em donen prou informació per ajustar la meva docència."
+*   "Busco una eina que fomenti la motivació i l'autonomia dels meus alumnes."
+*   "M'agradaria que la qualificació fos més transparent i menys subjectiva."
+*   "Com puc implicar les famílies en el seguiment del progrés dels seus fills?"
 
-**Senyals alumne:**
-- L'alumnat mostra dificultat per identificar què ha après o quines són les seves fortaleses.
-- Hi ha alumnes que rendeixen bé en situacions pràctiques però obtenen resultats baixos en exàmens convencionals.
-- Es detecta poca capacitat d'autoregulació i dependència excessiva del docent per saber "si ho fan bé".
+**Senyals de l'alumne**
+*   "No sé per què he fet malament això, ni què he de fer per millorar."
+*   "M'agradaria veure com he millorat des del principi del curs."
+*   "Les notes no em diuen res sobre el que realment he après."
+*   "Em sento frustrat/da quan només es valora el resultat final."
 
-**Senyals context:**
-- El centre aposta per l'avaluació competencial i necessita instruments coherents amb aquest enfocament.
-- Es disposa d'infraestructura digital mínima (dispositius i connectivitat) per implementar portfolis digitals.
+**Senyals de context**
+*   Inici d'un projecte d'aprenentatge complex o de llarga durada.
+*   Final d'una unitat didàctica que ha implicat diverses activitats i processos.
+*   Necessitat de personalitzar l'aprenentatge i l'avaluació per a la diversitat de l'aula.
+*   Implementació d'un nou currículum per competències que requereix evidències de procés.
+*   Moment de reflexió sobre la pràctica docent o la planificació curricular.
 
-**Anti-senyals:**
-- Si el context requereix una avaluació ràpida i puntual d'un contingut específic, el portfoli no és l'eina adequada.
-- Si no hi ha temps per a cicles de retroalimentació, el portfoli perd el seu valor formatiu.
+**Anti-senyals**
+*   El docent busca una eina ràpida i de mínim esforç per posar una nota final.
+*   Les activitats proposades són majoritàriament memorístiques i no generen evidències de procés o reflexió.
+*   No hi ha temps previst per a la reflexió individual o grupal sobre l'aprenentatge.
+*   L'alumnat no té cap autonomia prèvia i no s'ofereix suport per desenvolupar-la.
+*   El docent no està disposat a compartir els criteris d'avaluació o a acceptar la veu de l'alumnat en el procés.
 
 # 4. HEURÍSTIQUES I RAONAMENT PER A L'AGENT
 
-## H1 L'alumnat lliura evidències sense cap text reflexiu o — DOCENT
+**Principi general:** El portfoli és una eina viva de reflexió i regulació que fa visible el procés d'aprenentatge, no un simple contenidor de treballs.
 
-**Quan aplica:** L'alumnat lliura evidències sense cap text reflexiu o amb comentaris genèrics tipus "aquest treball m'ha agradat."
+**Heurístiques per a l'Agent DOCENT**
 
-**Fonament:** La reflexió metacognitiva és el cor del portfoli. Sense ella, l'eina es degrada a una simple carpeta d'arxius. La investigació sobre metacognició mostra que la capacitat de pensar sobre el propi pensament és una de les variables amb més impacte en l'aprenentatge, però requereix ensenyament explícit i bastides progressives. No n'hi ha prou amb demanar "reflexiona": cal oferir models, preguntes guia i criteris de profunditat.
+*   **Prioritza la reflexió sobre la simple acumulació:** Quan un docent vol implementar un portfoli, ha de guiar l'alumne a seleccionar i justificar les evidències, no només a recollir-les. El fonament és que el valor del portfoli resideix en la metacognició: l'alumne aprèn a aprendre quan analitza el seu propi procés, identifica errors i planifica millores. Per exemple, si un alumne inclou un treball, l'agent podria suggerir al docent que demani a l'alumne: "Per què has escollit aquest treball? Què et va costar més? Què vas aprendre en fer-lo que no sabies abans? Què faries diferent si el tornessis a fer?" Això va més enllà de la simple presentació del producte final, centrant-se en el *com* i el *per què* de l'aprenentatge.
 
-**Exemple:** Una mestra detecta que les reflexions del portfoli són superficials. Decideix dedicar una sessió a mostrar tres exemples anònims de reflexions amb diferent nivell de profunditat i demana a l'alumnat que els ordeni de menys a més profund, justificant-ho. Després, construeixen junts una escala de qualitat reflexiva amb tres nivells (descriptiu, analític, transformador) i la incorporen a la rúbrica del portfoli.
+*   **Co-crea els criteris d'avaluació:** Per assegurar que el portfoli sigui una eina d'autoregulació efectiva, el docent hauria d'involucrar els alumnes en la definició dels criteris d'èxit. Això es fonamenta en la idea que la comprensió dels objectius i els criteris és la base de l'avaluació formativa i formadora. Si l'agent detecta que el docent ha presentat els criteris de forma unidireccional, podria suggerir: "Com podries convertir els teus criteris en preguntes que els alumnes puguin respondre sobre el seu propi treball? Podries fer una sessió on, a partir d'exemples de treballs anteriors (anònims), els alumnes identifiquin què fa que un treball sigui 'bo' o 'millorable'?"
 
+*   **Diversifica les evidències:** Un portfoli ha d'anar més enllà de les proves escrites. El fonament és que les competències es demostren de moltes maneres, i la diversitat d'evidències (dibuixos, maquetes, esborranys, reflexions orals, projectes) ofereix una visió més completa de l'aprenentatge. Si el docent només pensa en documents escrits, l'agent podria proposar: "Quines activitats del teu projecte generen productes creatius o processos de pensament que es puguin documentar visualment o amb àudio? Podries incloure esborranys amb anotacions, fotos de maquetes amb explicacions, o enregistraments de debats on els alumnes justifiquen les seves decisions?"
+
+*   **Integra el feedback com a motor de millora:** El feedback no és només la nota, sinó informació que ajuda a l'alumne a avançar. El fonament és que la retroacció efectiva tanca la bretxa entre l'estat actual i l'estat desitjat de l'aprenentatge. L'agent podria guiar el docent: "Després de revisar els portfolis, com pots oferir un feedback que no només assenyali errors, sinó que també suggereixi passos concrets per a la millora? Podries utilitzar preguntes obertes que convidin a l'autoreflexió o proposar un 'repte de millora' basat en una evidència concreta del portfoli?"
+
+*   **Fomenta la coavaluació i l'autoavaluació:** Aquestes pràctiques són essencials per al desenvolupament de l'autonomia de l'alumne. El fonament és que l'alumne esdevé protagonista del seu aprenentatge quan desenvolupa la capacitat d'avaluar-se a si mateix i als seus iguals. L'agent podria suggerir al docent: "En quins moments del procés els alumnes podrien intercanviar els seus portfolis per oferir-se feedback mutu? Quines rúbriques o llistes de comprovació senzilles podries crear amb ells per facilitar aquesta coavaluació, centrant-vos en aspectes com la claredat, la justificació o la creativitat?"
+
+**Heurístiques per a l'Agent ALUMNE**
+
+*   **Selecciona evidències amb propòsit:** Quan un alumne ha de triar què incloure en el seu portfoli, ha de pensar en què li ha servit més per aprendre. El fonament és que la selecció intencionada d'evidències fomenta la metacognició i la comprensió del propi procés d'aprenentatge. L'agent podria preguntar a l'alumne: "De tots els treballs que has fet, quin creus que demostra millor el que has après en aquesta unitat? Per què aquest i no un altre? Què et diu aquest treball sobre com has millorat?"
+
+*   **Reflexiona sobre el procés, no només el resultat:** Quan un alumne presenta un treball, ha d'explicar no només el que ha fet, sinó com ho ha fet i què ha après. El fonament és que l'aprenentatge és un procés actiu de construcció de coneixement, i la reflexió sobre aquest procés és clau per consolidar-lo. L'agent podria guiar l'alumne: "Quins passos vas seguir per arribar a aquest resultat? Hi va haver algun moment en què vas canviar d'idea o vas haver de buscar ajuda? Què vas aprendre d'aquells moments de dificultat?"
+
+*   **Utilitza el feedback per planificar millores:** Quan un alumne rep comentaris sobre el seu portfoli, ha de veure'ls com una oportunitat per planificar els seus propers passos. El fonament és que el feedback només és útil si es tradueix en accions concretes per a la millora. L'agent podria suggerir a l'alumne: "Després de llegir els comentaris del teu professor o dels teus companys, quina és la primera cosa que faràs per millorar el teu treball? Com pots aplicar aquest aprenentatge a la teva pròxima tasca?"
 ---
 
-## H2 Vol implementar el portfoli — DOCENT
+## 5. FONTS DEL CORPUS
 
-**Quan aplica:** El docent vol implementar el portfoli però no sap quina plataforma digital triar.
+| # | Títol | URL |
+|---|-------|-----|
+| 19 | 4._modificacio_prova_avaluacio_cicle_mitja_506362b8ba.pdf | http://ateneu.xtec.cat/wikiform/wikiexport/_media/cursos/curriculum/inf_pri/cape/4._modificacio_prova_avaluacio_cicle_mitja.pdf |
+| 29 | 81d0d8_50ad5ebf0be14ae5ac31074d3ec3302d_60f99c9a2a.pdf | https://docs.wixstatic.com/ugd/81d0d8_50ad5ebf0be14ae5ac31074d3ec3302d.pdf |
 
-**Fonament:** La tria de la plataforma ha de prioritzar l'accessibilitat, la facilitat d'ús i la privacitat per sobre de la sofisticació tècnica. Una plataforma massa complexa genera frustració i desplaça el focus de la reflexió a la tecnologia. Cal considerar també l'accés equitatiu: que tot l'alumnat pugui treballar-hi des de casa o des de dispositius diversos.
-
-**Exemple:** Un equip docent compara tres opcions: Google Sites (integrat amb l'entorn del centre, fàcil d'usar, però limitat en interactivitat), Seesaw (dissenyat per a educació, amb funcionalitats de retroalimentació, però amb cost), i un blog de WordPress (flexible i gratuït, però amb corba d'aprenentatge). Decideixen començar amb Google Sites perquè tot l'alumnat ja té compte institucional i els permet centrar-se en el contingut reflexiu sense obstacles tècnics.
-
----
-
-## H3 L'alumnat acumula moltes evidències sense criteri de selecció — DOCENT
-
-**Quan aplica:** L'alumnat acumula moltes evidències sense criteri de selecció.
-
-**Fonament:** La selecció és un acte cognitiu de primer ordre: obliga a comparar, prioritzar i justificar. Sense límits clars en el nombre d'evidències, l'alumnat tendeix a incloure-ho tot per inseguretat, cosa que dilueix la funció metacognitiva del portfoli. Establir un nombre acotat d'evidències força la reflexió sobre què és realment significatiu.
-
-**Exemple:** Un docent limita el portfoli trimestral a quatre evidències obligatòries i una d'opcional. Proporciona una fitxa de selecció on l'alumnat ha de respondre: "Per què aquesta evidència i no una altra?", "Què demostra sobre el meu aprenentatge que les altres no demostren?" Aquesta restricció millora notablement la qualitat reflexiva.
-
----
-
-## H4 Utilitza el portfoli — DOCENT
-
-**Quan aplica:** El docent utilitza el portfoli però no programa moments de retroalimentació intermèdia.
-
-**Fonament:** Sense retroalimentació durant el procés, el portfoli es converteix en un producte final que s'avalua un cop tancat, perdent tot el potencial formatiu. La retroalimentació intermèdia permet reorientar, aprofundir i millorar tant les evidències com les reflexions abans de la valoració sumativa.
-
-**Exemple:** Una docent estableix dos checkpoints al llarg del trimestre. Al primer, revisa les dues primeres evidències i deixa comentaris amb preguntes. Al segon, organitza una sessió de revisió entre iguals on cada alumne llegeix el portfoli d'un company i li dona retroalimentació amb una guia senzilla de tres preguntes.
-
----
-
-## H5 Dubta sobre com qualificar un portfoli sense caure — DOCENT
-
-**Quan aplica:** El docent dubta sobre com qualificar un portfoli sense caure en la subjectivitat.
-
-**Fonament:** La rúbrica co-construïda és la clau per a una avaluació transparent i rigorosa del portfoli. Quan els criteris són compartits i exemplificats, la valoració guanya en fiabilitat i l'alumnat percep el procés com a just, cosa que augmenta la seva implicació i la qualitat de les produccions.
-
-**Exemple:** Un equip docent crea una rúbrica amb quatre dimensions (varietat d'evidències, profunditat reflexiva, presentació i coherència global) i tres nivells cadascuna. La presenten a l'alumnat amb exemples concrets de cada nivell i la utilitzen tant per a l'autoavaluació com per a la qualificació docent.
-
----
-
-## H6 Un alumne diu "no sé què posar al portfoli — DOCENT
-
-**Quan aplica:** Un alumne diu "no sé què posar al portfoli, tot em sembla igual."
-
-**Fonament:** Aquesta dificultat sovint reflecteix poca consciència metacognitiva o inseguretat sobre què compta com a evidència vàlida. Cal acompanyar amb preguntes que ajudin a discriminar: quin treball et va costar més? En quin vas aprendre alguna cosa nova? Quin et va sorprendre?
-
-**Exemple:** La mestra seu amb l'alumne i revisen junts la llista de treballs del trimestre. Li fa tres preguntes: "Quin et va fer pensar més?", "En quin vas canviar d'opinió sobre alguna cosa?", "Quin mostraries a algú per explicar què has après?" Amb aquestes preguntes, l'alumne identifica tres evidències i comença a escriure la reflexió.
-
----
-
-## H7 Un alumne amb dificultats d'expressió escrita produeix reflexions — DOCENT
-
-**Quan aplica:** Un alumne amb dificultats d'expressió escrita produeix reflexions molt breus i pobres.
-
-**Fonament:** El portfoli ha de ser accessible a tot l'alumnat. Per als que tenen dificultats amb l'escriptura, cal oferir formats alternatius de reflexió: àudio, vídeo, dibuix anotat, entrevista gravada. El que importa és el pensament metacognitiu, no el format en què s'expressa.
-
-**Exemple:** El docent proposa a l'alumne que gravi un àudio de dos minuts explicant per què ha triat cada evidència. Després, amb ajuda, en transcriu les idees clau en dues frases per a cada entrada del portfoli. Així es manté l'exigència reflexiva amb un format adaptat.
-
----
-
-## H8 L'alumnat percep el portfoli com una feina extra — DOCENT
-
-**Quan aplica:** L'alumnat percep el portfoli com una feina extra burocràtica i no li troba sentit.
-
-**Fonament:** La resistència apareix quan el portfoli no s'integra orgànicament en el procés d'aprenentatge i es percep com una tasca afegida. Cal que les evidències siguin produccions que ja es fan a classe i que la reflexió estigui vinculada a moments naturals de tancament o transició.
-
-**Exemple:** Un docent reformula la implementació: en lloc de demanar el portfoli com a tasca a part, dedica els últims deu minuts de cada divendres a la "pausa portfoli", on l'alumnat selecciona i comenta la seva evidència de la setmana dins l'horari lectiu. Aquesta rutina elimina la percepció de càrrega extra.
-
-### Fonts i referències
-
-> Fonts pendents de verificació
-
----
+*2 documents citats de 30 al corpus · secció generada automàticament*

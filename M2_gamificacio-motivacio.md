@@ -2,263 +2,185 @@
 modul: M2
 titol: "Gamificació i motivació"
 tipus: estrategia
-descripcio: "Mecàniques de joc aplicades a l'aprenentatge, motivació intrínseca i extrínseca, engagement i DUA"
+descripcio: "Mecàniques de joc aplicades a l'aprenentatge, motivació intrínseca i extrínseca"
 review_status: esborrany
+generat_at: 2026-03-18T15:31:11
 ---
 
-# 1. CONTINGUT
+## 1. CONTINGUT ESPECÍFIC
 
-## Definicions i fonament teòric
+### Descripció i fonament
 
-### Motivació: condició prèvia a l'aprenentatge
+La gamificació, entesa com l'aplicació de mecàniques i elements de joc en contextos no lúdics, i l'ús de simulacions, són estratègies pedagògiques potents per iniciar i mantenir la motivació de l'alumnat. Aquestes metodologies funcionen reproduint o modelitzant fenòmens i problemes que es troben tant en l'estudi de temes acadèmics com en la vida quotidiana, fent l'aprenentatge més rellevant i tangible. En fer-ho, estimulen la curiositat i la creativitat, i connecten amb els interessos dels alumnes, que són indicadors clau d'una unitat didàctica competencial. A més, les simulacions i els jocs propicien la conversa i el debat entre iguals, habilitats fonamentals que afavoreixen el creixement personal, la maduració intel·lectual i el desenvolupament de les destreses cognitives d'ordre superior com l'anàlisi, l'avaluació i la creació.
 
-La motivació és la força que impulsa i manté el comportament orientat a un objectiu. En el context educatiu, la motivació per aprendre és un dels predictors més sòlids del rendiment acadèmic i de la profunditat de l'aprenentatge. Sense motivació, ni la millor metodologia ni els millors recursos aconseguiran que l'alumne s'impliqui de manera activa i sostinguda en els processos d'aprenentatge.
+El fonament d'aquestes estratègies rau en la seva capacitat per crear un entorn d'aprenentatge actiu i participatiu. En lloc de rebre informació de manera passiva, l'alumnat esdevé protagonista del seu procés, prenent decisions i observant les conseqüències, cosa que augmenta el seu compromís. Aquest enfocament s'alinea amb els principis del Disseny Universal de l'Aprenentatge (DUA), que busca múltiples opcions per captar l'interès, mantenir l'esforç i la persistència, i fomentar l'autoregulació. També es complementa amb l'aprenentatge cooperatiu, on la interacció social i la interdependència positiva són fonts d'aprenentatge, i el desequilibri cognitiu generat pel contacte amb diferents punts de vista impulsa la reestructuració dels esquemes de coneixement.
 
-La teoria de l'autodeterminació de Ryan i Deci (2000) distingeix dos grans tipus de motivació:
+### Quan i per a qui és útil
 
-**Motivació extrínseca:** L'alumne s'implica en una activitat per obtenir una recompensa externa (una nota, un premi, l'aprovació del docent, evitar una punició). Produeix un engagement a curt termini però sovint és fràgil i desapareix quan desapareix la recompensa. La gamificació típicament apel·la en primera instància a la motivació extrínseca (punts, insígnies, posicions en el rànquing).
+Aquesta estratègia és útil per a tot l'alumnat i en totes les etapes educatives, des d'Infantil/Primària fins a Batxillerat/FP, especialment quan es busca:
+- **Augmentar la motivació i l'engagement:** Quan l'interès per un tema és baix o es vol introduir un contingut de manera més atractiva.
+- **Concretar conceptes abstractes:** Les simulacions ajuden a visualitzar i experimentar fenòmens complexos o problemes reals.
+- **Desenvolupar habilitats del segle XXI:** Fomenta el pensament crític, la resolució de problemes, la comunicació i la col·laboració.
+- **Promoure l'autonomia i l'autoregulació:** En donar responsabilitat a l'alumne en la presa de decisions dins del joc.
+- **Atendre la diversitat:** Mitjançant el DUA, es poden oferir múltiples opcions d'interacció i expressió, i adaptar els objectius individuals. Per exemple, en Primària, es pot "jugar a esbrinar les alçades" per aprendre mesures, o en Secundària, una simulació com "L'antena" per debatre temes tecnològics.
 
-**Motivació intrínseca:** L'alumne s'implica en una activitat perquè la tasca en si li resulta interessant, significativa, desafiadora o plaent. La motivació intrínseca és molt més duradora i correlaciona amb un aprenentatge de major qualitat i retenció. La gamificació ben dissenyada aspira a convertir la motivació extrínseca inicial en motivació intrínseca.
+Les condicions d'èxit inclouen la claredat dels objectius d'aprenentatge, la definició de rols i regles, la integració amb el currículum i la facilitació d'espais per a la reflexió posterior.
 
-Ryan i Deci identifiquen tres necessitats psicològiques bàsiques que, quan es satisfan, generen motivació intrínseca:
+### Recursos necessaris
 
-1. **Competència:** Sentir-se capaç i eficaç. L'alumne necessita experiències d'èxit assolible que li facin sentir que progressa.
-2. **Autonomia:** Sentir-se l'agent de les pròpies accions, tenir una certa capacitat de decisió sobre el propi aprenentatge.
-3. **Relació:** Sentir-se connectat i valorat per les persones significatives (companys, docents).
+L'aplicació de la gamificació i les simulacions requereix una planificació acurada dels següents recursos:
+- **Temps:** Cal preveure sessions suficients tant per a la introducció i el desenvolupament de l'activitat (per exemple, 2 sessions per a una simulació) com per a la fase de reflexió i debat posterior, que és crucial per a la consolidació de l'aprenentatge.
+- **Espai:** Es necessita un espai flexible que permeti el treball en grups petits, la interacció cara a cara i, si cal, la recreació d'escenaris per a les simulacions.
+- **Materials:** Depenent de la complexitat, poden ser necessaris materials didàctics (documents, imatges, vídeos), recursos tecnològics (ordinadors, pissarres digitals, aplicacions específiques) o fins i tot atrezzo per als rols en una simulació. La documentació sobre el tema és fonamental per a la preparació dels participants.
+- **Formació:** Per al docent, és important tenir formació en disseny d'activitats competencials, aprenentatge cooperatiu i estratègies per a la gestió de la diversitat, ja que la gamificació s'integra amb aquestes metodologies.
 
-La gamificació ben dissenyada activa precisament aquestes tres necessitats: la progressió de nivells (competència), l'elecció de tasques o camins (autonomia) i els jocs cooperatius o les taules de classificació amb equips (relació).
+### Com implementar
 
-### Gamificació: definició i components
+La implementació de la gamificació i les simulacions es pot graduar en diferents nivells de complexitat:
 
-La **gamificació** (de l'anglès *gamification*) consisteix en aplicar mecàniques, dinàmiques i elements característics dels jocs en contextos no lúdics, com ara l'educació, amb l'objectiu d'augmentar l'engagement, la motivació i la participació. No consisteix a "convertir la classe en un joc", sinó a incorporar elements del disseny de jocs per fer l'experiència d'aprenentatge més atractiva i motivadora.
+-   **Nivell Bàsic (Introducció d'elements de joc puntuals):**
+    *   **Descripció:** Consisteix a incorporar elements lúdics senzills en activitats ja existents o en rutines d'aula. L'objectiu és augmentar l'engagement i la motivació sense reestructurar completament la unitat didàctica.
+    *   **Accions:** Utilitzar reptes curts, sistemes de punts o insígnies per a tasques concretes, temporitzadors per a activitats, o dinàmiques de "jugar a esbrinar" per introduir conceptes. Per exemple, en Primària, es pot gamificar la revisió de les taules de multiplicar amb un "repte del matemàtic" on els alumnes guanyen punts per cada resposta correcta.
+    *   **Adaptacions per diversitat:** Oferir suports visuals o auditius per a les instruccions, permetre treball en parelles per als reptes, o adaptar el nivell d'exigència dels punts per a cada alumne.
 
-**Elements de la gamificació:**
+-   **Nivell Intermedi (Simulacions i activitats gamificades curtes):**
+    *   **Descripció:** Dissenyar activitats o unitats didàctiques curtes (1-3 sessions) amb una narrativa de joc, rols definits i objectius d'aprenentatge clars. S'integra amb el treball cooperatiu per fomentar la interacció.
+    *   **Accions:** Implementar simulacions de problemes reals, com la de "L'antena" per debatre sobre tecnologia, on els alumnes assumeixen rols (delegat de companyia, veïns, ajuntament) i han de defensar postures. Es poden utilitzar tècniques cooperatives com el "trencaclosques" per a la recerca d'informació prèvia als rols.
+    *   **Adaptacions per diversitat:** Proporcionar "bastides" pedagògiques com guions amb frases clau, glossaris de vocabulari específic, o models de presentació. Els grups han de ser heterogenis per afavorir l'ajuda mútua i la interacció.
 
-*Mecàniques bàsiques:*
-- **Punts:** Unitat de recompensa per accions desitjades (respondre preguntes, completar tasques, participar). Proporcionen feedback immediat i visible del progrés.
-- **Insígnies (badges):** Reconeixements visuals per assolir fites específiques. Funcionen com a marcadors d'identitat i d'èxit.
-- **Taules de classificació (leaderboards):** Mostren el progrés dels participants en relació amb els altres. Estimulen la competència però cal usars-les amb cura perquè poden desmotivar els participants de menor rendiment.
-- **Nivells:** Estructura progressiva que permet a l'alumne visualitzar el seu progrés i les fites a assolir.
-- **Reptes i missions:** Tasques estructurades com a "questes" que l'alumne ha d'completar.
-- **Narrativa (storytelling):** Context narratiu que dona sentit a les activitats i augmenta la implicació emocional.
+-   **Nivell Avançat (Projectes gamificats o unitats didàctiques extenses):**
+    *   **Descripció:** Implementar un sistema de joc més ampli que abasti una unitat o projecte complet, amb una progressió clara, elements d'elecció per part de l'alumne, i connexió a reptes complexos del món real. L'aprenentatge es desenvolupa a través de "missions" o "quests".
+    *   **Accions:** Dissenyar un "viatge de l'heroi" on els alumnes, individualment o en grups, superen diferents proves (lectura crítica, recerca, producció de continguts) per resoldre un gran problema o crear un producte final. Per exemple, un projecte sobre "Ucronia" podria ser una "missió" per reescriure un esdeveniment històric i defensar-lo amb arguments, amb diferents "nivells" de recerca i presentació.
+    *   **Adaptacions per diversitat:** Aplicar el DUA en el disseny de les missions, oferint múltiples maneres d'accedir a la informació (visual, auditiva, textual), de processar-la (individual, cooperativa) i d'expressar l'aprenentatge (oral, escrit, audiovisual). Es poden establir objectius multinivell dins del mateix projecte.
 
-*Dinàmiques de joc:*
-- **Progressió:** La sensació de créixer, avançar i millorar al llarg del temps.
-- **Desafiament:** Tasques que estan lleugerament per sobre del nivell actual de l'alumne (zona de desenvolupament proper, Vygotski).
-- **Competència (vs. cooperació):** La gamificació pot ser individual (cada alumne contra si mateix) o col·lectiva (equips que cooperen per aconseguir fites compartides).
-- **Feedback immediat:** Informació instantània sobre si una acció ha estat correcta o incorrecta, ajuda a la regulació i a la persistència.
-- **Llibertat per a l'error:** En un joc, equivocar-se no és definitiu; pots tornar a intentar-ho. Aquesta lògica pot reduir l'ansietat davant l'error escolar.
+### Exemples d'aplicació per etapa
 
-### Gamificació vs. Joc (Game-based learning)
+1.  **Educació Primària:**
+    *   **Exemple:** "El repte dels exploradors matemàtics". Els alumnes de 3r de Primària es converteixen en exploradors que han de resoldre "enigmes" matemàtics per trobar un "tresor" (un coneixement nou o una habilitat). Cada enigma resolt els dona una "pista" i una "insígnia" de progrés. Els enigmes poden ser problemes de suma, resta, multiplicació o geometria, adaptats al nivell de cada grup. L'activitat de "jugar a esbrinar les seves alçades" per aprendre mesures s'integra com un dels enigmes.
+    *   **Objectiu:** Consolidar operacions bàsiques i conceptes de mesura de manera lúdica i cooperativa, fomentant la persistència.
 
-Cal distingir la gamificació de l'aprenentatge basat en jocs (*game-based learning*):
-- **Gamificació:** S'apliquen elements dels jocs a una activitat o context educatiu existent (puntuar una activitat, crear un sistema de nivells per al treball cooperatiu, usar un sistema de reptes).
-- **Aprenentatge basat en jocs:** L'aprenentatge es produeix a través d'un joc específic (videojoc educatiu, joc de taula, simulació). L'activitat central és el joc en si.
+2.  **Educació Secundària (ESO):**
+    *   **Exemple:** "El consell de la ciutat: El dilema de l'antena". Alumnes de 4t d'ESO simulen una reunió d'una comunitat de veïns on una companyia telefònica vol instal·lar una antena (basat en DOC 11). Es reparteixen rols: delegats de la companyia, president de la comunitat, sector crític, associació de veïns, representant de l'Ajuntament. Cada grup ha de documentar-se, preparar arguments a favor o en contra, i negociar. Un grup d'observadors de contingut avalua els arguments i proposa una solució raonada.
+    *   **Objectiu:** Desenvolupar el pensament crític, l'argumentació, la negociació i la comprensió de temes d'actualitat des de múltiples perspectives.
 
-Ambdós enfocaments comparteixen els principis motivacionals, però la gamificació és més fàcil d'implementar en el context del currículum ordinari sense redissenyar tot el curs.
+3.  **Batxillerat/Formació Professional (FP):**
+    *   **Exemple:** "Ucronia: Reescrivint la història". En la matèria d'Història del Món Contemporani o Filosofia, els alumnes es plantegen un fet històric transcendent (per exemple, la no entrada d'Espanya a la UE, com en DOC 12) i especulen sobre realitats alternatives. En grups, han de crear una narrativa "ucrònica" (una història contrafactual) i defensar-la amb arguments basats en la lògica històrica i social. El procés es gamifica amb "punts de versemblança" o "desafiaments de coherència" que han de superar davant d'un "tribunal històric" format per altres alumnes o el professor.
+    *   **Objectiu:** Aprofundir en l'anàlisi de causes i conseqüències històriques, desenvolupar la capacitat d'argumentació i el pensament crític, i fomentar la creativitat en la construcció de narratives.
 
-### La Flow Theory (Csikszentmihalyi) i el nivell de desafiament
+### Indicadors d'èxit
 
-Una de les bases teòriques més influents en el disseny de jocs i en la gamificació és el concepte de **flow** (flux, o estat de fluïdesa) de Mihaly Csikszentmihalyi. L'estat de flow es produeix quan el nivell de desafiament d'una tasca i el nivell de competència de l'alumne estan en equilibri: la tasca és prou difícil per ser desafiadora però prou assequible per ser realitzable. Aquest equilibri genera un estat d'absorció total en la tasca, en el qual el temps passa ràpidament i la sensació d'esforç és mínima.
+Per avaluar l'èxit de l'estratègia de gamificació i simulació, es poden observar els següents indicadors:
+-   **Augment de la participació:** L'alumnat s'implica activament en les tasques, intervé en els debats i mostra iniciativa.
+-   **Millora de la motivació:** Els alumnes mostren entusiasme, persistència davant els reptes i interès genuí pel tema.
+-   **Assoliment dels objectius d'aprenentatge:** Els alumnes demostren una comprensió més profunda dels continguts i són capaços d'aplicar els coneixements adquirits.
+-   **Desenvolupament d'habilitats:** Es milloren les destreses cognitives (pensament crític, resolució de problemes), socials (col·laboració, comunicació, negociació) i metacognitives (autoregulació, autoreflexió).
+-   **Qualitat de la interacció:** Els alumnes col·laboren de manera efectiva, s'ajuden mútuament i gestionen els conflictes de forma constructiva.
+-   **Transferència de l'aprenentatge:** Els alumnes són capaços de relacionar els aprenentatges del joc amb altres contextos acadèmics o de la vida real.
+-   **Feedback positiu:** Tant del docent com dels alumnes sobre l'experiència i els resultats.
 
-En termes de gamificació educativa:
-- Si el desafiament és molt superior a la competència, es genera ansietat i abandó.
-- Si la competència és molt superior al desafiament, es genera avorriment i desengagement.
-- Si el desafiament i la competència s'equilibren en la zona de flow, es genera la motivació òptima per aprendre.
+### Errors comuns
 
-Això implica que la gamificació ha de ser **adaptativa**: els reptes han de calibrar-se al nivell de cada alumne, i avançar a mesura que les competències augmenten. En el context de la diversitat a l'aula, és essencial que els elements gamificats no siguin els mateixos per a tots, perquè el que és un repte per a un alumne pot ser trivial per a un altre o impossible per a un tercer.
-
-### Connexió amb el Disseny Universal per a l'Aprenentatge (DUA)
-
-El tercer principi del DUA ("proporcionar múltiples formes d'implicació") és directament rellevant per a la gamificació. El DUA reconeix que la motivació és individual i que cal oferir a l'alumnat múltiples vies per implicar-se en l'aprenentatge:
-
-- **Captar l'interès:** Oferir graus d'elecció i autonomia, connectar amb els contextos i interessos de l'alumnat, crear situacions de desafiament (mecanismes de joc).
-- **Mantenir l'esforç i la persistència:** Recordar els objectius, variar la complexitat de manera graduada, fomentar la col·laboració (dinàmiques de joc cooperatiu), proporcionar retroalimentació orientada al procés i al progrés.
-- **Autoregulació:** Promoure la reflexió sobre el propi progrés (portafolis, autoavaluació en sistemes de punts), gestionar la frustració i celebrar els assoliments (insígnies, nivells).
-
-La gamificació pot ser una eina molt potent per implementar el tercer principi del DUA, però cal dissenyar-la de manera que realment serveixi a la diversitat i no afavoreixi únicament un perfil d'alumnat (els competitius, els que ja parteixen d'un nivell alt).
-
-### Riscos i condicions d'ús
-
-La gamificació no és una panacea i té riscos i limitacions que cal tenir en compte:
-
-**Riscos del mal ús:**
-- **Efecte de la recompensa esperada (Lepper, Greene, Nisbett):** Si una activitat que l'alumne ja realitzava per motivació intrínseca s'introdueix en un sistema de punts, la motivació intrínseca pot disminuir quan s'elimini la recompensa. La gamificació pot "corrompre" la motivació intrínseca existent si no es dissenya bé.
-- **Exclusió dels alumnes de baix rendiment:** Les taules de classificació i els sistemes de punts poden desmotivar els alumnes que sistemàticament queden en posicions baixes, amplificant les desigualtats en lloc de reduir-les.
-- **Banalització del contingut:** Si la gamificació s'aplica superficialment (afegir punts a activitats sense canviar-ne el disseny pedagògic), pot generar l'efecte contrari: l'alumne percep que el contingut és trivial.
-- **Addicció a la recompensa:** Alumnes que s'obsessionen amb els punts i les insígnies i perden de vista l'aprenentatge com a objectiu final.
-
-**Condicions per a un ús efectiu:**
-- El joc o sistema gamificat ha de tenir un sentit clar en relació amb els objectius d'aprenentatge.
-- Els elements de competència han de ser complementats amb elements de cooperació.
-- El sistema de progressió ha d'estar adaptat als nivells de cada alumne.
-- La gamificació ha d'incorporar feedback informatiu (no només valoratiu) que ajudi l'alumne a entendre com millorar.
-- L'objectiu final ha de ser sempre la construcció de competències duradores, no el rendiment en el sistema gamificat.
-
-### Gamificació en contextos de diversitat
-
-La gamificació, quan està ben dissenyada des d'una perspectiva inclusiva, pot ser una eina poderosa per atendre la diversitat:
-
-**Alumnat nouvingut:** Els jocs redueixen la barrera lingüística. Un joc de vocabulari en context, una missió on cal trobar objectes en una imatge, un repte de matemàtiques amb regles simples: totes aquestes activitats permeten participar a alumnes amb poc domini de la llengua vehicular. Les mecàniques de joc poden actuar com a context compartit que facilita la inclusió social.
-
-**Alumnat amb NESE:** Per a alumnes amb TDAH, la gamificació pot augmentar significativament l'atenció i la persistència en tasques que d'altra manera generarien desconnexió. Els cicles curts de feedback (punts, recompenses visuals immediates) s'alineen bé amb les característiques atencionals d'aquest perfil. Per a alumnes amb dislèxia, els jocs digitals amb text reduït i suport visual i auditiu poden reduir la barrera d'accés. Cal adaptar els reptes i la complexitat lingüística dels sistemes gamificats per assegurar que la barrera d'entrada no és l'habilitat lecto-escriptora sinó la competència que es vol desenvolupar.
-
-**Alumnat amb altes capacitats:** La gamificació, si no s'adapta, pot ser massa simple per a l'alumnat d'altes capacitats, generant avorriment en lloc d'engagement. El disseny hauria de preveure nivells avançats, reptes addicionals i la possibilitat que els alumnes d'altes capacitats dissenyin ells mateixos extensions del joc o assoleixin el rol de "game master" (dissenyador de reptes per als companys), cosa que afavoreix el pensament creatiu i el lideratge.
-
-### Estratègies concretes per a l'aula
-
-**Sistemes de punts adaptats:**
-En lloc d'un únic sistema de punts per a tota la classe, es pot establir un sistema de punts personalitzat on cada alumne avança respecte al seu propi punt de partida (no en comparació amb els companys). Cada millora personal suma punts, independentment del nivell absolut.
-
-**Missions i reptes graduats:**
-Dissenyar missions amb tres nivells de dificultat (repte bàsic, estàndard, avançat) i deixar que l'alumne escolli el nivell que vol intentar. Això combina autonomia (elecció) i desafiament adaptatiu (flow zone).
-
-**Equips heterogenis i cooperació:**
-Crear equips heterogenis on els alumnes de diferent nivell col·laboren per completar una missió. Els punts de l'equip depenen de la contribució de tots els membres, incloent-hi els menys hàbils. Això afavoreix la tutoria entre iguals i la cohesió del grup.
-
-**Narratives immersives:**
-Emmarcar les unitats didàctiques en una narrativa (per exemple, el grup és un equip d'arqueòlegs que investiga una civilització desapareguda, i cada activitat és una missió arqueològica). La narrativa augmenta la implicació emocional i dona sentit als continguts.
-
-**Badges de reconeixement divers:**
-A part de les insígnies per rendiment acadèmic, crear insígnies que reconeguin habilitats diverses: "col·laborador excel·lent", "pensament creatiu", "perseverança", "ajuda als companys". Això permet que alumnes que no destaquen acadèmicament trobin el seu espai de reconeixement.
+Per tal d'evitar que la gamificació i les simulacions siguin contraproduents, cal estar atents als següents errors:
+-   **Superficialitat i manca de propòsit pedagògic:** No integrar el joc amb els objectius d'aprenentatge clars. Si l'activitat és només entreteniment sense una connexió explícita amb el currículum, es perd l'oportunitat d'un aprenentatge significatiu. L'objectiu ha de ser sempre l'aprenentatge competencial, no només la diversió.
+-   **Desconnexió amb la realitat de l'alumne:** Proposar jocs o simulacions que no connecten amb els interessos o el context de l'alumnat, o que no modelitzen problemes rellevants. Això pot generar desinterès i percebre l'activitat com una pèrdua de temps.
+-   **Manca de reflexió i "debriefing":** No dedicar temps a la reflexió individual i grupal sobre el que s'ha après, les decisions preses i les habilitats utilitzades. Sense aquesta autoreflexió, l'aprenentatge pot quedar en un nivell superficial i no consolidar-se.
+-   **Competitivitat excessiva:** Un enfocament massa centrat en la competició i les recompenses extrínseques pot desmotivar els alumnes amb menys èxit, generar frustració i anar en contra dels principis d'inclusió i aprenentatge cooperatiu. Cal prioritzar la interdependència positiva i la responsabilitat individual.
+-   **Ignorar la diversitat de l'alumnat:** No preveure adaptacions o suports per als diferents ritmes i necessitats d'aprenentatge, cosa que pot excloure part de l'alumnat o fer que la tasca sigui inassolible per a alguns. Cal aplicar els principis del DUA i l'ensenyament multinivell.
+-   **Complexitat excessiva de les regles:** Un joc amb regles massa complicades pot generar confusió i frustració, desviant l'atenció de l'aprenentatge cap a la comprensió de la mecànica del joc.
 
 ---
 
-# 2. CONNEXIONS AMB ALTRES DOCUMENTS DEL CORPUS
+## 2. CONNEXIONS AMB ALTRES DOCUMENTS DEL CORPUS
 
-| Document relacionat | Relació concreta | Co-activació |
-|---|---|---|
-| M2_carrega-friccio-cognitiva.md | La fricció productiva és la versió cognitiva del repte desitjable en la gamificació | Obligatòria |
-| M2_DUA-principis-pautes.md | El tercer principi del DUA (implicació múltiple) és el fonament pedagògic de la gamificació inclusiva | Obligatòria |
-| M2_aprenentatge-cooperatiu.md | La gamificació cooperativa és una de les formes més inclusives d'implementar mecàniques de joc | Condicional |
-| M2_factors-promotors-aprenentatge.md | La motivació, l'autonomia i el desafiament son factors promotors que la gamificació activa | Obligatòria |
-| M2_ABP-aprenentatge-servei.md | L'ABP proporciona el context narratiu i de repte que fa que la gamificació cobri sentit | Condicional |
-| M7_benestar-emocional-seguretat.md | El benestar emocional és una condició per a la motivació; la gamificació pot contribuir o perjudicar el clima emocional | Condicional |
-| M6_feedback-formatiu.md | El feedback és un element central de la gamificació; ha de ser informatiu, no només valoratiu | Obligatòria |
-| M6_avaluacio-formativa-formadora.md | Els sistemes de punts de gamificació poden integrar-se en l'avaluació formativa si estan ben dissenyats | Condicional |
-| M1_altes-capacitats.md | L'alumnat d'AC necessita nivells avançats en els sistemes gamificats | Condicional |
-| M5_rols-IA-educacio.md | La IA pot personalitzar l'experiència gamificada adaptant el nivell de repte a cada alumne | Condicional |
+-   **Marc_DUA**: La gamificació s'alinea amb el DUA en oferir múltiples opcions per captar l'interès, mantenir l'esforç i la persistència, i fomentar l'autoregulació, adaptant l'aprenentatge a la diversitat de l'alumnat.
+-   **Estrategia_Aprenentatge_Cooperatiu**: Moltes activitats gamificades i simulacions es beneficien enormement de l'estructura cooperativa, ja que fomenten la interacció, el debat i la responsabilitat compartida, elements clau per a la motivació i l'aprenentatge profund.
+-   **Estrategia_Bastides_Pedagogiques**: L'ús de bastides és essencial per adaptar les activitats gamificades a la diversitat de l'alumnat, proporcionant el suport necessari per a la comprensió i la resolució de tasques, i retirant-lo progressivament.
+-   **Estrategia_Ensenyament_Multinivell**: Permet adaptar els objectius i les expectatives dins d'una mateixa activitat gamificada, assegurant que tots els alumnes puguin participar i progressar segons el seu nivell.
+-   **Estrategia_Aprenentatge_Basat_en_Projectes**: La gamificació pot ser el marc motivador per a projectes més amplis, convertint les fases del projecte en "missions" o "reptes" amb una narrativa de joc.
+-   **Eina_Rúbriques_Avaluacio**: Les rúbriques són instruments útils per explicitar els criteris d'avaluació en activitats gamificades, ajudant els alumnes a entendre què s'espera d'ells i com es valorarà el seu progrés.
+-   **Eina_Full_Indicadors_Unitats_Competencials**: Aquest full pot servir per revisar si les unitats didàctiques gamificades són realment competencials, assegurant que estimulen la curiositat, connecten amb interessos i suposen l'aplicació de coneixements.
+-   **Estrategia_Lectura_Critica**: Les simulacions i jocs poden incloure la lectura crítica de textos o imatges com a part de les "missions" o la recerca d'informació per resoldre un problema.
+-   **Estrategia_Modelatge_Alliberament_Gradual**: El modelatge és una bastida fonamental per introduir les regles o habilitats necessàries en una activitat gamificada, i l'alliberament gradual de la responsabilitat permet que l'alumne guanyi autonomia.
 
+## 3. DETECCIÓ (Variables de Context)
+
+-   **Senyals del docent**
+    *   "Els meus alumnes estan desmotivats o passius davant els continguts curriculars?"
+    *   "Busco una manera més activa i engrescadora d'introduir un tema complex o abstracte?"
+    *   "Vull fomentar la participació, el debat i la col·laboració entre els meus alumnes?"
+    *   "Com puc fer que els continguts siguin més rellevants i connectats amb la vida real dels alumnes?"
+    *   "Necessito que els alumnes desenvolupin habilitats de resolució de problemes i pensament crític de manera més dinàmica?"
+    *   "Em costa que els alumnes mantinguin l'esforç i la persistència en tasques a llarg termini?"
+-   **Senyals de l'alumne**
+    *   Avorriment o manca d'interès evident en les activitats d'aula habituals.
+    *   Dificultat per connectar conceptes abstractes amb la realitat o per veure la utilitat del que aprenen.
+    *   Passivitat en el treball individual o grupal, poca iniciativa per participar o resoldre problemes.
+-   **Senyals de context**
+    *   Introducció d'una unitat didàctica nova que pot ser percebuda com a poc atractiva.
+    *   Necessitat de repassar o consolidar un tema complex que requereix una aplicació pràctica.
+    *   Grup amb alta diversitat de ritmes i interessos, que requereix múltiples vies d'engagement.
+    *   Moment de l'any escolar on la motivació general pot decaure.
+    *   Disponibilitat de recursos tecnològics o materials que permeten el disseny de jocs o simulacions.
+-   **Anti-senyals**
+    *   Si l'objectiu principal és només l'entreteniment sense un aprenentatge clar i explícitament connectat al currículum.
+    *   Si el temps disponible per a la planificació i implementació de l'activitat és molt limitat i no permet una fase de reflexió adequada.
+    *   Si el grup té dificultats greus de gestió de conflictes o de treball cooperatiu que el joc, si no es gestiona bé, podria exacerbar.
+    *   Si el docent no està disposat a cedir part del control i a actuar com a facilitador més que com a transmissor de continguts.
+
+## 4. HEURÍSTIQUES I RAONAMENT PER A L'AGENT
+
+**Principi general:** Prioritza l'aprenentatge significatiu i la motivació intrínseca a través de l'engagement actiu i la rellevància, utilitzant elements de joc i simulacions com a facilitadors per a tots els alumnes.
+
+### Heurístiques per a l'Agent DOCENT
+
+1.  **Heurística: Dissenyar per a la motivació intrínseca i la rellevància.**
+    *   **Quan aplica:** Quan el docent vol que els alumnes s'impliquin profundament amb el contingut i desenvolupin un interès genuí, més enllà de les recompenses externes, connectant l'aprenentatge amb la seva realitat.
+    *   **Fonament:** El document 11 destaca que jocs i simulacions "inicien i mantenen la motivació de l’alumnat" modelitzant problemes reals. El document 3 (DUA) emfatitza "Captar l’interès" i "Mantenir l’esforç i la persistència". El document 23 busca activitats que "Estimulen la curiositat i la creativitat" i "Connecten amb els seus interessos", i que es relacionin amb "fets reals o problemes quotidians".
+    *   **Exemple complet de raonament:** Un docent vol que els seus alumnes de 1r d'ESO entenguin la importància de la sostenibilitat i la gestió de recursos. En lloc de fer una llista de fets i conceptes, l'agent podria suggerir dissenyar un "repte de la ciutat sostenible". Això implica que els alumnes, en grups, han de prendre decisions sobre l'ús de l'energia, la gestió de residus i la planificació urbana per mantenir la felicitat dels habitants i la salut del medi ambient durant un període determinat. L'agent raonaria que aquesta estratègia, en simular un problema real i complex que té conseqüències directes al "joc", activa la curiositat i la resolució de problemes, fomentant la motivació intrínseca per trobar solucions. A més, en connectar amb un tema d'actualitat i de la vida quotidiana, l'aprenentatge esdevé significatiu i rellevant per a l'alumnat, tal com es desprèn de la capacitat dels jocs per modelitzar fenòmens de la vida quotidiana i mantenir l'esforç, i dels indicadors de competencialitat.
+
+2.  **Heurística: Integrar el joc amb els objectius curriculars explícits.**
+    *   **Quan aplica:** Quan es vol assegurar que l'ús de jocs o simulacions no sigui una activitat aïllada, sinó que contribueixi directament a l'assoliment dels objectius d'aprenentatge i competències definides al currículum.
+    *   **Fonament:** El document 6 subratlla la importància d'"Explicitar els objectius i els criteris d’avaluació a l’alumnat". El document 23, amb els seus indicadors de competencialitat, pregunta si les activitats "Suposen aplicar coneixements adquirits i fer nous aprenentatges" i "Es faciliten la relació de coneixements de diferents àrees o matèries". El document 11 descriu els jocs com a estratègies per "modelitzar fenòmens i problemes que es poden trobar tant en l’estudi de temes acadèmics".
+    *   **Exemple complet de raonament:** Un docent vol utilitzar un joc per ensenyar conceptes de física com la gravetat, la força i la velocitat. L'agent podria suggerir que el joc no només sigui divertit, sinó que cada "nivell" o "repte" estigui directament vinculat a un concepte físic específic. Per exemple, un repte podria ser construir una rampa per fer que una pilota arribi a un objectiu llunyà, obligant els alumnes a aplicar principis de cinemàtica per calcular l'angle i la força necessària. L'agent raonaria que aquesta integració assegura que el joc esdevingui una eina per a l'aprenentatge competencial, on els objectius són clars i els coneixements s'apliquen de manera significativa per resoldre un problema, no només es reprodueixen. Aquesta claredat en els objectius i l'aplicació pràctica són fonamentals per a un ensenyament competencial, tal com indiquen els criteris per a unitats didàctiques.
+
+3.  **Heurística: Fomentar la interacció, el debat i la col·laboració.**
+    *   **Quan aplica:** Quan es busca desenvolupar habilitats socials, comunicatives i de pensament crític a través de la interacció entre iguals, aprofitant la diversitat de l'aula.
+    *   **Fonament:** El document 11 afirma que els jocs "Permeten també la conversa i el debat entre iguals". Els documents 8 i 19 destaquen els beneficis de l'aprenentatge cooperatiu, incloent la "interacció social com a font d’aprenentatge", la "interdependència positiva" i el "desequilibri cognitiu que es dóna en entrar en contacte amb els punts de vista dels altres". El document 21 (regles UNESCO) també esmenta el treball en grup com una "excel·lent manera de respondre a les necessitats individuals".
+    *   **Exemple complet de raonament:** Per a un projecte de ciències socials sobre conflictes globals, l'agent podria proposar una simulació de negociació entre països. Assignant rols amb interessos contraposats (per exemple, un país amb recursos energètics, un altre amb necessitats de desenvolupament, un tercer amb preocupacions mediambientals, com en l'exemple de "L'antena" del document 11), els alumnes hauran de dialogar, argumentar i buscar consens per resoldre un conflicte fictici. L'agent raonaria que aquesta interacció no només fa l'aprenentatge més dinàmic i motivador, sinó que també desenvolupa habilitats crucials de comunicació, empatia i resolució de problemes, ja que el debat entre iguals és una font d'aprenentatge i reestructuració cognitiva, i la col·laboració és essencial per a l'èxit del grup, tal com es valora en les metodologies cooperatives.
+
+4.  **Heurística: Proporcionar suports i bastides per a la inclusió.**
+    *   **Quan aplica:** Quan es dissenyen activitats de joc o simulació per a alumnes amb diferents nivells de competència, necessitats educatives específiques o diversitat lingüística, assegurant que tots puguin participar amb èxit.
+    *   **Fonament:** Els documents 3 i 21 promouen el DUA i l'ensenyament multinivell, que impliquen "múltiples opcions de captar l’interès" i "adaptar la classe i la feina... d’acord amb les seves habilitats". Els documents 5 i 18 expliquen les "bastides pedagògiques" com a suport temporal ajustat al nivell competencial de l'alumne, que cal anar retirant progressivament.
+    *   **Exemple complet de raonament:** Si un docent vol implementar un joc de rol històric en una aula amb alumnes nouvinguts o amb dificultats de comprensió lectora, l'agent suggeriria oferir "bastides" com ara glossaris visuals dels termes clau, guions simplificats per als rols amb frases d'exemple, o la possibilitat de treballar en parelles amb un company més expert que pugui fer de tutor. L'agent raonaria que aquests suports, com les bastides que s'ajusten al nivell competencial de l'alumne, permeten que tots puguin participar i assolir els objectius d'aprenentatge, evitant la frustració i garantint la inclusió. A més, el plantejament multinivell permetria adaptar les expectatives de cada rol o tasca dins del joc, en línia amb els principis del DUA i l'atenció a la diversitat.
+
+5.  **Heurística: Fomentar l'autoreflexió i l'avaluació del procés.**
+    *   **Quan aplica:** Després de finalitzar una activitat de joc o simulació, per consolidar l'aprenentatge, permetre als alumnes comprendre el seu propi procés i progressos, i transferir les lliçons apreses.
+    *   **Fonament:** El document 9 menciona la "Autoreflexió de grup" com a condició per a l'èxit cooperatiu, implicant "reservar un temps per tal que els membres del grup reflexionin conjuntament sobre el procés de treball per prendre decisions d’ajust i millora". El document 23 inclou indicadors com "Es preveuen espais amb estratègies per ajudar l’alumnat a identificar el que ha après i per comprendre les raons de les seves dificultats". El document 11, en l'exemple de "L'antena", inclou "observadors de contingut" i "secretari de la reunió" que impliquen una anàlisi posterior.
+    *   **Exemple complet de raonament:** Després d'una simulació complexa sobre un dilema ètic, l'agent podria aconsellar al docent dedicar temps a una sessió de "debriefing" on els alumnes reflexionin sobre les decisions preses, els resultats obtinguts, les habilitats de negociació utilitzades i els dilemes morals que van sorgir. Podrien omplir una rúbrica d'autoavaluació o coavaluació sobre la seva participació i aprenentatge, o escriure un diari de reflexió. L'agent raonaria que aquesta fase és crucial perquè el joc no sigui només una experiència lúdica, sinó una oportunitat d'aprenentatge conscient, permetent als alumnes processar l'experiència, verbalitzar el que han après, identificar àrees de millora i transferir les lliçons del joc a altres contextos, millorant així la seva competència d'aprendre a aprendre i la seva capacitat d'autoregulació.
+
+### Heurístiques per a l'Agent ALUMNE
+
+1.  **Heurística: Participar activament i col·laborar amb els companys.**
+    *   **Quan aplica:** Quan l'alumne s'enfronta a una activitat de joc o simulació i vol aprofitar-la al màxim per aprendre i gaudir.
+    *   **Fonament:** El document 11 destaca que els jocs "inicien i mantenen la motivació" i "permeten la conversa i el debat entre iguals". Els documents 8 i 19 emfatitzen la "interdependència positiva" i la "responsabilitat individual" en el treball cooperatiu, on l'èxit de cadascú està lligat al del grup. El document 20 assenyala que l'aprenentatge entre iguals fomenta la capacitat d'empatia i la satisfacció.
+    *   **Exemple complet de raonament:** Quan un alumne participa en un joc de rol sobre un esdeveniment històric, l'agent el guiaria a no només seguir les instruccions del seu rol, sinó a interactuar activament amb els seus companys, a expressar les seves idees, a escoltar les dels altres i a buscar solucions conjuntes als reptes que es presentin. L'agent raonaria que la participació activa i la col·laboració no només fan l'experiència més divertida i engrescadora, sinó que també maximitzen l'aprenentatge, ja que el debat i l'intercanvi de punts de vista amb els iguals són fonamentals per a la comprensió profunda, la reestructuració cognitiva i el desenvolupament de noves perspectives, a més de millorar les habilitats socials i la capacitat d'empatia.
+
+2.  **Heurística: Connectar el joc amb l'aprenentatge real.**
+    *   **Quan aplica:** Quan l'alumne vol entendre la finalitat pedagògica darrere d'una activitat lúdica i veure com el que fa al joc es relaciona amb els continguts de l'assignatura i el món real.
+    *   **Fonament:** El document 6 insisteix en "Explicitar els objectius" a l'alumnat. El document 11 descriu els jocs com a estratègies que "reprodueixen o modelitzen fenòmens i problemes que es poden trobar tant en l’estudi de temes acadèmics com en la vida quotidiana". El document 23 valora que els continguts es relacionin amb "fets reals o problemes quotidians".
+    *   **Exemple complet de raonament:** Si un alumne està jugant a un joc de simulació econòmica on ha de gestionar un negoci, l'agent l'animaria a pensar en com les decisions que pren al joc (com fixar preus, invertir en publicitat o gestionar l'estoc) es relacionen amb conceptes econòmics reals que ha estudiat a classe, com ara l'oferta i la demanda, els costos de producció o la competència de mercat. L'agent raonaria que fer aquesta connexió explícita ajuda l'alumne a veure la utilitat pràctica del que aprèn, transformant el joc d'una simple distracció en una eina poderosa per aplicar i consolidar coneixements, i per entendre com els conceptes acadèmics es manifesten en situacions de la vida real. Això reforça la seva motivació intrínseca i la percepció de rellevància de l'aprenentatge.
+
+3.  **Heurística: Reflexionar sobre el procés, les decisions i els resultats del joc.**
+    *   **Quan aplica:** Després de finalitzar una activitat de joc o simulació, per consolidar l'aprenentatge, identificar què s'ha après i com es pot millorar en el futur.
+    *   **Fonament:** El document 9 destaca la "Autoreflexió de grup" com a condició per a l'èxit cooperatiu, per "prendre decisions d’ajust i millora". El document 23 suggereix "espais amb estratègies per ajudar l’alumnat a identificar el que ha après i per comprendre les raons de les seves dificultats".
+    *   **Exemple complet de raonament:** Un cop acabat un joc de taula sobre la història de Roma, l'agent demanaria a l'alumne que pensés en quines estratègies li van funcionar millor, quins fets històrics va aprendre o recordar gràcies al joc, i si hi ha alguna cosa que faria diferent la propera vegada per obtenir un millor resultat o una comprensió més profunda. L'agent raonaria que aquesta reflexió post-joc és essencial per a un aprenentatge profund, ja que permet a l'alumne processar l'experiència, verbalitzar els seus aprenentatges, identificar les seves fortaleses i febleses, i transferir les lliçons del joc a altres contextos d'estudi. Aquest procés d'autoreflexió és clau per desenvolupar la competència d'aprendre a aprendre i per a la millora contínua.
 ---
 
-# 3. DETECCIÓ (Variables de Context)
+## 5. FONTS DEL CORPUS
 
-**Senyals que activen aquest mòdul:**
-- El docent pregunta com augmentar la motivació del grup classe o d'un alumne específic.
-- El docent vol dissenyar una activitat més atractiva i engrescadora.
-- El docent es planteja usar punts, insígnies o nivells a la seva programació.
-- Un alumne expressa avorriment o desinterès per les activitats ordinàries de classe.
-- El docent vol millorar la participació i l'engagement d'un grup.
-- El docent vol fomentar la persistència davant les tasques difícils.
-- El docent pregunta com usar Kahoot, Duolingo, Classdojo o eines similars de manera pedagògicament fonamentada.
+| # | Títol | URL |
+|---|-------|-----|
+| 11 | cursos:curriculum:eso_btx:dcs1:modul_4:practica_5 [Formació del professorat] | http://ateneu.xtec.cat/wikiform/wikiexport/cursos/curriculum/eso_btx/dcs1/modul_4/practica_5 |
+| 12 | cursos:curriculum:eso_btx:dcs1:modul_4:practica_4 [Formació del professorat] | http://ateneu.xtec.cat/wikiform/wikiexport/cursos/curriculum/eso_btx/dcs1/modul_4/practica_4 |
 
-**Senyals de l'alumne:**
-- "Aquesta classe és avorrida."
-- "No m'importa la nota."
-- "Faig el mínim perquè no m'agraden les matemàtiques."
-- "Si fos com un joc, ho faria amb més ganes."
-
-**Anti-senyals (quan NO activar principalment aquest mòdul):**
-- El docent pregunta sobre el contingut específic d'una àrea curricular.
-- La manca de motivació és clarament deguda a factors externs (situació familiar, conflicte amb iguals, NESE no atesa) que requereixen una intervenció diferent.
-
----
-
-# 4. HEURÍSTIQUES I RAONAMENT PER A L'AGENT
-
-## H1 Diagnosticar el tipus de motivació present — DOCENT
-
-**Quan aplica:** Quan el docent vol saber per on començar per millorar la motivació d'un alumne o grup.
-
-**Fonament:** Abans de dissenyar intervencions motivacionals, cal diagnosticar el tipus de motivació (o desmotivació) present. Un alumne que no participava mai i ara ho fa per les insígnies és diferent d'un alumne que participava perquè li agradava el tema però ha deixat de fer-ho. El primer pot beneficiar-se d'un sistema de recompenses que gradualment construeixi interès intrínsec. El segon necessita que el docent identifiqui per qué ha caigut la motivació intrínseca i actui sobre la causa.
-
-**Exemple (≥80 paraules):** El docent de Socials de 2n d'ESO observa que la meitat de la classe no completa els treballs de casa. Abans de dissenyar un sistema de punts, pregunta a tres alumnes representatius per qué no els fan. Descobreix que alguns troben les tasques massa difícils (falta de competència), altres les troben irrellevants (falta de connexió amb els seus interessos), i alguns simplement han oblidat que les tenien (falta d'autoregulació). Actua diferent per a cada causa: per als primers, redueix la dificultat; per als segons, connecta els temes amb referències culturals actuals; per als tercers, crea un sistema de recordatoris gamificats. El diagnòstic previ evita la solució de borrall única.
-
----
-
-## H2 Dissenyar el repte al nivell de cada alumne (Flow Zone) — DOCENT
-
-**Quan aplica:** En el disseny de qualsevol activitat gamificada o de repte, especialment en grups heterogenis.
-
-**Fonament:** El principi del flow de Csikszentmihalyi estableix que la motivació òptima es produeix quan el repte i la competència s'equilibren. Un sistema gamificat que té el mateix repte per a tots els alumnes generarà ansietat en els que estan per sota del nivell i avorriment en els que estan per sobre. Cal dissenyar activitats amb múltiples nivells de repte i deixar que cada alumne decideixi on vol situar-se, o bé que el sistema s'adapti automàticament al seu progrés. Aquesta adaptació és un element clau del DUA (captar l'interès a través del desafiament adaptatiu).
-
-**Exemple (≥80 paraules):** La tutora de 4t de Primària crea un joc de lògica matemàtica per treballar la multiplicació. En lloc de posar el mateix exercici per a tots, dissenya tres "missions": la missió Explorador (multiplicació 1x1 fins a 5x5), la missió Aventurer (fins a 10x10 amb nombres compostos) i la missió Expert (multiplicació de nombres de dues xifres amb paraules-problema). Cada alumne comença a la missió on se sent còmode i pot avançar si vol. Els punts s'acumulen per missió completada, no per nivell assolit. Un alumne que completa totes les missions Explorador s'sent tan recompensat com un que completa dues missions Expert. Tots experimenten la Flow Zone.
-
----
-
-## H3 Combinar competència i cooperació per a la inclusió — DOCENT
-
-**Quan aplica:** Quan el sistema gamificat inclou elements competitius (taules de classificació, punts individuals) que podrien excloure o desmotivar alumnes amb menys competència acadèmica.
-
-**Fonament:** La competència individual pot ser un motor motivacional potent però té un cost d'inclusió alt: els alumnes que queden sistemàticament en posicions baixes de la taula de classificació es desmotiven, i fins i tot es desenvolupa una cultura de "jo no sóc dels bons". La incorporació d'elements cooperatius (equips, missions compartides, punts col·lectius) permet que alumnes de diferent nivell contribueixin cadascú des de les seves fortaleses, creant un sistema on el reconeixement és compartit i ningú queda exclòs de l'experiència d'èxit.
-
-**Exemple (≥80 paraules):** En una classe de 6è de Primària, el docent de Ciències Naturals vol usar la gamificació per estudiar els ecosistemes. En lloc de crear una taula de classificació individual, forma equips de 4 alumnes heterogenis. Cada equip ha de completar una "expedició ecològica" on cada membre té una especialitat: el biòleg (identifica espècies), el geògraf (descriu el medi), el comunicador (prepara la presentació) i el documentalista (busca fonts). Els punts de l'equip depenen de la qualitat del treball de tots. L'alumna nouvinguda pot contribuir com a comunicadora fent dibuixos de les espècies, i l'alumne amb altes capacitats pot assumir el rol de geògraf consultant fonts avançades. Tots sumen, tots guanyen.
-
----
-
-## H4 Evitar que les recompenses externes corromin la motivació intrínseca — DOCENT
-
-**Quan aplica:** Quan el docent constata que alguns alumnes participaven per interès genuí i ara participen únicament per les recompenses del sistema gamificat.
-
-**Fonament:** L'efecte de la "recompensa esperada" (Lepper et al.) demostra que introduir recompenses extrínseques en activitats que l'alumne ja feia per motivació intrínseca pot disminuir la motivació intrínseca a llarg termini. Si un alumne que llegia per plaer comença a rebre punts per llegir, pot acabar llegint només quan hi ha punts. La solució és usar les recompenses de manera contingent (no "faig X per obtenir punts" sinó "el docent reconeix la meva X amb punts") i progressivament substituir les recompenses externes per reconeixements més qualitatius (comentaris específics sobre la feina, autonomia creixent, responsabilitats).
-
-**Exemple (≥80 paraules):** La docent de Llengua de 3r d'ESO ha implementat un sistema de punts per incentivar la lectura voluntària. Al principi, molts alumnes llegeixen més. Però als tres mesos, nota que alguns han deixat de llegir en vacances (quan no hi ha punts) i que la qualitat dels resums es deteriora (estan optimitzant per als punts, no per llegir bé). Decideix ajustar el sistema: manté els punts per als alumnes que no es motivaven, però per als que sí ho feien originalment, substitueix els punts per un "Passaport del Lector" personalitzat on anoten cada llibre llegit i en tres paraules per qué els ha agradat o no. L'objectiu és que el registre sigui un record personal valuós, no un acumulador de punts.
-
----
-
-## H5 Integrar el feedback informatiu en el sistema gamificat — DOCENT
-
-**Quan aplica:** En el disseny de qualsevol sistema de punts o insígnies, especialment quan el feedback és únicament valoratiu (punts sí/no, passar/fallar).
-
-**Fonament:** El feedback és un element central de la gamificació, però el feedback purament valoratiu (has guanyat X punts) no ajuda l'alumne a millorar. Per a que la gamificació tingui valor pedagògic, el feedback ha de ser informatiu: dir a l'alumne no només si ha fet bé o malament, sinó per qué, i com pot millorar. Integrar feedback informatiu en el sistema gamificat (per exemple, una insígnia "Expert en fraccions" que inclou una breu descripció del que l'alumne ha demostrat saber) transforma el sistema de recompenses en un sistema d'aprenentatge.
-
-**Exemple (≥80 paraules):** El docent de Matemàtiques de 1r d'ESO usa Kahoot per repassar fraccions. Normalment, el sistema mostra qui ha guanyat però no per qué s'ha equivocat. El docent afegeix un pas: després de cada pregunta on un alumne s'ha equivocat, atura el joc i pregunta: "Per qué creus que has fallat? Quin pas no estàs fent bé?" L'alumne ha de reflexionar en veu alta (o en un post-it) sobre el seu error abans de continuar. El feedback informatiu s'integra en el ritme del joc. Al final, cada alumne té una nota personal sobre "el que he de repassar", que és molt més valuós que el rànquing final del Kahoot.
-
----
-
-## H6 Usar la gamificació com a motor d'engagement — ALUMNE
-
-**Quan aplica:** Quan l'alumne se sent desmotivat per una matèria i vol trobar una manera de fer-la més atractiva.
-
-**Fonament:** La gamificació és, en última instància, una manera de donar estructura i significat a l'esforç. Quan un alumne se sent desmotivat, un sistema personal de reptes i recompenses (autofinançat) pot ajudar-lo a reprendre el control sobre el propi aprenentatge. L'alumne pot crear els seus propis "nivells" i "missions": "avui completaré 20 exercicis de matemàtiques" i "si ho faig, em recompensaré amb 30 minuts de joc". L'autogestió de la recompensa és una forma d'autonomia que potència la motivació intrínseca.
-
-**Exemple (≥80 paraules):** La Júlia, de 13 anys, odia les matemàtiques i les troba impossibles. El seu professor l'ha animat a crear el seu propi "sistema de missions". Júlia escriu en un full: "Missió 1: Entendre fraccions equivalents (3 exercicis + correcció)". Quan la completa, s'anota un "punt de confiança". Al cap de 5 punts de confiança, es permet un capítol de la seva sèrie favorita. Al principi és un truc per motivar-se externament. Però al cap de dues setmanes, Júlia s'adona que comença a entendre les matemàtiques i la seva ansietat disminueix. La recompensa externa ha facilitat el primer pas, i la competència creixent (teoria del flow) està generant motivació intrínseca.
-
----
-
-## H7 Reconèixer el progrés propi, no comparar-se — ALUMNE
-
-**Quan aplica:** Quan l'alumne s'estressa per la seva posició en una taula de classificació o compara els seus resultats amb els dels companys de manera desfavorable.
-
-**Fonament:** La comparació social constant és un dels riscos de la gamificació competitiva. Un alumne que sempre queda en posicions baixes de la taula de classificació pot acabar amb una percepció fixa del seu propi valor ("jo no sóc dels bons en matemàtiques") que és molt difícil de canviar. El remei és ensenyar l'alumne a comparar-se amb si mateix: la única taula de classificació que importa és la del teu progrés propi. Haver fet 5 exercicis correctes avui quan ahir en feies 2 és un progrés real, independentment de quants en faci el company.
-
-**Exemple (≥80 paraules):** En Bernat, de 11 anys, sempre queda l'últim al Kahoot de ciències i això li genera molta vergonya. Ha deixat de participar activamente. El seu professor li proposa un sistema alternatiu: al final de cada Kahoot, Bernat anota quantes preguntes ha encertat. La setmana següent, el seu objectiu no és guanyar la classe, sinó encertar almenys una pregunta més que la setmana anterior. El professor li crea un gràfic personal de progrés que penja en una carpeta seva (no a la classe). Al cap d'un mes, Bernat ha passat de 3 preguntes correctes a 8, i comença a respondre sense ansietat perquè l'única persona amb qui competeix és ell mateix del mes passat.
-
----
-
-## H8 Distingir el joc de l'aprenentatge — ALUMNE
-
-**Quan aplica:** Quan l'alumne se centra en "guanyar" el sistema gamificat (acumular punts, puja posicions) en lloc de centrar-se en aprendre el contingut.
-
-**Fonament:** Un dels riscos de la gamificació és que l'alumne optimitzi per les recompenses en lloc de per l'aprenentatge. Aprendre a distingir entre "guanyar el joc" i "aprendre de veritat" és una habilitat metacognitiva important. L'alumne ha de ser capaç de preguntar-se: "Sé fer això sense el joc? Puc explicar el que he après?". Si la resposta és no, els punts acumulats no representen aprenentatge real.
-
-**Exemple (≥80 paraules):** En Tomàs, de 14 anys, és el número 1 del Duolingo de la classe: fa molts exercicis cada dia i manté una ratxa de 60 dies. Però quan el professor li demana que escrigui una carta en anglès, no sap per on començar i comet errors bàsics. En Tomàs s'ha fet expert en "jugar a Duolingo", no en parlar anglès. El professor li ajuda a entendre la diferència i li proposa un "test de transferència" mensual: escriure una carta, mantenir una conversa oral de 2 minuts, o llegir un text sense ajuda. Si pot fer-ho, els punts de Duolingo representen aprenentatge real; si no, ha de revisar com usa l'eina.
-
----
-
-### Fonts i referències
-
-- Ryan, R. M., & Deci, E. L. (2000). Self-Determination Theory and the Facilitation of Intrinsic Motivation, Social Development, and Well-Being. *American Psychologist, 55*(1), 68-78.
-- Csikszentmihalyi, M. (1990). *Flow: The Psychology of Optimal Experience*. Harper & Row.
-- Deterding, S., Dixon, D., Khaled, R., & Nacke, L. (2011). From Game Design Elements to Gamefulness: Defining "Gamification". *Proceedings of the 15th International Academic MindTrek Conference*.
-- Lepper, M. R., Greene, D., & Nisbett, R. E. (1973). Undermining children's intrinsic interest with extrinsic reward. *Journal of Personality and Social Psychology, 28*(1), 129-137.
-- Hamari, J., Koivisto, J., & Sarsa, H. (2014). Does Gamification Work? A Literature Review of Empirical Studies on Gamification. *Proceedings of the 47th Hawaii International Conference on System Sciences*.
-- Plass, J. L., Homer, B. D., & Kinzer, C. K. (2015). Foundations of Game-Based Learning. *Educational Psychologist, 50*(4), 258-283.
-- Cast. (2018). *Universal Design for Learning Guidelines version 2.2*. http://udlguidelines.cast.org
-
-### Fonts del corpus scraped
-
-- https://ateneu.xtec.cat/wikiform/wikiexport/cursos/escola_inclusiva/dac/modul_3/practica_4
-- https://ateneu.xtec.cat/wikiform/wikiexport/cursos/escola_inclusiva/dac/modul_3/practica_3
-- https://compromesosambleducacio.diba.cat/sites/compromesosambleducacio.diba.cat/files/userfiles/15/araeducacio_2.pdf
-- https://www.coralelizondo.com/wp-content/uploads/2024/08/aprendizaje-basado-proyectos-diseno-universal-aprendizaje.pdf
+*2 documents citats de 26 al corpus · secció generada automàticament*

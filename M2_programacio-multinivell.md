@@ -4,161 +4,173 @@ titol: "Programació Multinivell — Mesures universals"
 tipus: estrategia
 descripcio: "Programació que dona resposta a tots els alumnes sense necessitat d'adaptacions individuals"
 review_status: esborrany
-generat_at: 2026-03-18
+locked: true
+nota_revisio: "Versió DAC (ateneu.xtec.cat_2026-03-17_5): DUA + Intel·ligències múltiples + 3 nivells."
+generat_at: 2026-03-18T17:13:21
 ---
 
-# 1. CONTINGUT ESPECÍFIC DEL DOCUMENT
+## 1. CONTINGUT ESPECÍFIC
 
 ### Descripció i fonament
+La Programació Multinivell, entesa com a Mesures Universals, és la base del model de "resposta a la intervenció" i constitueix la primera línia d'actuació educativa. El seu propòsit és oferir una intervenció educativa que promogui un clima positiu i de satisfacció, assolint un aprenentatge eficient i significatiu per a *tots* els alumnes, sense necessitat d'adaptacions individuals posteriors. Aquestes mesures són preventives i proactives, dissenyades per flexibilitzar i personalitzar el treball dins l'aula, enriquir el context d'aprenentatge, minimitzar les barreres de l'entorn i garantir la convivència i el compromís amb la tasca.
 
-La programació multinivell és una estratègia educativa que busca dissenyar l'ensenyament i l'aprenentatge de manera que sigui accessible i significatiu per a tot l'alumnat des del primer moment, sense necessitat d'adaptacions individuals posteriors. Es fonamenta en el model de "resposta a la intervenció" (RTI), on les mesures universals constitueixen la base preventiva i proactiva per a tots els alumnes. L'objectiu és eixamplar i diversificar les intervencions de base per minimitzar la necessitat de suports addicionals o intensius.
+La seva fonamentació es troba en la premissa que, si som capaços d'eixamplar i diversificar les intervencions de base (les mesures universals), menys necessitat hi haurà d'activar mesures addicionals o intensives. Això significa que un disseny educatiu robust i inclusiu des del principi pot satisfer les necessitats d'una àmplia gamma d'alumnes, inclosos aquells amb altes capacitats, sense requerir suports individualitzats.
 
-Aquesta estratègia s'alinea estretament amb el **Disseny Universal per a l'Aprenentatge (DUA)**, que proposa un currículum flexible que realitza els ajustos necessaris en el moment de la programació. El DUA es basa en tres principis clau:
-- **Múltiples formes d'implicació** (per què s'aprèn): elements motivacionals i afectius.
-- **Múltiples formes d'acció i expressió** (com s'aprèn): eliminar barreres a l'expressió del coneixement.
-- **Múltiples formes de representació** (què s'aprèn): eliminar barreres d'accés a la informació.
-
-La programació multinivell també integra la **teoria de les intel·ligències múltiples** de Gardner, que suggereix l'ús de diverses estratègies i tècniques que atenen les diferents capacitats de l'alumnat (lingüística, lògico-matemàtica, visual-espacial, musical, cinestèsica, naturalista, interpersonal, intrapersonal). Fomenta que l'escola potenciï la creativitat i el pensament divergent, allunyant-se d'un model que busca una única resposta correcta.
+Aquesta estratègia es recolza fortament en els principis del Disseny Universal per a l'Aprenentatge (DUA), que busca crear ambients d'aprenentatge flexibles i un currículum adaptable des del moment de la programació. El DUA es basa en proporcionar múltiples formes d'implicació (per què s'aprèn), múltiples formes d'acció i expressió (com s'aprèn) i múltiples formes de representació (què s'aprèn), abordant els elements afectius, les barreres a l'expressió i les barreres d'accés a la informació. Així mateix, la teoria de les Intel·ligències Múltiples de Gardner contribueix a aquest enfocament, suggerint la utilització d'estratègies, tècniques i activitats diverses que tinguin en compte les diferents "inclinacions" i estils d'aprenentatge dels alumnes, ampliant el focus més enllà de les intel·ligències lingüística i matemàtica.
 
 ### Quan i per a qui és útil
+Aquesta estratègia és útil per a **tot l'alumnat** del centre, en **tots els entorns i etapes educatives** (Infantil, Primària, ESO, Batxillerat, FP), ja que constitueix la base de l'atenció a la diversitat. És especialment beneficiosa en contextos amb una gran heterogeneïtat d'alumnes, ja que el seu objectiu és reduir la necessitat de suports individualitzats.
 
-Aquesta estratègia és útil per a **tot l'alumnat** i en **totes les etapes educatives** (Infantil, Primària, ESO, Batxillerat, FP), així com en totes les àrees curriculars. És especialment efectiva quan un centre o un docent busca una inclusió real i vol reduir la necessitat de plans individualitzats (PI) o adaptacions curriculars significatives. És ideal per a contextos amb una gran heterogeneïtat d'alumnes, ja que un marc ampli de mesures universals pot ser suficient per al progrés i èxit educatiu de la majoria.
-
-Condicions d'èxit:
-- Compromís del centre amb la cultura inclusiva.
-- Formació docent en metodologies actives i DUA.
-- Flexibilitat en el disseny curricular.
-- Temps de planificació col·laborativa.
+**Condicions d'èxit:**
+*   Una cultura de centre que promogui un clima positiu i de satisfacció.
+*   Un projecte educatiu que integri la flexibilitat i la personalització com a eixos centrals.
+*   La voluntat de reflexionar i diversificar contínuament les estratègies metodològiques i organitzatives a l'aula.
+*   La implicació de tot l'equip docent en el disseny i implementació d'aquestes mesures.
 
 ### Recursos necessaris
-
-- **Temps**: temps de planificació col·laborativa per al disseny de les unitats didàctiques amb enfocament DUA.
-- **Espai**: aules flexibles que permetin diferents agrupaments, racons de treball i accés a diversos materials.
-- **Materials**: varietat de recursos didàctics (textos en diferents formats, materials manipulables, recursos digitals, audiovisuals, artístics).
-- **Formació**: formació del professorat en DUA, metodologies actives (ABP, treball cooperatiu), i estratègies per fomentar la creativitat i el pensament divergent.
-- **Suport**: col·laboració amb els EAP i les CAEI per a l'assessorament i el seguiment.
+*   **Temps:** Per a la planificació col·laborativa i la reflexió sobre les pràctiques docents.
+*   **Espai:** Ambients d'aprenentatge flexibles que permetin diferents agrupaments, materials i tipus d'activitats.
+*   **Materials:** Varietat de recursos didàctics que ofereixin múltiples formes de representació, implicació i expressió (materials manipulatius, digitals, audiovisuals, etc.).
+*   **Formació:** Del professorat en metodologies actives, DUA, Intel·ligències Múltiples i estratègies d'atenció a la diversitat.
+*   **Suport:** L'acompanyament de l'EAP i la Comissió d'Atenció Educativa Inclusiva (CAEI) és crucial per a la planificació i el seguiment de les mesures d'atenció a la diversitat, ajudant a concretar criteris i organitzar recursos.
 
 ### Com implementar
+La implementació de la Programació Multinivell (Mesures Universals) es pot graduar en diferents nivells:
 
-**Nivell bàsic:**
-- Incorporar els principis del DUA en la planificació diària d'activitats.
-- Oferir almenys dues opcions per a cada principi DUA: per a la percepció (text i àudio), per al llenguatge (text i imatges), per captar l'interès (triar tema entre opcions), per a l'expressió (oral o escrita).
+#### Nivell Bàsic
+1.  **Reflexió i diagnòstic:** Avaluar les estratègies metodològiques i organitzatives actuals a l'aula i al centre, identificant punts forts i àrees de millora en l'atenció a la diversitat.
+2.  **Diversificació de la representació:** Assegurar que la informació i els continguts s'ofereixen en múltiples formats (visual, auditiu, textual, manipulatiu) per facilitar l'accés a tot l'alumnat.
+3.  **Identificació de fortaleses:** Observar i reconèixer els punts forts i els estils d'aprenentatge preferits dels alumnes per poder-los incorporar en les activitats.
 
-**Nivell intermedi:**
-- Dissenyar unitats didàctiques completes amb enfocament DUA i integrar metodologies actives.
-- Utilitzar l'Aprenentatge Basat en Projectes (ABP), que per la seva naturalesa promou múltiples formes d'implicació, acció i expressió.
-- Planificar activitats que fomentin el pensament divergent, la resolució creativa de problemes i la col·laboració.
+#### Nivell Intermedi
+1.  **Aplicació dels principis DUA:**
+    *   **Implicació:** Oferir opcions per captar l'interès (rellevància, elecció), mantenir l'esforç i la persistència (metes clares, feedback) i fomentar l'autorregulació (expectatives, estratègies).
+    *   **Acció i Expressió:** Proporcionar diverses maneres d'interactuar físicament amb els materials, d'expressar-se i comunicar-se (oral, escrit, visual, pràctic) i de desenvolupar les funcions executives (planificació, organització).
+2.  **Flexibilització curricular en la programació:** Realitzar ajustos en tots els elements del currículum (objectius, continguts, criteris d'avaluació, metodologia) en el moment de la programació, per evitar adaptacions posteriors.
+3.  **Metodologies actives:** Incorporar tècniques com centres d'interès, aprenentatge cooperatiu, o la solució de conflictes com a part de la pràctica habitual.
 
-**Nivell avançat:**
-- Implementar un projecte educatiu de centre basat en mesures universals àmplies i un currículum flexible.
-- Revisar i ajustar tots els elements del currículum (objectius, continguts, avaluació, metodologia) per assegurar que siguin accessibles i desafiants per a tothom des del disseny.
-- Establir criteris clars per a l'atenció a la diversitat a nivell de centre, amb la col·laboració de la CAEI i l'EAP.
+#### Nivell Avançat
+1.  **Projecte educatiu de centre inclusiu:** Desenvolupar un projecte educatiu basat en una cultura de centre àmplia i flexible, amb un desplegament coherent de mesures universals a tots els nivells.
+2.  **Integració ABP i DUA:** Dissenyar situacions d'aprenentatge basades en projectes (ABP) que incorporin de forma nativa els principis del DUA, creant experiències riques i personalitzades per a tot l'alumnat.
+3.  **Creació d'un marc de referència comú:** Fomentar el diàleg i la construcció compartida entre tot el professorat per establir un marc de referència comú en l'àmbit del centre, avançant cap a una escola plenament inclusiva.
+
+#### Adaptacions per diversitat
+La Programació Multinivell (Mesures Universals) *és en si mateixa* l'estratègia principal per atendre la diversitat. La seva implementació implica que les "adaptacions" ja estan integrades en el disseny inicial de les activitats, els materials i l'avaluació, minimitzant la necessitat de mesures individualitzades. L'objectiu és que la diversitat sigui la norma i no l'excepció, i que la resposta educativa sigui inherentment flexible i accessible.
 
 ### Exemples d'aplicació per etapa
 
-**Educació Primària:** Un projecte sobre "El nostre barri" on els alumnes investiguen la història, la geografia i la cultura local. Poden triar com investigar (entrevistes, recerca en llibres, ús d'internet, sortida de camp), com processar la informació (dibuixos, mapes, maquetes, textos, cançons) i com presentar els resultats (exposició oral, mural, vídeo, representació teatral, llibre digital). Cada alumne utilitza les seves fortaleses per contribuir al projecte.
+*   **Educació Primària:** En una unitat sobre "El cicle de l'aigua", el docent pot oferir materials explicatius en format de text, vídeo i infografia (múltiples representacions). Per a la tasca final, els alumnes poden escollir entre fer un dibuix amb etiquetes, construir una maqueta, crear una cançó o fer una petita presentació oral (múltiples formes d'expressió). A més, es pot permetre treballar individualment o en petits grups, i donar opcions sobre quins aspectes del cicle volen aprofundir més (múltiples formes d'implicació).
 
-**ESO:** Una unitat didàctica sobre "El canvi climàtic" en Ciències Socials. El docent ofereix materials en diversos formats (articles, vídeos, infografies, dades estadístiques). Per a la tasca final, els alumnes poden escollir entre un assaig, una campanya de conscienciació, un debat amb rols o un model il·lustratiu. Els criteris d'avaluació són clars, però la via per assolir-los és flexible.
+*   **Educació Secundària Obligatòria (ESO):** En una unitat de Ciències Socials sobre la Revolució Industrial, el professorat pot posar a disposició dels alumnes una biblioteca de recursos variats: llibres de text, articles de divulgació, documentals, podcasts històrics, mapes interactius i línies del temps digitals. Per demostrar l'aprenentatge, els alumnes poden optar per escriure un assaig, participar en un debat, dissenyar un còmic històric, crear un videojoc educatiu o fer una presentació multimèdia. A més, es pot oferir la possibilitat de triar un aspecte concret de la revolució que els interessi més per investigar.
 
-**Batxillerat/FP:** Un mòdul de "Creació d'Empreses" on els alumnes han de desenvolupar un pla de negoci. Tenen llibertat per escollir el tipus de negoci, el sector i el format de presentació. Es valora la viabilitat, la innovació i la claredat de la proposta, no la uniformitat.
+*   **Batxillerat / Formació Professional (FP):** En un mòdul de "Programació de Sistemes Informàtics", el docent pot presentar els conceptes teòrics mitjançant lectures, tutorials en vídeo, demostracions en viu i exemples de codi interactius. Per a la pràctica, els alumnes poden escollir entre diferents projectes amb nivells de complexitat variats, utilitzant diferents llenguatges de programació o eines, segons les seves preferències i coneixements previs. L'avaluació es pot realitzar mitjançant la presentació del projecte final, un portafoli de codi, una exposició oral o una defensa davant d'un panell, permetent que cada alumne mostri les seves competències de la manera que li resulti més efectiva.
 
 ### Indicadors d'èxit
-
-- Reducció en el nombre de PI o adaptacions curriculars significatives.
-- Augment de la participació, motivació i implicació de tot l'alumnat.
-- Millora del clima d'aula i de les relacions entre iguals.
-- Desenvolupament de la creativitat, el pensament crític i divergent.
-- Major autonomia i autorregulació en l'aprenentatge.
+*   Reducció significativa de la necessitat de mesures addicionals i intensives, inclosos els Plans Individualitzats (PI).
+*   Augment de la participació, el compromís i la motivació de la totalitat de l'alumnat a l'aula.
+*   Millora del clima d'aula i de la percepció de satisfacció tant per part de l'alumnat com del professorat.
+*   Assoliment d'aprenentatges eficients i significatius per a tots els alumnes, independentment de les seves característiques.
+*   Desenvolupament equilibrat de les diverses intel·ligències i habilitats en l'alumnat.
+*   Disminució de les barreres d'aprenentatge i participació detectades a l'aula.
 
 ### Errors comuns
+1.  **Considerar les mesures universals com un "mínim" o "nivell base" rígid:** L'error és veure-les com una llista de requisits bàsics en lloc d'un marc flexible i ampli que ha de ser constantment diversificat i eixamplat. Això porta a una implementació superficial que no redueix la necessitat de suports addicionals.
+2.  **Centrar-se exclusivament en les intel·ligències lingüística i matemàtica:** La tendència de l'ensenyament tradicional a prioritzar aquestes dues intel·ligències ignora la multidimensionalitat de la intel·ligència humana i limita les oportunitats d'aprenentatge i expressió per a molts alumnes, anant en contra del principi de la Programació Multinivell.
+3.  **Esperar a fer adaptacions individuals *després* de la programació:** Dissenyar un currículum rígid i després intentar "adaptar-lo" per a alumnes amb dificultats és contrari a l'enfocament de la Programació Multinivell. L'objectiu és que la flexibilitat i la inclusió estiguin integrades en el disseny inicial, evitant la necessitat d'adaptacions posteriors.
+4.  **No reflexionar sobre les estratègies metodològiques i organitzatives del centre:** La manca d'una revisió crítica i contínua de les pràctiques docents i de l'organització del centre impedeix identificar i implementar les millores necessàries per a un desplegament efectiu de les mesures universals.
 
-- **Confondre programació multinivell amb adaptacions individuals**: la programació multinivell és preventiva i universal, no reactiva i específica.
-- **Aplicar el DUA només a un element del currículum**: el DUA ha d'impregnar tots els elements curriculars, no sols la representació.
-- **No diversificar prou les estratègies**: centrar-se en les intel·ligències lingüística i lògico-matemàtica, ignorant les altres.
-- **Creure que és una càrrega de treball extra insostenible**: és una inversió inicial en planificació que, a la llarga, redueix intervencions correctives.
+## 2. CONNEXIONS AMB ALTRES DOCUMENTS DEL CORPUS
+*   **DUA (Disseny Universal per a l'Aprenentatge)**: Aquesta estratègia s'alinea directament amb els principis del DUA per dissenyar un currículum flexible i accessible per a tothom.
+*   **ABP (Aprenentatge Basat en Projectes)**: L'ABP és una metodologia que, aplicada amb els principis del DUA, facilita la implementació de la programació multinivell.
+*   **Intel·ligències Múltiples**: La teoria de les Intel·ligències Múltiples ofereix un marc per diversificar les activitats i les formes d'avaluació dins de la programació multinivell.
+*   **Pla Individualitzat (PI)**: La Programació Multinivell busca reduir la necessitat de PIs, ja que un disseny universal robust pot satisfer les necessitats de la majoria d'alumnes.
+*   **EAP (Equip d'Assessorament i Orientació Psicopedagògica)**: L'EAP és un recurs de suport per als centres en la planificació i aplicació de mesures d'atenció a la diversitat, incloent les universals.
+*   **CAEI (Comissió d'Atenció Educativa Inclusiva)**: La CAEI és l'òrgan del centre encarregat de concretar criteris i organitzar recursos per a l'atenció a la diversitat, fonamental per a la implementació d'aquesta estratègia.
+*   **Altes Capacitats**: Els alumnes amb altes capacitats es beneficien especialment d'un context educatiu amb mesures universals àmplies i flexibles, que sovint els permet progressar sense necessitat de mesures intensives.
+*   **Escola Inclusiva**: Aquesta estratègia és un pilar fonamental per avançar cap a un model d'escola inclusiva, on tots els alumnes troben la resposta educativa adequada.
 
+## 3. DETECCIÓ (Variables de Context)
+
+### Senyals del docent
+*   "Em costa molt atendre tots els alumnes amb les seves diferències sense fer adaptacions individuals per a cadascun."
+*   "Tinc molts Plans Individualitzats i em sento desbordat/da per la càrrega de feina."
+*   "Alguns alumnes es desmotiven ràpidament o no troben sentit a les activitats que proposem."
+*   "Observo que un grup d'alumnes sempre té dificultats per accedir a la informació o per expressar el que saben."
+*   "Vull que la meva aula sigui més inclusiva, però no sé per on començar a canviar la meva metodologia."
+
+### Senyals de l'alumne
+*   Frustració o desmotivació davant tasques que no s'ajusten al seu estil d'aprenentatge o interessos.
+*   Dificultat per accedir a la informació presentada de forma única (ex: només text), o per expressar el seu aprenentatge amb una sola modalitat (ex: només examen escrit).
+*   Sensació de no pertànyer o de no ser tingut en compte en la dinàmica general de l'aula.
+
+### Senyals de context
+*   Aula amb una gran diversitat d'alumnes (diferents ritmes, estils d'aprenentatge, interessos, necessitats).
+*   Projecte educatiu de centre amb un enfocament tradicional o poc flexible en les metodologies.
+*   Ús predominant de la mateixa metodologia i els mateixos materials per a tot el grup.
+*   Alta incidència de derivacions a mesures addicionals o intensives.
+
+### Anti-senyals
+*   Quan el docent ja aplica de forma consistent i efectiva una àmplia gamma de mesures universals i la dificultat d'un alumne persisteix, indicant la possible necessitat de mesures addicionals o intensives.
+*   Quan la problemàtica de l'alumne és molt específica i requereix un suport molt concret que ja excedeix el marc de les mesures universals ben implementades.
+*   Quan el centre ja té una cultura inclusiva molt arrelada i les mesures universals estan plenament integrades i funcionen amb èxit.
+
+## 4. HEURÍSTIQUES I RAONAMENT PER A L'AGENT
+
+### Principi general
+Prioritzar el disseny inclusiu des de l'origen per a tots els alumnes, minimitzant la necessitat d'adaptacions posteriors.
+
+### Heurístiques per a l'Agent DOCENT
+
+*   **Heurística: "El disseny universal és la primera línia de defensa."**
+    *   **Quan aplica:** Quan un docent expressa dificultats per atendre la diversitat a l'aula o la necessitat constant d'adaptacions individuals.
+    *   **Fonament:** Les mesures universals són preventives i proactives, destinades a tot l'alumnat. Enfortir-les redueix la pressió sobre les mesures addicionals i intensives.
+    *   **Exemple complet de raonament:** "Entenc que et sentis desbordat/da amb la diversitat d'alumnes i la quantitat d'adaptacions que has de fer. Sovint, la solució no és afegir més adaptacions individuals, sinó revisar la base: la programació multinivell. Si dissenyes les teves activitats i materials pensant en la varietat de necessitats des del principi, és a dir, aplicant principis DUA, molts alumnes que ara requereixen un suport específic ja trobaran la seva via d'accés i expressió en el disseny general de l'aula. Això no només alleugera la teva càrrega, sinó que empodera els alumnes en la seva autonomia i sentit de pertinença, ja que les 'adaptacions' no són per a 'ells', sinó part del disseny per a 'tots'."
+
+*   **Heurística: "Diversifica el 'com' i el 'què'."**
+    *   **Quan aplica:** Quan un docent busca maneres de fer el contingut accessible o de permetre diferents formes d'expressió de l'aprenentatge.
+    *   **Fonament:** Els principis DUA de múltiples formes de representació i acció/expressió, juntament amb la teoria de les Intel·ligències Múltiples, suggereixen que hi ha moltes maneres d'aprendre i demostrar el coneixement.
+    *   **Exemple complet de raonament:** "Si observes que alguns alumnes no connecten amb la informació o no aconsegueixen demostrar el que saben amb les tasques habituals, és un senyal per diversificar. Pensa en el 'què' aprenen: pots presentar el mateix concepte amb vídeos, mapes conceptuals, lectures, o fins i tot jocs interactius. I en el 'com' ho expressen: en lloc d'un examen escrit, podrien fer una presentació oral, un projecte creatiu, un debat o un portafoli. Aquesta flexibilitat, inspirada en el DUA i les Intel·ligències Múltiples, no és una concessió, sinó una manera més potent de garantir que tots els alumnes puguin accedir al coneixement i mostrar el seu aprenentatge de la manera que els sigui més efectiva."
+
+*   **Heurística: "Menys PI, més DUA."**
+    *   **Quan aplica:** Si el docent expressa una càrrega excessiva de Plans Individualitzats (PI) o la sensació que no són prou efectius.
+    *   **Fonament:** Un disseny universal robust i ben implementat redueix significativament la necessitat de PIs, ja que les barreres són minimitzades per a la majoria d'alumnes des del principi.
+    *   **Exemple complet de raonament:** "La quantitat de PIs pot ser aclaparadora i, sovint, indica que les mesures universals no estan sent prou àmplies o flexibles. En lloc de centrar-nos en la gestió individualitzada de cada dificultat, podem invertir energia en enfortir el disseny universal de l'aula. Si les activitats estan pensades per a la diversitat des del principi, oferint múltiples opcions d'accés, processament i expressió, molts dels alumnes que ara necessiten un PI podrien progressar amb les mesures generals. Això allibera temps i recursos per als casos realment complexos que sí requereixen un suport intensiu, fent el sistema més eficient i inclusiu."
+
+*   **Heurística: "El currículum és flexible des del principi."**
+    *   **Quan aplica:** Quan un docent pensa en "adaptar" un currículum ja fet o un material didàctic tancat.
+    *   **Fonament:** El DUA promou fer ajustos en tots els elements del currículum en el moment de la programació, no com a reacció posterior.
+    *   **Exemple complet de raonament:** "És habitual pensar en el currículum com una estructura rígida que després hem d'adaptar. No obstant això, la programació multinivell ens convida a veure el currículum com un marc flexible que podem modelar des del primer moment. Quan programes una unitat, pensa en com els objectius, continguts i criteris d'avaluació es poden oferir amb diferents graus de profunditat o amb diferents suports. Això implica escollir metodologies que ja siguin inherentment flexibles, com l'ABP, i materials que permetin diverses formes d'interacció. Aquesta proactivitat evita haver de 'curar' problemes d'accessibilitat un cop la programació ja està tancada."
+
+*   **Heurística: "Aprofita les fortaleses."**
+    *   **Quan aplica:** Si el docent se centra en les dificultats o dèficits dels alumnes.
+    *   **Fonament:** La Programació Multinivell i les Intel·ligències Múltiples emfatitzen que cada alumne té capacitats i estils d'aprenentatge únics que poden ser palanca per al seu èxit.
+    *   **Exemple complet de raonament:** "És natural fixar-se en allò que els alumnes no aconsegueixen, però la programació multinivell ens recorda la importància de les fortaleses. Si un alumne té dificultats amb l'expressió escrita, però és excel·lent visualment o oralment, com podem dissenyar activitats que li permetin utilitzar aquestes fortaleses per demostrar el seu aprenentatge? Identificar les 'inclinacions' de cada alumne cap a certes intel·ligències o estils d'aprenentatge ens permet oferir opcions que no només els motivin, sinó que també els permetin desenvolupar-se plenament. Aprofitar aquestes fortaleses és clau per construir una experiència d'aprenentatge positiva i significativa per a tots."
+
+### Heurístiques per a l'Agent ALUMNE
+
+*   **Heurística: "Troba la teva via per aprendre i expressar-te."**
+    *   **Quan aplica:** Quan l'alumne se sent frustrat per una tasca o no entén un concepte.
+    *   **Fonament:** La programació multinivell ofereix múltiples formes de representació i expressió, permetent a l'alumne escollir la que millor s'adapti a ell.
+    *   **Exemple complet de raonament:** "Si un exercici et resulta difícil o no entens bé el que t'expliquen, recorda que hi ha moltes maneres d'aprendre i de mostrar el que saps. Potser la informació que t'han donat en text la pots trobar en un vídeo, o un esquema, o un podcast. I si has de fer un treball, potser pots fer un dibuix, una presentació, un petit vídeo o una maqueta en lloc d'escriure un text llarg. Parla amb el teu professor/a i pregunta quines opcions tens. L'objectiu és que trobis la teva pròpia via per entendre i expressar-te, no que et limitis a una sola manera."
+
+*   **Heurística: "El teu interès és important per mantenir l'esforç."**
+    *   **Quan aplica:** Si l'alumne està desmotivat o no troba sentit a una activitat.
+    *   **Fonament:** Les mesures universals busquen oferir opcions per captar i mantenir l'interès, connectant l'aprenentatge amb la rellevància personal.
+    *   **Exemple complet de raonament:** "És normal sentir-se desmotivat si una tasca no t'interessa gens. Però sovint, dins d'una activitat, hi ha diferents maneres d'abordar-la o diferents aspectes en els quals et pots centrar. Pensa si hi ha alguna part del tema que et cridi més l'atenció o alguna manera de connectar-ho amb alguna cosa que ja saps o que t'agrada. Si el professor/a ha dissenyat l'activitat amb opcions, aprofita-les per triar allò que et motivi. Si no veus cap opció, pots preguntar si hi ha alguna manera de fer-ho més rellevant per a tu. El teu interès és una gran empenta per aprendre!"
+
+*   **Heurística: "Comunica les teves preferències per aprofitar els suports."**
+    *   **Quan aplica:** Si l'alumne té un estil d'aprenentatge clar o una manera preferida de treballar.
+    *   **Fonament:** La programació multinivell es basa en la diversificació per atendre les diferents "inclinacions" dels alumnes.
+    *   **Exemple complet de raonament:** "Si saps que aprens millor escoltant, o fent coses amb les mans, o amb imatges, és molt útil que ho comuniquis al teu professor/a. Moltes vegades, les activitats ja estan pensades per oferir diferents opcions, però si el professor/a sap quines són les teves preferències, et podrà guiar millor cap als recursos o les tasques que s'ajustin més a tu. No és demanar un tracte especial, és ajudar el professor/a a entendre com pots aprofitar al màxim les diferents maneres d'ensenyar que ja estan preparades per a tots."
 ---
 
-# 2. CONNEXIONS AMB ALTRES DOCUMENTS DEL CORPUS
+## 5. FONTS DEL CORPUS
 
-- **M2_DUA-principis-pautes**: El DUA és el marc teòric que fonamenta la programació multinivell. La programació multinivell és l'aplicació pràctica del DUA a l'aula.
-- **M1_neurodiversitat-NESE**: La programació multinivell és la principal estratègia de Nivell 1 (mesures universals) del model de suports.
-- **M4_adaptacio-curricular**: Quan les mesures universals no són suficients, es passa a l'adaptació curricular individual (Nivell 2/3).
-- **M2_mesures-suports-inclusius**: La programació multinivell és un dels components centrals de les mesures i suports inclusius.
-- **M6_adaptacio-avaluacio-NEE**: L'avaluació multinivell és un component clau de la programació multinivell.
+| # | Títol | URL |
+|---|-------|-----|
+| 1 | cursos:escola_inclusiva:dac:modul_3:practica_3 [Formació del professorat] | https://ateneu.xtec.cat/wikiform/wikiexport/cursos/escola_inclusiva/dac/modul_3/practica_3 |
+| 2 | cursos:escola_inclusiva:dac:modul_3:practica_4 [Formació del professorat] | https://ateneu.xtec.cat/wikiform/wikiexport/cursos/escola_inclusiva/dac/modul_3/practica_4 |
+| 3 | Les-intel·ligències-múltiples-a-laula_8820bf7b8c.pdf | http://blocs.xtec.cat/desenvolupamentprofessional/files/2014/05/Les-intel%C2%B7lig%C3%A8ncies-m%C3%BAltiples-a-laula.pdf |
+| 4 | aprendizaje-basado-proyectos-diseno-universal-apre_d698a480c9.pdf | https://www.coralelizondo.com/wp-content/uploads/2024/08/aprendizaje-basado-proyectos-diseno-universal-aprendizaje.pdf |
 
-# 3. DETECCIÓ (Variables de Context)
-
-L'agent ha d'activar aquest document quan detecta:
-
-**Indicadors directes:**
-- Menció de "programació multinivell", "multinivell", "currículum a múltiples nivells"
-- Preguntes sobre com planificar una mateixa sessió per a alumnat amb nivells molt diversos
-- "Com faig que tots treballin el mateix però a nivell diferent?"
-
-**Indicadors contextuals:**
-- Aula amb alta heterogeneïtat de nivells (alumnat amb i sense NESE junts)
-- Planificació de tasques obertes que permetin diverses formes d'assoliment
-- Discussió sobre diferenciació dins l'aula ordinària
-
-**Quan NO activar:**
-- Si la pregunta és sobre adaptació individual → M1 (perfil) + M1_plans-individuals
-- Si és sobre DUA com a marc teòric → M2_DUA-principis-pautes
-
----
-
-# 4. HEURÍSTIQUES I RAONAMENT PER A L'AGENT
-
-## H1 Diagnosi prèvia per conèixer el punt de partida — DOCENT
-**Quan aplica:** Abans d'iniciar una unitat didàctica quan el grup té nivells d'aprenentatge heterogenis.
-**Fonament:** La programació multinivell eficaç comença amb el coneixement del punt de partida de cada alumne. Sense diagnosi prèvia, les adaptacions seran genèriques i poc eficients. Una avaluació inicial ràpida (5-10 minuts) permet identificar quins alumnes necessiten ampliar, quins estan en la línia base i quins necessiten suport addicional.
-**Exemple:** Abans d'iniciar la unitat de fraccions a 5è de primària, la mestra passa una prova inicial de 10 minuts amb 5 exercicis de complexitat creixent. En 24 hores, identifica tres grups: el 30% que domina les fraccions bàsiques i pot anar a ampliar, el 50% que treballa en el nivell esperat i el 20% que necessita repassar els conceptes previs de divisió. Planifica la unitat amb tres itineraris diferenciats que comparteixen les mateixes activitats bàsiques però divergeixen en profunditat i suport.
-
----
-
-## H2 Objectius comuns, camins diferenciats — DOCENT
-**Quan aplica:** Quan es dissenya una unitat on coexisteixen alumnes amb capacitats i ritmes d'aprenentatge molt diversos.
-**Fonament:** La programació multinivell no implica tenir objectius separats per a cada alumne sinó garantir que tots els alumnes arriben als mateixos objectius essencials per camins adaptats a les seves necessitats. Mantenir objectius comuns preserva l'equitat i evita la fragmentació del grup.
-**Exemple:** En una unitat d'escriptura creativa a 2n d'ESO, l'objectiu comú és "escriure un text narratiu coherent amb estructura definida". Per als alumnes amb dificultats d'escriptura, el camí inclou un andamiatge: esquema previ, frases model, lèxic donat. Per als alumnes en nivell estàndard, l'acompanyament és el habitual. Per als alumnes avançats, el repte és incorporar recursos literaris específics i un punt de vista narratiu inusual. Tots lliuren un text narratiu, però el suport i el nivell de complexitat varien.
-
----
-
-## H3 Agrupaments flexibles basats en necessitat, no en nivell fix — DOCENT
-**Quan aplica:** Durant activitats de pràctica o de projecte, quan cal organitzar l'alumnat per maximitzar l'aprenentatge.
-**Fonament:** Els agrupaments fixes per nivell (grups de ràpids i grups de lents) creen expectatives baixes i redueixen les oportunitats d'aprenentatge. Els agrupaments flexibles —que canvien segons la tasca, el moment i la necessitat— mantenen altes expectatives i afavoreixen la diversitat d'estímuls.
-**Exemple:** Durant una unitat de ciències socials, la professora forma grups de tres maneres diferents al llarg de les sessions: per nivell de domini del contingut (per a sessions de pràctica dirigida), heterogenis (per a sessions d'investigació cooperativa) i per interès temàtic (per al projecte final). Cap alumne queda fixat en un rol d'expert o de novell. El Pau, que té dificultats de lectura però excel·leix en presentació oral, lidera el seu grup en la presentació final i guanya visibilitat i autoestima.
-
----
-
-## H4 Evidències d'aprenentatge múltiples i flexibles — DOCENT
-**Quan aplica:** Quan cal avaluar la consecució dels objectius en un grup heterogeni.
-**Fonament:** L'avaluació multinivell reconeix que els alumnes poden demostrar la comprensió d'un concepte de maneres diverses. Restringir l'evidència a un únic format (examen escrit) afavoreix els alumnes amb competència lingüística escrita i penalitza els que tenen altres fortaleses.
-**Exemple:** Per avaluar la comprensió del cicle de l'aigua a 4t de primària, el mestre accepta tres formats de lliurament: un esquema visual amb etiquetes, una explicació oral gravada en àudio o un text escrit. Els alumnes trien el format en què se senten més competents. El resultat és que el 95% dels alumnes pot demostrar que ha entès el concepte, quan amb l'examen escrit únic el percentatge quedava al 70%. A més, el mestre rep informació molt més rica sobre el nivell de comprensió de cada alumne.
-
----
-
-## H5 Retroalimentació diferenciada i específica — DOCENT
-**Quan aplica:** Quan es retornen treballs o s'ofereix feedback durant activitats pràctiques.
-**Fonament:** El feedback genèric ("molt bé", "millora la presentació") és poc útil per a qualsevol alumne. El feedback diferenciat —ajustat al nivell de l'alumne i amb indicacions concretes de millora— és especialment crític en contextos de programació multinivell, on els reptes de cada alumne són específics.
-**Exemple:** En corregir redaccions de 3r d'ESO, la professora prepara comentaris específics per a cada alumne. Per a la Neus (dificultats ortogràfiques), el feedback se centra en tres regles concretes amb exemples del seu propi text. Per a en Pau (nivell estàndard), el feedback se centra en la coherència argumentativa. Per a la Laia (avançada), el feedback proposa un repte estilístic: eliminar tots els adverbis en -ment i substituir-los per construccions alternatives. Cada alumne sap exactament on ha d'arribar en el proper lliurament.
-
----
-
-## H6 Autoavaluació del propi nivell i necessitats — ALUMNE
-**Quan aplica:** Quan els alumnes han de triar itineraris o nivells de dificultat en tasques diferenciades.
-**Fonament:** L'alumnat que aprèn a identificar el seu propi nivell de comprensió és més autònom i eficient en l'aprenentatge. La metacognició aplicada a l'elecció de reptes ("estic preparat per a la tasca bàsica o puc intentar l'avançada?") és una competència clau del aprenent autònom.
-**Exemple:** La professora de matemàtiques proposa tres nivells de problemes per a cada tema: estrella (bàsic), doble estrella (estàndard) i triple estrella (avançat). Els alumnes trien el seu nivell d'inici. Si resolen correctament un nivell, poden avançar. Si troben dificultats, poden baixar un nivell sense vergonya. Al principi del curs, molts alumnes trien massa alt o massa baix. Al llarg del trimestre, la majoria calibra bé el seu nivell i pren decisions cada cop més encertades sobre per on començar.
-
----
-
-## H7 Aprendre dels companys en grups heterogenis — ALUMNE
-**Quan aplica:** Durant activitats cooperatives on els alumnes treballen en grups de nivell mixt.
-**Fonament:** Ensenyar als companys és una de les estratègies d'aprenentatge més potents: l'alumne que explica consolida i aprofundeix el seu propi coneixement. En grups heterogenis, els alumnes avançats es beneficien d'haver d'explicar, i els alumnes amb dificultats es beneficien de rebre explicacions dels iguals en un registre proper.
-**Exemple:** En un grup de ciències de 6è de primària, el Marc (avançat) explica al seu grup com funciona la fotosíntesi usant un esquema que ell mateix ha creat. En el procés d'explicar, es dona compte que no entén del tot la diferència entre clorofil·la i cloroplast i ho investiga. La Sonia (dificultats de comprensió) entén l'explicació del Marc millor que la del mestre, perquè Marc usa paraules simples i exemples concrets. Tots dos aprofiten l'intercanvi.
-
----
-
-## H8 Portafoli d'aprenentatge com a evidència del creixement personal — ALUMNE
-**Quan aplica:** Quan es vol documentar el progrés al llarg d'una unitat o trimestre, especialment per a alumnes que milloren molt des d'un punt de partida baix.
-**Fonament:** El portafoli permet mostrar el creixement des del punt de partida personal, no en comparació amb els companys. Per a alumnes que mai "guanyen" en comparacions de grup, el portafoli ofereix un marc on sempre hi ha progrés visible, cosa que sosté la motivació.
-**Exemple:** La Sara, que té dificultats lectores, fa un portafoli digital al llarg del trimestre: guarda les primeres redaccions, les intermèdies i les finals. En la revisió de trimestre, la mestra li mostra la seva redacció de setembre i la de desembre. Sara s'emociona al veure la diferència: frases més llargues, menys errors, millor estructura. Malgrat que les seves redaccions segueixen per sota de la mitjana del grup, el portafoli li demostra que ha progressat moltíssim des del seu punt de partida personal.
+*4 documents font · secció generada automàticament*

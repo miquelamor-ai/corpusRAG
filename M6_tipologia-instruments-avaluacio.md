@@ -1,188 +1,275 @@
 ---
-titol: "Tipologia d'Instruments d'Avaluacio"
 modul: M6
+titol: "Tipologia d'Instruments d'Avaluació"
 tipus: eina
-etiquetes: [rubriques, llistes-verificacio, dianes, escales, questionaris, instruments-avaluacio]
-descripcio: "Instruments d'avaluacio: rubriques, llistes de verificacio, dianes, escales i questionaris amb criteris d'us"
+descripcio: "Rúbriques, portafolis, llistes de cotejo, dianes, proves: quan i com usar cada instrument"
 review_status: esborrany
+generat_at: 2026-03-18T15:33:50
 ---
 
-# Tipologia d'Instruments d'Avaluacio
+## 1. CONTINGUT ESPECÍFIC
 
+### Descripció i propòsit
 
-# 1. CONTINGUT
+Els instruments d'avaluació són eines fonamentals per a la regulació de l'aprenentatge, tant per al docent com per a l'alumnat. La seva finalitat principal és anar més enllà de la simple qualificació, centrant-se en la funció formativa i formadora de l'avaluació. Permeten identificar el progrés en l'assoliment de les competències, detectar dificultats i errors, i orientar les decisions per a la millora contínua. L'objectiu és que l'alumnat esdevingui autònom en el seu procés d'aprenentatge, sent capaç d'autoregular-se.
 
-## AMB QUE: Descripcio funcional
+Els instruments clau inclouen:
 
-Eines per recollir, sistematitzar i interpretar evidencies d'aprenentatge. Les rubriques descriuen nivells de qualitat per criteri. Les llistes de verificacio registren presencia o absencia de caracteristiques. Les dianes visualitzen graficament el nivell en multiples dimensions. Les escales graduen qualitat o frequencia en un continu. Els questionaris recullen informacio mitjancant preguntes. Cap instrument es inherentment superior: l'adequacio depen del proposit, la competencia valorada, el nivell educatiu i el grau de participacio de l'alumnat.
+*   **Rúbriques**: Són eines que descriuen de manera clara i explícita els criteris d'avaluació i els diferents nivells de qualitat o d'assoliment d'una tasca o competència. El seu propòsit és fer transparents les expectatives, guiar l'alumnat durant el procés d'aprenentatge i facilitar la retroalimentació significativa, l'autoavaluació i la coavaluació. Permeten que l'alumne entengui què s'espera d'ell i com pot millorar.
+*   **Carpetes d'aprenentatge (Portafolis)**: Són un recull raonat d'evidències d'aprenentatge (activitats, productes finals, reflexions, esborranys, etc.) al llarg d'un període. La seva finalitat és que l'alumne faci evident què ha après, com ho ha après i quins són els aprenentatges significatius realitzats. Serveixen per a la reflexió metacognitiva, l'autoavaluació i per aportar evidències al docent per a l'avaluació qualificadora.
+*   **Llistes de comprovació (Llistes de cotejo / Protocols d'observació)**: Són instruments amb un llistat d'indicadors o criteris de resultats que es poden respondre amb un "sí" o un "no". El seu propòsit és revisar i millorar una activitat o tasca de manera individual (autoavaluació) o entre iguals (coavaluació). També són útils per avaluar el disseny d'activitats didàctiques o la pròpia acció docent.
+*   **Dianes d'avaluació**: Encara que no es detallen en els documents proporcionats, les dianes són instruments visuals d'autoavaluació que permeten a l'alumnat valorar el seu nivell d'assoliment en diferents criteris o competències, representant gràficament el seu progrés. El seu propòsit és facilitar una reflexió ràpida i visual sobre l'aprenentatge i la identificació de punts forts i àrees de millora.
+*   **Proves d'avaluació (Autèntiques i Competencials)**: Més enllà dels exàmens memorístics, es refereixen a activitats que valoren l'aplicació integrada de coneixements en situacions complexes, contextualitzades i properes a la vida real. El seu propòsit és comprovar l'assoliment de les competències, però gestionades de manera formativa, ajuden l'alumnat a identificar dificultats i trobar camins per superar-les.
+*   **Bases d'orientació**: Són instruments que mostren una seqüència ordenada d'accions per resoldre un problema o realitzar una tasca. El seu propòsit és ajudar l'aprenent a planificar-se, a realitzar l'acció de forma autònoma i a autoavaluar-se, interioritzant el coneixement procedimental.
 
-## Quan usar-la
+### Freqüència i moment d'ús
 
-- **Rubriques:** produccions complexes amb multiples criteris que requereixen transparencia i consistencia.
-- **Llistes de verificacio:** comprovar si passos o elements estan presents.
-- **Dianes:** representacio visual del nivell, especialment amb alumnat jove.
-- **Escales:** graduar aspectes qualitatius sense la complexitat d'una rubrica.
-- **Questionaris:** recollir informacio sistematica i comparable.
+L'avaluació ha de ser un procés continu i integrat en l'aprenentatge, no un esdeveniment puntual.
 
-## Com usar-la (pas a pas)
+*   **Abans de les activitats**:
+    *   **Rúbriques, llistes de comprovació, bases d'orientació**: Per compartir objectius i criteris d'avaluació amb l'alumnat, assegurant que entenguin què s'espera i com seran avaluats. Permet anticipar i planificar l'acció.
+    *   **Proves inicials**: Per avaluar coneixements previs i ajustar la planificació.
+*   **Durant les activitats**:
+    *   **Rúbriques, llistes de comprovació, dianes, bases d'orientació**: Per a l'autoavaluació i coavaluació contínua, facilitant la regulació dels errors i l'ajust del procés d'aprenentatge. El docent les utilitza per monitoritzar el procés i oferir feedback.
+    *   **Carpetes d'aprenentatge**: Per recollir evidències del procés i reflexions sobre els aprenentatges a mesura que es van produint.
+*   **En finalitzar les activitats o unitats didàctiques**:
+    *   **Rúbriques, llistes de comprovació, dianes, proves d'avaluació**: Per valorar l'assoliment dels objectius, qualificar i, sobretot, per a la reflexió final sobre el que s'ha après i el que cal millorar.
+    *   **Carpetes d'aprenentatge**: Per a una reflexió global sobre el procés i els aprenentatges consolidats, i per a l'avaluació qualificadora final.
 
-1. **Definir proposit.** Formatiu o sumatiu?
-2. **Identificar que s'avalua.** Coneixements, habilitats, competencies, actituds?
-3. **Seleccionar instrument.** Segons complexitat, criteris, graduacio, edat, participacio.
-4. **Dissenyar.** Indicadors clars, observables. Nivells en positiu. Items univocs.
-5. **Validar** amb collegues i alumnat.
-6. **Aplicar** consistentment.
-7. **Analitzar i actuar.**
+### Components i estructura
 
-## Exemples d'us
+Cada instrument té una estructura particular que facilita la seva funció:
 
-**Exemple 1: Rubrica per a projecte d'investigacio.** Una professora de 3r d'ESO dissenya una rubrica amb quatre criteris (pregunta, dades, argumentacio, comunicacio) i quatre nivells (expert, avancat, aprenent, inicial). Cada cella descriu que fa l'alumne: "pregunta precisa, viable i rellevant" (expert) vs. "tema general sense pregunta concreta" (inicial). La comparteix el primer dia i la usa en autoavaluacio, coavaluacio i avaluacio docent. Les discrepancies generen dialeg avaluatiu.
+*   **Rúbriques**:
+    *   **Criteris d'avaluació**: Aspectes clau de la tasca o competència a avaluar.
+    *   **Nivells d'assoliment**: Generalment 3 o 4 nivells (ex: Inicial, En procés, Assolit, Excel·lent).
+    *   **Descriptors**: Explicació detallada del que significa cada nivell per a cada criteri, amb evidències observables.
+    *   *Exemple*: Rúbrica per a la resolució reflexiva de problemes aritmètics amb nivells (0-3) per a "Analitza la informació", "Representa la situació", "Desenvolupa estratègies" i "Comunica la solució correcta".
+*   **Carpetes d'aprenentatge**:
+    *   **Selecció de materials**: L'alumne escull quins materials inclou i justifica per què li han servit més per aprendre.
+    *   **Organització**: L'alumne decideix com organitza els materials (ex: "el que ja sabia", "el que he fet millor", "el que em servirà per al futur").
+    *   **Inclusió de materials nous**: L'alumne pot afegir recursos trobats pel seu compte.
+    *   **Produccions inicials i millorades**: Per evidenciar el procés de millora.
+    *   **Instruments de planificació i autoavaluació**: Esborranys, esquemes, bases d'orientació.
+    *   **Reflexions**: Justificacions, autoavaluacions, conclusions sobre els aprenentatges.
+*   **Llistes de comprovació / Protocols d'observació**:
+    *   **Indicadors clars i objectius**: Cada punt ha de ser observable i respondre's amb "sí" o "no".
+    *   **Identifica una única evidència**: Per evitar ambigüitats.
+    *   **Rellevants per a la tasca**: Han de reflectir els criteris d'èxit.
+*   **Dianes d'avaluació**:
+    *   **Centre amb la tasca/competència**: El nucli de la diana representa el punt de partida o el nivell més baix.
+    *   **Radis amb criteris**: Cada radi representa un criteri o aspecte a avaluar.
+    *   **Cercles concèntrics amb nivells**: Cada cercle representa un nivell d'assoliment (ex: 1 a 5).
+    *   **Puntuació visual**: L'alumne marca el seu nivell en cada radi, creant un polígon que visualitza el seu perfil.
+*   **Proves d'avaluació (Autèntiques)**:
+    *   **Situació problemàtica o repte**: Contextualitzada, propera a la vida real de l'alumnat.
+    *   **Productiva i complexa**: Requereix l'aplicació d'aprenentatges diversos, amb més d'una solució possible i mobilitzant habilitats cognitives superiors (analitzar, interpretar, justificar, crear).
+    *   **Ús integrat de coneixements**: De la pròpia àrea o de diferents àrees.
+    *   **Diferents formes de representar la informació**: Text, gràfics, símbols, etc.
+    *   **Destinatari clar**: Que no sigui només el mestre.
+    *   **Criteris de qualificació explícits**: Coneguts pels alumnes des del principi.
+*   **Bases d'orientació**:
+    *   **Seqüència ordenada d'accions**: Passos clars a seguir per realitzar la tasca o resoldre el problema.
+    *   **Preguntes clau**: "En què he de pensar o què he de fer per realitzar amb èxit aquesta tasca?".
+    *   **Coneixement a interioritzar**: Resumeix els punts essencials que l'alumne ha de retenir.
 
-**Exemple 2: Diana en educacio fisica.** Un mestre usa una diana de quatre eixos per a jocs cooperatius: participacio, comunicacio, respecte, estrategia. Quatre nivells concentrics amb descriptors breus. L'alumne pinta la seva diana i la compara amb la del grup. El format visual facilita que alumnes amb dificultats d'escriptura participin activament.
+### Guia d'ús pas a pas
 
-## Errors comuns
+Per utilitzar aquests instruments de manera efectiva, cal seguir un procés que impliqui l'alumnat i promogui la regulació:
 
-- Rubriques amb nivells descrits en negatiu ("no fa") en lloc de que fa l'alumne a cada nivell.
-- Rubriques massa complexes amb massa criteris.
-- Llistes de verificacio per aspectes que requereixen graduacio.
-- Dianes confoses amb questionaris de satisfaccio.
-- Usar sempre el mateix instrument per inercia.
+1.  **Compartir objectius i criteris**:
+    *   Abans d'iniciar qualsevol activitat o unitat, dedica temps a compartir amb l'alumnat els objectius d'aprenentatge i els criteris d'avaluació (criteris d'èxit). Utilitza dinàmiques o instruments (rúbriques, llistes) per assegurar que els alumnes els entenguin i se'ls facin seus.
+    *   Comunica també els criteris de qualificació (d'on surten les notes, tipus i nombre d'activitats).
+2.  **Modelar i exemplificar**:
+    *   Mostra exemples de treballs ben fets o de resultats finals esperats. Permet que els alumnes identifiquin les característiques que fan que una activitat sigui correcta.
+    *   Realitza activitats prèvies que serveixin de modelatge abans de la tasca d'avaluació final.
+3.  **Elaboració col·laborativa (si s'escau)**:
+    *   **Rúbriques / Llistes / Bases d'orientació**: Implica l'alumnat en la concreció dels indicadors o passos. Això augmenta la seva comprensió i implicació. Per exemple, per a una base d'orientació, es pot començar amb una tasca senzilla i coneguda, i després consensuar els passos en grup.
+    *   **Carpetes d'aprenentatge**: L'alumne ha de tenir autonomia per escollir i organitzar els materials, justificant les seves decisions.
+4.  **Aplicació i feedback continu**:
+    *   **Durant la tasca**: Fomenta l'ús dels instruments per a l'autoavaluació i coavaluació. Per exemple, amb una llista de comprovació, els alumnes poden marcar si han fet cada pas. Amb una rúbrica, poden valorar el seu propi treball o el d'un company.
+    *   **Feedback**: Proporciona retroalimentació efectiva, centrant-te en què s'ha fet bé, què cal millorar i com fer-ho. Aquest feedback ha de ser constructiu i orientat a l'acció.
+5.  **Revisió i regulació**:
+    *   **Després de la tasca**: Dedica temps a la revisió del treball realitzat. Permet que els alumnes identifiquin les seves dificultats, comprenguin les causes dels errors i planifiquin estratègies per superar-les.
+    *   **Ajust docent**: Utilitza els resultats de l'avaluació per ajustar la teva planificació didàctica i oferir suports individualitzats.
+6.  **Adaptació**:
+    *   Considera les necessitats específiques de l'alumnat (ex: nouvinguts, baixa competència lingüística) diversificant els canals d'expressió i adaptant els instruments (ex: PI amb criteris d'avaluació ajustats, més temps per a les proves).
 
-## Alternatives
+### Exemples completats
 
-- Portafolis d'aprenentatge.
-- Converses d'avaluacio.
-- Registres d'observacio.
-- Proves escrites per a coneixements especifics.
-- Presentacions orals amb graella d'observacio.
+1.  **Modificació d'una prova d'avaluació (Cicle Inicial - Alimentació)**:
+    *   **Activitat inicial (reproductiva)**: "Classifica els aliments següents: Iogurt – conill – pera – bledes – formatge – calamar arròs – pèsols – llenties – macarrons – salsitxes – pa en Aporten proteïnes, Aporten energia, Aporten vitamines."
+    *   **Activitat modificada (competencial)**: Es presenta el cas d'en Josep, un noi grassonet que menja de forma poc saludable durant la setmana.
+        *   **Part 1**: L'alumne ha d'analitzar el menú setmanal d'en Josep i respondre preguntes com: "Per què creus que està grassonet i li costa córrer?", "Per què creus que sovint es posa malalt?", "Quins aliments penses tu que hauria de menjar sovint i aquí no apareixen?".
+        *   **Part 2**: Amb l'ajuda d'una piràmide d'aliments, l'alumne ha de preparar un menú setmanal de dinars sa i equilibrat per a en Josep, com si fos una recomanació a la seva tieta.
+    *   **Interpretació**: Aquesta prova modificada és productiva, complexa, contextualitzada en una situació real, rellevant i amb un destinatari clar (la tieta), mobilitzant habilitats cognitives superiors com l'anàlisi i la creació, i l'aplicació de coneixements sobre nutrició.
+2.  **Rúbrica per a la resolució reflexiva i argumentada de problemes aritmètics simples**:
+    *   **Criteris**:
+        *   Analitza la informació referent a la situació problema.
+        *   Representa la situació problema.
+        *   Desenvolupa estratègies explícites de resolució i les justifica.
+        *   Comunica la solució correcta.
+    *   **Nivells (Exemple per "Analitza la informació")**:
+        *   **Nivell 3**: Identifica la qüestió i discrimina les dades rellevants desestimant les irrellevants. Les expressa de forma sintètica, clara i coherent, explicitant unitats i concepte.
+        *   **Nivell 2**: Identifica la qüestió, discrimina les dades rellevants, explicitant unitat i concepte, però la síntesi és poc clara i/o coherent. O omet alguna unitat.
+        *   **Nivell 1**: Identifica la qüestió i les dades rellevants, però omet o equivoca el concepte d’alguna dada. O bé, no desestima dades irrellevants.
+        *   **Nivell 0**: Expressa dades nues, o obvia la qüestió, o obvia alguna o més dades rellevants.
+    *   **Interpretació**: Aquesta rúbrica permet al docent avaluar el procés de resolució de problemes de l'alumne, no només el resultat. L'alumne pot utilitzar-la per entendre on ha fallat i com pot millorar en cada aspecte del procés.
+
+### Adaptacions per context
+
+*   **Alumnat amb necessitats educatives específiques (NEE) o d'origen estranger amb baixa competència lingüística**:
+    *   **Plans de Suport Individualitzat (PI)**: El PI és un acord d'avaluació que estableix criteris d'avaluació ajustats al nivell de l'alumne, podent ser superiors o inferiors als del seu nivell escolar. Pot incloure mesures de suport i, excepcionalment, que algunes matèries no s'avaluïn temporalment.
+    *   **Diversificació de canals d'expressió**: Permetre que l'alumne demostri el que ha après a través de dibuixos, maquetes, exposicions orals (amb suport visual), en lloc de només proves escrites.
+    *   **Adaptació d'instruments**: Simplificar el llenguatge de les rúbriques o llistes de comprovació, utilitzar imatges, reduir la quantitat de text.
+    *   **Temps addicional**: Concedir més temps per a la realització de proves o tasques complexes.
+    *   **Ajudes i suports**: Permetre l'ús de diccionaris, glossaris, o la presència d'un suport lingüístic durant l'avaluació.
+    *   **Tasques amb diferents graus d'exigència**: Dissenyar proves que permetin a tots els alumnes resoldre almenys una part, oferint diferents nivells de complexitat.
+*   **Etapes educatives (Infantil, Primària, ESO, Batxillerat/FP)**:
+    *   **Infantil i Primària**: Més èmfasi en instruments visuals, manipulatius i orals. Les rúbriques i llistes de comprovació poden ser més senzilles, amb icones. Les carpetes d'aprenentatge poden incloure dibuixos, fotos i produccions artístiques. L'autoavaluació i coavaluació es fan amb guiatge del docent.
+    *   **ESO**: Introducció progressiva de rúbriques més complexes, portafolis digitals, bases d'orientació per a tasques més elaborades. Foment de l'autonomia en l'autoavaluació i coavaluació.
+    *   **Batxillerat/FP**: Ús d'instruments que reflecteixin la complexitat i l'especialització dels aprenentatges. Rúbriques detallades per a projectes, portafolis professionals, proves de rendiment amb criteris d'avaluació explícits i contextualitzats en l'àmbit laboral o acadèmic superior. L'autoregulació és un objectiu clau.
+*   **Versió simplificada/digital**:
+    *   Molts instruments (rúbriques, llistes, dianes) es poden digitalitzar per facilitar la gestió, el feedback i el seguiment. Les carpetes d'aprenentatge poden ser blogs o espais web.
+    *   La simplificació implica reduir la quantitat d'informació, utilitzar un llenguatge més accessible i centrar-se en els aspectes més essencials.
+
+### Com interpretar resultats
+
+La interpretació dels resultats dels instruments d'avaluació ha d'estar orientada a la regulació de l'aprenentatge, tant per al docent com per a l'alumnat.
+
+*   **Per a l'alumne**:
+    *   **Identificar el progrés**: La rúbrica o la diana li mostra on es troba respecte als objectius i quins han estat els seus avenços.
+    *   **Comprendre els errors**: El feedback basat en els descriptors de la rúbrica o els indicadors de la llista l'ajuda a entendre *per què* un error és un error i no només *que* és un error.
+    *   **Planificar millores**: A partir de la identificació de dificultats, l'alumne pot decidir quines estratègies seguir per superar-les, sovint amb l'ajuda de la base d'orientació o la reflexió sobre el portafolis.
+    *   **Desenvolupar autonomia**: L'exercici d'autoavaluació i coavaluació amb aquests instruments el capacita per ser més autònom i constructiu davant l'error.
+*   **Per al docent**:
+    *   **Ajustar la planificació**: Els resultats li permeten verificar si el procés d'aprenentatge previst s'està seguint i modificar la planificació didàctica si l'aprenentatge no es produeix o no s'assoleix al ritme esperat.
+    *   **Decidir intervencions individualitzades**: Identificar alumnes o grups que necessiten suports addicionals o activitats de reforç.
+    *   **Avaluar el disseny d'activitats**: Si molts alumnes obtenen resultats baixos en una prova o tasca, pot ser un senyal d'un disseny inadequat de l'activitat, convidant a la reflexió i millora.
+    *   **Qualificar de manera transparent**: Els instruments com les rúbriques i portafolis proporcionen evidències clares i transparents per a la qualificació final, fent que el procés sigui més just i comprensible per a alumnes i famílies.
+    *   **Reflexionar sobre la pròpia pràctica**: L'anàlisi dels resultats i del procés d'avaluació permet al docent autoavaluar la seva tasca i millorar les estratègies pedagògiques.
 
 ---
 
-# 2. CONNEXIONS AMB ALTRES DOCUMENTS DEL CORPUS
+## 2. CONNEXIONS AMB ALTRES DOCUMENTS DEL CORPUS
 
-| Document | Relacio |
-|---|---|
-| M6_avaluacio-formativa-formadora.md | Marc conceptual dins el qual s'inscriuen |
-| M6_feedback-formatiu.md | Feedback com a accio posterior a la recollida d'evidencies |
-| M5_prompt-engineering-educatiu.md | Generacio assistida d'instruments amb IA |
-| M5_recursos-digitals-diversitat.md | Adaptacio d'instruments per a alumnat divers |
+*   **Marc d'Avaluació Formativa i Formadora**: Aquest document descriu instruments concrets per implementar els principis de l'avaluació formativa i formadora, que busca la regulació de l'aprenentatge.
+*   **Estratègies de Feedback Efectiu**: Els instruments d'avaluació són el vehicle per recollir informació i proporcionar feedback significatiu a l'alumnat.
+*   **Perfil d'Alumnat Nouvingut**: Els Plans de Suport Individualitzat (PI) són un instrument clau per adaptar l'avaluació a les necessitats lingüístiques i acadèmiques d'aquest perfil.
+*   **Estratègia de Treball per Projectes**: Molts d'aquests instruments (rúbriques, portafolis, proves autèntiques) són ideals per avaluar processos i productes en metodologies actives.
+*   **Protocol de Detecció de Dificultats d'Aprenentatge**: Els resultats d'aquests instruments poden ser senyals per activar protocols de detecció i suport.
+*   **Normativa d'Avaluació a Primària/Secundària**: Aquests instruments ajuden a complir amb el caràcter formatiu de l'avaluació que estableix la normativa vigent.
 
-# 3. DETECCIÓ (Variables de Context)
+## 3. DETECCIÓ (Variables de Context)
 
-**Senyals docent:**
-1. Utilitza sempre l'examen escrit per a tot.
-2. Rubriques amb nivells poc clars o en negatiu.
-3. Inseguretat en disseny d'instruments.
-4. L'alumnat no enten els instruments.
-5. Discrepancia entre el que vol avaluar i l'instrument que usa.
+**Senyals del docent**
+*   "Necessito eines per avaluar el procés, no només el resultat final."
+*   "Els meus alumnes no entenen per què treuen les notes que treuen."
+*   "Vull que els alumnes siguin més autònoms en la revisió de les seves feines."
+*   "Com puc fer que l'avaluació sigui una oportunitat per aprendre, no només un examen?"
+*   "Busco maneres de diversificar com els alumnes demostren el que saben, especialment els que tenen més dificultats."
+*   "Vull que els criteris d'avaluació siguin transparents i clars per a tothom."
 
-**Senyals alumne:** No sap com millorar perque l'instrument no dona informacio especifica.
+**Senyals de l'alumne**
+*   "No sé què he de fer per millorar la meva nota."
+*   "M'agradaria saber què s'espera exactament de mi en aquesta tasca."
+*   "Em sento nerviós/a abans dels exàmens perquè no sé si he estudiat el que toca."
+*   "Vull veure com he progressat des del principi del projecte."
 
-**Anti-senyals:** Es busca l'instrument "perfecte" en lloc d'entendre que cada situacio requereix un de diferent.
+**Senyals de context**
+*   **Moment**: Inici d'una unitat didàctica o projecte (per establir criteris), durant el desenvolupament d'una tasca complexa (per a feedback i regulació), al final d'un procés (per a avaluació sumativa i reflexió).
+*   **Activitat**: Tasques complexes, projectes, treballs de recerca, exposicions orals, resolució de problemes, activitats que requereixen creativitat o aplicació de coneixements diversos.
+*   **Composició grup**: Grups amb gran diversitat d'aprenentatge, alumnat nouvingut, alumnat amb dificultats per expressar-se per escrit, grups que necessiten fomentar l'autonomia i la coavaluació.
 
-# 4. HEURÍSTIQUES I RAONAMENT PER A L'AGENT
+**Anti-senyals**
+*   Si l'objectiu principal és només assignar una qualificació numèrica sense intenció de feedback o millora.
+*   Si el temps disponible és extremadament limitat i no permet la implementació de processos de reflexió o auto/coavaluació.
+*   Si l'activitat és molt senzilla i reproductiva, on una simple correcció de resposta correcta/incorrecta és suficient.
+*   Si l'alumne ja té un alt nivell d'autoregulació i els instruments més complexos podrien ser redundants o desmotivadors sense un propòsit clar.
+*   Si no hi ha voluntat per part del docent de compartir els criteris o d'implicar l'alumnat en el procés avaluador.
 
-## H1 Quan cal decidir quin instrument usar — DOCENT
+## 4. HEURÍSTIQUES I RAONAMENT PER A L'AGENT
 
-**Quan aplica:** Quan cal decidir quin instrument usar.
+**Principi general**: L'avaluació és una eina potent per a l'aprenentatge quan es dissenya i s'utilitza per guiar, regular i fer transparent el procés d'adquisició de competències.
 
-**Fonament:** Tres factors: complexitat de la produccio, proposit avaluatiu i participacio de l'alumnat. Complexa: rubrica. Passos sequencials: llista. Visual: diana. Factual: questionari.
+**Heurístiques per a l'Agent DOCENT**
 
-**Exemple:** Presentacions orals: produccio complexa + autoavaluacio + formatiu = rubrica de quatre criteris amb autoavaluacio previa.
+*   **Heurística: "El mapa del tresor"**
+    *   **Quan aplica**: Quan un docent vol que els seus alumnes entenguin clarament què s'espera d'ells en una tasca complexa o projecte, i com seran avaluats, des del principi.
+    *   **Fonament**: La transparència dels objectius i criteris d'avaluació és la primera condició de l'avaluació formativa. Si l'alumne no sap cap a on va, no pot autoregular-se. Les rúbriques i llistes de comprovació són "mapes" que guien el procés.
+    *   **Exemple complet de raonament**: Un docent de 3r d'ESO està dissenyant un projecte interdisciplinari sobre el canvi climàtic. En lloc de simplement dir "farem un projecte", l'agent raonaria que cal crear un "mapa del tresor" per als alumnes. Proposaria al docent l'ús d'una rúbrica detallada. Aquesta rúbrica no només llistaria els criteris d'avaluació (ex: recerca d'informació, anàlisi crítica, presentació oral, treball en equip), sinó que també descriuria els nivells d'assoliment per a cada criteri. Per exemple, per a "recerca d'informació", es detallaria què significa un nivell "inicial" (fonts limitades, poca fiabilitat), un "assolit" (fonts variades, fiables) i un "excel·lent" (anàlisi profunda de fonts, contrast d'informació). L'agent suggeriria compartir aquesta rúbrica amb els alumnes al principi del projecte, fins i tot dedicant una sessió a analitzar-la i discutir-la, assegurant que tots entenguin els "punts de control" i el "destí" del seu aprenentatge. Això permetria als alumnes planificar millor la seva feina i als docents donar un feedback més precís durant el procés.
 
+*   **Heurística: "El diari de viatge"**
+    *   **Quan aplica**: Quan un docent vol que els alumnes reflexionin sobre el seu propi procés d'aprenentatge, identifiquin els seus avenços i dificultats al llarg del temps, i s'apoderin de la seva trajectòria.
+    *   **Fonament**: La carpeta d'aprenentatge (portafolis) és un instrument clau per a l'avaluació formadora, ja que facilita la metacognició i l'autoregulació. Permet a l'alumne fer evident el que ha après i com ho ha après, no només el resultat final.
+    *   **Exemple complet de raonament**: Una mestra de 5è de primària observa que els seus alumnes sovint obliden el que han après en unitats anteriors i no connecten els coneixements. L'agent, aplicant l'heurística del "diari de viatge", suggeriria implementar una carpeta d'aprenentatge. Aquesta carpeta no seria un simple recull de feines, sinó un espai on els alumnes seleccionarien les activitats més significatives, inclourien esborranys i versions millorades, i, crucialment, escriurien reflexions sobre "què he après amb aquesta activitat?", "com ho he après?", "què em va costar més i com ho vaig superar?", "com connecta això amb el que ja sabia?". L'agent aconsellaria a la mestra dedicar temps regularment (ex: al final de cada tema) perquè els alumnes revisin i actualitzin la seva carpeta, compartint-la amb companys o amb la mestra. Això no només proporcionaria evidències valuoses per a l'avaluació, sinó que també ajudaria els alumnes a construir una narrativa del seu aprenentatge, fomentant la seva autonomia i la comprensió profunda dels continguts.
+
+*   **Heurística: "El detector de pistes"**
+    *   **Quan aplica**: Quan un docent necessita una manera ràpida i objectiva d'avaluar si s'estan complint certs requisits o passos en una tasca, o per avaluar el disseny d'una activitat.
+    *   **Fonament**: Les llistes de comprovació són instruments eficients per identificar evidències observables i concretes, facilitant l'autoavaluació i la coavaluació de forma estructurada.
+    *   **Exemple complet de raonament**: Un professor de tecnologia de 2n d'ESO vol assegurar-se que els seus alumnes segueixen tots els passos de seguretat i de muntatge en un projecte de robòtica. L'agent proposaria l'ús d'una llista de comprovació com a "detector de pistes". Aquesta llista inclouria ítems com "He comprovat que el cablejat està ben connectat?", "He utilitzat les eines de protecció personal?", "El circuit funciona correctament abans de connectar-lo a la font d'alimentació?". L'agent suggeriria que els alumnes utilitzin aquesta llista per autoavaluar-se abans de cada fase important del projecte i també per coavaluar el treball d'un company. A més, el docent podria utilitzar una llista de comprovació similar per avaluar el disseny de la seva pròpia activitat, preguntant-se: "Les instruccions són clares?", "Els materials són adequats?", "El temps assignat és realista?". Aquesta eina permetria una regulació ràpida i sistemàtica, detectant problemes abans que esdevinguin errors majors i assegurant la qualitat del procés i del producte.
+
+*   **Heurística: "El simulador de la vida real"**
+    *   **Quan aplica**: Quan un docent vol avaluar l'aplicació de coneixements i habilitats en contextos significatius i complexos, més enllà de la memorització.
+    *   **Fonament**: Les proves autèntiques o competencials són aquelles que plantegen situacions problemàtiques, complexes i contextualitzades, que requereixen l'ús integrat de diversos aprenentatges i mobilitzen habilitats cognitives superiors.
+    *   **Exemple complet de raonament**: Un professor de ciències socials de 4t d'ESO vol avaluar la capacitat dels alumnes per analitzar un conflicte geopolític. En lloc d'un examen amb preguntes de definició, l'agent suggeriria dissenyar una "simulació de la vida real". La prova consistiria en presentar un cas real o hipotètic d'un conflicte actual, amb diverses fonts d'informació (notícies, mapes, dades econòmiques, opinions de diferents actors). Els alumnes haurien de, per exemple, "actuar com a analistes d'un think tank" i redactar un informe que identifiqui les causes del conflicte, els actors implicats, les possibles solucions i les implicacions globals. L'agent destacaria que aquesta prova ha de ser "productiva" (crear un nou producte), "complexa" (no una única resposta), "contextualitzada" (situació real) i amb un "destinatari clar" (el govern o una ONG). A més, s'aconsellaria permetre l'ús de materials de consulta, ja que en la vida real els experts no treballen de memòria. Aquesta aproximació permetria avaluar no només el coneixement dels fets, sinó la capacitat d'anàlisi, síntesi, argumentació i proposta de solucions, que són competències clau.
+
+*   **Heurística: "L'escalada guiada"**
+    *   **Quan aplica**: Quan un docent vol que els alumnes aprenguin a realitzar una tasca o resoldre un problema seguint una seqüència de passos lògica i eficient, i que puguin autoavaluar-se en cada etapa.
+    *   **Fonament**: Les bases d'orientació proporcionen un guiatge explícit del procés, ajudant a interioritzar procediments i a desenvolupar l'autonomia en la planificació i execució de tasques.
+    *   **Exemple complet de raonament**: Una professora de matemàtiques de 1r d'ESO observa que els seus alumnes tenen dificultats per resoldre problemes de geometria que impliquen diversos passos. L'agent, utilitzant l'heurística de "l'escalada guiada", proposaria crear una base d'orientació. Aquesta base llistaria els passos essencials per resoldre un problema d'aquest tipus: "1. Llegeix el problema i subratlla les dades clau i la pregunta. 2. Fes un dibuix o esquema per visualitzar la situació. 3. Identifica quines fórmules o teoremes necessites aplicar. 4. Realitza els càlculs pas a pas. 5. Revisa el resultat i comprova si té sentit en el context del problema. 6. Escriu la solució de forma clara i amb les unitats correctes." L'agent suggeriria que els alumnes participin en la creació d'aquesta base i que la utilitzin com a llista de comprovació mentre resolen problemes, marcant cada pas realitzat. Això no només els ajudaria a estructurar el seu pensament, sinó que també els permetria identificar exactament en quin punt del procés s'encallen, facilitant una intervenció més precisa per part de la professora.
+
+**Heurístiques per a l'Agent ALUMNE**
+
+*   **Heurística: "El meu GPS d'aprenentatge"**
+    *   **Quan aplica**: Quan un alumne se sent perdut en una tasca o no sap què ha de fer per obtenir un bon resultat.
+    *   **Fonament**: Conèixer els objectius i criteris d'avaluació (sovint en rúbriques o llistes de comprovació) és essencial perquè l'alumne pugui orientar el seu aprenentatge i autoregular-se.
+    *   **Exemple complet de raonament**: Un alumne de 4t d'ESO ha de fer un treball de recerca i no sap per on començar ni què s'espera d'ell. L'agent, activant l'heurística del "GPS d'aprenentatge", li preguntaria: "Tens la rúbrica o els criteris d'avaluació d'aquest treball? Si no els tens, demana-los al teu professor." Un cop l'alumne tingués la rúbrica, l'agent l'ajudaria a interpretar-la: "Mira els criteris: 'Recerca d'informació', 'Estructura del treball', 'Argumentació', 'Presentació'. Per a cada un, quins són els descriptors del nivell 'excel·lent'? Això és el teu destí. Ara, per al criteri 'Recerca d'informació', què necessites fer per passar del nivell 'inicial' al 'assolit'? Quines fonts has de consultar? Com pots verificar la seva fiabilitat?" Aquest procés permetria a l'alumne tenir una ruta clara, entendre els passos necessaris i saber què ha de fer per millorar en cada aspecte del treball, transformant la incertesa en un pla d'acció concret.
+
+*   **Heurística: "El mirall de la meva feina"**
+    *   **Quan aplica**: Quan un alumne ha acabat una tasca i vol revisar-la abans de lliurar-la, o quan rep una qualificació i vol entendre per què.
+    *   **Fonament**: L'autoavaluació i la coavaluació amb instruments com rúbriques o llistes de comprovació permeten a l'alumne reflexionar críticament sobre el seu propi treball i el dels seus companys, identificant punts forts i àrees de millora.
+    *   **Exemple complet de raonament**: Un alumne de 1r d'ESO ha escrit un text descriptiu i el vol revisar. L'agent li suggeriria utilitzar "el mirall de la seva feina", que en aquest cas seria una llista de comprovació o una rúbrica que el professor ha proporcionat. L'agent li diria: "Revisa el teu text amb aquesta llista. Per exemple, el primer punt diu 'He utilitzat almenys tres adjectius diferents per descriure cada element?'. Llegeix el teu text i marca 'sí' o 'no'. Si has marcat 'no' en algun punt, què pots fer per canviar-ho? Afegeix un adjectiu més aquí, o canvia aquest per un de més precís." Aquest procés de revisió sistemàtica, guiat per criteris clars, permetria a l'alumne no només corregir errors superficials, sinó també comprendre millor els requisits de la tasca i desenvolupar la capacitat de jutjar la qualitat del seu propi treball, fent-lo més autònom en el seu aprenentatge.
+
+*   **Heurística: "La meva història d'aprenentatge"**
+    *   **Quan aplica**: Quan un alumne vol veure el seu progrés al llarg d'un període o projecte, o quan necessita recordar com va aprendre alguna cosa en el passat.
+    *   **Fonament**: La carpeta d'aprenentatge (portafolis) permet a l'alumne recollir i reflexionar sobre les evidències del seu procés, construint una narrativa del seu aprenentatge i consolidant els coneixements.
+    *   **Exemple complet de raonament**: Un alumne de 6è de primària ha completat un trimestre i vol preparar-se per a la reunió amb els seus pares i el tutor. L'agent li proposaria revisar "la seva història d'aprenentatge" a través de la seva carpeta d'aprenentatge. L'agent el guiaria: "Obre la teva carpeta. Quines activitats vas incloure al principi del trimestre? Quines has afegit al final? Quina activitat et va costar més i com la vas millorar? Quina és la teva reflexió sobre el que has après en matemàtiques aquest trimestre? Pots mostrar als teus pares els teus esborranys i la versió final d'aquella redacció que et va costar tant, i explicar-los com vas aplicar el feedback del professor." Aquesta heurística ajudaria l'alumne a prendre consciència del seu propi creixement, a valorar l'esforç realitzat i a comunicar els seus aprenentatges de manera significativa, reforçant la seva autoestima i la seva capacitat d'autoreflexió.
 ---
 
-## H2 Quan es dissenya una rubrica per primera vegada — DOCENT
+## 5. FONTS DEL CORPUS
 
-**Quan aplica:** Quan es dissenya una rubrica per primera vegada.
+| # | Títol | URL |
+|---|-------|-----|
+| 1 | cursos:escola_inclusiva:ansu:b6:index [Formació del professorat] | https://ateneu.xtec.cat/wikiform/wikiexport/cursos/escola_inclusiva/ansu/b6/index |
+| 2 | cursos:escola_inclusiva:ansu:b6:b6t5 [Formació del professorat] | https://ateneu.xtec.cat/wikiform/wikiexport/cursos/escola_inclusiva/ansu/b6/b6t5 |
+| 3 | cursos:escola_inclusiva:ansu:b7:b7t2 [Formació del professorat] | https://ateneu.xtec.cat/wikiform/wikiexport/cursos/escola_inclusiva/ansu/b7/b7t2 |
+| 4 | cursos:escola_inclusiva:ansu:b6:b6t1 [Formació del professorat] | https://ateneu.xtec.cat/wikiform/wikiexport/cursos/escola_inclusiva/ansu/b6/b6t1 |
+| 5 | cursos:escola_inclusiva:ansu:b6:b6t4 [Formació del professorat] | https://ateneu.xtec.cat/wikiform/wikiexport/cursos/escola_inclusiva/ansu/b6/b6t4 |
+| 6 | cursos:curriculum:inf_pri:cape:aval:index [Formació del professorat] | http://ateneu.xtec.cat/wikiform/wikiexport/cursos/curriculum/inf_pri/cape/aval/index |
+| 7 | cursos:escola_inclusiva:ansu:b6:b6t2 [Formació del professorat] | https://ateneu.xtec.cat/wikiform/wikiexport/cursos/escola_inclusiva/ansu/b6/b6t2 |
+| 8 | cursos:curriculum:inf_pri:cape:aval:taller:index [Formació del professorat] | http://ateneu.xtec.cat/wikiform/wikiexport/cursos/curriculum/inf_pri/cape/aval/taller/index |
+| 9 | cursos:curriculum:inf_pri:cape:aval:taller:s2 [Formació del professorat] | http://ateneu.xtec.cat/wikiform/wikiexport/cursos/curriculum/inf_pri/cape/aval/taller/s2 |
+| 10 | cursos:curriculum:inf_pri:cape:aval:taller:s1 [Formació del professorat] | http://ateneu.xtec.cat/wikiform/wikiexport/cursos/curriculum/inf_pri/cape/aval/taller/s1 |
+| 11 | avaluar_per_aprendre_dc4082466b.pdf | http://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0024/fc53024f-626e-423b-877a-932148c56075/avaluar_per_aprendre.pdf |
+| 12 | carpeta-aprenentatge_2620ab3872.pdf | https://xtec.gencat.cat/web/.content/curriculum/xarxacb/documents/instruments-avaluacio-formativa/carpeta-aprenentatge.pdf |
+| 13 | 3._modificacio_prova_avaluacio_cicle_inicial_8594dbd6d4.pdf | http://ateneu.xtec.cat/wikiform/wikiexport/_media/cursos/curriculum/inf_pri/cape/3._modificacio_prova_avaluacio_cicle_inicial.pdf |
+| 14 | practica_3_8db195af30.pdf | http://ateneu.xtec.cat/wikiform/wikiexport/_media/cursos/curriculum/inf_pri/cape/practica_3.pdf |
+| 15 | avaluaci-formativa_-qu-hi-ha-de-nou_deb2ffb895.pdf | http://ateneu.xtec.cat/wikiform/wikiexport/_media/cursos/curriculum/inf_pri/cape/avaluaci-formativa_-qu-hi-ha-de-nou.pdf |
+| 16 | La-carpeta-daprenentatge_2cdfda0ad0.pdf | http://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0003/0e9f449b-790e-4fd7-a9e9-1cab53252ae3/La-carpeta-daprenentatge.pdf |
+| 17 | 5._modificacio_prova_avaluacio_cicle_superior_e34c732a04.pdf | http://ateneu.xtec.cat/wikiform/wikiexport/_media/cursos/curriculum/inf_pri/cape/5._modificacio_prova_avaluacio_cicle_superior.pdf |
+| 18 | 3a_presentacio_-autoexplicativa_5_9_88d91daaeb.pdf | http://ateneu.xtec.cat/wikiform/wikiexport/_media/cursos/curriculum/inf_pri/cape/3a_presentacio_-autoexplicativa_5_9.pdf |
+| 19 | 4._modificacio_prova_avaluacio_cicle_mitja_506362b8ba.pdf | http://ateneu.xtec.cat/wikiform/wikiexport/_media/cursos/curriculum/inf_pri/cape/4._modificacio_prova_avaluacio_cicle_mitja.pdf |
+| 20 | 2._es_competencial_aquesta_prova_b4b85a43ac.pdf | http://ateneu.xtec.cat/wikiform/wikiexport/_media/cursos/curriculum/inf_pri/cape/2._es_competencial_aquesta_prova.pdf |
+| 21 | Full-indicadors-compartir-objectius-i-criteris-ava_4448f3a238.pdf | http://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0083/c7780a61-36f9-4a59-aeca-21acafc597f3/Full-indicadors-compartir-objectius-i-criteris-avaluacio.pdf |
+| 22 | avaluaci-formativa_-qu-hi-ha-de-nou_228021edaf.pdf | http://xtec.gencat.cat/web/.content/documents/avaluaci-formativa_-qu-hi-ha-de-nou.pdf |
+| 23 | Pautes-per-compartir-objectius-i-criteris-d-avalua_32b5566812.pdf | http://xtec.gencat.cat/web/.content/documents/Pautes-per-compartir-objectius-i-criteris-d-avaluaci.pdf |
+| 24 | Rubrica-Bans_b879cedf7d.pdf | http://xtec.gencat.cat/web/.content/documents/Rubrica-Bans.pdf |
+| 25 | formativa-proves-avaluacio_fde7363bd0.pdf | http://xtec.gencat.cat/web/.content/documents/formativa-proves-avaluacio.pdf |
+| 26 | BANUS_CI_MODIFICACIO_ACTIVITAT_COMPETENCIAL_145f5a418f.pdf | http://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0026/f5b4e60d-88cc-4364-bb7f-4cb2243769bf/BANUS_CI_MODIFICACIO_ACTIVITAT_COMPETENCIAL.pdf |
+| 27 | Mini_GAPPISA_horitzontal_1c526ecc07.pdf | http://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0014/4d35cb97-7bb9-43d3-919b-46cb8f271671/Mini_GAPPISA_horitzontal.pdf |
+| 28 | autoavaluacio-coavaluacio_52971de36c.pdf | http://xtec.gencat.cat/web/.content/curriculum/xarxacb/documents/instruments-avaluacio-formativa/autoavaluacio-coavaluacio.pdf |
+| 29 | 81d0d8_50ad5ebf0be14ae5ac31074d3ec3302d_60f99c9a2a.pdf | https://docs.wixstatic.com/ugd/81d0d8_50ad5ebf0be14ae5ac31074d3ec3302d.pdf |
+| 30 | base-orientacio_7dc60ba889.pdf | http://xtec.gencat.cat/web/.content/curriculum/xarxacb/documents/instruments-avaluacio-formativa/base-orientacio.pdf |
 
-**Fonament:** Poques dimensions (3-5), nivells en positiu, descriptors observables. Comencar senzill i refinar.
-
-**Exemple:** Tres criteris (estructura, contingut, expressio), tres nivells, descriptors d'una frase. Despres afegeix exemples basats en treballs reals.
-
----
-
-## H3 Quan es vol usar llista de verificacio per — DOCENT
-
-**Quan aplica:** Quan es vol usar llista de verificacio per a un proces practic.
-
-**Fonament:** Ideal per processos on cada pas es necessari i verificable. Items especifics amb resposta inequivocament si/no.
-
-**Exemple:** Experiment de quimica: "s'han identificat les variables?", "s'ha mesurat amb pipeta?", "s'han registrat dades abans de llencar mostres?"
-
----
-
-## H4 Quan es vol introduir la diana amb primaria — DOCENT
-
-**Quan aplica:** Quan es vol introduir la diana amb primaria.
-
-**Fonament:** Visualment intuitiva, permet autoavaluacio sense lectura complexa. 3-5 eixos amb descriptors curts o pictogrames.
-
-**Exemple:** Treball en grup amb quatre eixos: he escoltat, he aportat, he respectat torns, he ajudat. Cada alumne comparteix un eix a millorar i una estrategia concreta.
-
----
-
-## H5 Quan es vol dissenyar un questionari formatiu — DOCENT
-
-**Quan aplica:** Quan es vol dissenyar un questionari formatiu.
-
-**Fonament:** Preguntes de justificacio revelen raonament, no nomes resposta.
-
-**Exemple:** En comptes de "capital de Franca?": "Un company diu que es Lio. Hi estas d'acord? Per que?"
-
----
-
-## H6 Quan l'alumne no enten la rubrica per autoavaluar-se — ALUMNE
-
-**Quan aplica:** Quan l'alumne no enten la rubrica per autoavaluar-se.
-
-**Fonament:** Requereix aprenentatge explicit. Cal modelar la lectura dels descriptors i comparacio amb el treball.
-
-**Exemple:** La mestra projecta un treball i llegeix cada nivell pensant en veu alta. Alumnes practiquen amb un segon treball.
-
----
-
-## H7 Quan l'alumne diu que l'avaluacio no es "justa" — ALUMNE
-
-**Quan aplica:** Quan l'alumne diu que l'avaluacio no es "justa".
-
-**Fonament:** La percepcio d'injusticia ve de criteris poc clars. Cal revisar transparencia i consistencia.
-
-**Exemple:** L'alumne rellegeix la rubrica i identifica on es situa. Comparen valoracions amb evidencies concretes.
-
----
-
-## H8 Quan l'alumne usa diana o rubrica superficialment — ALUMNE
-
-**Quan aplica:** Quan l'alumne usa diana o rubrica superficialment.
-
-**Fonament:** Cal vincular autoavaluacio amb accio de millora perque l'alumne en percebi utilitat.
-
-**Exemple:** L'alumne marca maxim a tot. El mestre demana que justifiqui un eix amb un exemple concret del treball. La justificacio obliga a reflexio mes profunda.
-
-### Fonts i referencies
-
-> ⚠️ Fonts pendents de verificacio
-
-
-### Fonts del corpus scraped
-
-> Aquestes 15 URLs del corpus classificat pertanyen al modul M6 i son fonts reals verificables.
-
-- http://ateneu.xtec.cat/wikiform/wikiexport/_media/cursos/curriculum/inf_pri/cape/3._modificacio_prova_avaluacio_cicle_inicial.pdf
-- http://ateneu.xtec.cat/wikiform/wikiexport/_media/cursos/curriculum/inf_pri/cape/3a_presentacio_-autoexplicativa_5_9.pdf
-- http://ateneu.xtec.cat/wikiform/wikiexport/_media/cursos/curriculum/inf_pri/cape/escola_jungfrau_badalona.pdf
-- http://ateneu.xtec.cat/wikiform/wikiexport/_media/cursos/escola_inclusiva/diee/modul_4/avaluar.pdf
-- http://ateneu.xtec.cat/wikiform/wikiexport/cursos/curriculum/inf_pri/cape/prg/gc
-- http://ateneu.xtec.cat/wikiform/wikiexport/cursos/escola_inclusiva/adcl/b6/b6t2
-- http://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0083/c7780a61-36f9-4a59-aeca-21acafc597f3/Full-indicadors-compartir-objectius-i-criteris-avaluacio.pdf
-- http://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0092/e3d6d8e4-4e2d-4512-a07c-c3bf7a25b5cb/Orientacions_llengua_red_sec.pdf
-- http://xtec.gencat.cat/web/.content/documents/formativa-proves-avaluacio.pdf
-- https://xtec.gencat.cat/ca/projectes/alumnat-origen-estranger/alumnatnou/avaluacio/acollida/avaluacio-alumnat-aula-dacollida-secundaria/secorientacions/
-- https://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0005/1befe42e-4a6b-4cbb-8054-e2757f33383b/PRI_enquesta_alumne_AA_red_1011.pdf
-- https://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0005/1cb19e60-3a3d-4e8b-95be-a14d295ae898/Lit_lleng_alu.pdf
-- https://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0026/f9df3b4f-24ad-40ad-8020-a992aab567ba/insruccions_aplicacio_EE_sec_red.pdf
-- https://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0048/522b75ad-b084-4b69-9a22-f1698e11e98e/orientacions_integracio_escolar.pdf
-- https://xtec.gencat.cat/web/.content/projectes/alumnatnou/avaluacio/inicial2/documents/Arm_mat_alu.pdf
-
----
+*30 documents font · secció generada automàticament*

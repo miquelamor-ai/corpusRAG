@@ -1,224 +1,241 @@
 ---
-titol: "Avaluació Competencial i IA"
 modul: M6
+titol: "Avaluació Competencial i IA"
 tipus: estrategia
-etiquetes: [avaluació-competencial, tasques-autèntiques, situacions-avaluació, IA-avaluació, evidències, criteris-assoliment, rúbriques-IA, integritat-acadèmica, backward-design]
-estat: revisat
+descripcio: "Avaluació de competències amb suport de la IA: tasques autèntiques, situacions d'avaluació"
 review_status: esborrany
+generat_at: 2026-03-18T15:34:01
 ---
 
-# 1. CONTINGUT
+## Avaluació Competencial amb Tasques Autèntiques
 
-## Descripció i fonament
+### Descripció i fonament
 
-L'**avaluació competencial** avalua no "el que l'alumne sap" sinó "el que l'alumne sap fer en context": la capacitat de mobilitzar coneixements, habilitats i actituds per resoldre situacions reals o versemblants. Perrenoud (1999) descriu la competència com la capacitat d'actuar eficaçment en un conjunt de situacions, apoderant-se de coneixements necessaris però sense limitar-s'hi. Avaluar competències requereix, per tant, situar l'alumne en situacions on hagi d'actuar competentment, no únicament demostrar que recorda informació.
+Aquesta estratègia aborda l'avaluació de competències a través de tasques autèntiques i situacions d'avaluació que fomenten la regulació de l'aprenentatge. El canvi curricular cap a un enfocament competencial exigeix una redefinició de què, com, quan i per què s'avalua. L'avaluació deixa de ser una mera qualificació per esdevenir una eina fonamental per a l'aprenentatge, amb una funció reguladora que permet identificar dificultats, comprendre'n les causes i prendre decisions per superar-les.
 
-**Tasques autèntiques (Wiggins, 1990):** Una tasca autèntica imita la complexitat del món real en que les competències s'utilitzen. No es tracta de proves de coneixements aïllats, sinó de reptes on cal integrar sabers i demostrar competència en acció. La diferència entre "explica la fotosíntesi" (tasca de coneixement) i "analitza les dades de consum de CO₂ d'una sala de classe i proposa una solució per millorar la qualitat de l'aire" (tasca autèntica de ciències + matemàtiques + argumentació) il·lustra la distància entre els dos enfocaments. La tasca autèntica requereix decisions, justificació i producció d'alguna cosa que existia; no hi ha una sola resposta correcta.
+El fonament principal és l'**avaluació formativa** (o avaluació per aprendre - AxA), que busca donar suport a l'alumnat per aprendre millor i ser més autònom. Això implica que l'alumne sigui capaç d'autoregular-se, sent conscient del que ha après, del que li queda per aprendre i de com pot seguir aprenent. L'error es considera una part normal i necessària del procés d'aprenentatge, i l'aula ha de ser un espai on es pugui manifestar sense por a la penalització. La **retroalimentació (feedback)** esdevé crucial per guiar l'alumne en aquest procés d'autoregulació, ajudant-lo a identificar objectius, planificar accions, compartir criteris d'avaluació, reconèixer punts forts i febles, i trobar estratègies de millora.
 
-**Situació-problema (Roegiers, 2001):** Una situació-problema és l'estructura d'una tasca autèntica organitzada en tres components: (a) un *context narratiu* que situa l'alumne en un escenari real o versemblant, (b) un *suport* amb dades, textos, documents o materials que l'alumne ha de processar, i (c) una *consigna* que específica la demanda (producte, audiència, criteri). La situació-problema és la forma pedagògica que permet avaluar competències de manera sistemàtica i comparable.
+Les **tasques autèntiques** són el vehicle idoni per a aquesta avaluació competencial. Es caracteritzen per ser:
+*   **Productives:** Requereixen l'aplicació de coneixements i no només la reproducció.
+*   **Complexes:** Impliquen l'ús integrat d'aprenentatges diversos i mobilitzen habilitats cognitives superiors (analitzar, interpretar, justificar, argumentar, crear).
+*   **Contextualitzades:** S'emmarquen en situacions reals o properes a la vida de l'alumnat, que suposen un repte o problema amb sentit.
+*   **Rellevants i/o funcionals:** L'alumnat percep la utilitat dels aprenentatges a aplicar.
+*   **Amb destinatari clar:** La solució va dirigida a algú més enllà del docent.
+*   **Socialitzadores:** Fomenten la interacció i el desenvolupament de vocabulari, habilitats i actituds.
 
-**Backward design (Wiggins & McTighe, 2005):** El disseny de l'avaluació competencial ha de començar per la pregunta "com sabré que l'alumne ha assolit la competència?" i treballar enrere cap a la instrucció. En lloc de dissenyar primer les activitats i avaluar al final el que s'ha cobert, el docent defineix primer l'evidència d'assoliment (tasca autèntica + criteris), i dissenya la instrucció perquè els alumnes adquireixin el que necessiten per demostrar la competència.
+**Nota important:** Els documents proporcionats no contenen informació específica sobre l'ús de la Intel·ligència Artificial (IA) en l'avaluació competencial. Per tant, aquesta estratègia se centrarà exclusivament en les metodologies pedagògiques descrites en les fonts.
 
-**IA com a suport en l'avaluació competencial:**
+### Quan i per a qui és útil
 
-La IA no substitueix l'avaluació competencial, però pot ampliar-la en diverses dimensions:
+Aquesta estratègia és útil per a:
 
-- *Generació de rúbriques:* El docent descriu el context i l'objectiu de la tasca, i la IA proposa descriptors per nivell d'assoliment que el docent revisa i ajusta. Redueix el temps de disseny, però el docent ha de mantenir el control pedagògic dels criteris.
+*   **Totes les etapes educatives:** Des d'Educació Infantil i Primària fins a ESO, Batxillerat i Formació Professional, ja que els principis d'avaluació formativa i competencial són transversals.
+*   **Tot l'alumnat:** Per promoure la seva implicació, motivació, autoestima i autonomia en el procés d'aprenentatge, ajudant-los a entendre les seves dificultats i a trobar camins per millorar.
+*   **Alumnat amb necessitats específiques de suport educatiu (NESE):** Especialment alumnes nouvinguts o amb baixa competència acadèmica, mitjançant l'adaptació d'instruments i canals d'expressió, i l'ús de Plans de Suport Individualitzat (PI) per ajustar els criteris d'avaluació.
+*   **Docents i equips docents:** Per ajustar la planificació didàctica a les característiques i interessos del grup, decidir intervencions individualitzades, reflexionar sobre la pròpia pràctica i establir coherència en els criteris d'avaluació al centre.
 
-- *Retroalimentació formativa sobre esborranys:* L'alumne comparteix un esborrany de la seva producció amb la IA i rep feedback sobre estructura, argumentació, coherència o vocabulari *abans* de lliurar al docent. Permet cicles de revisió que seria impossible atendre manualment per a tota la classe.
+### Recursos necessaris
 
-- *Diferenciació de tasques:* La IA pot generar variants d'una mateixa tasca autèntica a diferent nivell de complexitat cognitiva o de suport lingüístic, mantenint el mateix objectiu competencial.
+Per implementar aquesta estratègia, calen els següents recursos:
 
-- *Identificació d'evidències:* El docent pot usar la IA per analitzar una producció d'alumne i identificar quines competències s'han mobilitzat, accelerant el procés d'avaluació formativa.
+*   **Temps:** Dedicar temps a la reflexió individual i en equip sobre la pràctica avaluadora, i a la creació d'espais de diàleg amb l'alumnat.
+*   **Formació docent:** Coneixement dels principis de l'avaluació formativa, el disseny de tasques autèntiques i l'ús d'instruments diversos.
+*   **Materials i instruments:**
+    *   **Llistes de comprovació i protocols d'observació:** Per avaluar el disseny i el desenvolupament de les activitats.
+    *   **Rúbriques:** Per explicitar els criteris d'avaluació i facilitar l'autoavaluació i coavaluació.
+    *   **Carpetes d'aprenentatge (portafolis):** Per recollir evidències del procés d'aprenentatge i la reflexió de l'alumne.
+    *   **Bases d'orientació:** Per guiar l'alumnat en la planificació i realització autònoma de tasques.
+    *   **Fulls d'indicadors:** Per valorar la qualitat de les proves d'avaluació i compartir objectius i criteris.
+*   **Espais de diàleg:** Fomentar la conversa a l'aula i entre docents sobre els aprenentatges i l'avaluació.
+*   **Marc normatiu:** Conèixer i aplicar les directrius de l'ordre d'avaluació vigent (p. ex., Ordre ENS/164/2016 per a primària).
 
-**Integritat acadèmica i IA:** El problema no és que l'alumne usi la IA, sinó que el disseny de la tasca permeti que la IA completi la tasca sencera sense que l'alumne aprengui. La solució no és prohibir la IA sinó dissenyar tasques on el procés sigui evident i avaluable (portafoli, presentació oral, revisió visible), on el context sigui específic i personal (basat en l'experiència pròpia, en dades locals, en una observació directa) i on la IA pugui ser usada com a eina en algunes fases però l'alumne hagi de demostrar que ha processat i decidit.
+### Com implementar
 
-## Quan i per a qui és útil
+L'implementació de l'avaluació competencial amb tasques autèntiques es pot graduar en diferents nivells d'aprofundiment:
 
-- **Etapes educatives**: Aplicable a totes les etapes. A primària, les tasques autèntiques son naturals (projectes, experiments, presentacions); a secundària, requereixen més disseny per assegurar l'autenticitat; a batxillerat/FP, les situacions professionals reals son possibles.
-- **Perfils d'alumnat**: L'avaluació competencial permet demostrar la competència a través de múltiples formats, la qual cosa és especialment beneficiosa per a alumnat amb dificultats en formats d'examen estàndard (alumnat amb TDAH, dislèxia, ansietat davant exàmens). Cal dissenyar la tasca autèntica amb adaptacions per a alumnat amb NEE (accés al suport habitual, temps addicional).
-- **Àrees curriculars**: Funciona en totes les àrees, però l'autenticitat de les situacions varia: les ciències i les ciències socials ofereixen contextos naturals molt rics; la llengua té la producció oral i escrita; les matemàtiques requereixen contextos aplicats; les arts ja son per naturalesa competencials.
-- **Condicions d'èxit**: Criteris d'avaluació clars i compartits amb l'alumne des del principi; temps suficient per al procés (no és una prova d'una hora); portafoli o evidències del procés; coordinació amb altres docents en projectes interdisciplinaris.
+#### Nivell Bàsic: Compartir i donar feedback
 
-## Recursos necessaris
+1.  **Abans de la tasca:**
+    *   **Comunicar objectius i criteris:** Explicitar què s'espera que aprenguin i com seran avaluats. Organitzar un petit debat per activar coneixements previs i assegurar que l'alumnat s'ha fet seus els objectius.
+    *   **Dissenyar tasques obertes:** Proposar activitats que permetin analitzar no només el resultat, sinó també el procés de desenvolupament, i que ofereixin diferents graus d'exigència.
+2.  **Durant la tasca:**
+    *   **Instruccions clares:** Assegurar que l'alumnat entén què se li demana i quins són els criteris de valoració.
+    *   **Temps per a la planificació i revisió:** Facilitar que l'alumne doni un cop d'ull general a la tasca per distribuir-se el temps i planificar les respostes, i deixar un temps final per a la revisió.
+3.  **Després de la tasca:**
+    *   **Feedback orientat a la millora:** Proporcionar retroalimentació que ajudi l'alumne a identificar les seves dificultats i a trobar camins per superar-les, més enllà de la qualificació.
 
-- Temps de disseny de la situació-problema i la rúbrica
-- Criteris d'assoliment compartits amb l'alumne (coavaluació i autoavaluació possibles)
-- Eines de portafoli o recollida d'evidències (paper o digital)
-- Opcionalment: accés a eines d'IA per a feedback i diferenciació
+#### Nivell Intermedi: Implicar l'alumnat i diversificar instruments
 
-## Com implementar
+1.  **Incorporar autoavaluació i coavaluació:**
+    *   Utilitzar llistes d'indicadors o rúbriques senzilles per a que l'alumnat revisi la seva feina o la dels companys.
+    *   Visualitzar bons exemples de tasques realitzades per identificar les característiques d'un bon producte.
+2.  **Utilitzar rúbriques detallades:**
+    *   Desenvolupar rúbriques que explicitin els nivells d'assoliment de les competències per a tasques complexes, com la resolució de problemes o la producció de textos.
+3.  **Implementar carpetes d'aprenentatge:**
+    *   Animar l'alumnat a recollir de forma raonada evidències del seu procés d'aprenentatge (activitats, esborranys, reflexions) per fer evident què han après i com.
+4.  **Dissenyar tasques autèntiques:**
+    *   Transformar proves tradicionals en activitats productives, complexes, contextualitzades i rellevants, amb un destinatari clar i que fomentin la socialització.
 
-### Nivell bàsic (primera vegada)
-1. Triar una unitat i definir una sola competència que es vol avaluar de manera autèntica
-2. Dissenyar una tasca on l'alumne hagi de *produir* alguna cosa (text, artefacte, presentació, informe) a partir d'un context real i senzill
-3. Crear una rúbrica de 3 nivells (No assoliment / Assoliment / Assoliment avançat) amb descriptors concrets i observables
-4. Compartir la rúbrica amb l'alumne ABANS de la tasca
+#### Nivell Avançat: Fomentar l'autonomia i la reflexió profunda
 
-### Nivell intermedi
-1. Usar la IA per millorar la qualitat dels descriptors de la rúbrica
-2. Introduir autoavaluació: l'alumne s'avalua amb la mateixa rúbrica abans de lliurar
-3. Incorporar una fase de retroalimentació intermèdia: l'alumne demana feedback (al docent o a la IA) sobre l'esborrany i revisa
-4. Dissenyar la situació-problema amb el format complet (context + suport + consigna)
+1.  **Creació de bases d'orientació per l'alumnat:**
+    *   Guiar els alumnes perquè generin les seves pròpies seqüències d'accions per resoldre problemes o realitzar tasques, utilitzant-les per planificar-se i autoavaluar-se.
+2.  **Reflexió metacognitiva:**
+    *   Promoure la verbalització dels aprenentatges clau, la identificació de millores i l'ús d'eines i recursos per aconseguir-les, tant al final de les unitats com de les sessions.
+3.  **Implicació en el disseny de criteris:**
+    *   Fer participar l'alumnat en la concreció i el pacte dels indicadors o criteris de resultats, assegurant que siguin objectius, observables i documentables.
+4.  **Avaluació del disseny d'activitats:**
+    *   El docent avalua el disseny de les seves pròpies activitats (prèvia i posteriorment a l'aplicació), i convida altres docents a observar i donar feedback sobre el desenvolupament a l'aula.
 
-### Nivell avançat
-1. Backward design complet: definir primer les evidències, dissenyar la instrucció a partir d'elles
-2. Portafoli d'avaluació: l'alumne recull evidències al llarg de la unitat i selecciona les que millor demostren la competència, justificant per qué
-3. Coavaluació entre iguals amb rúbrica compartida
-4. Tasques autèntiques interdisciplinàries (el mateix producte avaluat per criteris de dues matèries)
+#### Adaptacions per a la diversitat
 
-### Adaptacions per diversitat
-- **Alumnat amb NEE**: els criteris de competència son els mateixos; el suport, el format i les condicions de la tasca s'adapten (temps addicional, suport tecnològic, format alternatiu de producció)
-- **Alumnat nouvingut**: possibilitat d'una part de la producció en la llengua d'origen; valorar la competència cognitiva per separat de la competència lingüística
-- **Alumnat d'altes capacitats**: tasques autèntiques de major complexitat o amb demanda d'extensió autogestionada
+*   **Plans de Suport Individualitzat (PI):** Per a alumnes nouvinguts o amb baixa competència acadèmica, el PI és un acord d'avaluació que defineix criteris i mesures de suport adaptats, incloent la gradació dels objectius d'aprenentatge segons el nivell de llengua.
+*   **Diversificació de canals d'expressió:** Oferir instruments alternatius o ajudes perquè l'alumnat pugui demostrar el que ha après, més enllà del llenguatge acadèmic (dibuixos, maquetes, exposicions orals, etc.).
+*   **Flexibilitat en temps i exigència:** Concedir més temps per a la realització de proves a alumnes amb dificultats i dissenyar tasques que permetin a tots resoldre almenys una part.
 
-## Exemples d'aplicació per etapa
+### Exemples d'aplicació per etapa
 
-- **Primària (5è, Ciències i Llengua)**: Situació-problema sobre la qualitat de l'aire del barri. Context: "El vostre grup és el comitè de salut ambiental de l'escola". Suport: dades de contaminació de l'ajuntament, un text divulgatiu sobre contaminants. Consigna: "Escriviu un informe de dues pàgines adreçat a l'AMPA recomanant tres accions de millora, justificades amb les dades". L'alumne usa la IA per buscar dades addicionals i obtenir feedback sobre l'estructura de l'informe. La rúbrica avalua: ús de dades (contingut de ciències), estructura argumentativa (llengua), proposta viable (pensament crític).
+*   **Educació Primària:**
+    *   **Cicle Inicial (2n):** Modificar una prova de classificació d'aliments memorística per una tasca on l'alumnat ha de dissenyar un menú setmanal saludable per a un personatge amb problemes de salut, basant-se en la piràmide dels aliments i justificant les seves decisions. Això passa de reproduir a produir, contextualitzant i fent la tasca rellevant. (DOC 13, 26)
+    *   **Cicle Mitjà (4t):** En lloc d'identificar les parts d'una flor, l'alumnat llegeix una notícia sobre la reducció d'insectes pol·linitzadors i ha d'escriure una carta a un avi pagès explicant-li per què la seva collita de cireres és escassa, aplicant els coneixements de reproducció de plantes. La tasca és complexa, contextualitzada i amb un destinatari clar. (DOC 19)
+    *   **Cicle Superior (6è):** Transformar una prova de completar la piràmide d'aliments en una activitat on l'alumnat registra els seus àpats, els valora amb companys i construeix un menú ideal, o analitza la dieta d'un amic amb etiquetes nutricionals per fer una crítica argumentada. Això fomenta la reflexió, l'aplicació de coneixements i la socialització. (DOC 17)
+    *   **General Primària:** Ús de rúbriques per avaluar la millora d'un text descriptiu (DOC 6) o la resolució reflexiva de problemes matemàtics (DOC 24). Implementació de la carpeta d'aprenentatge per recollir evidències del procés en projectes. (DOC 12, 16)
 
-- **Secundària (3r ESO, Matemàtiques)**: Tasca autèntica sobre disseny d'espais. Context: "L'escola vol remodelar la biblioteca". Suport: plànol de la sala, pressupost màxim, catàleg de mobiliari. Consigna: "Dissenya una proposta de distribució del nou espai, calculant les superfícies, el cost del mobiliari i justificant les decisions". Avaluació: càlcul correcte (matemàtiques), coherència de la proposta (pensament espacial), justificació escrita (argumentació). La IA pot generar escenaris alternatius que l'alumne compara i critica.
+*   **Educació Secundària Obligatòria (ESO):**
+    *   **1r ESO:** Creació d'una base d'orientació consensuada pel grup per elaborar un climograma, utilitzant-la com a guia per fer la tasca autònomament i com a instrument d'autoavaluació i coavaluació. Això ajuda a interioritzar els passos i la noció de proporcionalitat. (DOC 30)
+    *   **General ESO:** Ús de la carpeta d'aprenentatge per a projectes interdisciplinaris, on l'alumnat selecciona les evidències més significatives i reflexiona sobre el seu procés. Aplicació d'autoavaluació i coavaluació amb indicadors clars en treballs de recerca o presentacions orals. (DOC 12, 16, 28)
 
-- **Batxillerat (2n, Ciències Socials)**: Tasca autèntica d'anàlisi i prospectiva. Context: "Ets assessor d'una ONG que treballa en una zona de conflicte". Suport: tres articles de perspectiva diferent sobre el conflicte, estadístiques, mapa. Consigna: "Elabora un informe de situació de quatre pàgines amb recomanació d'acció, tenint en compte les tres perspectives analitzades". L'alumne fa una presentació oral de 10 minuts davant el grup i respon preguntes. La presentació avalua la comprensió profunda i la capacitat de defensa, no reproducible per una IA.
+*   **Batxillerat / Formació Professional:**
+    *   En aquestes etapes, l'estratègia es pot aplicar amb un major grau d'autonomia per part de l'alumnat. Per exemple, en Batxillerat, la carpeta d'aprenentatge pot incloure reflexions crítiques sobre el procés de recerca o projectes de síntesi, amb autoavaluació i coavaluació de la qualitat dels arguments i la presentació.
+    *   En FP, les tasques autèntiques poden simular situacions laborals reals, on l'alumnat ha de resoldre problemes complexos, dissenyar solucions o avaluar processos, utilitzant bases d'orientació per planificar la feina i rúbriques per valorar l'assoliment de les competències professionals. La retroalimentació es pot donar per part de docents i, si és possible, professionals del sector.
 
-## Indicadors d'èxit
+### Indicadors d'èxit
 
-- L'alumne pot explicar per qué ha pres les decisions que ha pres a la tasca
-- La tasca genera productes diversos i amb veu pròpia (no respostes uniformes)
-- L'alumne usa l'evidència de la rúbrica per millorar el seu treball (no únicament per saber la nota)
-- El feedback formatiu intermedi millora visiblement la qualitat del producte final
+L'èxit d'aquesta estratègia es pot mesurar a través de:
 
-## Errors comuns
+*   **Autoregulació de l'aprenentatge:** L'alumnat és capaç d'identificar els seus objectius, planificar la seva feina, reconèixer els seus errors i dificultats, i trobar estratègies per superar-los.
+*   **Millora en la qualitat dels aprenentatges:** L'alumnat demostra una comprensió més profunda i una major capacitat de transferència dels coneixements a noves situacions.
+*   **Augment de la motivació i l'autoestima:** L'alumnat se sent més implicat en el seu procés, menys ansiós davant l'avaluació i més confiat en les seves capacitats.
+*   **Ajust de la pràctica docent:** Els docents adapten les seves metodologies i planificacions didàctiques en funció de les evidències d'aprenentatge de l'alumnat.
+*   **Coherència avaluativa:** L'equip docent comparteix i aplica criteris d'avaluació coherents, afavorint un enfocament unificat al centre.
+*   **Comunicació efectiva:** Les famílies estan informades dels criteris d'avaluació i del progrés dels seus fills/es.
 
-- **Dissenyar una "tasca autèntica" que en realitat és un examen amb context**: Posar "situació real" com a embolcall d'una tasca de record o de procediment mecànic no és avaluació competencial. La tasca autèntica ha de requerir judici, decisió i producció genuïna, no reproducció.
-- **Crear rúbriques que avaluen procés però que en realitat es redueixen a la nota final**: Una rúbrica on tots els criteris es redueixen a "correcte/incorrecte" no és competencial. Els criteris han de descriure qualitats del rendiment observables (argumentació sòlida, ús de dades rellevants, proposta viable) no simplement presència/absència d'elements.
-- **Usar la IA per generar rúbriques i copiar-les sense adaptar**: Les rúbriques generades per IA son genèriques i no capturen les intencions pedagògiques específiques del docent, del context de classe ni del nivell de l'alumnat. Han de ser revisades i ajustades sistemàticament.
+### Errors comuns
 
----
-
-# 2. CONNEXIONS
-
-| Document relacionat | Relació |
-|---------------------|---------|
-| M6_avaluacio-formativa-formadora.md | Marc general de l'avaluació al servei de l'aprenentatge; l'avaluació competencial és la seva aplicació màxima |
-| M6_tipologia-instruments-avaluacio.md | Les rúbriques i el portafoli son els instruments principals de l'avaluació competencial |
-| M6_portfoli-evidencies.md | El portafoli recull les evidències de competència al llarg del temps |
-| M6_coavaluacio-autoavaluacio.md | L'avaluació competencial s'enriqueix enormement amb autoavaluació i coavaluació |
-| M5_AIA-TPACK-framework.md | El TPACK informa sobre com usar la IA en les tasques autèntiques sense que substitueixi el procés |
-| M5_prompt-engineering-educatiu.md | El prompt engineering permet usar la IA per obtenir feedback de qualitat sobre la tasca |
-| M2_models-disseny-instruccional.md | El backward design és el principi instruccional del qual l'avaluació competencial és el punt de partida |
-
-**Co-activació obligatòria**: Quan un docent vol dissenyar una avaluació competencial → activar M6_avaluacio-competencial + M6_tipologia-instruments simultàniament.
-
-**Co-activació condicional**: Si hi ha alumnat amb NEE → M1 perfils + M6_adaptacio-avaluacio-NEE. Si s'usa IA → M5_AIA-TPACK.
-
----
-
-# 3. DETECCIÓ (Variables de Context)
-
-## Senyals del docent
-L'agent ha d'activar aquest document quan el docent:
-- Demana com crear una rúbrica per a un projecte o tasca
-- Pregunta com avaluar competències, no únicament coneixements
-- Manifesta que vol "avaluació competencial" però no sap com dissenyar-la
-- Pregunta com evitar que els alumnes usin la IA per fer els treballs sense aprendre
-- Demana com dissenyar tasques "autèntiques" o "reals"
-- Explica que vol usar la IA per agilitzar l'avaluació
-
-## Senyals de l'alumne
-L'agent ha d'activar aquest document quan l'alumne:
-- Demana saber "exactament el que entrarà a l'examen" (possible fixació en el coneixement vs. la competència)
-- Pregunta si pot usar IA per a un treball o projecte
-- Expressa dificultat per entendre "per qué li posen aquesta nota" sense criteris clars
-
-## Senyals de context
-- Disseny d'una unitat o projecte que culmina amb una tasca avaluable
-- Debat al centre sobre integritat acadèmica i IA
-- Implementació d'un currículum basat en competències (Decret 175/2022)
-
-## Anti-senyals (quan NO activar)
-- El docent pregunta sobre avaluació formativa en sentit general → M6_avaluacio-formativa-formadora
-- El docent busca un instrument específic (rubrica, diana, llista) → M6_tipologia-instruments-avaluacio
+*   **Confondre avaluació formativa amb qualificadora:** Utilitzar instruments formatius (rúbriques, autoavaluacions) només per posar una nota, sense aprofitar-los per a la regulació de l'aprenentatge.
+*   **Mantenir proves memorístiques:** Continuar amb exàmens que només demanen reproducció de continguts, sense mobilitzar competències superiors.
+*   **No compartir objectius i criteris:** No explicitar a l'alumnat què s'espera d'ells i com seran avaluats, o fer-ho de forma unidireccional sense comprovar la comprensió.
+*   **Feedback ineficaç:** Donar feedback massa tard, massa genèric o que només assenyala l'error sense oferir pistes per a la millora.
+*   **Penalitzar l'error:** Crear un clima d'aula on l'error és castigat, desincentivant l'experimentació i la reflexió.
+*   **No adaptar l'avaluació a la diversitat:** Aplicar els mateixos instruments i criteris a tot l'alumnat sense considerar les seves necessitats específiques.
+*   **Centrar-se en "què farem?" en lloc de "què aprendrem?":** Prioritzar la realització d'activitats per sobre de la comprensió dels objectius d'aprenentatge i el sentit de la tasca.
+*   **Sobrecàrrega d'instruments:** Introduir massa instruments d'avaluació sense un propòsit clar o sense temps per gestionar-los i extreure'n conclusions.
 
 ---
 
-# 4. HEURÍSTIQUES I RAONAMENT PER A L'AGENT
+### 2. CONNEXIONS AMB ALTRES DOCUMENTS DEL CORPUS
 
-## H1 Backward design — definir l'evidència primer — DOCENT
+*   **Marc_AvaluacioFormativa**: Aquest document aprofundeix en els principis teòrics i pedagògics de l'avaluació formativa, que és el fonament d'aquesta estratègia.
+*   **Eina_Rubrica**: Proporciona una guia detallada per a la creació i ús de rúbriques, un instrument clau per a l'avaluació competencial i el feedback.
+*   **Eina_CarpetaAprenentatge**: Descriu la carpeta d'aprenentatge, una eina essencial per a la recollida d'evidències i la reflexió metacognitiva de l'alumnat.
+*   **Eina_BaseOrientacio**: Explica com utilitzar les bases d'orientació per fomentar l'autonomia i l'autoregulació en la realització de tasques.
+*   **Protocol_PI**: Detalla el Pla de Suport Individualitzat, fonamental per adaptar l'avaluació a la diversitat de l'alumnat, especialment en el context d'aquesta estratègia.
+*   **Normativa_AvaluacioPrimaria**: Contextualitza el marc legal de l'avaluació, incloent la importància del seu caràcter formatiu.
+*   **Perfil_AlumneNouvingut**: Aporta informació sobre les necessitats d'aquest perfil d'alumnat, per al qual les adaptacions en l'avaluació competencial són crucials.
 
-**Quan aplica:** 
+### 3. DETECCIÓ (Variables de Context)
 
-**Fonament:** 
+**Senyals del docent**
+*   "Les meves proves només mesuren memorització, no si els alumnes saben aplicar el que aprenen."
+*   "Els meus alumnes no entenen per què fan les activitats, només pregunten per la nota."
+*   "Necessito instruments que m'ajudin a avaluar el procés d'aprenentatge, no només el resultat final."
+*   "Vull que els meus alumnes siguin més autònoms i capaços de millorar per si mateixos."
+*   "Em costa donar feedback útil que realment ajudi els alumnes a progressar."
+*   "Detecto que hi ha molta ansietat a l'aula quan s'acosta un examen."
+*   "Vull que l'avaluació sigui una eina per motivar, no per desmotivar."
 
-**Exemple:** 
+**Senyals de l'alumne**
+*   "No sé què he de fer per millorar, només sé que he suspès."
+*   "Em poso molt nerviós/a amb els exàmens, encara que estudiï."
+*   "Per a què serveix això? Només vull saber la resposta correcta."
+*   "Sempre faig els mateixos errors, no sé com evitar-los."
+*   "No entenc què vol dir 'competència', només vull aprendre els temes."
 
+**Senyals de context**
+*   El centre està implementant el nou currículum per competències i es busca una avaluació coherent.
+*   Hi ha una alta diversitat a l'aula, incloent alumnat nouvingut o amb dificultats lingüístiques.
+*   Els resultats d'una activitat o unitat didàctica són generalment baixos, suggerint un problema en el disseny o la comprensió.
+*   Hi ha una manca de coherència en els criteris d'avaluació entre els docents d'un mateix cicle o departament.
+*   Les famílies expressen preocupació per la manca de transparència en els criteris d'avaluació.
+
+**Anti-senyals**
+*   El docent busca una "solució ràpida" per automatitzar la qualificació sense implicar-se en el procés formatiu.
+*   L'alumne es nega sistemàticament a reflexionar sobre el seu aprenentatge o a participar en activitats d'autoavaluació/coavaluació.
+*   El context escolar no permet espais per a la reflexió docent o el diàleg amb l'alumnat sobre l'avaluació.
+*   La intenció és utilitzar instruments d'avaluació competencial per comparar i classificar rígidament l'alumnat, en lloc de per a la millora.
+
+### 4. HEURÍSTIQUES I RAONAMENT PER A L'AGENT
+
+**Principi general:** L'avaluació ha de ser una palanca per a l'aprenentatge, no només un judici final.
+
+**Heurístiques per a l'Agent DOCENT**
+
+*   **Heurística: "El pont entre l'aprenentatge i l'avaluació"**
+    *   **Quan aplica:** Quan el docent expressa que l'avaluació se sent desconnectada de l'aprenentatge real dels alumnes, o que només serveix per posar notes.
+    *   **Fonament:** L'avaluació formativa busca integrar l'avaluació com una part inherent del procés d'ensenyament-aprenentatge, on ambdues funcions (reguladora i qualificadora) són complementàries. Si l'avaluació no canvia, difícilment canviarà res en l'aprenentatge.
+    *   **Exemple complet de raonament:** Un docent es queixa que els seus alumnes no retenen els coneixements més enllà de l'examen. L'agent podria raonar: "Sembla que l'avaluació actual no està actuant com un pont cap a un aprenentatge durador. Proposo revisar el disseny de les activitats d'avaluació per assegurar que siguin més productives i contextualitzades, com les tasques autèntiques. En lloc de preguntar 'què recordes?', podríem plantejar 'com apliques això per resoldre un problema real?'. Això no només farà l'avaluació més significativa per a l'alumne, sinó que també proporcionarà evidències més riques de l'assoliment competencial, fomentant una retenció més profunda i transferible del coneixement."
+
+*   **Heurística: "L'avaluació com a mirall de la pràctica"**
+    *   **Quan aplica:** Quan el docent detecta que molts alumnes tenen dificultats amb una mateixa activitat o que els resultats generals són baixos, i es pregunta si el problema és dels alumnes o del disseny.
+    *   **Fonament:** L'avaluació no només valora l'aprenentatge de l'alumne, sinó que també proporciona feedback al docent sobre l'eficàcia de la seva pràctica didàctica. Un disseny inadequat de l'activitat pot ser la causa de baixos resultats.
+    *   **Exemple complet de raonament:** Un docent observa que la majoria dels alumnes han obtingut qualificacions molt baixes en una prova recent. L'agent podria raonar: "Aquesta situació és una oportunitat per utilitzar l'avaluació com un mirall de la teva pràctica. En lloc de centrar-te només en el rendiment dels alumnes, et suggeriria aplicar un protocol d'observació o una llista de comprovació al disseny d'aquesta activitat. Podries analitzar si les instruccions eren clares, si els temps i espais van ser adequats, o si els objectius d'aprenentatge estaven ben comunicats. A més, podries dedicar temps a avaluar el desenvolupament de l'activitat amb els mateixos alumnes, recollint la seva percepció. Aquesta reflexió et permetrà identificar punts febles en el disseny o l'aplicació i millorar-los per a futures ocasions, enriquint el projecte pedagògic del centre."
+
+*   **Heurística: "La veu de l'alumne, el cor de l'avaluació"**
+    *   **Quan aplica:** Quan el docent vol augmentar la motivació i l'autonomia dels alumnes, o quan percep que els alumnes no s'impliquen en el seu procés d'aprenentatge.
+    *   **Fonament:** La implicació de l'alumne en l'avaluació (autoavaluació, coavaluació, participació en el disseny de criteris) és crucial per al desenvolupament de l'autoregulació i l'autonomia. La seva veu és essencial per a una avaluació que no generi ansietat i que sigui realment formativa.
+    *   **Exemple complet de raonament:** Un docent expressa que els seus alumnes no mostren interès en el feedback i només es fixen en la nota. L'agent podria raonar: "Perquè el feedback sigui efectiu i l'avaluació tingui un impacte real en l'aprenentatge, la veu de l'alumne és fonamental. Proposa activitats d'autoavaluació i coavaluació, on els alumnes, amb l'ajuda de rúbriques o llistes d'indicadors clars, puguin revisar la seva feina i la dels companys. A més, implica'ls en la creació d'aquests criteris d'avaluació. Quan els alumnes participen activament en el procés d'avaluació, entenen millor què s'espera d'ells, es fan responsables del seu progrés i el feedback esdevé una eina personalitzada per a la millora, augmentant la seva motivació i autonomia."
+
+*   **Heurística: "Dissenyar per a la competència, avaluar per a la realitat"**
+    *   **Quan aplica:** Quan el docent vol que les seves avaluacions reflecteixin l'assoliment de competències i la capacitat de l'alumnat per aplicar coneixements en situacions reals, més enllà de la memorització.
+    *   **Fonament:** L'avaluació competencial requereix tasques autèntiques que simulin situacions de la vida real, siguin complexes, productives i contextualitzades. Això permet valorar habilitats cognitives superiors i la transferència d'aprenentatges.
+    *   **Exemple complet de raonament:** Un docent vol que els seus alumnes demostrin que saben "pensar críticament" en lloc de només repetir teories. L'agent podria raonar: "Per avaluar el pensament crític, cal dissenyar tasques que emulin situacions reals on aquesta competència sigui necessària. En lloc d'una pregunta teòrica, proposa una situació problemàtica complexa, com analitzar una notícia amb informació controvertida i demanar-los que argumentin una postura amb evidències, identificant possibles biaixos. Aquesta tasca hauria de ser productiva (crear un text argumentatiu, un debat, un informe), contextualitzada (un tema d'actualitat) i amb un destinatari clar (un article per a la revista escolar, una presentació a la comunitat). Això permetrà avaluar no només el coneixement, sinó la capacitat de l'alumne per analitzar, interpretar, justificar i crear, que són els pilars del pensament crític en un context real."
+
+*   **Heurística: "L'error com a oportunitat de creixement"**
+    *   **Quan aplica:** Quan el docent percep que els alumnes tenen por a equivocar-se, o que amaguen els seus errors per evitar una mala nota.
+    *   **Fonament:** L'error és una part intrínseca i necessària de l'aprenentatge. Un clima d'aula on l'error es pot manifestar sense penalització és essencial perquè l'alumne aprengui a identificar-lo, comprendre'n les causes i trobar solucions, desenvolupant l'autoregulació.
+    *   **Exemple complet de raonament:** Un docent nota que els seus alumnes eviten fer preguntes o mostrar la seva feina si no estan segurs que és correcta. L'agent podria raonar: "Per transformar aquesta por a l'error en una oportunitat de creixement, és crucial canviar la percepció de l'error a l'aula. Proposa activitats inicials on els alumnes responguin a preguntes complexes amb les seves idees prèvies, sense por a equivocar-se, i després les comparteixin i les revisin en grup. Fomenta el debat i la discussió, on les propostes es valoren i s'integren. Utilitza la retroalimentació per guiar-los en la identificació de 'què no han fet prou bé, per què i què canviarien', en lloc de només assenyalar el que està malament. Aquesta pràctica coherent ajudarà els alumnes a entendre que l'error és un punt de partida per aprendre, no un fracàs, i els capacitarà per superar dificultats de manera autònoma en el futur."
+
+**Heurístiques per a l'Agent ALUMNE**
+
+*   **Heurística: "El mapa del meu aprenentatge"**
+    *   **Quan aplica:** Quan l'alumne no entén què s'espera d'ell en una tasca o no sap per què fa el que fa.
+    *   **Fonament:** Conèixer els objectius i els criteris d'avaluació des del principi permet a l'alumne orientar el seu aprenentatge, planificar la seva acció i comprendre el sentit de les activitats.
+    *   **Exemple complet de raonament:** Un alumne pregunta: "Per a què serveix aquesta activitat?" L'agent podria raonar: "Per entendre el sentit de cada activitat i saber cap a on vas, pensa en els objectius i els criteris d'avaluació com el teu mapa d'aprenentatge. Abans de començar, demana al teu docent que t'expliqui clarament què s'espera que aprenguis i com es valorarà la teva feina. Intenta reformular aquests objectius amb les teves pròpies paraules per assegurar-te que els has entès. Això t'ajudarà a planificar millor la teva tasca, a saber què és important i a identificar el teu progrés, fent que el teu aprenentatge sigui més intencional i efectiu."
+
+*   **Heurística: "El feedback, la meva brúixola"**
+    *   **Quan aplica:** Quan l'alumne rep una qualificació o una correcció i no sap com utilitzar-la per millorar.
+    *   **Fonament:** El feedback és informació valuosa que, ben utilitzada, serveix per identificar punts forts i febles i per trobar estratègies de millora. És una brúixola que indica el camí a seguir.
+    *   **Exemple complet de raonament:** Un alumne rep una nota baixa i se sent desmotivat, sense saber què fer. L'agent podria raonar: "Una nota és només un punt en el camí. El veritable valor està en el feedback que l'acompanya, que és la teva brúixola per al futur. Llegeix atentament els comentaris del teu docent o dels teus companys. Identifica no només on t'has equivocat, sinó per què. Pregunta't: 'Què puc fer diferent la propera vegada?' Si el feedback no és clar, no dubtis a demanar explicacions. Utilitza aquesta informació per revisar la teva feina, provar noves estratègies i veure com pots millorar. Això et permetrà aprendre dels teus errors i avançar, en lloc de quedar-te estancat."
+
+*   **Heurística: "Construint el meu propi aprenentatge"**
+    *   **Quan aplica:** Quan l'alumne se sent passiu en el procés d'avaluació o creu que només el docent és qui avalua.
+    *   **Fonament:** L'alumne és el protagonista del seu aprenentatge i, per tant, ha de ser part activa del procés d'avaluació, a través de l'autoavaluació, la coavaluació i la reflexió.
+    *   **Exemple complet de raonament:** Un alumne espera que el docent li digui sempre si la seva feina és correcta. L'agent podria raonar: "Tu ets el constructor del teu propi aprenentatge, i l'avaluació és una eina que tu també pots utilitzar. Practica l'autoavaluació: abans de lliurar una tasca, revisa-la amb els criteris que t'ha donat el docent. Pregunta't: 'He complert tots els objectius? Què podria millorar?' També participa en la coavaluació amb els teus companys, donant i rebent feedback constructiu. Utilitza eines com la carpeta d'aprenentatge per recollir la teva feina i les teves reflexions. Aquesta participació activa et farà més conscient del teu progrés, t'ajudarà a identificar les teves pròpies estratègies de millora i et farà més autònom en el teu camí d'aprenentatge."
 ---
 
-## H2 Fer la tasca IA-resistent a través del procés, no de la prohibició — DOCENT
+## 5. FONTS DEL CORPUS
 
-**Quan aplica:** 
+| # | Títol | URL |
+|---|-------|-----|
+| 6 | cursos:curriculum:inf_pri:cape:aval:index [Formació del professorat] | http://ateneu.xtec.cat/wikiform/wikiexport/cursos/curriculum/inf_pri/cape/aval/index |
+| 12 | carpeta-aprenentatge_2620ab3872.pdf | https://xtec.gencat.cat/web/.content/curriculum/xarxacb/documents/instruments-avaluacio-formativa/carpeta-aprenentatge.pdf |
+| 13 | 3._modificacio_prova_avaluacio_cicle_inicial_8594dbd6d4.pdf | http://ateneu.xtec.cat/wikiform/wikiexport/_media/cursos/curriculum/inf_pri/cape/3._modificacio_prova_avaluacio_cicle_inicial.pdf |
+| 16 | La-carpeta-daprenentatge_2cdfda0ad0.pdf | http://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0003/0e9f449b-790e-4fd7-a9e9-1cab53252ae3/La-carpeta-daprenentatge.pdf |
+| 17 | 5._modificacio_prova_avaluacio_cicle_superior_e34c732a04.pdf | http://ateneu.xtec.cat/wikiform/wikiexport/_media/cursos/curriculum/inf_pri/cape/5._modificacio_prova_avaluacio_cicle_superior.pdf |
+| 19 | 4._modificacio_prova_avaluacio_cicle_mitja_506362b8ba.pdf | http://ateneu.xtec.cat/wikiform/wikiexport/_media/cursos/curriculum/inf_pri/cape/4._modificacio_prova_avaluacio_cicle_mitja.pdf |
+| 24 | Rubrica-Bans_b879cedf7d.pdf | http://xtec.gencat.cat/web/.content/documents/Rubrica-Bans.pdf |
+| 26 | BANUS_CI_MODIFICACIO_ACTIVITAT_COMPETENCIAL_145f5a418f.pdf | http://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0026/f5b4e60d-88cc-4364-bb7f-4cb2243769bf/BANUS_CI_MODIFICACIO_ACTIVITAT_COMPETENCIAL.pdf |
+| 28 | autoavaluacio-coavaluacio_52971de36c.pdf | http://xtec.gencat.cat/web/.content/curriculum/xarxacb/documents/instruments-avaluacio-formativa/autoavaluacio-coavaluacio.pdf |
+| 30 | base-orientacio_7dc60ba889.pdf | http://xtec.gencat.cat/web/.content/curriculum/xarxacb/documents/instruments-avaluacio-formativa/base-orientacio.pdf |
 
-**Fonament:** 
-
-**Exemple:** 
-
----
-
-## H3 Dissenyar la rúbrica amb descriptors de qualitat, no de presència — DOCENT
-
-**Quan aplica:** 
-
-**Fonament:** 
-
-**Exemple:** 
-
----
-
-## H4 Adaptar la tasca autèntica per a alumnat divers sense canviar la competència — DOCENT
-
-**Quan aplica:** 
-
-**Fonament:** 
-
-**Exemple:** 
-
----
-
-## H5 Usar la IA per escalar el feedback formatiu intermedi — DOCENT
-
-**Quan aplica:** 
-
-**Fonament:** 
-
-**Exemple:** 
-
----
-
-## H6 Entendre la rúbrica com a mapa de l'excel·lència, no com a llista de control — ALUMNE
-
-**Quan aplica:** 
-
-**Fonament:** 
-
-**Exemple:** 
-
----
-
-## H7 Usar la IA per millorar l'esborrany, no per substituir-lo — ALUMNE
-
-**Quan aplica:** 
-
-**Fonament:** 
-
-**Exemple:** 
-
----
-
-## H8 Documentar el procés com a evidència de l'aprenentatge — ALUMNE
-
-**Quan aplica:** 
-
-**Fonament:** 
-
-**Exemple:** 
-
----
+*10 documents citats de 30 al corpus · secció generada automàticament*

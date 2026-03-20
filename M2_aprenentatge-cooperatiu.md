@@ -1,130 +1,231 @@
 ---
 modul: M2
-titol: "Aprenentatge cooperatiu"
-tipus: metodologia
-descripcio: "Estructures cooperatives, rols, interdependència positiva i avaluació del grup"
+titol: "Aprenentatge Cooperatiu"
+tipus: estrategia
+descripcio: "Estructures cooperatives, rols, interdependència positiva i avaluació grupal"
 review_status: esborrany
-generat_at: 2026-03-18
+generat_at: 2026-03-18T15:30:23
 ---
 
-# 1. CONTINGUT
+### 1. DESCRIPCIÓ I FONAMENT
 
-## Fonaments de l'aprenentatge cooperatiu
+L'Aprenentatge Cooperatiu (AC) és una estratègia didàctica que va més enllà del simple "treball en grup". Es defineix com l'ús d'equips reduïts d'alumnes (generalment entre 3 i 5 membres) per maximitzar la interacció entre ells amb la finalitat d'optimitzar l'aprenentatge de tots. No es tracta només d'un mètode, sinó d'un contingut curricular en si mateix, ja que ensenya habilitats socials imprescindibles en una societat cada cop més interdependent.
 
-L'aprenentatge cooperatiu (AC) és una metodologia d'ensenyament en la qual els alumnes treballen junts en grups petits per assolir un objectiu comú, de manera que l'aprenentatge de cadascun beneficia la resta. Va més enllà del treball en grup convencional: l'AC requereix interdependència positiva, responsabilitat individual, interacció cara a cara, habilitats socials i processament de grup.
+Els principis fonamentals de l'Aprenentatge Cooperatiu són:
+*   **Interdependència positiva**: L'èxit de cada membre està estretament lligat al de la resta del grup. Ningú pot assolir els seus objectius si els altres no assoleixen els seus. Això fomenta que els alumnes s'ajudin, assisteixin i reforcin mútuament.
+*   **Interacció cara a cara**: Es maximitzen les oportunitats d'interacció directa entre els membres del grup, facilitant dinàmiques interpersonals productives.
+*   **Responsabilitat individual**: S'evita la "difusió de responsabilitats" que pot ocórrer en el treball en grup tradicional. Cada alumne és responsable de la seva part de la tasca i de l'aprenentatge dels seus companys. Això es pot materialitzar amb informes personals o avaluació individual.
+*   **Habilitats socials**: Les habilitats comunicatives, de resolució de conflictes, de presa de decisions i de lideratge compartit no es donen per fetes, sinó que s'ensenyen de manera explícita com a part del procés d'aprenentatge.
+*   **Autoreflexió de grup**: Es reserva un temps perquè els membres del grup reflexionin conjuntament sobre el seu procés de treball, identifiquin què ha funcionat i què no, i prenguin decisions per millorar.
 
-### Els 5 elements bàsics de Johnson & Johnson
+L'AC es fonamenta en la teoria del conflicte sociocognitiu, on l'aprenentatge es produeix pel desequilibri cognitiu que sorgeix en contactar amb punts de vista diferents, integrar-los i reestructurar els propis esquemes de coneixement. Aquesta metodologia és especialment potent en entorns de diversitat, ja que promou la interacció social com a font d'aprenentatge, valora la diversitat sociocultural com a potencial educatiu i fomenta valors com el respecte i la responsabilitat.
 
-**1. Interdependència positiva:** Els membres del grup s'han d'ajudar mútuament per assolir l'objectiu. La interdependència pot ser: d'objectiu (tots assolim l'objectiu o cap), de recursos (cada membre té una part de la informació), de rols (cada membre té una funció necessària), de recompensa (el premi és per al grup).
+### 2. QUAN I PER A QUI ÉS ÚTIL
 
-**2. Responsabilitat individual:** Cada membre és responsable d'aprendre el contingut i de contribuir al grup. No hi ha "passatgers": tots han de demostrar l'aprenentatge individualment.
+L'Aprenentatge Cooperatiu és una estratègia extremadament útil i versàtil, aplicable a totes les etapes educatives (Infantil, Primària, ESO, Batxillerat, FP) i per a tot tipus d'alumnat.
 
-**3. Interacció cara a cara estimuladora:** Els membres s'ajuden, s'expliquen, es donen feedback i es motiven mútuament. La proximitat física i l'intercanvi directe és essencial.
+**És especialment útil per a:**
+*   **Aules amb diversitat**: És una metodologia privilegiada en entorns de diversitat lingüística, cultural, de motivació i de rendiment. Permet que alumnes nouvinguts o amb necessitats educatives diverses adquireixin la llengua d'aprenentatge en contextos reals i significatius, i rebin suports dels seus iguals.
+*   **Desenvolupament de competències clau**: Fomenta l'autonomia, el pensament crític, la resolució de problemes, la comunicació i les habilitats socials, que són fonamentals per a la competència d'aprendre a aprendre.
+*   **Tasques complexes**: Adequat per a continguts que es poden subdividir o que requereixen múltiples perspectives i habilitats, com projectes d'investigació, anàlisi de textos o resolució de problemes.
+*   **Millora del clima d'aula**: Contribueix a crear un ambient de respecte, empatia i cohesió, ja que promou relacions positives i l'ajuda mútua entre iguals.
 
-**4. Habilitats socials:** Lideratge, comunicació, confiança, resolució de conflictes i presa de decisions s'han d'ensenyar explícitament, no donar-les per suposades.
+**Condicions d'èxit:**
+Perquè l'AC sigui efectiu, cal que els equips siguin heterogenis (gènere, motivació, rendiment, cultura), que el docent sigui un facilitador i orientador, i que les tasques estiguin molt ben estructurades per garantir la interdependència positiva i la responsabilitat individual.
 
-**5. Processament de grup:** El grup reflexiona periòdicament sobre el seu funcionament: Quin hem fet bé? Quin hem de millorar?
+### 3. RECURSOS NECESSARIS
 
-### Estructures cooperatives principals
+La implementació de l'Aprenentatge Cooperatiu requereix una planificació acurada i la disposició de certs recursos:
 
-**Think-Pair-Share (Pensar-Emparellar-Compartir):** Cada alumne pensa sol (1-2 min), ho discuteix amb un company (2-3 min), i el parell ho comparteix amb el grup gran. Estructura bàsica per a qualsevol nivell i contingut.
+*   **Temps**: Cal preveure temps per a:
+    *   La formació dels grups i l'explicació de les dinàmiques.
+    *   L'ensenyament explícit de les habilitats socials necessàries.
+    *   La realització de les tasques en grup.
+    *   L'autoreflexió i avaluació del procés grupal.
+*   **Espai**: L'organització de l'aula ha de permetre la interacció cara a cara dels grups. Es poden requerir canvis en la disposició del mobiliari.
+*   **Materials**:
+    *   Materials didàctics que puguin ser subdividits o que fomentin la interacció (guies, textos, imatges, recursos digitals).
+    *   Instruments per a l'avaluació individual i grupal (rúbriques, diaris de grup, informes personals).
+    *   Suports visuals o bases d'orientació per a les tasques i les habilitats socials.
+*   **Formació i rol del docent**: El docent ha de tenir coneixements sobre les tècniques cooperatives i estar preparat per:
+    *   Dissenyar tasques que assegurin la interdependència i la responsabilitat.
+    *   Observar i guiar els grups, intervenint amb preguntes més que amb explicacions directes.
+    *   Ensenyar explícitament les habilitats socials.
+    *   Gestionar la diversitat dins dels grups, proporcionant bastides i adaptacions quan sigui necessari.
+    *   Avaluar de manera individual i grupal.
 
-**Jigsaw (Trencaclosques):** Cada membre del grup estudia una part del contingut i s'en converteix en expert. Llavors s'explica als companys, que fan el mateix. Tots aprenen tot el contingut però a través dels seus iguals.
+### 4. COM IMPLEMENTAR
 
-**Numbered Heads Together (Caps numerats):** El grup discuteix una pregunta; l'educador tria un número a l'atzar; l'alumne amb aquell número ha de respondre. Tothom ha de saber la resposta perquè no se sap qui respondrà.
+La implementació de l'Aprenentatge Cooperatiu pot ser gradual, començant amb estructures simples i avançant cap a tècniques més complexes.
 
-**Round Robin (Rodona):** Cada membre del grup aporta per torns, sense avaluació. Ideal per generar idees, recollir opinions o practicar vocabulari.
+**Nivell bàsic (Estructures cooperatives simples):**
+Són activitats fàcils d'aplicar en una única sessió i serveixen per introduir la dinàmica cooperativa.
+*   **Parada de tres minuts**: Després d'una explicació, els alumnes discuteixen en parelles durant tres minuts el que han entès o els dubtes.
+*   **1-2-4**: Un alumne pensa individualment, després comparteix amb un company (parella), i finalment amb un altre parell (grup de 4).
+*   **Foli giratori**: Els membres del grup responen per torns a una pregunta o tasca en un mateix foli, que va girant.
+*   **Llapis al mig**: Tots els llapis al mig de la taula, ningú pot escriure fins que el grup no ha consensuat la resposta.
+*   **El número**: El professor fa una pregunta, els alumnes discuteixen en grup la resposta, i el professor tria un número de la taula per respondre.
+*   **El joc de les paraules / La substància**: Tècniques per activar coneixements previs o resumir continguts.
 
-**Co-op Co-op:** Grups investiguen temes i preparen una presentació per a la classe. Cada grup aprèn una part i l'ensenya als altres.
+**Nivell intermedi (Tècniques cooperatives complexes):**
+Són macroactivitats que es seqüencien al llarg de diverses sessions de classe.
+*   **Trencaclosques (Jigsaw)**:
+    1.  **Grups base heterogenis**: Es divideix la classe en grups base (3-5 alumnes) heterogenis.
+    2.  **Subdivisió del tema**: El tema o tasca es subdivideix en tantes parts com membres té cada grup base. Cada membre rep una part (una "peça del trencaclosques") i els recursos per resoldre-la.
+    3.  **Grups d'experts**: Els membres de diferents grups base que tenen la mateixa "peça" es reuneixen en un "grup d'experts". Aquí intercanvien informació, la processen i esdevenen "experts" en la seva part. El professor pot proporcionar guies amb fonts, activitats i un guió per a l'explicació posterior.
+    4.  **Retorn als grups base**: Cada expert torna al seu grup base i explica la seva part als companys, que no tenen aquesta informació.
+    5.  **Síntesi i avaluació**: El grup base sintetitza tota la informació i pot realitzar una tasca final conjunta.
+*   **Grups d'investigació (GI)**: Els alumnes formen grups per investigar un subtema d'un tema general, planifiquen la investigació, la duen a terme, presenten els resultats i són avaluats.
 
-### Rols en el grup cooperatiu
+**Nivell avançat (Integració amb altres metodologies i adaptacions):**
+*   **Aprenentatge Basat en Projectes (ABP) amb AC**: Integrar les estructures cooperatives en les diferents fases d'un projecte (investigació, disseny, producció, presentació).
+*   **Disseny Universal de l'Aprenentatge (DUA) i Ensenyament Multinivell**:
+    *   **Múltiples opcions d'interès i motivació**: L'AC permet que els alumnes triïn subtemes o rols dins del grup, connectant amb els seus interessos.
+    *   **Múltiples formes de presentació de la informació**: Els grups d'experts poden rebre la informació en diferents formats (visual, auditiu, textual adaptat).
+    *   **Múltiples formes d'expressió i acció**: Els alumnes poden demostrar el seu aprenentatge de diverses maneres (oral, escrita, visual, corporal) dins del grup i en la presentació final.
+    *   **Objectius diferenciats**: Dins del mateix grup cooperatiu, es poden plantejar objectius individuals adaptats al nivell de cada alumne, amb ajudes addicionals (bastides) per als qui ho necessitin.
+*   **Bastides de suport (Scaffolding)**: El docent o els mateixos companys poden proporcionar ajuts temporals (bastides) per a la comprensió, la resolució de la tasca o la reflexió, especialment per a alumnat de L2 (adaptant el llenguatge, usant imatges, facilitant la participació).
+*   **Aprenentatge entre iguals**: L'AC fomenta la tutoria entre iguals de manera natural, on els alumnes amb més competència poden ajudar els seus companys, consolidant el seu propi aprenentatge.
 
-Assignar rols específics a cada membre del grup garanteix que tothom contribuïx i evita que uns membres dominin mentre d'altres es desconnecten. Rols típics: coordinador/a, secretari/a, portaveu, responsable de temps, observador/a, animador/a. Els rols han de rotar per garantir que tots practiquen totes les funcions.
+### 5. EXEMPLES D'APLICACIÓ PER ETAPA
 
-### Grups homogenis vs. heterogenis
+*   **Educació Primària: Lectura Cooperativa (Cicle Mitjà)**
+    *   **Activitat**: Lectura i comprensió d'un text complex (p. ex., un article de diari sobre un tema científic).
+    *   **Implementació**: Es formen equips de 4 alumnes heterogenis. El professor presenta el text, el títol i les paraules clau. Després, es reparteixen els diferents aspectes a treballar (p. ex., "Qui s'entrevista?", "Com actuen les drogues?", "Quins factors afavoreixen l'addicció?", "Quines proves es fan?"). Cada alumne llegeix el text en silenci i es concentra en la seva part. Després, es fa una posada en comú a cada equip per contrastar i valorar les aportacions. Finalment, es fa una posada en comú amb tota la classe i cada alumne escriu la seva conclusió.
+    *   **Objectiu**: Optimitzar la comprensió lectora, desenvolupar estratègies de lectura i fomentar el diàleg i l'intercanvi positiu.
 
-La recerca mostra que els grups heterogenis (en nivell acadèmic, gènere, origen) generen millors resultats per a tots els membres en l'AC: els alumnes avançats consoliden i aprofundeixen explicant, i els alumnes amb dificultats reben explicacions dels iguals en un registre proper. Els grups estrictament homogenis per nivell reprodueixen i amplien les desigualtats.
+*   **Educació Secundària Obligatòria (ESO): Ucronia per a l'Argumentació (Ciències Socials, 4t ESO)**
+    *   **Activitat**: "Què hauria passat si Espanya no hagués entrat a la UE?"
+    *   **Implementació**: Després de llegir un text model sobre una ucronia, els alumnes es divideixen en grups cooperatius. Cada grup ha d'elaborar un text argumentatiu que defensi una postura (p. ex., a favor o en contra de l'entrada d'Espanya a la UE, o una visió alternativa), basant-se en fets històrics i raonaments lògics. S'utilitza una pauta per guiar l'argumentació (punts clau, evidències, altres punts de vista, conclusió). Finalment, cada grup defensa públicament el seu argument davant la classe.
+    *   **Objectiu**: Desenvolupar el raonament, l'argumentació, el pensament crític i la capacitat de treballar en equip per construir un discurs coherent.
 
-## Implementació i gestió dels grups cooperatius
+*   **Batxillerat/Formació Professional (FP): Projecte "La Societat de la Informació" (Interdisciplinari)**
+    *   **Activitat**: Dissenyar una seqüència didàctica que reculli diverses tasques relacionades amb la comunicació en l'era digital.
+    *   **Implementació**: Els alumnes es formen en grups cooperatius per abordar un tema interdisciplinari com "La societat de la informació: de Gutenberg a l'era virtual". Cada grup ha d'incloure activitats de lectura (d'un text o imatge/audiovisual), escriptura o producció audiovisual, i expressió oral. Es fomenta l'ús d'eines TIC. Per exemple, un grup podria investigar l'impacte de la impremta, un altre el de la ràdio, un altre el de la televisió i un altre el d'internet. Després, cada "expert" comparteix la seva investigació amb el grup base per crear un producte final (p. ex., un podcast, un vídeo, un article multimèdia) que sintetitzi les diferents formes comunicatives.
+    *   **Objectiu**: Integrar continguts de diverses àrees, fomentar la recerca, la producció multimèdia, la comunicació oral i escrita, i el treball col·laboratiu en un projecte complex.
 
-**Formació dels grups:** Al principi, el docent forma els grups de forma heterogènia. A mesura que els alumnes adquireixen habilitats cooperatives, pot donar-se més autonomia.
+### 6. INDICADORS D'ÈXIT
 
-**Durada dels grups:** Grups de curta durada (1-2 sessions) per a estructures senzilles; grups estables de 4-8 setmanes per a projectes.
+Els indicadors que ens permeten valorar l'èxit de l'Aprenentatge Cooperatiu inclouen:
 
-**Evaluació:** L'avaluació en AC té tres components: (1) producte del grup, (2) aprenentatge individual (proves individuals), (3) funcionament del grup (coavaluació).
+*   **Millora dels resultats acadèmics**: Augment de la comprensió dels continguts i l'assoliment dels objectius d'aprenentatge per part de tots els alumnes, incloent els de menor rendiment.
+*   **Desenvolupament d'habilitats socials**: Observació d'una millora en la comunicació, la resolució de conflictes, l'escolta activa i la capacitat d'ajudar i ser ajudat.
+*   **Augment de l'autonomia i la responsabilitat**: Els alumnes assumeixen un rol més actiu en el seu aprenentatge i en la gestió del grup.
+*   **Clima d'aula positiu**: Increment de les relacions empàtiques, de respecte i de suport mutu entre els alumnes i amb el professorat.
+*   **Participació equitativa**: Tots els membres del grup contribueixen activament a la tasca i al procés.
+*   **Autoreflexió efectiva**: Els grups són capaços de reflexionar sobre el seu procés de treball, identificar punts forts i febles, i proposar millores.
+*   **Satisfacció i motivació**: Augment de la satisfacció i l'autoestima dels alumnes en relació amb l'aprenentatge i la interacció amb els companys.
 
-**Gestió del soroll:** L'AC genera soroll. Cal establir normes de "veu de treball" (volum moderat), senyals de silenci reconegudes, i zones de treball que minimitzen la interferència entre grups.
+### 7. ERRORS COMUNS
 
-### Fonts
-- Johnson, D.W. & Johnson, R.T. (2009). *An Educational Psychology Success Story: Social Interdependence Theory*. Educational Researcher.
-- Spencer Kagan (2009). *Cooperative Learning*. Kagan Publishing.
-- Pujolàs, P. (2008). *9 idees clau. L'aprenentatge cooperatiu*. Graó.
+És crucial evitar certs errors per garantir l'efectivitat de l'Aprenentatge Cooperatiu:
 
-# 2. CONNEXIONS AMB ALTRES DOCUMENTS DEL CORPUS
+*   **Confondre "treball en grup" amb "aprenentatge cooperatiu"**: El simple fet d'agrupar alumnes no garanteix la cooperació. Sense interdependència positiva, responsabilitat individual i ensenyament d'habilitats socials, el treball en grup pot derivar en desigualtats de participació o en la "difusió de responsabilitats".
+*   **No ensenyar explícitament les habilitats socials**: Assumir que els alumnes ja saben comunicar-se, resoldre conflictes o prendre decisions en grup és un error. Aquestes habilitats són continguts que s'han de treballar i practicar de manera sistemàtica.
+*   **Manca de responsabilitat individual**: Si no hi ha mecanismes per avaluar la contribució de cada membre, alguns alumnes poden desentendre's de la tasca, diluint l'esforç i l'aprenentatge.
+*   **Grups homogenis**: Formar grups amb alumnes de nivells similars limita el potencial d'ajuda mútua i enriquiment que proporciona la diversitat. Els grups heterogenis són clau per a l'èxit de l'AC.
+*   **No proporcionar bastides ni suport gradual**: Especialment amb continguts nous o alumnes amb dificultats, la manca de modelatge, pràctica guiada i bastides adequades pot frustrar l'aprenentatge i la participació.
+*   **Ometre l'autoreflexió de grup**: Sense un temps dedicat a reflexionar sobre el procés, els grups perden l'oportunitat d'aprendre de la seva pròpia experiència i millorar les seves dinàmiques de treball.
+*   **No estructurar la interdependència**: Si la tasca es pot realitzar individualment sense necessitat de col·laboració, els alumnes no sentiran la necessitat de cooperar. Cal dissenyar tasques on l'aportació de cada membre sigui essencial per a l'èxit del grup.
 
-- **M2_DUA-principis-pautes**: L'AC és una expressió del principi DUA d'expressió flexible i d'implicació diversa.
-- **M2_ABP-aprenentatge-servei**: L'ABP sovint usa l'AC com a estructura de treball; les dues metodologies es complementen.
-- **M1_neurodiversitat-NESE**: L'AC ben dissenyat beneficia l'alumnat amb NESE quan els rols s'adapten a les fortaleses de cada membre.
-- **M7_gestio-aula-rutines**: La gestió de l'aula cooperativa (soroll, transicions, espai) requereix rutines específiques.
-- **M1_desenvolupament-cognitiu-social**: L'AC capitalitza el poder del grup d'iguals propi del desenvolupament adolescent.
+---
 
-# 3. DETECCIÓ (Variables de Context)
+### 2. CONNEXIONS AMB ALTRES DOCUMENTS DEL CORPUS
 
-**Senyals de grup cooperatiu disfuncional:**
-- Un o dos membres fan tota la feina mentre la resta es desconnecta
-- Conflictes freqüents i no resolts en el grup
-- Un membre és sistemàticament exclòs o ignorat
-- El producte del grup no reflecteix la contribució de tots els membres
+*   **DUA (Disseny Universal de l'Aprenentatge)**: L'Aprenentatge Cooperatiu és una estratègia fonamental per implementar els principis del DUA, ja que ofereix múltiples formes de participació, expressió i implicació per atendre la diversitat de l'alumnat.
+*   **Bastides de Suport (Scaffolding)**: L'entorn cooperatiu facilita la creació de bastides entre iguals, on els companys poden proporcionar ajuts temporals per a la comprensió i la resolució de tasques.
+*   **Ensenyament Multinivell**: L'Aprenentatge Cooperatiu permet diferenciar objectius, continguts i nivells d'exigència dins dels grups, adaptant-se a les necessitats individuals de cada alumne.
+*   **Lectura Crítica**: La lectura cooperativa és una tècnica específica de l'AC que fomenta la comprensió profunda i el pensament crític a través de la interacció i el contrast de perspectives.
+*   **Aprenentatge entre iguals**: L'Aprenentatge Cooperatiu és una forma d'aprenentatge entre iguals que potencia la tutoria i l'ajuda mútua, desenvolupant l'empatia i la coresponsabilitat.
+*   **Disseny d'Unitats Competencials**: Els indicadors de qualitat per a unitats didàctiques competencials sovint inclouen el foment del treball cooperatiu i l'atenció a la diversitat, elements clau de l'AC.
+*   **Seqüència Gradual de l'Alliberament de la Responsabilitat**: L'AC s'integra perfectament en les fases de pràctica guiada i autònoma, on els alumnes apliquen els coneixements amb el suport dels seus iguals.
 
-**Context òptim per a l'AC:**
-- Contingut que es beneficia de la perspectiva múltiple
-- Tasques que requereixen divisió de feina o de recursos
-- Alumnat que ja té habilitats socials mínimes (o s'ensenya explícitament)
+### 3. DETECCIÓ (Variables de Context)
 
-# 4. HEURÍSTIQUES I RAONAMENT PER A L'AGENT
+**Senyals del docent**:
+*   "Els meus alumnes treballen en grup, però no veig que tots participin o aprenguin al mateix ritme."
+*   "Necessito estratègies per gestionar la diversitat a l'aula i fomentar la inclusió de tots els perfils d'alumnat."
+*   "Vull que els meus alumnes desenvolupin habilitats socials, de comunicació i de resolució de conflictes."
+*   "Com puc assegurar la responsabilitat individual dins del treball en grup i evitar que alguns s'aprofitin dels altres?"
+*   "Busco metodologies que promoguin la interacció significativa i l'ajuda mútua entre els alumnes."
 
-## H1 Garantir la interdependència positiva en el disseny de la tasca — DOCENT
-**Quan aplica:** En el disseny de qualsevol tasca cooperativa.
-**Fonament:** Sense interdependència positiva real, el "treball en grup" es converteix en treball individual en paral·lel o en treball d'un sol membre. La interdependència es garanteix en el disseny: si un membre no contribueix, el grup no pot assolir l'objectiu.
-**Exemple (≥80 paraules):** La professora dissenya un projecte de recerca sobre les energies renovables. En lloc de dir "feu un treball en grup", dissenya la interdependència de recursos: el grup A estudia l'energia solar, el B l'eòlica, el C l'hidràulica. Cada grup té sols els seus materials. Per fer el producte final (comparativa de les 3 energies), necessiten les aportacions dels tres grups. Ningú pot passar sense l'aportació dels altres. La interdependència és real i obliga a la col·laboració genuïna.
+**Senyals de l'alumne**:
+*   Alumnes que no participen activament en treballs de grup o que es mostren passius.
+*   Alumnes que dominen el treball en grup i deixen els altres de banda, o que fan tota la feina.
+*   Dificultats en la comunicació, l'escolta o la resolució de desacords dins del grup.
 
-## H2 Ensenyar les habilitats socials explícitament — DOCENT
-**Quan aplica:** Abans d'iniciar l'AC i de forma contínua durant el curs.
-**Fonament:** Les habilitats socials (com donar feedback constructiu, com demanar ajuda, com gestionar el desacord) no es desenvolupa automàticament per treballar en grup. Cal ensenyar-les explícitament: nomenar-les, modelar-les, practicar-les i donar feedback.
-**Exemple (≥80 paraules):** Abans d'iniciar el primer projecte cooperatiu, la professora dedica una sessió a ensenyar la habilitat de "donar feedback constructiu": model negatiu ("el teu treball és dolent"), discussió del per quina raó no funciona, model positiu ("m'ha agradat X però podries millorar Y afegint Z"), role play en parelles, feedback de la professora. Quan els grups comencen a treballar, ja han practicat la habilitat. El feedback que es donen és molt més constructiu que en grups que no han rebut l'ensenyament explícit.
+**Senyals de context**:
+*   Aula amb alta diversitat (lingüística, cultural, de ritmes d'aprenentatge, d'estils cognitius).
+*   Tasques complexes que requereixen múltiples perspectives, investigació col·laborativa o la integració de diferents habilitats.
+*   Necessitat de fomentar un clima d'aula positiu, de cohesió i de suport entre iguals.
 
-## H3 Responsabilitat individual dins el grup — DOCENT
-**Quan aplica:** En el disseny de l'avaluació i en el seguiment dels grups cooperatius.
-**Fonament:** Avaluar sols el producte del grup i donar la mateixa nota a tots sense verificar la contribució individual porta a l'efecte del polissó (alguns treballen, d'altres no). La responsabilitat individual s'assegura amb proves individuals, coavaluació del grup o rols documentats.
-**Exemple (≥80 paraules):** La professora de socials usa tres components d'avaluació per al projecte cooperatiu: (1) producte del grup (30%): la presentació i el document final, nota igual per a tots; (2) prova individual (50%): cada alumne fa una prova breu sobre tots els continguts del projecte; (3) coavaluació del grup (20%): cada membre avalua la contribució dels companys en tres dimensions. La composició de l'avaluació garanteix que tots els membres contribueixin i que el treball dels lliures de càrregues sigui visible.
+**Anti-senyals (quan NO activar malgrat les aparences)**:
+*   Tasques individuals que no requereixen interacció ni interdependència per ser completades.
+*   Objectius d'aprenentatge purament memorístics o reproductius que no es beneficien del debat o la construcció conjunta de coneixement.
+*   Temps molt limitat per a la formació de grups, l'ensenyament d'habilitats socials i la reflexió sobre el procés.
+*   Contextos on no es pot garantir una heterogeneïtat mínima en els grups o on la gestió de l'aula impedeix la interacció.
 
-## H4 Assignar i rotar rols de forma sistemàtica — DOCENT
-**Quan aplica:** En cada nova sessió o tasca cooperativa.
-**Fonament:** Sense rols explícits, els alumnes dominants tendeixen a controlar el grup i els més passius es desconnecten. Els rols garanteixen que tothom contribueix i permeten practicar competències socials diverses (lideratge, síntesi, registre, temps).
-**Exemple (≥80 paraules):** En cada sessió de treball cooperatiu, la professora fa rotar els rols: coordinador (facilita la discussió), secretari (pren notes), portaveu (presentarà a la classe), observador (monitoritza el funcionament del grup i dona feedback al final). Cada setmana, cada membre ocupa un rol diferent. L'Amir, normalment passiu, quan és coordinador se sap responsable de la sessió i s'activa. La Mar, quan és observadora, aprèn a analitzar les dinàmiques de grup des de fora.
+### 4. HEURÍSTIQUES I RAONAMENT PER A L'AGENT
 
-## H5 Processament del grup: reflexió sobre el funcionament — DOCENT
-**Quan aplica:** Al final de cada sessió cooperativa o al final d'un projecte.
-**Fonament:** El processament de grup —reflexionar sobre com ha funcionat la col·laboració— és el component de l'AC que permet la millora contínua de les habilitats socials. Sense reflexió, els grups poden col·laborar de forma disfuncional indefinidament.
-**Exemple (≥80 paraules):** Al final de cada sessió, la professora dedica 5 minuts al processament: "Avui, el vostre grup ha de completar dos frases: (1) Una cosa que hem fet bé com a grup és... (2) Una cosa que millorarem la propera vegada és..." Els grups escriuen les frases i les comparteixen. La professora recull i fa un resum. Al llarg del curs, les frases mostren un progrés real en les habilitats cooperatives: al setembre, els grups diuen "hem discutit molt"; al desembre, diuen "quan hi ha desacord, escoltem totes les postures abans de decidir".
+**Principi general**: Fomenta la interdependència positiva i la responsabilitat individual per maximitzar l'aprenentatge de tots els membres del grup, promovent un entorn inclusiu i de desenvolupament integral.
 
-## H6 Contribuir activament al grup des de les pròpies fortaleses — ALUMNE
-**Quan aplica:** Quan un alumne no sap com contribuir al grup o se sent inferior a la resta.
-**Fonament:** Cada membre pot contribuir al grup des de les seves fortaleses específiques. Si les fortaleses es reconeixen i es capitalitzen, tots els membres poden fer aportacions genuïnes independentment del nivell acadèmic.
-**Exemple (≥80 paraules):** En un grup de recerca sobre el medi ambient, l'Aram és el menys avançat acadèmicament. La professora suggereix al grup que assignin a l'Aram la recerca de fotografies i d'exemples visuals (la seva fortalesa és el pensament visual). L'Aram troba imatges que il·lustren perfectament el concepte. En la presentació, la seva part visual és la més valorada pel públic. L'Aram surt de la sessió amb un sentit de contribució genuïna. La professora ha identificat i capitalitzat una fortalesa que el currículum habitual amagava.
+**Heurístiques per a l'Agent DOCENT**:
 
-## H7 Gestionar els conflictes de grup de forma constructiva — ALUMNE
-**Quan aplica:** Quan apareixen tensions o conflictes dins del grup cooperatiu.
-**Fonament:** El conflicte en el grup cooperatiu és inevitable i pot ser productiu si es gestiona bé. Aprendre a gestionar desacords de forma constructiva (escolta activa, cerca de punts en comú, propostes de compromís) és una habilitat que es transfereix a tota la vida.
-**Exemple (≥80 paraules):** El grup de la Marta té un conflicte: en Pau vol fer la presentació en format vídeo i la Sara vol fer-la en format oral. En lloc d'escalar o de cedir un dels dos, la Marta (coordinadora) aplica la tècnica que han après: "Pau, per quina raó vols el vídeo? Sara, per quina raó vols l'oral?" Pau vol que quedi un registre; Sara vol practicar la comunicació oral. Marta proposa: "I si fem una presentació oral i la gravem?" Tots dos diuen que sí. El conflicte s'ha resolt amb una solució millor que qualsevol de les dues originals.
+*   **Heurística: Diferenciar entre "treball en grup" i "aprenentatge cooperatiu"**
+    *   **Quan aplica**: Quan el docent expressa frustració amb la manca de resultats o la participació desigual en activitats grupals, o quan els alumnes no mostren un aprenentatge col·lectiu significatiu.
+    *   **Fonament**: El treball en grup per si sol no garanteix la interdependència ni la responsabilitat individual, elements essencials de l'AC. Sense una estructura clara i principis pedagògics definits, alguns alumnes poden dominar la tasca mentre altres queden marginats, o la qualitat de l'aprenentatge pot ser molt desigual entre els membres. L'AC requereix una intencionalitat pedagògica específica per assegurar que tots contribueixin i aprenguin.
+    *   **Exemple complet de raonament**: "El docent comenta que els seus alumnes fan treballs en grup, però que sovint un o dos acaben fent tota la feina i els altres no s'impliquen. L'agent hauria de raonar que això és un senyal clar que no s'està aplicant l'aprenentatge cooperatiu de manera efectiva, sinó un simple agrupament. Proposaria al docent revisar els principis d'interdependència positiva i responsabilitat individual. Per exemple, suggeriria estructurar la tasca de manera que cada membre tingui una part única i essencial per al producte final del grup, com en la tècnica del Trencaclosques (DOC 4), on cada alumne esdevé 'expert' en una part i ha d'explicar-la als seus companys. A més, l'avaluació hauria d'incloure tant el producte grupal com la contribució individual de cada alumne (DOC 9), assegurant que ningú pugui eludir la seva responsabilitat i que l'èxit del grup depengui de l'esforç de tots."
 
-## H8 Responsabilitzar-se de l'aprenentatge dels companys — ALUMNE
-**Quan aplica:** Durant les activitats cooperatives, especialment en el rol de "expert" o de "tutor de parella".
-**Fonament:** Ensenyar als companys és una de les estratègies d'aprenentatge més potents. L'alumne que s'ha de preparar per explicar un concepte aprèn molt millor que l'alumne que sols es prepara per ser avaluat ell mateix.
-**Exemple (≥80 paraules):** En una activitat Jigsaw de ciències, el Marc és l'expert en el cicle de l'nitrogen. Quan li toca ensenyar als companys, descobreix que no pot explicar un pas del cicle. Torna al text i ho estudia fins que l'entén. En el moment de l'explicació, ho explica usant una analogia que ell mateix ha creat. Els companys entenen el cicle per primer cop. Marc diu: "Preparar l'explicació m'ha fet entendre millor que rellegir el text deu vegades. Quan he hagut d'ensenyar-ho, m'he adonat de tot el que no entenia."
+*   **Heurística: Ensenyar explícitament les habilitats socials i de comunicació**
+    *   **Quan aplica**: Quan el docent observa conflictes, manca de comunicació efectiva, dificultats per prendre decisions o poca cohesió dins dels grups cooperatius.
+    *   **Fonament**: Les habilitats socials no són innates i cal ensenyar-les com un contingut curricular més. Sense una instrucció explícita en comunicació, escolta activa, resolució de conflictes o negociació, els grups poden estancar-se o generar frustració, impedint un aprenentatge cooperatiu productiu.
+    *   **Exemple complet de raonament**: "El docent observa que els seus grups cooperatius tenen problemes per posar-se d'acord, que hi ha tensions o que alguns alumnes monopolitzen la conversa. L'agent raonaria que, abans d'esperar una col·laboració fluida, cal ensenyar explícitament les habilitats socials necessàries. Proposaria al docent dedicar temps a sessions específiques sobre comunicació efectiva, escolta activa, resolució de conflictes o presa de decisions en grup. Aquestes habilitats es poden practicar amb activitats senzilles com 'Parada de tres minuts' (DOC 4) per fomentar l'intercanvi d'idees, i s'han d'incorporar a la fase d'autoreflexió del grup (DOC 9) per avaluar com s'han aplicat i quines es poden millorar en futures tasques."
 
-### Fonts i referències
-- Veure # 1. CONTINGUT del document.
+*   **Heurística: Estructurar l'avaluació per fomentar la responsabilitat individual i grupal**
+    *   **Quan aplica**: Quan el docent vol assegurar que tots els membres del grup contribueixen i aprenen, i que l'avaluació reflecteix tant l'esforç personal com la col·laboració.
+    *   **Fonament**: L'avaluació ha de reflectir tant l'aprenentatge individual com la contribució al grup per evitar la "difusió de responsabilitats" i incentivar l'esforç de tots. Una avaluació purament grupal pot penalitzar els qui s'esforcen i beneficiar els qui no, mentre que una purament individual pot desincentivar la cooperació.
+    *   **Exemple complet de raonament**: "El docent vol implementar l'AC però li preocupa que alguns alumnes no s'esforcin si la nota és només grupal. L'agent aconsellaria dissenyar una avaluació multinivell. Això implicaria avaluar una part individual (per exemple, un informe personal, una prova sobre la seva 'peça del trencaclosques' o una autoavaluació de la seva contribució, DOC 4, DOC 9, DOC 23) i una part grupal (el producte final, la presentació o una coavaluació de la dinàmica del grup, DOC 20, DOC 23). Aquesta combinació incentiva tant l'esforç personal per a l'aprenentatge propi com la col·laboració activa per a l'èxit comú, ja que la nota final reflectirà ambdues dimensions."
 
-### Fonts del corpus scraped
-- Veure frontmatter `fonts` del document.
+*   **Heurística: Integrar l'AC amb el DUA i l'ensenyament multinivell per a la inclusió**
+    *   **Quan aplica**: Quan el docent té una aula amb una gran diversitat d'alumnes (lingüística, cultural, de ritmes d'aprenentatge) i busca estratègies per fer l'aprenentatge accessible i significatiu per a tots.
+    *   **Fonament**: L'Aprenentatge Cooperatiu, el DUA i l'ensenyament multinivell comparteixen la premissa de flexibilitat i adaptació del currículum a l'alumne, no a la inversa. L'AC proporciona un marc natural per aplicar els principis del DUA (múltiples formes de representació, acció i expressió, i implicació) i les estratègies multinivell (objectius diferenciats, bastides) per maximitzar l'accés i la participació de tots els alumnes.
+    *   **Exemple complet de raonament**: "El docent té alumnes amb diferents nivells de competència lingüística i acadèmica i busca maneres de fer les activitats accessibles per a tots. L'agent raonaria que l'AC és una eina potent per a la inclusió si s'aplica amb una perspectiva DUA i multinivell. Proposaria, per exemple, en una activitat de 'Trencaclosques' (DOC 4), que els 'grups d'experts' tinguin materials adaptats (bastides lingüístiques, visuals, textos simplificats, DOC 5, DOC 21) segons les necessitats de cada alumne. A més, els objectius per a cada membre del grup base podrien ser diferenciats (DOC 1, DOC 3), assegurant que tots puguin contribuir amb èxit al producte final del grup, fomentant la interdependència sense sobrecarregar ningú i permetent que cadascú aprengui al seu ritme i amb els suports necessaris."
+
+*   **Heurística: Fomentar l'autoreflexió de grup com a eina de millora contínua**
+    *   **Quan aplica**: Després de finalitzar una tasca cooperativa o en moments de revisió del procés de treball en grup.
+    *   **Fonament**: L'autoreflexió de grup és crucial perquè els equips aprenguin de la seva pròpia experiència. Permet identificar què ha funcionat bé, quines dificultats han sorgit, com s'han resolt i quines habilitats socials s'han utilitzat o s'han de millorar. Sense aquest espai, els grups poden repetir errors i no optimitzar el seu funcionament.
+    *   **Exemple complet de raonament**: "El docent vol que els seus grups cooperatius siguin cada cop més autònoms i eficients. L'agent li indicaria la importància de dedicar un temps explícit a l'autoreflexió de grup (DOC 9). Proposaria que, al final de cada tasca o periòdicament, els grups responguin a preguntes com: 'Què hem fet bé com a grup?', 'Quines dificultats hem trobat i com les hem superat?', 'Com hem utilitzat les nostres habilitats de comunicació i col·laboració?', 'Què podríem fer diferent la propera vegada per millorar el nostre treball?' Aquesta pràctica no només consolida l'aprenentatge metacognitiu, sinó que també enforteix la cohesió del grup i la seva capacitat d'autoregulació per a futures tasques."
+
+**Heurístiques per a l'Agent ALUMNE**:
+
+*   **Heurística: Contribuir activament i demanar ajuda quan calgui**
+    *   **Quan aplica**: Quan l'alumne forma part d'un grup cooperatiu i no sap com participar, té dificultats amb una part de la tasca o se sent insegur.
+    *   **Fonament**: En l'aprenentatge cooperatiu, l'èxit del grup depèn de la contribució de tots els seus membres. Demanar ajuda no és un signe de debilitat, sinó una habilitat social clau que beneficia tant a qui la rep (perquè comprèn millor) com a qui la dóna (perquè consolida el seu propi coneixement explicant-lo). La interdependència positiva implica que el suport mutu és essencial.
+    *   **Exemple complet de raonament**: "Un alumne se sent perdut en una tasca de grup i no s'atreveix a parlar per por a semblar que no entén. L'agent li recordaria que en l'aprenentatge cooperatiu, la seva participació i comprensió són importants per a l'èxit de tot el grup. L'aconsellaria a expressar els seus dubtes o dificultats als seus companys de manera proactiva, ja que la interacció cara a cara i l'ajuda mútua són fonamentals (DOC 9). Per exemple, podria dir: 'No entenc aquesta part, algú me la pot explicar d'una altra manera?' o 'Què puc fer per ajudar en aquesta secció, encara que no ho tingui del tot clar?' Això no només l'ajudarà a comprendre, sinó que també reforçarà les habilitats socials del grup i la interdependència positiva."
+
+*   **Heurística: Escoltar activament i respectar les idees dels companys**
+    *   **Quan aplica**: Quan hi ha diferents punts de vista, propostes o conflictes d'idees dins del grup durant la realització d'una tasca.
+    *   **Fonament**: La diversitat de perspectives enriqueix l'aprenentatge i la resolució de problemes. Escoltar activament significa intentar comprendre el raonament dels altres abans de jutjar o imposar la pròpia idea. El respecte per les idees dels companys és essencial per a un clima de treball positiu i per aprofitar el conflicte sociocognitiu per a un aprenentatge més profund.
+    *   **Exemple complet de raonament**: "Un alumne té una idea molt clara sobre com fer una part de la tasca, però un company proposa una alternativa diferent. L'agent guiaria l'alumne a practicar l'escolta activa. Li suggeriria que, abans de defensar la seva pròpia idea, escolti amb atenció la proposta del company, intenti comprendre el seu raonament i faci preguntes per aclarir dubtes. Després, podrien comparar ambdues idees, valorant els pros i contres de cadascuna per arribar a una solució consensuada o millorada, aprofitant la discussió per a un aprenentatge més profund (DOC 19). Aquesta actitud no només millora el resultat final, sinó que també enforteix les relacions dins del grup."
+
+*   **Heurística: Reflexionar sobre el propi aprenentatge i la dinàmica del grup**
+    *   **Quand aplica**: Després de finalitzar una tasca cooperativa o en moments de revisió del funcionament del grup.
+    *   **Fonament**: L'autoreflexió, tant individual com de grup, és crucial per consolidar l'aprenentatge i millorar les estratègies de treball. Permet a l'alumne identificar què ha après, com ha contribuït, quines dificultats ha trobat i com les habilitats socials han influït en el procés. Aquesta pràctica metacognitiva és fonamental per a la competència d'aprendre a aprendre.
+    *   **Exemple complet de raonament**: "Després de completar un projecte en grup, l'alumne es pregunta si han treballat bé i què podria fer millor la propera vegada. L'agent li indicaria la importància de l'autoreflexió de grup (DOC 9, DOC 23). Li proposaria pensar en preguntes com: 'Què vaig aprendre de la tasca i dels meus companys?', 'Com vaig contribuir a l'èxit del grup i quina va ser la meva responsabilitat?', 'Hi va haver moments de dificultat? Com els vam resoldre com a equip?', 'Quines habilitats socials vam utilitzar i quines podríem millorar la propera vegada?' Aquesta reflexió no només consolida l'aprenentatge individual, sinó que també prepara l'alumne per a futures col·laboracions més efectives i fomenta la seva autonomia."
+---
+
+## 5. FONTS DEL CORPUS
+
+| # | Títol | URL |
+|---|-------|-----|
+| 1 | cursos:escola_inclusiva:ansu:b7:index [Formació del professorat] | https://ateneu.xtec.cat/wikiform/wikiexport/cursos/escola_inclusiva/ansu/b7/index |
+| 3 | cursos:escola_inclusiva:ansu:b7:b7t4 [Formació del professorat] | https://ateneu.xtec.cat/wikiform/wikiexport/cursos/escola_inclusiva/ansu/b7/b7t4 |
+| 4 | cursos:escola_inclusiva:ansu:b5:b5t4 [Formació del professorat] | https://ateneu.xtec.cat/wikiform/wikiexport/cursos/escola_inclusiva/ansu/b5/b5t4 |
+| 5 | cursos:escola_inclusiva:ansu:b4:b4t5 [Formació del professorat] | https://ateneu.xtec.cat/wikiform/wikiexport/cursos/escola_inclusiva/ansu/b4/b4t5 |
+| 9 | cursos:escola_inclusiva:ansu:b5:b5t3 [Formació del professorat] | https://ateneu.xtec.cat/wikiform/wikiexport/cursos/escola_inclusiva/ansu/b5/b5t3 |
+| 19 | el_treball_cooperatiu_62b5c345b4.pdf | http://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0058/810bc5ef-52c3-4172-9642-0fe7768622e5/el_treball_cooperatiu.pdf |
+| 20 | aprenentatge_entre_iguals_fcfb7dbdf7.pdf | http://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0091/df6b6ac8-6646-4ebc-ab7b-9c1a77fe311d/aprenentatge_entre_iguals.pdf |
+| 21 | b6t4_9_regles_unesco_86da447368.pdf | https://ateneu.xtec.cat/wikiform/wikiexport/_media/cursos/escola_inclusiva/ansu/b6/b6t4_9_regles_unesco.pdf |
+| 23 | Full-indicadors-unitats-competencials_58f56ec799.pdf | http://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0029/f0b48627-bdc5-48e5-9b3c-4bceed129d61/Full-indicadors-unitats-competencials.pdf |
+
+*9 documents citats de 26 al corpus · secció generada automàticament*

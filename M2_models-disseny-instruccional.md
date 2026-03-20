@@ -4,134 +4,218 @@ titol: "Models de Disseny Instruccional i Situacions d'Aprenentatge"
 tipus: marc
 descripcio: "ADDIE, backward design, situacions d'aprenentatge, tipologia de seqüències: projecte, tasca, activitat, exercici"
 review_status: esborrany
-generat_at: 2026-03-17T22:25:41
+generat_at: 2026-03-18T15:30:09
 ---
 
-# 1. CONTINGUT ESPECÍFIC
+### 1. CONTINGUT ESPECÍFIC DEL MARC
 
-## Definició i principis
+#### Definició i principis
 
-Els models de disseny instruccional i les situacions d'aprenentatge actuals se centren a crear entorns educatius flexibles i inclusius que responguin a la diversitat de l'alumnat des del primer moment, sense necessitat d'adaptacions posteriors. El Disseny Universal per a l'Aprenentatge (DUA) n'és el pilar fonamental, entès com un marc per dissenyar el currículum (objectius, mètodes, materials i avaluació) de manera que sigui accessible per a totes les persones. No es tracta d'una adaptació per a uns pocs, sinó d'un disseny inicial que preveu la variabilitat humana.
+Els models de disseny instruccional i les situacions d'aprenentatge són el cor de la planificació educativa, proporcionant un marc per organitzar el "com ensenyem" de manera efectiva i inclusiva. No són receptes rígides, sinó guies que ajuden els docents a estructurar l'experiència d'aprenentatge.
 
-El DUA es basa en tres principis clau que aborden les diferents maneres en què les persones aprenen:
-1.  **Proporcionar múltiples formes d'implicació (el "per què" de l'aprenentatge):** Es refereix als elements afectius de l'aprenentatge. Cal oferir opcions per captar l'interès, mantenir l'esforç i la persistència, i facilitar l'autorregulació. Això vol dir fer l'aprenentatge rellevant, autèntic i motivador per a cadascú.
-2.  **Proporcionar múltiples formes d'acció i expressió (el "com" de l'aprenentatge):** Aborda les barreres a l'expressió i l'acció. S'han de donar opcions per a la interacció física, per a l'expressió i la comunicació, i per a les funcions executives. Això permet que l'alumnat demostri el seu aprenentatge de diverses maneres, més enllà del format tradicional.
-3.  **Proporcionar múltiples formes de representació (el "què" de l'aprenentatge):** Es centra en les barreres d'accés a la informació. Cal oferir opcions per a la percepció, per al llenguatge, les expressions matemàtiques i els símbols, i per a la comprensió. Això assegura que la informació sigui accessible i comprensible per a tothom, utilitzant diferents formats i suports.
+El **Disseny Instruccional** es refereix al procés sistemàtic de planificar, desenvolupar, implementar i avaluar materials i experiències d'aprenentatge. Models com **ADDIE** (Anàlisi, Disseny, Desenvolupament, Implementació, Avaluació) ofereixen un enfocament estructurat per a aquest procés. Tanmateix, un principi fonamental que guia molts dissenys moderns és el **Backward Design** (Disseny Invers), que inverteix la lògica tradicional: en lloc de començar per les activitats, es comença per definir els resultats d'aprenentatge desitjats i l'evidència d'aprenentatge acceptable, per després dissenyar les activitats. Aquest enfocament garanteix que totes les parts de la unitat didàctica estiguin alineades amb els objectius finals i les competències que es volen assolir.
 
-Aquests principis s'alineen amb la filosofia del "backward design" (disseny a la inversa), on es comença definint els resultats d'aprenentatge desitjats i l'evidència d'aprenentatge abans de planificar les activitats. En el context del DUA, això significa anticipar les possibles barreres i dissenyar proactivament un currículum flexible que les minimitzi. L'Aprenentatge Basat en Projectes (ABP) és una metodologia que encaixa perfectament amb el DUA, ja que per la seva naturalesa fomenta la implicació, l'acció i la representació diverses, creant "situacions d'aprenentatge riques per a tot l'alumnat". Les "situacions d'aprenentatge" són el marc pedagògic que permet la concreció d'aquests models, oferint un context significatiu i desafiant on l'alumnat pot desenvolupar competències. Aquest enfocament contrasta amb models més lineals i prescriptius com l'ADDIE, que, tot i ser un model de disseny instruccional reconegut, no és el focus principal dels documents proporcionats, els quals emfatitzen la flexibilitat i la inclusió des del disseny.
+Les **Situacions d'Aprenentatge** són el vehicle per aplicar aquests dissenys a l'aula. Es defineixen com a propostes didàctiques contextualitzades, significatives i desafiadores que integren continguts, habilitats i actituds. L'objectiu és que l'alumnat apliqui coneixements en contextos reals o simulats, resolgui problemes i desenvolupi el pensament crític i creatiu. Aquestes situacions han de ser productives, complexes, contextualitzades, rellevants i amb un destinatari clar, fomentant la mobilització d'habilitats cognitives superiors (Doc 25, 26).
 
-## Autors i evidència clau
+Un pilar fonamental en el disseny de situacions d'aprenentatge inclusives és el **Disseny Universal de l'Aprenentatge (DUA)** i l'**Ensenyament Multinivell**. Aquests marcs reconeixen que cada persona aprèn de forma diferent i proposen dissenyar currículums flexibles des del principi, oferint múltiples opcions per:
+*   **Captar l'interès** (múltiples formes de compromís).
+*   **Presentar la informació** (múltiples formes de representació: visual, auditiva, tàctil).
+*   **Permetre la producció i expressió** del que s'ha après (múltiples formes d'acció i expressió: oral, escrita, visual, corporal) (Doc 3).
+L'ensenyament multinivell permet al docent planificar la mateixa unitat per a tot el grup, introduint objectius individuals i estratègies d'aula adaptades a la diversitat, posant el focus en les capacitats dels alumnes i no en les seves "mancances" (Doc 1, 3, 17).
 
-*   **Howard Gardner:** La seva teoria de les Intel·ligències Múltiples (IM) és fonamental per entendre la diversitat d'habilitats i estils d'aprenentatge de l'alumnat (Doc 6). Gardner argumenta que l'ensenyament tradicional se centra excessivament en les intel·ligències lingüística i matemàtica, i que cal ampliar el camp per incloure totes les habilitats. Aquesta perspectiva reforça la necessitat de múltiples formes d'acció i expressió en el DUA.
-*   **Ken Robinson:** Defensor de la creativitat i el pensament divergent com a habilitats essencials per al segle XXI (Doc 3). Robinson critica el model educatiu "industrial" que mata la creativitat i proposa un canvi de paradigma que fomenti el talent individual i la col·laboració. Aquesta visió recolza la creació de situacions d'aprenentatge obertes i projectuals.
-*   **Coral Elizondo:** Experta que connecta directament l'Aprenentatge Basat en Projectes (ABP) amb el Disseny Universal per a l'Aprenentatge (DUA) (Doc 4). La seva feina subratlla com l'ABP pot ser una eina poderosa per implementar els principis del DUA, dissenyant amb flexibilitat des del principi per evitar adaptacions posteriors.
-*   **Evidència:** Els documents proporcionats, tot i no citar estudis empírics específics, defensen aquests models basant-se en la necessitat d'una educació més inclusiva i adaptada a les demandes del segle XXI. El model de "resposta a la intervenció" (Doc 2) i la importància de les mesures i suports universals són un clar exemple d'aquesta evidència, ja que demostren que un bon disseny de base redueix la necessitat de suports addicionals o intensius.
+Altres principis clau que s'integren en aquests models són:
+*   **L'alliberament gradual de la responsabilitat docent (scaffolding)**: Una seqüència progressiva que va des del modelatge del docent, passant per la pràctica guiada, fins a la pràctica autònoma de l'alumne. Les "bastides" són suports temporals que s'ajusten al nivell competencial de l'alumne i es retiren progressivament a mesura que aquest guanya autonomia (Doc 5, 7, 18).
+*   **L'aprenentatge cooperatiu**: L'ús didàctic d'equips reduïts d'alumnes per maximitzar la interacció i l'aprenentatge de tots. Es basa en la interdependència positiva, la responsabilitat individual, la interacció cara a cara, el desenvolupament d'habilitats socials i l'autoreflexió de grup (Doc 8, 9, 19).
+*   **L'explicitació d'objectius i criteris d'avaluació**: És fonamental que l'alumnat conegui clarament què s'espera que aprengui i com serà avaluat per fomentar la seva autonomia i autoregulació (Doc 6, 23).
+*   **L'ensenyament explícit d'estratègies d'aprenentatge**: Cal ensenyar destreses cognitives (recordar, comprendre, aplicar, analitzar, avaluar, crear) i estratègies metacognitives (autoorganització, autocontrol, autoregulació) de manera integrada en les activitats didàctiques (Doc 2, 6).
 
-## Exemples concrets d'aplicació a l'aula
+La **tipologia de seqüències** didàctiques es pot entendre com diferents nivells de complexitat i abast dins les situacions d'aprenentatge:
+*   **Projecte**: Una macroactivitat complexa, sovint interdisciplinària, que es desenvolupa al llarg de diverses sessions o setmanes i culmina en un producte final significatiu (Doc 10).
+*   **Tasca**: Una activitat més específica i delimitada, amb un objectiu clar i un producte final concret, que pot formar part d'un projecte més gran (Doc 10).
+*   **Activitat**: Una proposta didàctica més curta, centrada en l'adquisició o pràctica d'un concepte o habilitat específica (Doc 15, 24).
+*   **Exercici**: Una pràctica repetitiva i estructurada, sovint per consolidar coneixements o automatitzar habilitats bàsiques (Doc 25, 26, on l'activitat inicial és més propera a un exercici).
 
-1.  **Educació Primària (Cicle Inicial):**
-    *   **Situació d'aprenentatge:** Un projecte sobre "El món dels insectes".
-    *   **Aplicació DUA:**
-        *   **Implicació:** L'alumnat pot escollir quin insecte investigar, com presentar la informació (dibuix, maqueta, cançó, petita obra de teatre) i amb qui treballar (individual o en grup). Es visiten espais naturals i es convida un expert.
-        *   **Representació:** La informació sobre els insectes es presenta en diversos formats: llibres il·lustrats, vídeos, aplicacions interactives, lectures amb suport visual i auditiu.
-        *   **Acció i expressió:** L'alumnat pot mostrar el seu aprenentatge a través de dibuixos, maquetes, presentacions orals, creació de contes, jocs de rol o un diari de camp. L'avaluació no es limita a un examen escrit.
+Aquests models i principis busquen un ensenyament competencial que possibiliti l'autonomia de l'alumne, connectant els aprenentatges amb la realitat i fomentant la capacitat de raonar i argumentar (Doc 6, 12, 23).
 
-2.  **Educació Secundària Obligatòria (ESO):**
-    *   **Situació d'aprenentatge:** Un projecte interdisciplinari sobre "El canvi climàtic i la nostra comunitat".
-    *   **Aplicació DUA:**
-        *   **Implicació:** L'alumnat investiga diferents aspectes del canvi climàtic (causes, efectes locals, solucions) segons els seus interessos. Poden escollir el rol dins del grup (investigador, comunicador, dissenyador de solucions).
-        *   **Representació:** Es proporcionen articles científics, notícies, documentals, infografies i dades estadístiques en diferents nivells de complexitat i formats. Es facilita l'ús de glossaris i eines de traducció.
-        *   **Acció i expressió:** Els grups poden crear un informe, un vídeo documental, una campanya de sensibilització per a l'escola, una proposta de millora per a l'ajuntament, o un debat públic. S'avalua el procés, la col·laboració i el producte final.
+#### Autors i evidència clau
 
-3.  **Batxillerat/Formació Professional (FP):**
-    *   **Situació d'aprenentatge:** Disseny i prototipat d'un producte o servei innovador per a una necessitat social real.
-    *   **Aplicació DUA:**
-        *   **Implicació:** L'alumnat identifica una problemàtica social que els interpel·la i proposa un projecte per resoldre-la. Se'ls dóna autonomia per gestionar el seu temps i recursos, amb suport tutorial.
-        *   **Representació:** S'ofereixen recursos de recerca (bases de dades, articles, estudis de cas), eines de disseny (programari CAD, eines de prototipatge), i mentors externs.
-        *   **Acció i expressió:** El producte final pot ser un prototip físic, un pla de negoci, una aplicació, un servei simulat, o una presentació a inversors ficticis. L'avaluació inclou la reflexió sobre el procés, la viabilitat del projecte i la qualitat del prototip o servei.
+Diversos autors i marcs teòrics fonamenten aquests models de disseny instruccional i situacions d'aprenentatge:
 
-## Errors comuns — què NO fer
+*   **Elizabeth Coelho**: Destaca per la seva contribució a l'adaptació de l'avaluació i els objectius d'aprenentatge per a alumnat amb necessitats diverses, especialment nouvinguts. Proposa objectius alternatius, adaptats o els mateixos del grup classe amb suports addicionals, emfatitzant l'ensenyament multinivell (Doc 1, 5).
+*   **Pere Pujolàs**: És una referència clau en l'aprenentatge cooperatiu. Defineix l'aprenentatge cooperatiu com l'ús didàctic d'equips reduïts per maximitzar la interacció i l'aprenentatge de tots. Subratlla la importància de la interdependència positiva, la responsabilitat individual, les habilitats socials i l'autoreflexió de grup com a condicions per a l'èxit (Doc 4, 8, 9, 19).
+*   **UNESCO**: Ja el 2001, va recollir nou "regles d'or" per atendre les necessitats dels alumnes en aules inclusives, que inclouen l'ús de suports visuals, la diferenciació d'objectius, l'adaptació de la feina a habilitats i interessos, el foment de la participació activa, l'explicitació de vocabulari clau, la preparació de materials adaptats i l'ús del treball en grup (Doc 3, 21).
+*   **Jerome Bruner i Lev Vygotsky (implícitament)**: El concepte de "bastides pedagògiques" (scaffolding) s'origina en les teories socioconstructivistes, especialment en la Zona de Desenvolupament Proper de Vygotsky. Coelho (Doc 5) i altres documents (Doc 18) fan referència a aquest suport temporal que el docent proporciona per permetre a l'alumne assolir un nivell superior de realització que no podria sense ajuda.
+*   **W. Bartz, D. Cassany, J. L. Estaña**: Aquests autors són citats en la proposta de l'esquema C.R.I.T.I.C. per promoure la lectura crítica, una habilitat fonamental en les situacions d'aprenentatge (Doc 13).
+*   **Departament d'Educació i publicacions com "Caixa d'Eines"**: Aquests documents (Doc 1, 16, 17) proporcionen orientacions i marcs per a l'educació inclusiva, el currículum per competències, l'ensenyament multinivell i el Disseny Universal de l'Aprenentatge, reflectint la línia pedagògica de Catalunya.
 
-1.  **Considerar el DUA com una adaptació posterior:** Un error freqüent és pensar que el DUA és una llista de "trucs" o adaptacions que s'apliquen un cop ja s'ha dissenyat la unitat didàctica. El DUA, per definició, implica realitzar els ajustos necessaris en el mateix moment de la programació, amb l'objectiu de no haver de fer adaptacions posteriors (Doc 4). Si es dissenya per a la mitjana, s'està creant barreres per a molts.
-2.  **Mantenir un disseny instruccional rígid i "industrial":** Persistir en un model educatiu que valora una única resposta correcta o que estructura l'aprenentatge de manera compartimentada i homogènia, com una "fàbrica" (Doc 3). Aquest enfocament limita la creativitat, el pensament divergent i el desenvolupament de les múltiples intel·ligències de l'alumnat (Doc 6), impedint que aflori el talent individual.
-3.  **Limitar les formes d'avaluació i expressió:** Si bé es poden oferir activitats diverses, si l'avaluació final es redueix a un únic format (p. ex., examen escrit), es contradiuen els principis del DUA. No permetre que l'alumnat demostri el seu aprenentatge a través de múltiples formes d'acció i expressió és una barrera significativa (Doc 4).
+La tensió principal entre autors o marcs no és tant de conflicte, sinó d'èmfasi. Mentre alguns se centren en la planificació sistemàtica (ADDIE), altres posen el focus en la intencionalitat dels resultats (Backward Design). Tots convergeixen en la necessitat d'un disseny flexible i inclusiu que respongui a la diversitat de l'alumnat i fomenti l'autonomia i les competències.
 
-## Matisos i excepcions
+#### Exemples concrets d'aplicació a l'aula
 
-*   **El DUA no elimina completament els suports individualitzats:** Tot i que un disseny universal redueix dràsticament la necessitat de mesures addicionals o intensives, hi haurà sempre un petit percentatge d'alumnat amb necessitats molt específiques que requeriran un Pla Individualitzat (PI) o suports intensius (Doc 2). El DUA és la base, però no la solució única per a tots els casos.
-*   **Requereix un canvi de cultura de centre:** La implementació efectiva del DUA i de les metodologies actives no és només una qüestió de tècniques individuals del docent. Demana una reflexió col·lectiva i un compromís de tot el centre per flexibilitzar les metodologies i les organitzacions (Doc 2, Doc 3). Sense una cultura de centre inclusiva i oberta a la innovació, la seva aplicació pot ser limitada.
-*   **No hi ha un "únic camí":** Tal com s'esmenta en relació a les Intel·ligències Múltiples (Doc 6), no hi ha una única manera d'implementar aquests models. Cada context, cada grup d'alumnes i cada docent trobarà la seva pròpia manera d'aplicar els principis, adaptant-los a la seva realitat. La flexibilitat és clau, tant en el disseny com en la seva aplicació.
+1.  **Educació Primària: Disseny d'una seqüència per "Interpretar l'espai" (Doc 24)**
+    *   **Context:** Alumnat de Cicle Superior.
+    *   **Objectiu:** Desenvolupar la competència d'interpretar l'espai a partir dels elements del territori i les seves representacions (plànols) per situar-se i desplaçar-se.
+    *   **Seqüència:**
+        *   **Iniciació:** Introducció als plànols com a eines per representar l'espai real i facilitar l'orientació.
+        *   **Desenvolupament:** Activitats d'orientació i localització a la ciutat, compartint objectius i realitzant exercicis pràctics. Això implica l'aplicació de coneixements en un context real.
+        *   **Avaluació:** Una activitat final on els alumnes demostren la seva capacitat d'interpretar i utilitzar plànols, amb indicadors d'avaluació clars. Es pot complementar amb un portfoli per recollir el procés d'aprenentatge.
+    *   **Fonament:** Aquesta seqüència és un exemple clar de situació d'aprenentatge competencial. Parteix d'un objectiu clar (Backward Design), utilitza recursos diversos (plànols, entorn real), fomenta l'aplicació de coneixements i la resolució de problemes, i té un destinatari implícit (el mateix alumne que ha de saber orientar-se).
 
-# 2. CAPA AGENT (UNIVERSAL)
+2.  **Educació Secundària (ESO): La Ucronia per al raonament i l'argumentació (Doc 12)**
+    *   **Context:** Alumnat de 4t d'ESO (o Batxillerat).
+    *   **Objectiu:** Desenvolupar la capacitat de raonar i argumentar, identificant causes, desenvolupament i conseqüències de fets històrics, a través de la creació de realitats alternatives.
+    *   **Activitat:** A partir d'un fet històric conegut (ex: "Què hauria passat si Espanya no hagués entrat a la UE?"), l'alumnat llegeix un text model i, cooperativament, elabora un text argumentatiu que haurà de defensar públicament.
+    *   **Pauta de raonament:** S'ofereix una pauta amb preguntes guia: "El meu argument", "Punts clau i evidències", "Altres punts de vista", "Per què el meu argument és millor?", "Conclusió".
+    *   **Avaluació:** Es valora l'organització, claredat, recursos, lèxic i temps d'exposició.
+    *   **Fonament:** Aquesta activitat és productiva i complexa, ja que no es limita a reproduir informació sinó a crear-ne de nova a partir de la reflexió. Està contextualitzada en un gènere literari i fomenta habilitats cognitives superiors com l'anàlisi, l'avaluació i la creació, així com habilitats comunicatives i de treball cooperatiu.
 
-# 2. CONNEXIONS AMB ALTRES DOCUMENTS DEL CORPUS
+3.  **Batxillerat/FP: Projecte de comunicació interdisciplinari (Doc 10)**
+    *   **Context:** Alumnat de Batxillerat o cicles formatius, aplicable a diverses àrees (Ciències Socials, Llengües, Tecnologia, etc.).
+    *   **Objectiu:** Dissenyar una seqüència didàctica que reculli diverses tasques relacionades amb la comunicació, integrant TIC i treball cooperatiu, per a una àrea i nivell concret.
+    *   **Components del projecte:**
+        *   Activitat de lectura (text, imatge, audiovisual).
+        *   Activitat d'escriptura o producció audiovisual.
+        *   Activitat d'expressió oral.
+    *   **Exemple temàtic:** "La societat de la informació: de Gutenberg a l'era virtual".
+    *   **Criteris d'avaluació:** Adequació formal, coherència temàtica, introducció d'elements comunicatius (imatges, sons, TIC), aprofitament de recursos, creativitat i originalitat.
+    *   **Fonament:** Aquest és un exemple de "projecte" com a macroactivitat. És altament productiu, complex i rellevant, ja que demana als alumnes dissenyar una proposta pedagògica real. Integra múltiples competències (lingüístiques, digitals, socials) i fomenta la creativitat i la reflexió sobre la pròpia pràctica docent (si és una formació de docents) o sobre un tema complex (si és per a alumnes).
 
-| Document Relacionat                                | Relació Concreta
+#### Errors comuns — què NO fer
 
-# 3. DETECCIÓ (Variables de Context)
+1.  **Confondre "treball en grup" amb "aprenentatge cooperatiu" sense una estructura clara.**
+    *   **Per què és un error:** Simplement ajuntar alumnes en un grup no garanteix que hi hagi aprenentatge cooperatiu. Sense una estructura clara d'interdependència positiva (on l'èxit de cadascú depèn del dels altres), responsabilitat individual (evitar "passatgers de franc"), i l'ensenyament explícit d'habilitats socials, el treball en grup pot derivar en frustració, conflictes, o que només un o dos membres facin la major part de la feina. L'aprenentatge cooperatiu requereix una planificació intencional per maximitzar la interacció productiva i el suport mutu (Doc 8, 9, 19).
+2.  **No explicitar els objectius d'aprenentatge ni els criteris d'avaluació a l'alumnat.**
+    *   **Per què és un error:** Si els alumnes no saben què s'espera que aprenguin ("la fita que ens hem marcat") i com seran avaluats, els resulta molt difícil autoregular el seu aprenentatge i orientar els seus esforços. Això redueix la seva autonomia i la capacitat de reflexionar sobre el seu propi procés. L'explicitació d'objectius i l'ús de rúbriques o criteris d'èxit clars són fonamentals per a un ensenyament competencial i per a la metacognició (Doc 6, 23).
+3.  **Mantenir les "bastides" (suports) de forma permanent o retirar-les massa ràpidament.**
+    *   **Per què és un error:** Les bastides pedagògiques són suports temporals dissenyats per ajudar l'alumne a assolir un nivell de realització que no podria sense ajuda. Si es mantenen massa temps, l'alumne esdevé dependent i no desenvolupa l'autonomia necessària. Si es retiren massa aviat, l'alumne pot sentir-se desbordat i frustrat, sense poder consolidar els nous aprenentatges. La clau és la retirada progressiva i ajustada al nivell competencial de cada alumne (Doc 5, 7, 18).
+4.  **Dissenyar activitats merament reproductives en lloc de productives i contextualitzades.**
+    *   **Per què és un error:** Les activitats que només demanen reproduir informació memoritzada o seguir un patró sense reflexió no fomenten el desenvolupament de competències. Un disseny instruccional efectiu busca que les activitats siguin productives (generar coneixement nou), complexes (mobilitzar diverses habilitats cognitives), contextualitzades (connectades amb la realitat) i rellevants (amb utilitat percebuda). Les activitats que no compleixen aquests criteris limiten el pensament crític i la transferència d'aprenentatges (Doc 25, 26, 23).
 
-L'agent ha d'activar aquest document quan detectar:
+#### Matisos i excepcions
 
-**Indicadors directes:**
-- Menció de "disseny instruccional", "model pedagògic", "ADDIE", "backward design"
-- Preguntes sobre com planificar seqüències d'aprenentatge de forma sistemàtica
-- "Com estructuro una unitat?", "des d'on començo a planificar?"
+Els models de disseny instruccional i les situacions d'aprenentatge són eines poderoses, però no són una panacea i tenen els seus matisos:
 
-**Indicadors contextuals:**
-- Docent que vol revisar o millorar la seva manera de planificar unitats didàctiques
-- Formació sobre disseny curricular i seqüenciació d'objectius
-- Coherència entre objectius, activitats i avaluació
+*   **No tot ha de ser un "projecte" o una "situació d'aprenentatge complexa"**: Tot i que les situacions d'aprenentatge complexes són ideals per al desenvolupament competencial, hi ha moments en què activitats més dirigides o exercicis de consolidació són necessaris. Per exemple, per automatitzar habilitats bàsiques o introduir conceptes fonamentals abans d'aplicar-los en un context més ampli. L'equilibri entre diferents tipologies de seqüències (projecte, tasca, activitat, exercici) és crucial (Doc 25, 26).
+*   **La implementació del DUA i l'ensenyament multinivell requereix una gran preparació docent**: Planificar múltiples opcions de captació d'interès, representació de la informació i expressió del coneixement, així com objectius individuals dins d'una mateixa unitat, demana temps, recursos i una formació pedagògica sòlida. No és una tasca senzilla i pot ser un repte en contextos amb pocs recursos o molta ràtio d'alumnes (Doc 3).
+*   **L'aprenentatge cooperatiu no és adequat per a totes les tasques o moments**: Encara que és molt beneficiós, hi ha tasques que requereixen una reflexió individual profunda abans de la discussió en grup, o moments en què l'aprenentatge individual assistit pot ser més eficaç. A més, l'èxit del cooperatiu depèn molt de l'ensenyament explícit d'habilitats socials, que no sempre és possible o prioritari en tots els contextos (Doc 9, 19).
+*   **La retirada de bastides ha de ser molt sensible i individualitzada**: L'alliberament gradual de la responsabilitat no és un procés lineal ni igual per a tots els alumnes. Requereix una observació constant i una avaluació formativa per part del docent per saber quan i com reduir el suport. Una retirada prematura pot frustrar l'alumne, mentre que una retirada tardana pot frenar el seu desenvolupament autònom (Doc 5, 7).
+*   **Tensions amb currículums molt prescriptius o amb alta càrrega de continguts**: Aquests models, especialment els projectes i les situacions d'aprenentatge complexes, requereixen temps. En currículums molt densos o amb una pressió excessiva per "cobrir" continguts, pot ser difícil implementar-los amb la profunditat necessària sense sentir que es "perd" temps. Cal ser selectiu i prioritzar els continguts clau (Doc 21).
 
-**Quan NO activar:**
-- Si la pregunta és sobre una metodologia específica → M2 corresponent
-- Si és sobre programació multinivell → M2_programacio-multinivell
+### 2. CONNEXIONS AMB ALTRES DOCUMENTS DEL CORPUS
 
+*   **perfil_alumnat_nouvingut**: Aquest document és fonamental per entendre a qui s'adrecen moltes de les estratègies inclusives (DUA, multinivell, bastides) esmentades en aquest marc.
+*   **estrategia_aprenentatge_cooperatiu**: Aprofundeix en una de les metodologies clau per implementar les situacions d'aprenentatge, detallant-ne les tècniques i condicions.
+*   **estrategia_scaffolding**: Explica en detall la tècnica de les bastides, un suport essencial en el disseny instruccional inclusiu.
+*   **eina_rubrica_avaluacio**: Relacionat amb l'explicitació dels criteris d'avaluació i l'avaluació de les tasques en les situacions d'aprenentatge.
+*   **eina_guia_lectura_critica**: Proporciona una eina concreta per desenvolupar una de les habilitats cognitives superiors que es busquen en les situacions d'aprenentatge.
+*   **marc_competencies_basiques**: Aquest marc proporciona la base curricular sobre la qual es construeixen els objectius de les situacions d'aprenentatge i el disseny instruccional.
+*   **protocol_deteccio_NEE**: La flexibilitat dels models de disseny instruccional pot ajudar a prevenir la necessitat de protocols més complexos, però també pot activar-los si les adaptacions no són suficients.
+
+### 3. DETECCIÓ (Variables de Context)
+
+*   **Senyals del docent**:
+    *   "Com puc fer que tots els meus alumnes participin activament en aquesta unitat, tenint en compte les seves diferents capacitats?"
+    *   "Els meus alumnes no entenen per què aprenem això. Com puc connectar el contingut amb la seva realitat?"
+    *   "Necessito una manera més eficaç d'avaluar les competències, no només la memorització."
+    *   "M'agradaria que els meus alumnes fossin més autònoms i prenguessin més responsabilitat en el seu aprenentatge."
+    *   "Les meves activitats actuals són massa reproductives. Com les puc transformar en reptes més significatius?"
+    *   "Com puc estructurar el treball en grup perquè sigui realment productiu i tothom hi contribueixi?"
+*   **Senyals de l'alumne**:
+    *   Frustració o desmotivació davant tasques que perceben com irrellevants o massa difícils/fàcils.
+    *   Dificultat per comprendre els objectius d'una activitat o els criteris d'avaluació.
+    *   Passivitat o dependència excessiva del docent per resoldre tasques.
+    *   Manca de transferència de coneixements entre diferents contextos o àrees.
+    *   Conflictes o desequilibri en el treball en grup.
+*   **Senyals de context**:
+    *   Introducció d'un nou currículum per competències.
+    *   Presència d'alumnat amb gran diversitat de nivells de competència (lingüística, acadèmica, etc.).
+    *   Necessitat de fomentar la col·laboració i les habilitats socials a l'aula.
+    *   Desig de fer un ús més significatiu de les TIC.
+    *   Planificació de projectes interdisciplinaris.
+*   **Anti-senyals**:
+    *   El docent busca una "recepta" única i ràpida per a totes les situacions, sense voluntat d'adaptació.
+    *   L'objectiu principal és "cobrir" el temari ràpidament, sense aprofundir en l'aprenentatge competencial.
+    *   Es prioritza la qualificació sumativa per sobre de l'avaluació formativa i el procés d'aprenentatge.
+    *   L'alumne ja demostra una alta autonomia i capacitat d'autoregulació en tasques complexes, indicant que el suport pot ser mínim o ja no necessari.
+
+### 4. HEURÍSTIQUES I RAONAMENT PER A L'AGENT
+
+**Principi general**: Prioritza sempre el disseny intencional de l'aprenentatge, començant pels resultats desitjats i adaptant-lo a la diversitat de l'alumnat per fomentar la seva autonomia i el desenvolupament de competències.
+
+**Heurístiques per a l'Agent DOCENT**:
+
+*   **Heurística: "Començar pel final" (Backward Design)**
+    *   **Quan aplica**: Quan el docent vol dissenyar una nova unitat didàctica, una seqüència d'activitats o un projecte, o quan vol revisar l'eficàcia d'una planificació existent. És especialment útil per assegurar l'alineació amb el currículum per competències.
+    *   **Fonament**: Aquest enfocament, basat en el Backward Design, garanteix que totes les decisions pedagògiques (activitats, materials, avaluació) estiguin directament vinculades als objectius d'aprenentatge i les evidències de la seva consecució. Evita la tendència a centrar-se primer en activitats atractives que potser no condueixen als aprenentatges desitjats. Això proporciona claredat tant al docent com a l'alumne sobre la finalitat de l'aprenentatge (Doc 6, 23).
+    *   **Exemple complet de raonament**: Un docent vol que els seus alumnes de 4t d'ESO siguin capaços d'analitzar críticament notícies falses (fake news). En lloc de començar buscant articles sobre el tema, l'agent raonaria: "L'objectiu final és la capacitat d'anàlisi crítica. Quina evidència necessito per saber que ho han assolit? Potser que identifiquin biaixos en un text, contrastin fonts, o elaborin un argument defensant o refutant una notícia. Un cop clara l'evidència (per exemple, una rúbrica per avaluar un informe d'anàlisi de notícies), llavors puc dissenyar les activitats: lectures sobre el tema, pràctiques de contrast de fonts, debats, i finalment, la redacció de l'informe. Això assegura que cada pas contribueix directament a l'objectiu competencial."
+
+*   **Heurística: "Flexibilitzar per incloure" (DUA i Ensenyament Multinivell)**
+    *   **Quan aplica**: Sempre que hi hagi diversitat a l'aula (lingüística, cognitiva, d'interessos, de ritmes) i el docent vulgui assegurar que tots els alumnes puguin accedir als continguts i demostrar el seu aprenentatge.
+    *   **Fonament**: El DUA i l'ensenyament multinivell parteixen de la premissa que la diversitat és la norma i que el currículum ha de ser flexible per adaptar-se a ella. En lloc d'adaptar l'alumne al currículum, s'adapta el currículum a l'alumne, oferint múltiples vies d'accés, processament i expressió. Això va més enllà de les mesures compensatòries, posant el focus en el disseny universal des del principi (Doc 3, 17, 21).
+    *   **Exemple complet de raonament**: Un docent té alumnes nouvinguts amb poc nivell de català i alumnes amb dislèxia en una classe de ciències. L'agent raonaria: "Per assegurar que tots accedeixin al contingut sobre el cicle de l'aigua, no només oferiré un text escrit. Proposaré un vídeo amb subtítols, un esquema visual amb pictogrames, i una maqueta manipulable. Per demostrar l'aprenentatge, permetré que uns facin una exposició oral amb suport visual, altres un dibuix amb etiquetes, i altres un text escrit. Així, cada alumne pot triar el canal que li és més còmode per aprendre i expressar-se, sense que el seu nivell de llengua o la seva dificultat específica siguin una barrera insuperable per al contingut científic."
+
+*   **Heurística: "Suport gradual per a l'autonomia" (Scaffolding i Alliberament de Responsabilitat)**
+    *   **Quan aplica**: Quan s'introdueix un nou concepte, una nova habilitat o una tasca complexa, i es vol guiar l'alumne cap a la seva realització autònoma.
+    *   **Fonament**: Aquesta heurística es basa en la idea que el suport ha de ser temporal i progressivament retirat. El docent modela, guia la pràctica i, finalment, permet la pràctica independent. Això evita la dependència i fomenta la metacognició, ja que l'alumne interioritza el procés que el docent ha fet visible. És crucial per al desenvolupament de l'aprendre a aprendre (Doc 5, 7, 18).
+    *   **Exemple complet de raonament**: Un docent vol que els alumnes aprenguin a escriure un text argumentatiu. L'agent raonaria: "Primer, el docent modelarà el procés: escriurà un text argumentatiu en veu alta, explicant cada decisió (introducció, tesi, arguments, contraarguments, conclusió). Després, els alumnes faran una pràctica guiada, potser en parelles, utilitzant una base d'orientació amb frases model o un esquema predefinit, amb el docent circulant i oferint feedback. Finalment, se'ls demanarà que escriguin un text argumentatiu de manera autònoma sobre un tema nou. A mesura que els alumnes demostrin domini, les bases d'orientació i el suport directe es reduiran, fomentant la seva independència."
+
+*   **Heurística: "Interacció per a l'aprenentatge" (Aprenentatge Cooperatiu)**
+    *   **Quan aplica**: Quan es vol aprofitar la diversitat de l'aula per enriquir l'aprenentatge, desenvolupar habilitats socials i fomentar el suport mutu entre iguals.
+    *   **Fonament**: L'aprenentatge cooperatiu, ben estructurat, transforma la interacció social en una font d'aprenentatge. Els principis d'interdependència positiva i responsabilitat individual asseguren que tots els membres del grup contribueixin i es beneficiïn. A més, l'ensenyament explícit d'habilitats socials prepara els alumnes per a la col·laboració en la vida real (Doc 8, 9, 19).
+    *   **Exemple complet de raonament**: Un docent vol que els alumnes investiguin sobre un tema complex (p. ex., el canvi climàtic). L'agent raonaria: "En lloc de fer una recerca individual, organitzaré un 'trencaclosques' (Jigsaw). Dividiré el tema en subtemes (causes, efectes, solucions, impacte local). Cada membre d'un grup base esdevindrà 'expert' en un subtema, investigant amb altres experts del mateix subtema. Després, tornaran al seu grup base per ensenyar als seus companys. L'avaluació inclourà una part individual i una de grupal per assegurar la responsabilitat. Això fomenta la interacció, la comunicació i la co-construcció del coneixement."
+
+*   **Heurística: "De la reproducció a la producció" (Activitats Competencials)**
+    *   **Quan aplica**: Quan el docent vol transformar activitats didàctiques bàsiques en situacions d'aprenentatge significatives que desenvolupin competències.
+    *   **Fonament**: L'objectiu de l'ensenyament competencial és que l'alumne sàpiga aplicar els coneixements en contextos nous i reals, no només reproduir-los. Les activitats productives, complexes i contextualitzades mobilitzen habilitats cognitives superiors i donen sentit a l'aprenentatge, fent-lo rellevant i funcional per a l'alumne (Doc 23, 25, 26).
+    *   **Exemple complet de raonament**: Un docent té una activitat inicial on els alumnes han d'identificar les parts d'una flor i explicar la seva funció. L'agent raonaria: "Aquesta activitat és reproductiva. Per fer-la competencial, la contextualitzaré: els alumnes rebran una notícia sobre la davallada de la població d'abelles i una gràfica sobre la disminució de la collita de cireres d'un avi. La tasca serà escriure una carta a l'avi explicant-li, de forma entenedora, per què la seva collita és cada vegada més escassa, aplicant els coneixements sobre la reproducció de les plantes i la pol·linització. Això requereix interpretar dades, relacionar coneixements, argumentar i comunicar-se amb un destinatari real, convertint un simple exercici en una situació d'aprenentatge complexa i rellevant."
+
+**Heurístiques per a l'Agent ALUMNE**:
+
+*   **Heurística: "Entendre el 'per què' i el 'com'" (Objectius i Criteris)**
+    *   **Quan aplica**: Quan l'alumne s'enfronta a una nova tasca o unitat didàctica i necessita orientar el seu aprenentatge.
+    *   **Fonament**: Conèixer els objectius i els criteris d'avaluació permet a l'alumne comprendre la finalitat de la tasca i què s'espera d'ell. Això fomenta l'autoregulació, la planificació i la reflexió sobre el propi aprenentatge, ajudant-lo a prendre decisions més informades sobre com abordar la tasca (Doc 6, 23).
+    *   **Exemple complet de raonament**: Un alumne comença una nova unitat. L'agent raonaria: "Abans de començar a fer les activitats, pregunta al teu professor o revisa la rúbrica: 'Què s'espera que aprengui en aquesta unitat? Què hauré de ser capaç de fer al final?' i 'Com sabré si ho he fet bé? Quins són els criteris d'avaluació?' Entendre aquests punts t'ajudarà a enfocar els teus esforços, a saber què és important i a planificar com estudiar o treballar, en lloc de simplement fer les activitats sense un propòsit clar. Si saps que has de fer una presentació oral, et concentraràs en la claredat i l'estructura, per exemple."
+
+*   **Heurística: "Demana i utilitza els suports" (Scaffolding Actiu)**
+    *   **Quan aplica**: Quan l'alumne troba dificultats en una tasca o un concepte nou, o quan se sent insegur sobre com procedir.
+    *   **Fonament**: Les bastides són recursos temporals que el docent o els companys proporcionen. L'alumne ha d'aprendre a identificar quan necessita ajuda i a utilitzar-la de manera efectiva per avançar en el seu aprenentatge, sense esperar que la feina se li faci. Això el converteix en un agent actiu del seu propi procés d'aprenentatge (Doc 5, 18).
+    *   **Exemple complet de raonament**: Un alumne està intentant resoldre un problema de matemàtiques complex. L'agent raonaria: "Si et quedes encallat, no et rendeixis. Pensa: 'Quins suports tinc disponibles?' Potser hi ha un exemple resolt, una base d'orientació amb els passos, o un company que ja ho ha entès. Pots demanar al professor que et mostri un pas concret, o que et doni una pista. Utilitza aquestes 'bastides' per avançar, però intenta entendre el raonament darrere, no només copiar la solució. L'objectiu és que la pròxima vegada puguis fer-ho sol."
+
+*   **Heurística: "Aprèn amb els altres, ensenya als altres" (Aprenentatge Cooperatiu Actiu)**
+    *   **Quan aplica**: Quan es treballa en grup, ja sigui en parelles o equips més grans, per maximitzar l'aprenentatge individual i col·lectiu.
+    *   **Fonament**: L'aprenentatge cooperatiu no és només fer la feina junts, sinó aprofitar la interacció per aprendre els uns dels altres. Explicar un concepte a un company consolida el propi aprenentatge, i rebre ajuda d'un igual pot ser més comprensible. Això fomenta la interdependència positiva i el desenvolupament d'habilitats comunicatives i socials (Doc 8, 9, 19).
+    *   **Exemple complet de raonament**: En un treball en grup, un alumne ha entès una part del contingut que els seus companys no. L'agent raonaria: "No et limitis a donar la resposta als teus companys. Intenta explicar-los el 'com' i el 'per què' amb les teves paraules, com si fossis el professor. Això no només els ajudarà a ells a comprendre millor, sinó que reforçarà el teu propi coneixement i t'ajudarà a identificar quins punts encara no tens clars. I si tu no entens alguna cosa, demana als teus companys que t'ho expliquin amb un exemple o d'una altra manera. La interacció i l'explicació mútua són eines molt potents per aprendre."
 ---
 
-# 4. HEURÍSTIQUES I RAONAMENT PER A L'AGENT
+## 5. FONTS DEL CORPUS
 
-## H1 Triar el model de disseny instruccional adequat per a la unitat — DOCENT
-**Quan aplica:** Quan es planifica una unitat didàctica i cal decidir si usar backward design, ADDIE, situació d'aprenentatge o altra estructura.
-**Fonament:** No hi ha un model instruccional universalment millor. La tria depèn dels objectius, del temps disponible, de les competències que es volen treballar i del perfil del grup. Conèixer les característiques de cada model permet triar-lo estratègicament.
-**Exemple (≥80 paraules):** La professora de ciències de 2n d'ESO vol treballar la competència científica de manera profunda. Decideix usar backward design: primer identifica la comprensió desitjada ("els alumnes comprendran com la selecció natural explica la diversitat biològica"), després dissenya l'evidència d'aprenentatge (un projecte d'investigació) i finalment planifica les activitats. En contrast, una de les seves col·legues treballa la mateixa unitat amb ADDIE per garantir que tots els passos estan documentats per a la carpeta de centre. Ambdues trien el model que millor s'adapta al seu objectiu pedagògic, no per costum o obligació.
+| # | Títol | URL |
+|---|-------|-----|
+| 1 | cursos:escola_inclusiva:ansu:b7:index [Formació del professorat] | https://ateneu.xtec.cat/wikiform/wikiexport/cursos/escola_inclusiva/ansu/b7/index |
+| 2 | cursos:escola_inclusiva:ansu:b3:b3t2 [Formació del professorat] | https://ateneu.xtec.cat/wikiform/wikiexport/cursos/escola_inclusiva/ansu/b3/b3t2 |
+| 3 | cursos:escola_inclusiva:ansu:b7:b7t4 [Formació del professorat] | https://ateneu.xtec.cat/wikiform/wikiexport/cursos/escola_inclusiva/ansu/b7/b7t4 |
+| 4 | cursos:escola_inclusiva:ansu:b5:b5t4 [Formació del professorat] | https://ateneu.xtec.cat/wikiform/wikiexport/cursos/escola_inclusiva/ansu/b5/b5t4 |
+| 5 | cursos:escola_inclusiva:ansu:b4:b4t5 [Formació del professorat] | https://ateneu.xtec.cat/wikiform/wikiexport/cursos/escola_inclusiva/ansu/b4/b4t5 |
+| 6 | cursos:escola_inclusiva:ansu:b4:b4t3 [Formació del professorat] | https://ateneu.xtec.cat/wikiform/wikiexport/cursos/escola_inclusiva/ansu/b4/b4t3 |
+| 7 | cursos:escola_inclusiva:ansu:b4:b4t2 [Formació del professorat] | https://ateneu.xtec.cat/wikiform/wikiexport/cursos/escola_inclusiva/ansu/b4/b4t2 |
+| 8 | cursos:escola_inclusiva:ansu:b5:b5t2 [Formació del professorat] | https://ateneu.xtec.cat/wikiform/wikiexport/cursos/escola_inclusiva/ansu/b5/b5t2 |
+| 9 | cursos:escola_inclusiva:ansu:b5:b5t3 [Formació del professorat] | https://ateneu.xtec.cat/wikiform/wikiexport/cursos/escola_inclusiva/ansu/b5/b5t3 |
+| 10 | cursos:curriculum:eso_btx:dcs1:projecte [Formació del professorat] | http://ateneu.xtec.cat/wikiform/wikiexport/cursos/curriculum/eso_btx/dcs1/projecte |
+| 11 | cursos:curriculum:eso_btx:dcs1:modul_4:practica_5 [Formació del professorat] | http://ateneu.xtec.cat/wikiform/wikiexport/cursos/curriculum/eso_btx/dcs1/modul_4/practica_5 |
+| 12 | cursos:curriculum:eso_btx:dcs1:modul_4:practica_4 [Formació del professorat] | http://ateneu.xtec.cat/wikiform/wikiexport/cursos/curriculum/eso_btx/dcs1/modul_4/practica_4 |
+| 13 | cursos:curriculum:eso_btx:dcs1:modul_2:practica_5 [Formació del professorat] | http://ateneu.xtec.cat/wikiform/wikiexport/cursos/curriculum/eso_btx/dcs1/modul_2/practica_5 |
+| 14 | cursos:curriculum:eso_btx:dcs1:modul_2:practica_6 [Formació del professorat] | http://ateneu.xtec.cat/wikiform/wikiexport/cursos/curriculum/eso_btx/dcs1/modul_2/practica_6 |
+| 15 | cursos:curriculum:eso_btx:dcs1:modul_2:practica_3 [Formació del professorat] | http://ateneu.xtec.cat/wikiform/wikiexport/cursos/curriculum/eso_btx/dcs1/modul_2/practica_3 |
+| 16 | caixadeines09_79dad89de3.pdf | http://ensenyament.gencat.cat/web/.content/home/departament/publicacions/publicacions-periodiques/caixadeines/caixadeines09/caixadeines09.pdf |
+| 17 | caixadeines08_32639931f0.pdf | http://ensenyament.gencat.cat/web/.content/home/departament/publicacions/publicacions-periodiques/caixadeines/caixadeines08/caixadeines08.pdf |
+| 18 | 170614_bastides_MU_81f367adb9.pdf | http://xtec.gencat.cat/web/.content/projectes/lectura/impulslectura/materialsformacio/saber-llegir/cm-cs-eso/documents/170614_bastides_MU.pdf |
+| 19 | el_treball_cooperatiu_62b5c345b4.pdf | http://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0058/810bc5ef-52c3-4172-9642-0fe7768622e5/el_treball_cooperatiu.pdf |
+| 20 | aprenentatge_entre_iguals_fcfb7dbdf7.pdf | http://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0091/df6b6ac8-6646-4ebc-ab7b-9c1a77fe311d/aprenentatge_entre_iguals.pdf |
+| 21 | b6t4_9_regles_unesco_86da447368.pdf | https://ateneu.xtec.cat/wikiform/wikiexport/_media/cursos/escola_inclusiva/ansu/b6/b6t4_9_regles_unesco.pdf |
+| 22 | guia_per_a_la_lectura_d_imatges_1a3459040a.pdf | http://ateneu.xtec.cat/wikiform/wikiexport/_media/cursos/curriculum/eso_btx/dcs1/modul_2/guia_per_a_la_lectura_d_imatges.pdf |
+| 23 | Full-indicadors-unitats-competencials_58f56ec799.pdf | http://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0029/f0b48627-bdc5-48e5-9b3c-4bceed129d61/Full-indicadors-unitats-competencials.pdf |
+| 24 | Escola-Banus-Interpretar-espai_52608fb445.pdf | http://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0056/7642a716-6e3e-4eca-9073-696cae007634/Escola-Banus-Interpretar-espai.pdf |
+| 25 | 07.BANUS_CS_MODIFICACIO_ACTIVITAT_COMPETENCIAL_e5c32476bf.pdf | http://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0012/3e2d7305-7dfa-4a7b-9d8b-10d7c9ada24b/07.BANUS_CS_MODIFICACIO_ACTIVITAT_COMPETENCIAL.pdf |
+| 26 | BANUS_CM_MODIFICACIO_ACTIVITAT_COMPETENCIAL_608c72827b.pdf | http://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0070/a1cb192d-e46b-43a0-b4eb-8db91593013d/BANUS_CM_MODIFICACIO_ACTIVITAT_COMPETENCIAL.pdf |
 
-## H2 Dissenyar situacions d'aprenentatge connectades al món real — DOCENT
-**Quan aplica:** Quan es planifica una unitat didàctica i es vol garantir que els alumnes apliquin les competències en un context significatiu.
-**Fonament:** Les situacions d'aprenentatge connecten les competències curriculars amb contextos del món real. Quan l'alumne entén "per a què serveix" el que aprèn, la motivació i la retenció milloren.
-**Exemple (≥80 paraules):** El professor de matemàtiques de 3r d'ESO dissenya una situació d'aprenentatge sobre estadística usant dades reals del barri: "Com podem saber si la contaminació acústica al nostre barri supera els límits legals?" Els alumnes recullen dades reals, les analitzen estadísticament i elaboren un informe per a l'Ajuntament. Els continguts curriculars (mediana, mitjana, desviació) es treballen en un context autèntic. Al final, l'Ajuntament els respon amb les dades oficials. La comparació entre les dades dels alumnes i les oficials genera un debat ric sobre mètodes estadístics. L'aprenentatge és significativament superior al d'una unitat d'exercicis mecànics.
-
-## H3 Iterar el disseny instruccional a partir de les evidències d'aprenentatge — DOCENT
-**Quan aplica:** Quan s'ha implementat una unitat i cal revisar el disseny per a la propera vegada basant-se en les dades d'aprenentatge dels alumnes.
-**Fonament:** El disseny instruccional és un procés iteratiu. Les evidències d'aprenentatge (resultats d'avaluació, observació, feedback dels alumnes) han d'informar el redisseny de la unitat per a futures implementacions.
-**Exemple (≥80 paraules):** Després d'una unitat de llengua, el professor analitza els resultats de l'avaluació formativa i detecta que el 40% dels alumnes no ha assolit l'objectiu de "identificar l'argument principal d'un text". Revisa el disseny: les activitats de comprensió lectora eren massa mecàniques i no ensenyaven l'estratègia de manera explícita. Per a la propera implementació, dissenya una fase de modelatge explícit de l'estratègia (think-aloud) i activitats de pràctica guiada. La iteració del disseny, basada en evidències reals i no en intuïcions, millora significativament els resultats en la propera cohort.
-
-## H4 Integrar la tecnologia en el disseny instruccional: el marc TPACK — DOCENT
-**Quan aplica:** Quan es planifica una unitat que incorpora tecnologia digital i cal garantir que la tecnologia afegeix valor pedagògic i no és merament una substitució dels materials analògics.
-**Fonament:** El marc TPACK (Technological Pedagogical Content Knowledge) recorda que l'ús efectiu de la tecnologia requereix la intersecció de tres coneixements: el de la disciplina, el pedagògic i el tecnològic. La tecnologia ha de ser triada per millorar l'aprenentatge, no per modernitzar la forma.
-**Exemple (≥80 paraules):** La professora de llengua prepara una unitat sobre textos expositius. En lloc d'usar el projector per "mostrar" els mateixos textos del llibre (substitució), dissenya una activitat col·laborativa en Docs: cada grup analitza un text diferent en temps real i comparteix les seves observacions en un document comú. La professora pot observar el treball de tots els grups simultàniament i fer intervencions puntuals en el document. La tecnologia (Docs) no substitueix la tasca escrita, sinó que permet una col·laboració i un feedback en temps real que seria impossible analògicament. L'ús de la tecnologia és pedagògicament justificat.
-
-## H5 Avaluar la qualitat del propi disseny instruccional — DOCENT
-**Quan aplica:** Al final d'una unitat didàctica, per reflexionar sobre l'efectivitat del disseny i identificar àrees de millora.
-**Fonament:** L'autoreflexió sobre el propi disseny instruccional és una pràctica clau del docent reflexiu. Preguntes com "Ha funcionat la seqüència?", "Quins alumnes han quedat enrere?" i "Quina part del disseny repetiria i quina canviaria?" alimenten la millora contínua.
-**Exemple (≥80 paraules):** Després d'una unitat de ciències, la professora completa un breu protocol de reflexió: "Quins objectius s'han assolit per la majoria? (tots els de contingut, però no el de comunicació científica). Quines activitats han funcionat millor? (la pràctica de laboratori i el debat). Quines han funcionat menys? (el treball autònom a casa). Quins alumnes han quedat enrere? (tres alumnes amb dificultats lectores que no podien accedir als textos científics). Quina és la meva principal àrea de millora? (dissenyar textos científics accessibles des del principi)." La reflexió converteix cada unitat en una oportunitat d'aprenentatge professional.
-
-## H6 Explorar diverses maneres de demostrar el que s'ha après — ALUMNE
-**Quan aplica:** Quan un alumne té opcions per demostrar la seva comprensió i ha de triar la manera que millor reflecteix el seu aprenentatge.
-**Fonament:** L'estudiant que sap que pot demostrar el seu aprenentatge de diverses maneres experimenta menys ansietat i pot mostrar les seves capacitats reals. La tria autònoma del format d'expressió és una competència metacognitiva.
-**Exemple (≥80 paraules):** En un projecte de ciències socials, el professor ofereix cinc formats de producte final: text escrit, presentació oral, infografia, vídeo o debat. El Pau, que té dislèxia, tria la presentació oral i el vídeo. La Sara, que té ansietat social, tria el text i la infografia. El Jordi, que aprèn millor estructurant idees en veu alta, tria el debat. Tots estan treballant les mateixes competències (comprendre, analitzar, comunicar) però amb instruments que s'adapten al seu perfil. Al final del projecte, tots senten que la seva nota reflecteix el que saben realment.
-
-## H7 Planificar el propi aprenentatge: metes i estratègies — ALUMNE
-**Quan aplica:** Al principi d'una unitat o projecte, per ajudar l'alumne a establir metes personals i estratègies d'aprenentatge.
-**Fonament:** La planificació de l'aprenentatge és una competència metacognitiva fonamental. Quan els alumnes estableixen les seves pròpies metes (dins el marc dels objectius curriculars), augmenta la responsabilitat i el compromís.
-**Exemple (≥80 paraules):** Al principi d'una unitat de matemàtiques, la professora demana a cada alumne que escrigui: "Quina és la meva meta per a aquesta unitat? (Ex.: "Vull entendre les fraccions, no sols aplicar la fórmula".) Quines estratègies usaré? (Ex.: "Faré els exercicis addicionals i demaré ajuda quan em bloquegi".) Com sabré si ho he assolit? (Ex.: "Podré explicar-ho amb les meves paraules sense mirar el llibre".)." Al final de la unitat, cada alumne revisa les seves metes i avalua el seu propi progrés. La professora llegeix les reflexions i les usa per personalitzar el feedback. Els alumnes que es posen metes concretes assoleixen millors resultats que els que no ho fan.
-
-## H8 Reflexió sobre el propi procés d'aprenentatge — ALUMNE
-**Quan aplica:** Al final d'una unitat o projecte, per ajudar l'alumne a identificar les estratègies que han funcionat i les que cal millorar.
-**Fonament:** La reflexió sobre el procés d'aprenentatge és tan important com el contingut après. Un alumne que sap com aprèn és un aprenent per a tota la vida.
-**Exemple (≥80 paraules):** Al final d'un projecte de recerca, el professor proposa un exercici de reflexió en tres passos: (1) "Descriu una cosa que has après sobre el tema" (contingut). (2) "Descriu una cosa que has après sobre com treballes" (procés). (3) "Si tornessis a fer el projecte, quina cosa faries diferent?" (millora). La Mariona escriu: "He après que quan em bloquejo llegint textos difícils, m'ajuda molt fer-los en veu alta. La propera vegada dedicaré les primeres sessions a llegir en veu alta amb el meu grup, no sola." La reflexió és concreta i accionable. La professora la usa per dissenyar la pròxima unitat amb materials accessibles per a la Mariona.
-
-### Fonts i referències
-- Veure # 1. CONTINGUT del document.
-
-### Fonts del corpus scraped
-- Veure frontmatter `fonts` del document.
+*26 documents font · secció generada automàticament*

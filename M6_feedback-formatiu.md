@@ -1,171 +1,193 @@
 ---
-titol: "Feedback Formatiu"
 modul: M6
+titol: "Feedback Formatiu"
 tipus: marc
-etiquetes: [feedback, Hattie, regulacio, feedback-entre-iguals, temporitzacio, feedforward]
-descripcio: "Marc del feedback formatiu: tipus, temporitzacio, qualitat i feedback entre iguals"
+descripcio: "Principis i estratègies del feedback efectiu per a l'aprenentatge: tipus, moments i formes"
 review_status: esborrany
+generat_at: 2026-03-18T15:33:38
 ---
 
-# Feedback Formatiu
+# 1. CONTINGUT ESPECÍFIC
 
+## Definició i principis
 
-# 1. CONTINGUT
+El feedback formatiu, o retroalimentació formativa, és el cor d'una avaluació que posa l'aprenentatge al centre. Tradicionalment, l'avaluació s'ha entès com un procés principalment qualificatiu, on l'alumne demostrava el que havia après i el docent assignava una nota. No obstant això, la mirada actual, especialment en el marc del currículum per competències, ha evolucionat cap a una avaluació que és, abans que res, una eina per aprendre i per regular el procés d'ensenyament-aprenentatge. Com diu María Acaso, "Hem d'anar d'un aprenentatge projectat a l'avaluació a una avaluació projectada a l'aprenentatge."
 
-## PER QUE: Definicio i principis
+La finalitat primordial del feedback formatiu és reguladora. Això significa que busca identificar i analitzar les dificultats i els errors que sorgeixen en el procés d'aprenentatge, i trobar vies per superar-los. Quan aquesta regulació la fa el docent, parlem d'avaluació formativa; quan la fa l'alumne sobre el seu propi procés, parlem d'avaluació formadora. Ambdues són essencials i complementàries. L'avaluació qualificadora, que valora els resultats per orientar o classificar, no és excloent, sinó que es complementa amb la formativa, servint com a comprovació del que s'ha après un cop el procés de regulació ha tingut lloc.
 
-El feedback formatiu es la informacio que es proporciona a l'aprenent sobre la distancia entre el seu nivell actual i l'objectiu, amb la finalitat de reduir-la. No es simplement "dir que ha fet malament": es un proces que respon a tres preguntes: cap a on vaig (objectiu), on soc ara (evidencia del nivell actual) i com puc avancar (estrategies de millora). Quan respon nomes a les dues primeres sense la tercera, informa pero no forma. El feedback que no produeix canvi no ha funcionat: la prova es la resposta de l'alumne, no la intencio del docent.
+Perquè l'avaluació sigui realment formativa, ha de permetre a l'alumne ser conscient del que ha après, del que li queda per aprendre i de què pot fer per continuar aprenent. Això implica desenvolupar la capacitat d'autoregulació, que es fonamenta en diversos pilars:
+*   **Identificar els objectius d'aprenentatge**: L'alumne ha de saber clarament què s'espera que aprengui i per què fa una activitat. Sense aquesta comprensió, és impossible que pugui reconèixer què no està prou ben fet.
+*   **Anticipar i planificar l'acció**: Les persones expertes planifiquen la seva feina. Ensenyar als alumnes a anticipar els passos i les estratègies per realitzar una tasca els dota d'autonomia.
+*   **Compartir els criteris d'avaluació**: Els alumnes han de conèixer els "criteris d'èxit", és a dir, què fa que una tasca estigui ben feta. Aquesta informació no ha de ser unidireccional, sinó que cal assegurar que els alumnes se l'han "representat" adequadament.
+*   **Identificar dificultats i fortaleses**: El feedback ha d'ajudar l'alumne a reconèixer els seus punts forts i febles, i a entendre les causes dels seus errors.
+*   **Reaccionar i trobar estratègies de millora**: El feedback no només assenyala l'error, sinó que guia l'alumne cap a possibles solucions i accions correctores.
 
-## Autors i evidencia
+L'error és una part normal i, fins i tot, necessària de l'aprenentatge. Si un alumne fa bé una tasca la primera vegada, o ja la sabia o l'ha copiat, i en cap cas hi ha aprenentatge significatiu. Per tant, el feedback formatiu requereix la creació d'un clima d'aula on l'error es pugui manifestar sense ser penalitzat, on hi hagi espai per a la reflexió, el diàleg i la revisió. La por i l'ansietat són contraproduents per a l'aprenentatge.
 
-Hattie i Timperley proposen quatre nivells: feedback sobre la tasca, sobre el proces, sobre l'autoregulacio i sobre la persona. El feedback sobre proces i autoregulacio es significativament mes efectiu; el de persona es contraproduent. Sadler estableix que el feedback nomes es util si l'alumne pot actuar-hi. Nicol i Macfarlane-Dick identifiquen set principis del bon feedback, destacant el dialeg i el foment de l'autoavaluacio. Wiliam insisteix que el feedback ha de ser "mes treball per a l'alumne que per al docent".
+Aquest enfocament de l'avaluació té un impacte directe en la motivació i l'autoestima de l'alumnat, ja que els ajuda a entendre millor les seves dificultats i a trobar camins per millorar. Promou la seva implicació i els fa més autònoms, un aspecte fonamental per al desenvolupament de qualsevol competència. En definitiva, el feedback formatiu transforma l'avaluació en un procés continu de regulació que acompanya i impulsa l'aprenentatge.
 
-## Exemples
+## Autors i evidència clau
 
-**Exemple 1: Feedback de proces en matematiques.** Un professor de 1r d'ESO corregeix un problema on l'alumne ha errat el resultat. Analitza el procediment: el plantejament es correcte pero hi ha un error de signe a la tercera linia. El feedback es: "Plantejament correcte. Mira la tercera linia: quan passes el -5, quin signe ha de tenir? Refes des d'aqui." Actua sobre el proces, indica on es l'error i que fer, preservant la part correcta. L'alumne rep temps per corregir abans de la qualificacio.
+Diversos autors i investigadors han contribuït significativament al marc del feedback formatiu:
 
-**Exemple 2: Feedback entre iguals en escriptura.** Una mestra de 4t implementa feedback entre iguals per textos narratius. El company respon: "Quina part t'ha agradat mes?", "On t'has perdut?" i "Quin consell per millorar el final?". Les preguntes generen feedback especific sense coneixements tecnics. L'alumne autor decideix quins canvis fa. La mestra intervé quan el feedback es vague. El valor es doble: l'autor millora i el revisor desenvolupa lectura critica.
+*   **Neus Sanmartí i Jaume Jorba**: Són referents clars a Catalunya en avaluació per competències. Sanmartí, autora de "Avaluar per aprendre", destaca la funció reguladora de l'avaluació i la importància de fer-la gratificant per a l'alumne. Juntament amb Jorba, afirmen que "Ensenyar, aprendre i avaluar són, de fet, processos coincidents", subratllant la integració d'aquests elements en un procés continu. La seva feina posa èmfasi en la necessitat que l'alumne sigui protagonista de la seva avaluació per corregir i millorar.
+*   **Jane Jones (King’s College London)**: Especialista en avaluació per a la millora dels aprenentatges, ha analitzat les tendències de l'avaluació formativa (també coneguda com "avaluació per aprendre" o AxA). Jones subratlla que l'AxA no ha de causar ansietat i que els mestres s'estan fent seves la retroalimentació i la reflexió sobre la pròpia pràctica. La seva recerca, incloent la participació en el Projecte Multilateral Comenius "SAIL" (Student Assessment for Improving Learning), destaca la importància de la veu dels alumnes en el procés.
+*   **María Acaso**: La seva cita "Hem d'anar d'un aprenentatge projectat a l'avaluació a una avaluació projectada a l'aprenentatge" (rEDUvolution) resumeix la transformació de la mirada avaluadora cap a una funció intrínsecament lligada al procés d'aprenentatge.
+*   **Philippe Perrenoud**: La seva afirmació "L'èxit dels aprenentatges es juga més en la correcció i en l’(auto) regulació contínua que no pas en la genialitat del mètode" posa en valor la constància i la capacitat de revisió com a factors clau per a l'aprenentatge efectiu.
+*   **Carles Monereo (UAB)**: Ha treballat en la importància de repensar l'avaluació per canviar l'ensenyament, amb una perspectiva que inclou la Guia per a l'anàlisi de preguntes d'avaluació des de la perspectiva PISA (GAPPISA), que orienta cap a proves més autèntiques i competencials.
+*   **Elizabeth Coelho, J. Oller i J. M. Serra**: En el seu llibre "Lenguaje y aprendizaje en el aula multilingüe. Un enfoque práctico", proposen una gradació dels objectius d'aprenentatge que es pot tenir en compte per elaborar Plans de Suport Individualitzat (PI), especialment per a alumnes amb baixa competència lingüística, assegurant que l'avaluació sigui equitativa i adaptada.
+*   **Jean-Pierre Astolfi**: En "El error, un medio para enseñar", defensa la idea que l'error és una font d'aprenentatge i que cal canviar la percepció que se'n té a l'aula.
 
-## Errors comuns
+Aquests autors, tot i tenir enfocaments lleugerament diferents, convergeixen en la idea central que l'avaluació ha de ser una eina al servei de l'aprenentatge, fomentant l'autonomia de l'alumne i la reflexió sobre la pròpia pràctica docent. La tensió principal no és entre ells, sinó entre la tradició avaluadora centrada en la qualificació i la nova perspectiva formativa i reguladora.
 
-- Feedback tarda quan l'alumne ja ha passat a un altre tema.
-- Centrat en la persona en lloc del proces.
-- Comentaris extensos que l'alumne no llegeix.
-- No oferir oportunitat d'aplicar el feedback.
-- Barrejar feedback amb qualificacio: l'alumne ignora comentaris i se centra en la nota.
-- Feedback ambigu: "millora la redaccio" no es accionable.
+## Exemples concrets d'aplicació a l'aula
 
-## Matissos
+El feedback formatiu es pot aplicar de diverses maneres, adaptant-se a l'etapa educativa i a les característiques de l'alumnat.
 
-Feedback immediat es efectiu per tasques procedimentals pero pot ser contraproduent en tasques complexes si interromp el pensament. Massa feedback satura: centrar-se en un o dos aspectes prioritaris. El feedback entre iguals complementa el del docent i requereix aprenentatge previ. El feedforward (orientacio cap endavant) sovint es mes util que el feedback retrospectiu.
+*   **Educació Primària (Cicle Inicial - 2n curs)**:
+    *   **Abans**: En una unitat sobre alimentació saludable, en lloc de demanar als alumnes que classifiquin aliments en una llista tancada, el docent presenta el cas d'un personatge ("En Josep és un noi grassonet, li costa córrer i es posa malalt sovint") i la seva dieta setmanal. Abans de començar, es demana als alumnes que, en petit grup, anticipin per què creuen que en Josep està grassonet i què hauria de menjar. Aquesta activitat inicial serveix per activar coneixements previs i explicitar els objectius d'aprenentatge (DOC 13, 26).
+    *   **Durant**: Mentre els alumnes investiguen i aprenen sobre els grups d'aliments i la piràmide alimentària, el docent els proporciona una "base d'orientació" senzilla, creada col·lectivament, amb els passos per dissenyar un menú equilibrat. Els alumnes l'utilitzen per autoavaluar els seus esborranys de menú i coavaluar els dels companys, donant-se feedback mutu sobre si han inclòs prou varietat o si les racions són adequades (DOC 30).
+    *   **Després**: La tasca final és escriure una carta a la tieta d'en Josep, explicant-li per què la dieta actual no és saludable i proposant un menú setmanal equilibrat. Després de lliurar la carta, el docent no posa una nota directament, sinó que marca les parts que es podrien millorar i proposa un temps de revisió. Els alumnes, utilitzant una rúbrica compartida, revisen la seva carta, identifiquen els errors i proposen millores, que poden ser discutides en parelles o amb el docent. Aquesta revisió és la que realment consolida l'aprenentatge (DOC 6, 13, 26).
 
----
+*   **Educació Secundària Obligatòria (ESO - 3r curs)**:
+    *   **Abans**: En un projecte sobre la sostenibilitat i el consum responsable, el docent presenta un repte: "Com podem reduir la petjada ecològica del nostre institut?". Abans de començar la recerca, els alumnes, en grups, han de definir els objectius del projecte, els criteris d'èxit (què faria que la nostra proposta fos bona?) i planificar els passos inicials. El docent facilita un "full d'indicadors" per autoavaluar la qualitat de la planificació inicial, fomentant l'anticipació i la metacognició (DOC 20, 21, 23).
+    *   **Durant**: A mesura que els grups investiguen i elaboren les seves propostes, utilitzen una "carpeta d'aprenentatge" digital per recollir evidències del seu procés: esborranys, fonts consultades, reflexions, autoavaluacions de la feina en equip, etc. El docent fa sessions de feedback oral amb cada grup, centrant-se en el procés de recerca i en la coherència dels arguments, no només en el producte final. També es realitzen sessions de coavaluació entre grups per millorar les propostes (DOC 12, 16, 28).
+    *   **Després**: La presentació final de les propostes es valora amb una rúbrica detallada, coneguda des del principi. Després de la presentació, els alumnes reben feedback del docent i dels companys basat en la rúbrica. En lloc d'una nota immediata, se'ls demana que facin una reflexió final per escrit a la seva carpeta d'aprenentatge, identificant els aprenentatges clau, les dificultats superades i les millores que farien si haguessin de repetir el projecte. Aquesta reflexió és part de l'avaluació final (DOC 18).
+
+*   **Batxillerat/Formació Professional (FP - Cicle Formatiu de Grau Mitjà)**:
+    *   **Abans**: En un mòdul de disseny web, el docent planteja el projecte de crear una pàgina web per a una empresa local. Abans de començar a programar, els alumnes han de fer un "briefing" amb el client (simulat), definir els requisits, els objectius del lloc web i els criteris d'èxit des de la perspectiva del client. El docent els guia en la creació d'una "base d'orientació" per a la fase de disseny i maquetació, que inclou aspectes tècnics i de usabilitat, i que servirà com a llista de comprovació per a l'autoavaluació (DOC 30).
+    *   **Durant**: A mesura que els alumnes desenvolupen el projecte, realitzen "tests d'usabilitat" amb companys d'altres grups, que actuen com a usuaris beta. Aquests companys proporcionen feedback constructiu sobre la navegabilitat, l'estètica i la funcionalitat de la web, utilitzant una plantilla de coavaluació. El docent també revisa els progressos periòdicament, oferint feedback específic sobre el codi, l'estructura i la implementació de les funcionalitats, animant-los a documentar les decisions i els canvis a la seva carpeta d'aprenentatge (DOC 12, 16, 28).
+    *   **Després**: La presentació final del projecte inclou una defensa davant d'un "comitè d'experts" (docents i professionals convidats). El feedback rebut es centra en la qualitat del producte, la resolució de problemes i la justificació de les decisions tècniques. Després, els alumnes realitzen una autoavaluació exhaustiva del projecte, comparant el producte final amb els objectius inicials i els criteris d'èxit, i reflexionant sobre les habilitats adquirides i els reptes superats. Aquesta reflexió és crucial per a la seva qualificació i per al seu desenvolupament professional (DOC 18, 29).
+
+## Errors comuns — què NO fer
+
+1.  **Limitar el feedback a una qualificació numèrica o una correcció superficial sense indicacions de millora**:
+    *   **Per què NO fer-ho**: Si el docent només comunica un número o marca errors sense explicar el "per què" o el "com millorar", l'avaluació perd la seva funció reguladora. L'alumne no té informació útil per entendre les seves dificultats ni per trobar estratègies per superar-les, i es dedica l'avaluació a un objectiu extern a l'aula (acreditació) en lloc d'ajudar l'aprenentatge. Això pot generar ansietat i desmotivació, ja que l'alumne no percep el valor formatiu de l'esforç.
+2.  **No compartir els objectius d'aprenentatge i els criteris d'avaluació amb l'alumnat des del principi**:
+    *   **Per què NO fer-ho**: La primera condició de l'avaluació formativa és que l'aprenent entengui clarament què s'espera que aprengui i com serà avaluat. Si els objectius i criteris no són clars o no s'han "representat" adequadament per l'alumne, aquest pot sentir-se perdut, no saber per què fa una activitat o què significa fer-la bé. Això impedeix la seva capacitat d'autoregulació i fa que l'esforç se centri en "endevinar" el que el docent vol, en lloc de centrar-se en l'aprenentatge significatiu.
+3.  **Crear un clima d'aula on l'error és penalitzat o ridiculitzat**:
+    *   **Per què NO fer-ho**: L'error és una part inherent i necessària de qualsevol procés d'aprenentatge. Si els alumnes tenen por d'equivocar-se, evitaran prendre riscos, explorar noves idees o fer preguntes, limitant així el seu aprenentatge. Un entorn on l'error és vist com un fracàs, en lloc d'una oportunitat de millora, genera ansietat, baixa autoestima i inhibeix el desenvolupament de l'autonomia i la resiliència. L'avaluació reguladora requereix un clima de confiança on l'error es pugui analitzar i superar.
+4.  **Utilitzar sempre els mateixos instruments d'avaluació o canals d'expressió, sense adaptar-se a la diversitat**:
+    *   **Per què NO fer-ho**: Especialment en aules amb alumnes nouvinguts o amb baixa competència lingüística, la rigidesa en els instruments d'avaluació (per exemple, només proves escrites tradicionals) pot impedir que l'alumnat demostri realment el que ha après. No diversificar els canals d'expressió (oral, visual, pràctic) o no adaptar els criteris pot portar a una avaluació injusta i a una manca de dades fiables sobre el seu progrés real, dificultant la regulació de l'aprenentatge per a aquests perfils.
+
+## Matissos i excepcions
+
+El feedback formatiu és un pilar fonamental, però la seva aplicació requereix matisos i, en alguns casos, excepcions per ser realment efectiu i inclusiu:
+
+*   **Plans de Suport Individualitzat (PI) per a alumnes amb necessitats lingüístiques o acadèmiques específiques**: Per a alumnes nouvinguts o aquells amb una baixa competència acadèmica que s'incorporen a l'aula ordinària, pot ser necessari un plantejament avaluatiu diferent. El PI esdevé un acord d'avaluació on l'equip docent pacta criteris d'avaluació ajustats (superiors o inferiors al nivell de l'aula) i mesures de suport. Excepcionalment, pot implicar que algunes matèries no s'avaluïn temporalment. Aquest PI és transitori i desapareix quan l'alumne assoleix el nivell de competència adequat. Aquesta flexibilitat és crucial per garantir la inclusió i el progrés d'aquests alumnes, sense que la barrera lingüística o la bretxa acadèmica inicial impedeixin una avaluació formativa justa.
+*   **La funció qualificadora de l'avaluació**: Tot i que l'èmfasi recau en la funció reguladora, l'avaluació qualificadora segueix sent necessària per certificar aprenentatges i prendre decisions sobre el pas de curs. La clau és que la qualificació sigui el resultat d'un procés d'avaluació formativa transparent i coherent. No es tracta d'eliminar les notes, sinó d'assegurar que aquestes reflecteixin un procés d'aprenentatge regulat i que els criteris de qualificació siguin coneguts i compartits amb l'alumnat. La tensió entre avaluar per aprendre i avaluar per qualificar es resol integrant ambdues funcions, on la formativa alimenta i informa la qualificadora.
+*   **Temps i maduresa per a l'autoregulació**: L'aprenentatge de l'autoregulació no és immediat. Comportarà temps i un acompanyament continu per part del professorat, tant des del punt de vista cognitiu com emocional. En alguns casos, els alumnes poden trigar més d'un any a interioritzar què significa autoregular-se. Això implica que el feedback formatiu ha de ser persistent, coherent entre tot el claustre i adaptat a la maduresa de l'alumne. Com més petits comencen a desenvolupar aquesta capacitat, millor, ja que després dels 14 anys, amb una autoimatge més consolidada, pot ser més difícil. Per tant, no es pot esperar una autonomia plena des del primer moment, sinó que és un procés gradual que requereix paciència i estratègies pedagògiques continuades.
+*   **Flexibilitat en els instruments i la rutina**: No hi ha una "talla única" per als instruments de feedback formatiu. La carpeta d'aprenentatge, les rúbriques o les bases d'orientació han de poder adaptar-se al contingut, a les característiques de l'alumnat i als recursos disponibles. És important variar les estructures i els formats per evitar la rutina i mantenir l'interès. Això significa que, si bé els principis del feedback formatiu són universals, la seva materialització en eines concretes ha de ser flexible i contextualitzada, evitant la rigidesa que podria buidar de sentit la pràctica.
 
 # 2. CONNEXIONS AMB ALTRES DOCUMENTS DEL CORPUS
 
-| Document | Relacio |
-|---|---|
-| M6_avaluacio-formativa-formadora.md | El feedback com a mecanisme central |
-| M6_tipologia-instruments-avaluacio.md | Instruments que generen evidencies sobre les quals es dona feedback |
-| M5_rols-IA-educacio.md | La IA com a font de feedback automatitzat |
-| M5_prompt-engineering-educatiu.md | Disseny de prompts per generar feedback assistit |
+*   **Pla de Suport Individualitzat (PI)**: Aquest document explica com el PI és un acord d'avaluació clau per adaptar els criteris i suports a alumnes amb necessitats lingüístiques o acadèmiques, connectant amb la flexibilitat del feedback formatiu per a la inclusió.
+*   **Carpeta d'aprenentatge**: Es descriu com una eina fonamental per recollir evidències i reflexionar sobre el propi aprenentatge, sent un instrument directe per a l'avaluació formadora i l'autoregulació.
+*   **Autoavaluació i Coavaluació**: Aquests documents detallen estratègies i pautes per a la implementació d'aquestes pràctiques, que són components essencials del feedback formatiu per empoderar l'alumne en la regulació del seu aprenentatge.
+*   **Rúbrica per a l'avaluació de la resolució reflexiva i argumentada de problemes aritmètics**: Aquest document és un exemple concret d'instrument que facilita el feedback formatiu, ja que explicita els criteris d'èxit i permet a l'alumne i al docent identificar el nivell d'assoliment i els punts de millora.
+*   **Base d'orientació**: Aquesta eina es presenta com un instrument d'avaluació formativa que ajuda a l'alumne a planificar-se i autoavaluar-se, mostrant una seqüència d'accions per resoldre una tasca.
+*   **Pautes per a la gestió formativa d'una prova o activitat d'avaluació**: Aquest document ofereix directrius pràctiques sobre com dissenyar i gestionar proves per maximitzar el seu potencial formatiu, complementant els principis del feedback.
+*   **Full d'indicadors per a l'ensenyant (Compartir objectius i criteris d'avaluació)**: Aquest document proporciona una llista de comprovació per als docents sobre com comunicar eficaçment els objectius i criteris, una condició indispensable per a un feedback formatiu efectiu.
+*   **Documents de modificació de proves d'avaluació (Cicle Inicial, Mitjà, Superior)**: Aquests exemples il·lustren com transformar proves tradicionals en activitats més competencials i autèntiques, que generen més oportunitats per a un feedback formatiu significatiu.
+*   **Avaluació formativa: Què hi ha de nou? (Dra. Jane Jones)**: Aquest article aprofundeix en les tendències i la importància de l'avaluació per aprendre, reforçant la base teòrica del feedback formatiu.
 
 # 3. DETECCIÓ (Variables de Context)
 
-**Senyals docent:**
-1. Dedica molt temps a corregir pero els alumnes no milloren.
-2. Comentaris generics: "be", "cal millorar".
-3. Feedback sempre amb la nota; alumnes ignoren comentaris.
-4. No te temps per feedback individual.
-5. Voluntat d'implementar feedback entre iguals pero inseguretat.
+**Senyals del docent**
+*   "Els meus alumnes no entenen per què fan les activitats o quins són els criteris per fer-les bé."
+*   "Les meves avaluacions finals no reflecteixen prou bé el procés d'aprenentatge, només el resultat."
+*   "Els alumnes no saben com millorar després de rebre una nota o una correcció."
+*   "Vull que els meus alumnes siguin més autònoms i responsables del seu propi aprenentatge."
+*   "Necessito eines per ajudar els alumnes a reflexionar sobre els seus errors i a trobar solucions."
+*   "Com puc fer que l'avaluació sigui menys estressant i més motivadora per als meus alumnes?"
+*   "El feedback que dono no sembla tenir un impacte real en la millora dels aprenentatges."
 
-**Senyals alumne:** Repeteix mateixos errors malgrat correccions. Pregunta "que he de fer per millorar?" sense orientacio.
+**Senyals de l'alumne**
+*   "No sé què he de fer per millorar aquesta tasca."
+*   "Només m'interessa la nota final, no entenc per què he de revisar la meva feina."
+*   "Tinc por d'equivocar-me o de preguntar perquè no vull que em penalitzin."
+*   "Em sento perdut/da durant les tasques complexes i no sé com començar o continuar."
+*   "No entenc per a què serveix aquesta activitat en concret."
 
-**Anti-senyals:** Preocupacio exclusiva per corregir mes rapid sense qüestionar qualitat.
+**Senyals de context**
+*   A l'inici d'una nova unitat didàctica, projecte o tasca complexa.
+*   Durant el desenvolupament d'una activitat que requereix un procés de creació o resolució de problemes.
+*   Després de la realització d'una activitat o prova, abans de la qualificació final.
+*   En grups amb una gran diversitat de ritmes d'aprenentatge o amb alumnes amb necessitats específiques.
+*   Quan es busca fomentar l'autonomia, la metacognició i el treball col·laboratiu.
+*   En moments de revisió o consolidació d'aprenentatges.
+
+**Anti-senyals**
+*   Si l'objectiu principal i gairebé exclusiu de l'avaluació és la certificació externa o la selecció d'alumnes per a un programa molt específic amb criteris estandarditzats i innegociables.
+*   Si el docent no està disposat a ajustar la seva planificació didàctica o les seves estratègies d'ensenyament en funció de les evidències recollides a través del feedback.
+*   Si no hi ha temps, espai o recursos per a la reflexió, el diàleg i la revisió a l'aula.
+*   Si la cultura del centre o de l'aula penalitza sistemàticament l'error sense oferir oportunitats de millora.
+*   Si el feedback es dona de manera massiva i genèrica, sense personalització ni especificitat per a cada alumne o grup.
 
 # 4. HEURÍSTIQUES I RAONAMENT PER A L'AGENT
 
-## H1 Quan un docent vol millorar el seu feedback escrit — DOCENT
+**Principi general**: Prioritza sempre la funció reguladora de l'avaluació per potenciar l'autonomia i la millora contínua de l'aprenentatge.
 
-**Quan aplica:** Quan un docent vol millorar el seu feedback escrit.
+### Heurístiques per a l'Agent DOCENT
 
-**Fonament:** Feedback efectiu: especific, descriptiu, orientat a l'accio i oportu. Estrategia "medalles i missions": un aspecte ben fet (medalla) i una accio de millora (missio).
+1.  **Heurística: Fomenta la metacognició des del principi.**
+    *   **Quan aplica**: En iniciar qualsevol activitat, unitat o projecte.
+    *   **Fonament**: L'avaluació formativa requereix que l'alumne entengui els objectius i criteris d'èxit per poder autoregular-se. Si no sap per què fa una tasca, és impossible reconèixer els seus errors ni com millorar. La comunicació no ha de ser unidireccional, sinó que cal assegurar que els alumnes se l'han "representat" adequadament.
+    *   **Exemple complet de raonament**: Un docent vol introduir un nou projecte sobre el canvi climàtic. En lloc de simplement explicar "què farem" i llistar les tasques, l'agent suggeriria al docent iniciar la sessió amb preguntes obertes com "Què esperem aprendre amb aquest projecte?", "Què considerarem un bon resultat al final?", o "Quins coneixements previs tenim sobre el canvi climàtic i què ens agradaria descobrir?". Aquesta aproximació, basada en la comunicació bidireccional d'objectius i criteris, activa la reflexió dels alumnes des del primer moment. En fer-los partícips de la definició de les fites i els criteris d'èxit, s'augmenta la seva motivació i la seva capacitat d'autoregulació al llarg del projecte, ja que tenen un marc clar per avaluar el seu propi progrés.
 
-**Exemple:** En lloc de "bon treball, millora ortografia": "Descripcio vivida pels adjectius sensorials (medalla). Revisa paraules marcades: errors d'accentuacio en esdruxoles (missio)."
+2.  **Heurística: Converteix l'error en una oportunitat d'aprenentatge.**
+    *   **Quan aplica**: Quan l'alumne comet errors en una tasca o activitat.
+    *   **Fonament**: L'error és una part natural i necessària de l'aprenentatge. Penalitzar-lo genera ansietat, por i inhibeix la voluntat de l'alumne de prendre riscos i explorar. Un clima d'aula segur on l'error és analitzat i regulat és fonamental per al progrés i per desenvolupar l'autonomia.
+    *   **Exemple complet de raonament**: Un alumne ha fet un exercici de matemàtiques amb diversos errors. En lloc de corregir-lo amb una "X" i una nota baixa, l'agent podria aconsellar al docent que marqui els errors sense donar la solució i que plantegi preguntes obertes: "Quina part d'aquest problema et va resultar més difícil?", "Quin pas creus que podries revisar?", o "Quina estratègia vas utilitzar i per què?". Aquest enfocament convida l'alumne a reflexionar sobre el seu procés de pensament, a identificar la causa de l'error i a buscar solucions per si mateix. D'aquesta manera, es transforma la frustració potencial en una experiència d'aprenentatge activa i constructiva, fomentant la resiliència i la capacitat d'autoregulació davant les dificultats.
 
+3.  **Heurística: Diversifica les fonts i formats del feedback.**
+    *   **Quan aplica**: En qualsevol moment del procés d'avaluació formativa.
+    *   **Fonament**: El feedback no ha de ser només del docent ni sempre escrit. La coavaluació i l'autoavaluació són instruments poderosos per a l'autoregulació. Diversificar formats (oral, visual, escrit) i instruments (rúbriques, carpetes d'aprenentatge, bases d'orientació) atén la diversitat d'aprenentatge i millora la comprensió i la implicació.
+    *   **Exemple complet de raonament**: Un docent està avaluant un projecte de recerca. En lloc de només donar una nota i comentaris escrits, l'agent podria suggerir l'ús d'una rúbrica compartida prèviament per a una coavaluació entre parelles d'alumnes, seguida d'una autoavaluació individual basada en la mateixa rúbrica. A més, es podria proposar una breu conversa individual amb el docent per a un feedback oral més personalitzat, centrat en el procés de recerca. Aquesta combinació de fonts i formats no només alleugereix la càrrega del docent, sinó que també empodera els alumnes, millora la seva capacitat crítica i els ajuda a interioritzar els criteris d'èxit de manera més profunda i significativa, ja que reben perspectives diverses i han de reflexionar activament.
+
+4.  **Heurística: Adapta l'avaluació a la diversitat lingüística i de ritmes.**
+    *   **Quan aplica**: Amb alumnes nouvinguts, amb NEE, o amb baixa competència lingüística.
+    *   **Fonament**: La dificultat per expressar-se en la llengua vehicular no ha d'impedir demostrar el que s'ha après. L'avaluació ha de ser inclusiva i permetre que tots els alumnes puguin mostrar el seu progrés, diversificant els canals d'expressió i adaptant els instruments.
+    *   **Exemple complet de raonament**: Un docent té un alumne nouvingut amb un nivell baix de català en la seva classe de secundària. En lloc d'esperar que l'alumne respongui les proves escrites de la mateixa manera que els seus companys, l'agent aconsellaria al docent que consideri adaptar els instruments d'avaluació. Això podria implicar permetre respostes orals, l'ús de dibuixos o esquemes per expressar idees, proves amb suport visual, o la possibilitat de fer servir un traductor per a instruccions clau. A més, es podria suggerir la creació d'un Pla de Suport Individualitzat (PI) que estableixi criteris d'avaluació ajustats temporalment. Aquesta flexibilitat assegura que l'alumne pugui participar i progressar sense que la barrera lingüística sigui un obstacle insalvable per a la seva avaluació formativa, garantint una avaluació justa i inclusiva del seu aprenentatge real.
+
+5.  **Heurística: Promou la planificació i l'anticipació de l'acció.**
+    *   **Quan aplica**: En tasques complexes o projectes de llarga durada.
+    *   **Fonament**: Les persones expertes planifiquen i anticipen els passos. Ensenyar als alumnes a fer-ho els ajuda a desenvolupar estratègies cognitives superiors, a gestionar millor el temps i els recursos, i a ser més autònoms en la resolució de problemes.
+    *   **Exemple complet de raonament**: Un docent assigna un treball de recerca als seus alumnes de batxillerat. En lloc de deixar-los començar directament, l'agent recomanaria dedicar una sessió a la creació d'una "base d'orientació" col·lectiva. Aquesta eina, que resumeix els passos clau i les accions a seguir (com ara "definir el tema", "buscar fonts fiables", "estructurar la informació", "redactar l'esborrany", "revisar amb la rúbrica"), permet als alumnes planificar la seva feina, anticipar possibles dificultats i tenir un full de ruta clar. Utilitzar aquesta base d'orientació no només com a guia, sinó també com a instrument d'autoavaluació durant el procés, fomenta la seva autonomia i la seva capacitat per gestionar projectes complexos de manera efectiva, reduint la sensació de desbordament i augmentant la probabilitat d'èxit.
+
+### Heurístiques per a l'Agent ALUMNE
+
+1.  **Heurística: Busca entendre el "per què" i el "com" de la teva feina.**
+    *   **Quan aplica**: Abans de començar una tasca o quan no entens el seu propòsit o els criteris d'avaluació.
+    *   **Fonament**: Saber els objectius de l'activitat i els criteris d'avaluació t'ajuda a enfocar el teu esforç i a saber què s'espera de tu. Això et permetrà autoregular-te i millorar de manera efectiva.
+    *   **Exemple complet de raonament**: Un alumne rep una nova activitat i no té clar per a què serveix o què ha de fer exactament per obtenir un bon resultat. L'agent li suggeriria que, abans de començar, es faci preguntes com "Quin és l'objectiu principal d'aquesta activitat?", "Què se m'avalua exactament?", o "Com sabré si ho he fet bé?". Si les respostes no són clares, l'agent l'animaria a preguntar al docent o a un company. Entendre el propòsit i els criteris des del principi no només redueix la frustració i la incertesa, sinó que també orienta el seu aprenentatge, permetent-li planificar millor la seva feina i identificar els seus propis punts de millora de manera més efectiva i autònoma.
+
+2.  **Heurística: Considera l'error com una oportunitat per aprendre.**
+    *   **Quan aplica**: Quan detectes un error en la teva feina o quan reps una correcció.
+    *   **Fonament**: Els errors són part natural i necessària del procés d'aprenentatge. Analitzar-los t'ajuda a comprendre millor la matèria, a identificar les causes de la dificultat i a desenvolupar estratègies per no repetir-los, fomentant la resiliència i un aprenentatge més profund.
+    *   **Exemple complet de raonament**: Un alumne ha rebut una tasca corregida amb indicacions sobre els errors. En lloc de desanimar-se o simplement mirar la nota, l'agent li aconsellaria que revisi cada error i es pregunti: "Per què m'he equivocat aquí?", "Què no vaig entendre?", "Com ho podria haver fet millor?". L'agent podria suggerir-li que intenti corregir l'error per si mateix abans de demanar ajuda, o que busqui exemples similars o consulti apunts. Aquesta actitud proactiva davant l'error transforma una possible font de frustració en una eina potent per a la millora contínua, permetent-li aprendre de les seves pròpies dificultats i reforçant la seva capacitat d'autoregulació.
+
+3.  **Heurística: Utilitza les eines de reflexió i el feedback dels companys.**
+    *   **Quan aplica**: Quan treballes en grup o quan el docent proposa autoavaluació/coavaluació.
+    *   **Fonament**: Reflexionar sobre el teu propi aprenentatge (autoavaluació) i rebre perspectives dels companys (coavaluació) et proporciona una visió més completa del teu progrés. Aquesta pràctica t'ajuda a identificar punts cecs, a millorar habilitats de pensament crític i a desenvolupar la capacitat de donar i rebre feedback constructiu.
+    *   **Exemple complet de raonament**: Un alumne ha de fer una presentació oral en grup i el docent ha proporcionat una rúbrica. L'agent li suggeriria que, abans de la presentació final, utilitzi la rúbrica per autoavaluar la seva part i demanar a un company que coavaluï la seva actuació. L'agent podria guiar l'alumne a preguntar al company: "Què creus que he fet bé en la meva exposició?", "Què podria millorar en la meva part?", "La meva explicació és clara i entenedora per a tu?". Aquest procés de reflexió individual i intercanvi amb els iguals no només millora la qualitat del treball final, sinó que també desenvolupa habilitats de pensament crític i comunicació, preparant l'alumne per a un aprenentatge més col·laboratiu i autònom en el futur.
 ---
 
-## H2 Quan es vol separar feedback de qualificacio — DOCENT
+## 5. FONTS DEL CORPUS
 
-**Quan aplica:** Quan es vol separar feedback de qualificacio.
+| # | Títol | URL |
+|---|-------|-----|
+| 6 | cursos:curriculum:inf_pri:cape:aval:index [Formació del professorat] | http://ateneu.xtec.cat/wikiform/wikiexport/cursos/curriculum/inf_pri/cape/aval/index |
+| 12 | carpeta-aprenentatge_2620ab3872.pdf | https://xtec.gencat.cat/web/.content/curriculum/xarxacb/documents/instruments-avaluacio-formativa/carpeta-aprenentatge.pdf |
+| 13 | 3._modificacio_prova_avaluacio_cicle_inicial_8594dbd6d4.pdf | http://ateneu.xtec.cat/wikiform/wikiexport/_media/cursos/curriculum/inf_pri/cape/3._modificacio_prova_avaluacio_cicle_inicial.pdf |
+| 16 | La-carpeta-daprenentatge_2cdfda0ad0.pdf | http://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0003/0e9f449b-790e-4fd7-a9e9-1cab53252ae3/La-carpeta-daprenentatge.pdf |
+| 18 | 3a_presentacio_-autoexplicativa_5_9_88d91daaeb.pdf | http://ateneu.xtec.cat/wikiform/wikiexport/_media/cursos/curriculum/inf_pri/cape/3a_presentacio_-autoexplicativa_5_9.pdf |
+| 20 | 2._es_competencial_aquesta_prova_b4b85a43ac.pdf | http://ateneu.xtec.cat/wikiform/wikiexport/_media/cursos/curriculum/inf_pri/cape/2._es_competencial_aquesta_prova.pdf |
+| 21 | Full-indicadors-compartir-objectius-i-criteris-ava_4448f3a238.pdf | http://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0083/c7780a61-36f9-4a59-aeca-21acafc597f3/Full-indicadors-compartir-objectius-i-criteris-avaluacio.pdf |
+| 23 | Pautes-per-compartir-objectius-i-criteris-d-avalua_32b5566812.pdf | http://xtec.gencat.cat/web/.content/documents/Pautes-per-compartir-objectius-i-criteris-d-avaluaci.pdf |
+| 26 | BANUS_CI_MODIFICACIO_ACTIVITAT_COMPETENCIAL_145f5a418f.pdf | http://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0026/f5b4e60d-88cc-4364-bb7f-4cb2243769bf/BANUS_CI_MODIFICACIO_ACTIVITAT_COMPETENCIAL.pdf |
+| 28 | autoavaluacio-coavaluacio_52971de36c.pdf | http://xtec.gencat.cat/web/.content/curriculum/xarxacb/documents/instruments-avaluacio-formativa/autoavaluacio-coavaluacio.pdf |
+| 29 | 81d0d8_50ad5ebf0be14ae5ac31074d3ec3302d_60f99c9a2a.pdf | https://docs.wixstatic.com/ugd/81d0d8_50ad5ebf0be14ae5ac31074d3ec3302d.pdf |
+| 30 | base-orientacio_7dc60ba889.pdf | http://xtec.gencat.cat/web/.content/curriculum/xarxacb/documents/instruments-avaluacio-formativa/base-orientacio.pdf |
 
-**Fonament:** Amb nota i comentaris junts, l'alumne ignora el feedback. Separar-los temporalment maximitza l'efecte formatiu.
-
-**Exemple:** El professor lliura redaccions amb comentaris sense nota. Dos dies per revisar. Lliuren versio revisada i aleshores reben qualificacio que valora text i qualitat de la revisio.
-
----
-
-## H3 Quan s'implementa feedback entre iguals — DOCENT
-
-**Quan aplica:** Quan s'implementa feedback entre iguals.
-
-**Fonament:** Tres condicions: coneixement de criteris, estructura guiada i practica previa amb exemples.
-
-**Exemple:** Practiquen amb text anonim d'un curs anterior. En parelles, identifiquen punt fort i area de millora. La mestra modela com refinar comentaris vagues.
-
----
-
-## H4 Quan no hi ha temps per feedback individual — DOCENT
-
-**Quan aplica:** Quan no hi ha temps per feedback individual.
-
-**Fonament:** Alternatives: feedback grupal sobre errors comuns, feedback selectiu, feedback oral breu durant el treball, autoavaluacio guiada.
-
-**Exemple:** Despres de corregir, identifica tres errors frequents i els aborda en minillico de 10 minuts. Reserva feedback individual per a errors singulars.
-
----
-
-## H5 Quan el feedback no produeix millora — DOCENT
-
-**Quan aplica:** Quan el feedback no produeix millora.
-
-**Fonament:** Tres causes: l'alumne no ha entes el feedback (claredat), no ha pogut aplicar-lo (disseny), o actua sobre simptoma i no causa (diagnostic).
-
-**Exemple:** Errors reiterats de concordanca de genere. L'alumne es castellanoparlant amb interferencia linguistica: requereix treball especific, no feedback generic.
-
----
-
-## H6 Quan un alumne es desmotiva en rebre feedback — DOCENT
-
-**Quan aplica:** Quan un alumne es desmotiva en rebre feedback.
-
-**Fonament:** Feedback amenaçant genera resposta defensiva. Centrar-se en tasca i proces, no en persona.
-
-**Exemple:** En lloc de "tens molts errors": "Has entes el concepte perque l'expliques amb les teves paraules. Ara, on dius 'cosa', quin terme cientific seria mes exacte?"
-
----
-
-## H7 Quan un alumne dona feedback de baixa qualitat — DOCENT
-
-**Quan aplica:** Quan un alumne dona feedback de baixa qualitat.
-
-**Fonament:** Es habilitat que s'apren. Cal modelar i donar meta-feedback.
-
-**Exemple:** L'alumne escriu "esta be". La mestra demana: "Que t'agrada exactament? Assenyala una frase concreta i di per que." L'alumne reformula amb especificitat.
-
----
-
-## H8 Quan un alumne demana feedback constantment — DOCENT
-
-**Quan aplica:** Quan un alumne demana feedback constantment.
-
-**Fonament:** Dependencia externa indica manca d'autoregulacio. Dosificar i fomentar autoavaluacio previa.
-
-**Exemple:** La mestra respon: "Marca un aspecte ben resolt i un millorable. Despres en parlem." L'alumne busca dins seu primer.
-
-### Fonts i referencies
-
-> ⚠️ Fonts pendents de verificacio
-
-
-### Fonts del corpus scraped
-
-> Aquestes 15 URLs del corpus classificat pertanyen al modul M6 i son fonts reals verificables.
-
-- http://ateneu.xtec.cat/wikiform/wikiexport/_media/cursos/curriculum/inf_pri/cape/3._modificacio_prova_avaluacio_cicle_inicial.pdf
-- http://ateneu.xtec.cat/wikiform/wikiexport/_media/cursos/curriculum/inf_pri/cape/3a_presentacio_-autoexplicativa_5_9.pdf
-- http://ateneu.xtec.cat/wikiform/wikiexport/_media/cursos/curriculum/inf_pri/cape/escola_jungfrau_badalona.pdf
-- http://ateneu.xtec.cat/wikiform/wikiexport/_media/cursos/escola_inclusiva/diee/modul_4/avaluar.pdf
-- http://ateneu.xtec.cat/wikiform/wikiexport/cursos/curriculum/inf_pri/cape/prg/gc
-- http://ateneu.xtec.cat/wikiform/wikiexport/cursos/escola_inclusiva/adcl/b6/b6t2
-- http://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0083/c7780a61-36f9-4a59-aeca-21acafc597f3/Full-indicadors-compartir-objectius-i-criteris-avaluacio.pdf
-- http://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0092/e3d6d8e4-4e2d-4512-a07c-c3bf7a25b5cb/Orientacions_llengua_red_sec.pdf
-- http://xtec.gencat.cat/web/.content/documents/formativa-proves-avaluacio.pdf
-- https://xtec.gencat.cat/ca/projectes/alumnat-origen-estranger/alumnatnou/avaluacio/acollida/avaluacio-alumnat-aula-dacollida-secundaria/secorientacions/
-- https://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0005/1befe42e-4a6b-4cbb-8054-e2757f33383b/PRI_enquesta_alumne_AA_red_1011.pdf
-- https://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0005/1cb19e60-3a3d-4e8b-95be-a14d295ae898/Lit_lleng_alu.pdf
-- https://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0026/f9df3b4f-24ad-40ad-8020-a992aab567ba/insruccions_aplicacio_EE_sec_red.pdf
-- https://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0048/522b75ad-b084-4b69-9a22-f1698e11e98e/orientacions_integracio_escolar.pdf
-- https://xtec.gencat.cat/web/.content/projectes/alumnatnou/avaluacio/inicial2/documents/Arm_mat_alu.pdf
-
----
+*12 documents citats de 30 al corpus · secció generada automàticament*

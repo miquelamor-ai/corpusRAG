@@ -1,146 +1,103 @@
 ---
 modul: M1
 titol: "Alumnat amb discapacitat intel·lectual"
-tipus: perfil
+tipus: caracteristica
+subtipus: constitutiva
 descripcio: "Discapacitat intel·lectual lleu, moderada i severa: adaptacions curriculars i suports"
 review_status: esborrany
-generat_at: 2026-03-18
+generat_at: 2026-03-18T15:27:34
 ---
 
-# 1. CONTINGUT
+**ATENCIÓ: Els documents font proporcionats per a la creació d'aquest perfil tracten exclusivament sobre l'alumnat d'origen estranger i nouvingut, no sobre l'alumnat amb discapacitat intel·lectual.**
 
-## Definició i caracterització
+Com a expert en pedagogia i formació del professorat, i seguint el principi de "no inventar contingut que no estigui als documents font", no puc generar les seccions de "CONTINGUT ESPECÍFIC" (Descripció del perfil, Manifestació per etapa educativa, Barreres d'aprenentatge, Necessitats prioritàries, Fortaleses a aprofitar, Senyals identificadors a l'aula, Perfils associats i comorbiditats, Principis d'actuació, Línies vermelles) per a l'alumnat amb discapacitat intel·lectual, ja que la informació no es troba en els materials subministrats.
 
-La discapacitat intel·lectual (DI) es caracteritza per limitacions significatives en el funcionament intel·lectual (raonament, aprenentatge, resolució de problemes) i en la conducta adaptativa (habilitats socials, pràctiques i conceptuals), amb origen durant el període de desenvolupament (abans dels 18 anys).
+A continuació, es presenta la "CAPA AGENT (UNIVERSAL)" que s'aplicaria a qualsevol document de tipus "perfil", independentment del seu contingut específic, per guiar l'agent en la seva interacció.
 
-### Classificació per grau de suport necessari (AAIDD)
-
-- **DI lleugera (QI 50-70):** La majoria poden seguir un currículum adaptat en aula ordinària amb suport. Assoleixen habilitats acadàmiques de primària. Alta autonomia en la vida adulta.
-- **DI moderada (QI 35-50):** Necessiten adaptació curricular significativa i suport intensiu. Assoleixen habilitats acadàmiques de 2n-3r de primària aproximadament. Autonomia parcial en la vida adulta.
-- **DI severa/profunda (QI <35):** Necessiten suport intensiu en tots els àmbits. Habilitats acadàmiques molt bàsiques o funcionals. Dependència alta en la vida adulta.
-
-### Característiques educatives rellevants
-
-- **Ritme d'aprenentatge lent** i necessitat de més repeticions per consolidar aprenentatges.
-- **Memòria de treball i funcions executives** afectades: dificultat per planificar, generalitzar i transferir aprenentatges.
-- **Comunicació:** Des de comunicació verbal fluïda (DI lleu) fins a comunicació no verbal o amb CAA (DI severa).
-- **Habilitats socials i emocionals:** Sovint bones, especialment en la DI lleu; generositat i empatia freqüents.
-- **Aprenentatge pràctic i funcional:** Aprenen molt millor en contextos pràctics, significatius i funcionals que en abstracte.
-
-### Fortaleses a aprofitar
-
-Molts alumnes amb DI presenten fortaleses en: empatia i habilitats socials, memòria procedimental i d'hàbits, motivació i perseverança quan les tasques s'ajusten al seu nivell, aprenentatge pràctic i manipulatiu, i connexió emocional amb les persones del seu entorn.
-
-### Barreres d'aprenentatge
-
-- **Càrrega cognitiva elevada**: Textos densos, conceptes abstractes sense suport concret, instruccions múltiples alhora.
-- **Ritme de classe**: El ritme estàndard supera la velocitat de processament de l'alumnat amb DI.
-- **Memòria de treball limitada**: Dificultat per retenir instruccions, recordar el que s'ha après i aplicar-ho a situacions noves.
-- **Generalització limitada**: Aprendre quelcom en un context no garanteix la transferència a altres contextos.
-- **Participació en classe**: Preguntes obertes, activitats creatives no estructurades o textos llargs generen exclusió funcional.
-- **Avaluació estàndard**: Exàmens en format convencional mesuren la discapacitat, no el coneixement.
-- **Relació amb iguals**: El distanciament de continguts i de ritme pot generar aïllament si no hi ha estructures inclusives.
-
-### Necessitats prioritàries
-
-- **Adaptació curricular significativa**: Ajust d'objectius, continguts i criteris d'avaluació al nivell funcional.
-- **Instrucció directa i repetició sistematitzada**: Ensenyament explícit, sobreaprenentatge, pràctica distribuïda.
-- **Materials adaptats en lectura fàcil**: Textos simplificats, frases curtes, vocabulari controlat, suport pictogràfic.
-- **Comunicació augmentativa (CAA)**: Sistemes de pictogrames (PECS, ARASAAC) per a alumnat amb comunicació verbal limitada.
-- **Tasques funcionals i autèntiques**: Connexió del currículum amb la vida quotidiana i les competències d'autonomia.
-- **Pla de transició a la vida adulta** (des de 3r cicle Primària): Objectius d'autonomia, orientació laboral, habilitats socials.
-- **Coordinació intensa amb família i serveis**: EAP, CDIAP, centre de dia, TSEE.
-
-## Principis d'actuació pedagògica
-
-**1. Currículum funcional i significatiu:** L'objectiu no és cobrir tot el currículum ordinari sinó garantir els aprenentatges essencials que capaciten per a la major autonomia possible. Les habilitats de vida diària (anar al supermercat, gestionar un horari, usar el transport) són objectius legítims del currículum.
-
-**2. Aprenentatge pràctic i concret:** Els conceptes abstractes s'han d'ancorar sempre en exemples concrets, manipulatius o experiències directes. L'aprenentatge significatiu és molt més eficient que la memorització abstracta.
-
-**3. Alta repetició i sobreaprenentatge:** Per consolidar un aprenentatge, l'alumne amb DI necessita moltes més repeticions que els seus companys. Dissenyar activitats que practiquen el mateix objectiu de formes diverses (joc, fitxa, role play, ordinador) és essencial.
-
-**4. Secuenciació en passos petits:** Les tasques complexes s'han de descompondre en passos molt petits, amb verificació de cada pas. La instrucció directa i explícita és la metodologia més eficaç per als aprenentatges acadèmics bàsics.
-
-**5. Participació inclusiva en l'aula ordinària:** La participació en el grup ordinari té valor social i emocional, independentment del nivell acadèmic. Rols actius (ajudant, presentador de materials, responsable de tasques de grup) permeten la participació sense haver de seguir el mateix currículum.
-
-## Mesures i adaptacions específiques
-
-- **Adaptació curricular significativa (ACS):** Modificació dels objectius i continguts (no sols de la metodologia).
-- **Suport intensiu a l'aula** (mestre de suport, TEI, vetllador).
-- **Materials manipulatius i visuals** per a tots els continguts.
-- **Aula d'educació especial** per a períodes específics (segons el grau de DI i el projecte educatiu).
-- **Pla de transició a la vida adulta** (TEV) per a l'etapa 14-16.
-- **Coordinació amb l'EAP i serveis de suport a la discapacitat**.
-
-### Fonts
-- AAIDD (2021). *Intellectual Disability: Definition, Diagnosis, Classification, and Systems of Supports*. 12th Edition.
-- Tamarit, J. i altres (2019). *Qualitat de vida en persones amb discapacitat intel·lectual*. FEAPS.
-- Departament d'Educació. *Document per a l'organització dels serveis educatius d'atenció a la discapacitat intel·lectual*.
+---
 
 # 2. CONNEXIONS AMB ALTRES DOCUMENTS DEL CORPUS
-
-- **M1_neurodiversitat-NESE**: La DI és una NESE que requereix les mesures de suport més intensives del sistema.
-- **M2_mesures-suports-inclusius**: La DI es troba en els nivells de suport més intensiu del model multinivell.
-- **M2_DUA-principis-pautes**: El DUA és el marc de disseny universal que guia les adaptacions per a la DI.
-- **M1_alumnat-TEA**: Una part de l'alumnat amb TEA té DI associada; les estratègies es complementen.
-- **M9_decrets-inclusio-ordenacio**: El marc normatiu d'inclusió regula els drets i les mesures per a l'alumnat amb DI.
+*   **Marc_Disseny_Universal_Aprenentatge**: Per entendre com dissenyar entorns i activitats que siguin accessibles per a tots els perfils d'alumnat, incloent-hi aquells amb discapacitat intel·lectual, anticipant barreres i oferint múltiples opcions.
+*   **Estrategia_Aprenentatge_Cooperatiu**: Aquesta estratègia pot ser clau per fomentar la inclusió social i acadèmica, permetent que alumnes amb diferents ritmes i capacitats col·laborin i s'ajudin mútuament.
+*   **Protocol_Deteccio_NEE**: Per a la identificació primerenca i l'activació de suports per a qualsevol necessitat educativa especial, inclosa la discapacitat intel·lectual.
+*   **Eina_Planificacio_Individualitzada**: Per a la creació de plans d'aprenentatge adaptats a les necessitats específiques de l'alumnat amb discapacitat intel·lectual, detallant objectius, metodologies i avaluació.
+*   **Normativa_Educacio_Inclusiva_Catalunya**: Per comprendre el marc legal que empara el dret a una educació inclusiva i les obligacions dels centres respecte a l'alumnat amb necessitats educatives especials.
+*   **Perfil_Alumnat_Trastorn_Espectre_Autista**: Sovint hi ha comorbiditats i solapaments en les necessitats de suport, especialment en aspectes de comunicació i socialització.
+*   **Marc_Teoria_Intel·ligencies_Multiples**: Per reconèixer i valorar les diverses capacitats i fortaleses de l'alumnat, anant més enllà de les mesures tradicionals de la intel·ligència.
 
 # 3. DETECCIÓ (Variables de Context)
-
-**Indicadors d'alerta:**
-- Rendiment molt per sota de la mitjana en totes les àrees, de forma persistent
-- Dificultat per generalitzar aprenentatges a noves situacions
-- Habilitats de vida diària (autonomia, orientació, comunicació) significativament inferiors als iguals
-
-**Context de màxim aprenentatge:**
-- Tasques concretes, manipulatives i significatives per a la vida quotidiana
-- Repetició sistemàtica amb variació de format
-- Entorn estructurat, previsible i amb suport
+*   **Senyals del docent**:
+    *   "Tinc un alumne que no segueix el ritme de la classe malgrat els meus esforços."
+    *   "Necessito idees per adaptar materials i activitats per a un alumne amb dificultats significatives d'aprenentatge."
+    *   "Com puc avaluar de manera justa un alumne que té un nivell curricular molt diferent al del seu grup d'edat?"
+    *   "M'agradaria entendre millor les fortaleses d'un alumne amb diagnòstic de discapacitat intel·lectual per potenciar-les."
+    *   "Quines són les línies vermelles a l'hora de tractar amb un alumne amb discapacitat intel·lectual per evitar estigmes o tractes inadequats?"
+*   **Senyals de l'alumne**:
+    *   Dificultat persistent per comprendre instruccions complexes o abstractes.
+    *   Necessitat de suports visuals o manipulatius constants per realitzar tasques.
+    *   Dificultats en la generalització d'aprenentatges a nous contextos.
+*   **Senyals de context**:
+    *   En activitats que requereixen autonomia o planificació complexa.
+    *   En moments de transició entre activitats o espais.
+    *   En grups grans on la interacció individualitzada és limitada.
+*   **Anti-senyals**:
+    *   Si l'alumne presenta dificultats d'aprenentatge generalitzades, però amb un ritme de progressió lent però constant amb suports generals, sense necessitat d'adaptacions curriculars significatives.
+    *   Si les dificultats estan clarament lligades a una barrera lingüística o a un trastorn d'aprenentatge específic (dislèxia, TDAH) sense una afectació global del funcionament intel·lectual.
+    *   Si l'objectiu principal és la segregació o la reducció d'expectatives sense una anàlisi profunda de les capacitats i potencialitats de l'alumne.
 
 # 4. HEURÍSTIQUES I RAONAMENT PER A L'AGENT
+*   **Principi general**: L'agent ha de promoure sempre un enfocament inclusiu, centrat en les capacitats i el potencial de l'alumne, adaptant l'entorn i les estratègies per maximitzar la seva participació i aprenentatge.
 
-## H1 Adaptar els objectius a la funcionalitat, no sols al nivell acadèmic — DOCENT
-**Quan aplica:** En la planificació del currículum per a un alumne amb DI moderada o severa.
-**Fonament:** Per a l'alumne amb DI, el currículum funcional (habilitats que incrementen l'autonomia i la qualitat de vida) ha de tenir prioritat sobre la cobertura acadèmica abstracta. Saber fer la compra, entendre els horaris de transport o gestionar les emocions té més valor per a la seva vida que memoritzar els rius d'Europa.
-**Exemple (≥80 paraules):** En la planificació de la unitat de matemàtiques per a la Marc (DI moderada), la mestra de suport adapta els objectius: en lloc de les fraccions abstractes, Marc treballa "quantes parts d'una pizza em toco si som 4?", "a quin preu ens surt el litre de llet?". Els continguts es vinculen a situacions de vida diària real. Marc aprèn habilitats matemàtiques que usarà tots els dies, no abstraccions que oblidarà al cap d'un mes.
+*   **Heurístiques per a l'Agent DOCENT**:
+    *   **Nom**: **Enfocament en les Fortaleses i el Potencial**.
+        *   **Quan aplica**: Quan el docent expressa preocupació per les limitacions de l'alumne o busca maneres de motivar-lo i implicar-lo.
+        *   **Fonament**: La visió de dèficit limita les expectatives i les oportunitats. Reconèixer i potenciar les fortaleses (com la memòria visual, la constància, la sociabilitat, habilitats pràctiques) és fonamental per a l'autoestima i el desenvolupament integral de l'alumne.
+        *   **Exemple complet de raonament**: Un docent expressa que un alumne amb discapacitat intel·lectual lleu té moltes dificultats amb la lectura i l'escriptura. L'agent raonaria que, tot i que aquestes dificultats són reals, és crucial explorar altres àrees on l'alumne pot destacar. Potser té una gran habilitat per a les tasques manuals, una excel·lent memòria visual per a imatges o rutes, o una notable capacitat d'interacció social. L'agent suggeriria al docent dissenyar activitats que integrin aquestes fortaleses, per exemple, utilitzant mapes visuals o maquetes en projectes d'història, o assignant rols de "facilitador" en treballs cooperatius on la seva habilitat social sigui valorada. Això no només millorarà la seva participació i aprenentatge en aquestes àrees, sinó que també reforçarà la seva autoestima i el sentiment de pertinença al grup, demostrant que el seu perfil no és un dèficit sinó una configuració de capacitats diverses.
 
-## H2 Instrucció directa i sobreaprenentatge — DOCENT
-**Quan aplica:** Quan s'ensenya qualsevol habilitat nova a un alumne amb DI.
-**Fonament:** La instrucció directa (modelatge explícit → pràctica guiada → pràctica independent) és la metodologia més eficaç per a l'ensenyament de procediments a l'alumnat amb DI. La repetició amb variació de context fins al "sobreaprenentatge" garanteix la consolidació.
-**Exemple (≥80 paraules):** La mestre de suport ensenya a la Jana (DI lleugera) a llegir l'hora amb el rellotge analògic. Aplica el protocol: (1) modelatge: "Mira, jo ho faig: la fletxa llarga apunta al 3, és un quart passada l'hora. Ara em mires tu i m'expliques com ho he fet." (2) Pràctica guiada: ho fa la Jana amb ajuda. (3) Pràctica independent: 20 exercicis de rellotge en 5 dies, en contextos variats (paper, rellotge de joguina, fotos). Al 6è dia, Jana llegeix l'hora de forma autònoma en qualsevol context.
+    *   **Nom**: **Adaptació Curricular Significativa i Funcional**.
+        *   **Quan aplica**: Quan el docent pregunta sobre com modificar el currículum o les expectatives d'aprenentatge.
+        *   **Fonament**: L'objectiu no és "rebaixar" el currículum, sinó fer-lo rellevant i accessible, centrant-se en aprenentatges funcionals i significatius que promoguin l'autonomia i la qualitat de vida de l'alumne.
+        *   **Exemple complet de raonament**: Un docent de secundària pregunta com pot fer que un alumne amb discapacitat intel·lectual moderada participi en la classe de ciències naturals, ja que els continguts són molt abstractes. L'agent raonaria que una adaptació curricular significativa implica no només simplificar, sinó redefinir els objectius d'aprenentatge per a aquest alumne. En lloc d'esperar que comprengui conceptes complexos de química, l'objectiu podria ser que identifiqui materials reciclables, entengui la importància de l'estalvi energètic a casa, o aprengui a utilitzar un termòmetre per mesurar la temperatura corporal. L'agent suggeriria al docent utilitzar materials concrets, experiments senzills i activitats pràctiques que connectin amb la vida diària de l'alumne, com ara classificar residus o cuidar una planta. Això assegura que els aprenentatges siguin funcionals i rellevants per al seu desenvolupament personal i futur.
 
-## H3 Participació inclusiva en rols actius i valorats — DOCENT
-**Quan aplica:** Durant activitats de grup ordinari on l'alumne amb DI participa en una classe inclusiva.
-**Fonament:** La participació en el grup ordinari no ha de ser sols tolerada passivament. L'alumne amb DI pot tenir rols actius i valorats que contribueixin al grup (presentació de materials, rol de distribuïdor, responsable de l'agenda, expert en una tasca concreta). Aquests rols reforcen l'autoestima i la pertinença.
-**Exemple (≥80 paraules):** En la classe d'art de 4t de primària, el Tomàs (DI lleugera) és el "responsable de materials": coneix perfectament on es guarda cada material i com es preparen. Quan el grup necessita pintura, tisores o cartolina, el Tomàs els porta. El seu rol és genuïnament útil per al grup i li proporciona una visibilitat positiva. Quan cal preparar el taller, els companys li demanen a ell com es fa. El Tomàs té un estatus de competència que no tindria en les tasques acadèmiques abstractes.
+    *   **Nom**: **Comunicació Clara i Suports Visuals**.
+        *   **Quan aplica**: Quan hi ha dificultats de comprensió d'instruccions o expectatives per part de l'alumne.
+        *   **Fonament**: L'alumnat amb discapacitat intel·lectual sovint processa millor la informació visual i necessita instruccions curtes, clares i seqüenciades.
+        *   **Exemple complet de raonament**: Una mestra de primària informa que un alumne amb discapacitat intel·lectual lleu sovint es queda bloquejat o no sap què fer un cop ha rebut una instrucció verbal. L'agent raonaria que la memòria de treball i la capacitat de processament d'informació auditiva poden ser limitades en aquest perfil. Per tant, és fonamental complementar les instruccions verbals amb suports visuals i una comunicació més estructurada. L'agent suggeriria a la mestra utilitzar pictogrames o imatges per representar els passos d'una tasca, crear agendes visuals diàries o setmanals, i fer servir frases curtes i directes, acompanyades de gestos. A més, es podria ensenyar a l'alumne a utilitzar una llista de comprovació amb imatges per assegurar-se que ha completat tots els passos. Aquesta estratègia redueix l'ansietat, augmenta la comprensió i fomenta l'autonomia de l'alumne en la realització de les tasques.
 
-## H4 Comunicació augmentativa i alternativa (CAA) per a totes les etapes — DOCENT
-**Quan aplica:** Quan un alumne amb DI moderada o severa té dificultats de comunicació oral que limiten la seva participació.
-**Fonament:** La CAA (taulers de comunicació, PECS, apps de comunicació) amplia les possibilitats comunicatives de l'alumne i incrementa la seva agència. Un alumne que pot comunicar les seves necessitats i desitjos és un alumne més autònom i menys frustrat.
-**Exemple (≥80 paraules):** La Cristina (DI severa, comunicació molt limitada) usa un tauler de comunicació digital amb 50 símbols organitzats per categories. La mestre de suport ha format els docents en el seu ús. A l'hora del pati, la Cristina usa el tauler per dir "vull jugar a la pilota" i convida companyes. A classe, usa el tauler per dir "no entenc" o "necessito pausa". La seva frustració ha disminuït significativament des que pot comunicar-se, i els seus episodis de conducta problemàtica han baixat en la mateixa proporció.
+    *   **Nom**: **Foment de la Participació Social i la Inclusió**.
+        *   **Quan aplica**: Quan el docent vol millorar la integració de l'alumne en el grup o prevenir l'aïllament.
+        *   **Fonament**: La inclusió no és només física, sinó social i emocional. Crear oportunitats de participació equitativa i promoure la interacció amb els companys és vital.
+        *   **Exemple complet de raonament**: Un professor d'ESO observa que un alumne amb discapacitat intel·lectual moderada tendeix a aïllar-se durant els treballs en grup o els moments de pati. L'agent raonaria que la inclusió social activa és tan important com l'acadèmica per al benestar i desenvolupament de l'alumne. Suggeriria al professor dissenyar activitats cooperatives on l'alumne tingui un rol clar i valorat, que no depengui exclusivament de les seves habilitats acadèmiques. Per exemple, podria ser el "gestor de materials" o el "cronometrador" en un projecte, o el "portaveu" per presentar una part senzilla. A més, es podrien promoure activitats de tutoria entre iguals o "company d'ombra" amb alumnes voluntaris, que ajudin a establir vincles i a facilitar la participació en jocs o converses informals durant els esbarjos. L'objectiu és que l'alumne se senti part activa de la comunitat escolar i desenvolupi habilitats socials en un entorn natural.
 
-## H5 Pla de transició a la vida adulta des de l'ESO — DOCENT
-**Quan aplica:** Per a alumnes amb DI a partir dels 14 anys, en la planificació a mig termini.
-**Fonament:** La transició a la vida adulta (treball, habitatge, vida social, autonomia) és l'objectiu final de l'educació per a les persones amb DI. Un pla de transició que comenci a l'ESO (habilitats pràctiques, experiències d'aprenentatge en entorns reals) millora els resultats a llarg termini.
-**Exemple (≥80 paraules):** L'equip de suport del Pol (DI lleugera, 3r d'ESO) dissenya el seu pla de transició: un trimestre de pràctiques a la cuina del centre (dues tardes per setmana), un projecte de gestió del seu propi horari setmanal amb l'agenda digital, i sessions de competències econòmiques bàsiques (gestionar 20 euros setmanals per al menjar del pati). Al final de l'ESO, el Pol és derivat a un programa de formació professional especial. Arriba amb habilitats que els seus iguals que no han tingut pla de transició no han adquirit.
+    *   **Nom**: **Avaluació Formativa i Criteris Individualitzats**.
+        *   **Quan aplica**: Quan el docent necessita avaluar el progrés de l'alumne de manera justa i significativa.
+        *   **Fonament**: L'avaluació ha de reflectir el progrés individual respecte als seus propis objectius adaptats, no només la comparació amb el grup classe.
+        *   **Exemple complet de raonament**: Una tutora de batxillerat té un alumne amb discapacitat intel·lectual lleu que segueix un currículum molt adaptat i no sap com qualificar-lo en els informes trimestrals. L'agent raonaria que l'avaluació ha de ser un procés continu i formatiu, centrat en els objectius individualitzats establerts per a l'alumne. En lloc de basar-se en els mateixos exàmens o criteris que la resta de la classe, l'agent suggeriria a la tutora utilitzar rúbriques personalitzades que valorin el progrés en les seves pròpies metes (p. ex., autonomia en tasques, comunicació de necessitats, ús funcional de conceptes bàsics). Es podrien utilitzar portafolis d'evidències (fotos, vídeos, treballs concrets) i observacions sistemàtiques. L'agent emfatitzaria la importància de comunicar aquests criteris a l'alumne i a la família, assegurant que l'avaluació sigui transparent, motivadora i reflecteixi els seus aprenentatges reals i el seu desenvolupament personal.
 
-## H6 Participar activament en les activitats del grup, des de les pròpies fortaleses — ALUMNE
-**Quan aplica:** En qualsevol situació de vida escolar (aula, pati, excursions, activitats complementàries).
-**Fonament:** La participació activa és un dret de l'alumne amb DI. Les fortaleses socials, emocionals i pràctiques de molts alumnes amb DI els permeten contribuir al grup de formes genuïnes i valorades.
-**Exemple (≥80 paraules):** La Mireia (DI lleugera) és coneguda per la seva memòria fotogràfica dels rostres i noms. Quan arriba un alumne nou a l'escola, la Mireia és la primera a aprendre'n el nom i la primera a presentar-li els espais. La seva directora de cicle diu: "La Mireia té un do social que molts alumnes sense DI no tenen. La seva participació enriqueix el grup." La Mireia se sent valuosa, els seus companys la valoren, i la inclusió és genuïna, no forçada.
+*   **Heurístiques per a l'Agent ALUMNE**:
+    *   **Nom**: **Demana Ajuda i Clarificació**.
+        *   **Quan aplica**: Quan l'alumne expressa confusió, frustració o no sap com continuar una tasca.
+        *   **Fonament**: És important que l'alumne aprengui a identificar quan necessita suport i a comunicar-ho de manera efectiva.
+        *   **Exemple complet de raonament**: Un alumne amb discapacitat intel·lectual lleu està intentant resoldre un problema de matemàtiques i sembla frustrat, mirant al seu voltant sense fer res. L'agent raonaria que l'alumne pot sentir-se perdut i no saber com expressar la seva dificultat. L'agent podria guiar-lo amb preguntes com: "Què és el que no entens d'aquesta tasca?", "Què necessites que t'expliqui de nou?", o "Recordes quina eina o recurs pots utilitzar per ajudar-te?". L'objectiu és ensenyar-li estratègies per demanar ajuda de manera autònoma, ja sigui aixecant la mà, utilitzant una targeta de "necessito ajuda" o dirigint-se a un company o docent amb una pregunta específica. Això fomenta la seva autoeficàcia i redueix la dependència passiva.
 
-## H7 Comunicar les pròpies necessitats amb els suports disponibles — ALUMNE
-**Quan aplica:** Quan l'alumne amb DI necessita ajuda o vol expressar una preferència.
-**Fonament:** L'autoadvocacia —la capacitat de dir el que necessites— és una habilitat clau per a l'autonomia. Ensenyar-la de forma explícita i sistemàtica a l'alumne amb DI, amb els suports comunicatius necessaris, incrementa la seva capacitat d'agència.
-**Exemple (≥80 paraules):** La mestre de suport treballa amb el Jan (DI lleugera) una llista de frases per comunicar necessitats: "Necessito ajuda", "No entenc", "Puc anar al bany?", "Estic cansat". Les practiquen en role play fins que el Jan les usa de forma espontània. Al cap d'un mes, el Jan usa les frases amb tots els professors. La directora de cicle nota que el Jan ja no s'enfada quan no entén alguna cosa: en lloc d'això, diu "No entenc" i espera l'ajuda.
+    *   **Nom**: **Utilitza els Teus Suports i Estratègies**.
+        *   **Quan aplica**: Quan l'alumne té accés a recursos o estratègies personalitzades (agendes visuals, llistes, material manipulatiu) i no els utilitza.
+        *   **Fonament**: L'autonomia en l'ús dels suports és clau per al seu aprenentatge i desenvolupament.
+        *   **Exemple complet de raonament**: Un alumne amb discapacitat intel·lectual moderada té una agenda visual amb pictogrames per a les seves tasques diàries, però sovint oblida consultar-la i es desorienta. L'agent raonaria que l'alumne pot necessitar un recordatori o una guia per integrar l'ús d'aquesta eina en la seva rutina. L'agent podria dir: "Recordes que tenim una agenda que ens ajuda a saber què hem de fer? Mira-la, quin és el següent pas?". L'objectiu és reforçar la connexió entre la necessitat de suport i l'eina disponible, ajudant l'alumne a interioritzar l'hàbit de consultar els seus recursos. Amb el temps, l'alumne podrà activar aquesta estratègia de forma més independent, augmentant la seva capacitat d'organització i gestió de les tasques.
 
-## H8 Vida autònoma: aprendre habilitats de vida quotidiana — ALUMNE
-**Quan aplica:** En la planificació del currículum a partir de la preadolescència.
-**Fonament:** Per a l'alumne amb DI, les habilitats de vida quotidiana (cuinar, netejar, usar el transport, gestionar diners, comprendre un horari) no s'aprenen espontàniament com per als seus iguals. Han de ser objecte d'ensenyament explícit, sistemàtic i en contextos reals.
-**Exemple (≥80 paraules):** La Sara (DI lleugera, 4t d'ESO) treballa cada setmana en el "projecte d'autonomia": fa la llista de la compra per al berenar del divendres, va al supermercat del costat de l'escola amb el mestre de suport, compra els productes, comprova el canvi i prepara el berenar. Al final del curs, Sara ho fa de forma completament autònoma. La seva família reporta que ha transferit la habilitat a casa: per primer cop, va sola a comprar el pa i torna amb el canvi correcte.
+    *   **Nom**: **Celebra els Teus Progressos**.
+        *   **Quan aplica**: Després de completar una tasca, assolir un objectiu o superar una dificultat.
+        *   **Fonament**: El reconeixement del propi esforç i progrés és essencial per a la motivació i el manteniment de la perseverança.
+        *   **Exemple complet de raonament**: Un alumne amb discapacitat intel·lectual lleu ha aconseguit, amb esforç, completar una activitat que li resultava complexa, com ara ordenar una seqüència d'imatges. L'agent raonaria que és fonamental que l'alumne reconegui el seu propi èxit i l'esforç invertit. L'agent podria dir: "Molt bé! Has treballat molt en aquesta tasca i l'has acabat. Què has après? Com et sents d'haver-ho aconseguit?". L'objectiu no és només felicitar, sinó ajudar l'alumne a reflexionar sobre el seu procés d'aprenentatge, a identificar les estratègies que li han funcionat i a sentir-se competent. Aquesta celebració del progrés, per petit que sigui, reforça la seva motivació intrínseca i la seva confiança en les seves pròpies capacitats per afrontar nous reptes.
+---
 
-### Fonts i referències
-- Veure # 1. CONTINGUT del document.
+## 5. FONTS DEL CORPUS
 
-### Fonts del corpus scraped
-- Veure frontmatter `fonts` del document.
+| # | Títol | URL |
+|---|-------|-----|
+| 1 | cursos:escola_inclusiva:ansu:b1:index [Formació del professorat] | https://ateneu.xtec.cat/wikiform/wikiexport/cursos/escola_inclusiva/ansu/b1/index |
+| 2 | cursos:escola_inclusiva:ansu:b1:b1t1 [Formació del professorat] | https://ateneu.xtec.cat/wikiform/wikiexport/cursos/escola_inclusiva/ansu/b1/b1t1 |
+| 3 | cursos:escola_inclusiva:ansu:b3:b3t3 [Formació del professorat] | https://ateneu.xtec.cat/wikiform/wikiexport/cursos/escola_inclusiva/ansu/b3/b3t3 |
+| 4 | 795m_b36112876d.pdf | http://www.xtec.cat/sgfp/llicencies/200304/memories/795m.pdf |
+
+*4 documents font · secció generada automàticament*

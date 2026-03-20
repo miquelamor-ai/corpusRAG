@@ -2,182 +2,268 @@
 modul: M7
 titol: "Gestió d'Aula i Rutines"
 tipus: estrategia
-descripcio: "Organització de l'aula, rutines de treball, normes de convivència, gestió del temps i de la conducta"
+descripcio: "Organització de l'aula, rutines de treball, normes de convivència i gestió del temps"
 review_status: esborrany
-generat_at: 2026-03-18
+generat_at: 2026-03-18T18:00:00
+locked: true
+nota_fusio: "Versió fusionada manual (V1+V3+V5). V1=ERG/convivència; V3=intercultural/DEIC; V5=DTCP/aferrament. Protegida contra sobreescriptura."
 ---
 
-# 1. CONTINGUT ESPECÍFIC DEL DOCUMENT
+## 1. CONTINGUT ESPECÍFIC
 
 ### Descripció i fonament
 
-La gestió d'aula és el conjunt d'estratègies, rutines i decisions que el docent utilitza per crear i mantenir un entorn d'aprenentatge productiu, segur i respectuós. No es limita a la disciplina o al control conductual; abasta l'organització de l'espai físic, la temporització de les activitats, les transicions entre tasques, les normes de convivència, la prevenció de conflictes i la creació d'un clima emocional positiu.
+La gestió d'aula i les rutines són una estratègia fonamental per crear un entorn educatiu on l'aprenentatge sigui possible i el benestar de tota la comunitat educativa estigui assegurat. No es tracta de controlar el comportament, sinó de construir un clima que afavoreixi l'autonomia, la seguretat i la confiança de l'alumnat. Aquesta estratègia entén l'aula com un ecosistema social complex on es configuren identitats, es desenvolupen habilitats socials i es construeixen relacions de confiança.
 
-Una gestió d'aula eficaç és **proactiva** (dissenya l'entorn per prevenir problemes), **participativa** (implica l'alumnat en la creació de normes), **coherent** (respostes previsibles i justes) i **inclusiva** (s'adapta a la diversitat de l'alumnat).
+La base teòrica principal rau en la **teoria de l'aferrament** (Bowlby, 1988; Ainsworth et al., 1978), que subratlla la importància dels vincles afectius segurs per al desenvolupament emocional i social. Un aferrament segur a l'escola —amb el docent com a figura de referència present i disponible— permet a l'alumne sentir-se prou segur per explorar, aprendre i afrontar els reptes. Geddes (2010) connecta directament aquestes experiències relacionals amb el benestar emocional i el rendiment escolar, equilibrant les necessitats de l'alumne, la presència del docent i la demanda de la tasca.
 
-La recerca en ciències de l'educació mostra que la gestió d'aula és el factor docent amb més impacte en l'aprenentatge, per sobre fins i tot de la qualitat de les explicacions. Un entorn ben gestionat permet que tot l'alumnat pugui concentrar-se en aprendre.
+Complementàriament, el **suport conductual positiu** (Horner, 2008) posa l'accent en la creació d'entorns previsibles, coherents i positius, on les normes i rutines no es limiten a prohibir, sinó que ensenyen explícitament el comportament esperat. Aquesta visió s'alinea amb l'**Enfocament Restauratiu Global (ERG)**, que concep la convivència com quelcom que s'aprèn i es treballa activament —no s'imposa— a través de la comunicació noviolenta, l'escolta activa i la reparació del dany quan aquest es produeix.
+
+La gestió d'aula implica, doncs, un procés proactiu i col·laboratiu de tot l'equip docent: elaborar, consensuar, ensenyar i avaluar l'organització de l'aula, les agrupacions, els espais, els temps, els materials i les metodologies, amb l'objectiu de crear un clima motivador, tranquil i eficaç que prioritzi l'aprenentatge i la construcció de relacions positives.
 
 ### Quan i per a qui és útil
 
-Aquesta estratègia és útil per a **tots els docents** en **totes les etapes educatives**. És especialment crítica:
-- En el primer mes de curs, quan s'estableixen les dinàmiques.
-- Amb grups que presenten dificultats de convivència o conducta.
-- Quan un docent nou arriba a un grup ja format.
-- En contextos d'alta diversitat, on les necessitats d'estructura i flexibilitat coexisteixen.
+Aquesta estratègia és útil per a **tot l'alumnat** en **totes les etapes educatives** (Infantil, Primària, ESO, Batxillerat, FP), ja que un entorn estructurat i segur beneficia el desenvolupament i l'aprenentatge de tots. És especialment important per a:
 
-### Components clau de la gestió d'aula
+*   **Alumnat amb necessitats de suport educatiu (NESE)**: La predictibilitat de les rutines i la claredat de les normes redueixen l'ansietat i faciliten la participació, especialment per a alumnat amb TEA, TDAH o dificultats d'autoregulació.
+*   **Alumnat nouvingut o de diverses procedències culturals**: Un pla d'acollida ben estructurat i rutines clares faciliten la integració lingüística, social i emocional. Les estratègies interculturals i les "famílies-padrines" són eines de suport complementàries.
+*   **Grups amb alta conflictivitat o disrupció**: Les pràctiques restauratives, els cercles de diàleg i els programes de competència social ajuden a construir vincles i a gestionar els conflictes de manera constructiva.
+*   **Alumnat amb dificultats per regular el seu comportament**: Un entorn previsible i vincles afectius segurs els proporcionen la base necessària per adaptar-se i progressar.
+*   **Àrees o contextos que requereixen treball autònom o cooperatiu**: Les rutines clares minimitzen la càrrega cognitiva i optimitzen el temps d'aprenentatge.
 
-**1. Normes de convivència:**
-- Poques (5-7 normes bàsiques), formulades en positiu ("Escolta quan algú parla" en lloc de "No parlis").
-- Elaborades participativament amb l'alumnat per generar adhesió.
-- Visibles a l'aula i revisades periòdicament.
-- Aplicades de manera coherent i justa per tots els docents del grup.
-
-**2. Rutines:**
-- **Rutines d'entrada**: com s'inicia la classe (salutació, repàs breu, activitat d'aterratge).
-- **Rutines de transició**: seqüència clara per canviar d'activitat (guardar, preparar, esperar senyal).
-- **Rutines de sortida**: tancament de la sessió (recapitulació, anticipació de la propera sessió, endreça).
-- **Rutines de materials**: com es distribueixen i recullen materials, quaderns, dispositius.
-- Les rutines s'ensenyen explícitament i es practiquen fins que són automàtiques (les primeres 2-3 setmanes).
-
-**3. Organització de l'espai:**
-- Disposició del mobiliari segons l'activitat (files per a instrucció directa, grups per a cooperatiu, U per a debat).
-- Zones diferenciades: treball individual silenciós, treball en grup, racó de lectura, racó de calma.
-- Visibilitat: el docent ha de poder veure tota l'aula des de qualsevol punt.
-- Materials accessibles i ordenats.
-
-**4. Gestió del temps:**
-- Sessions estructurades amb blocs diferenciats (no més de 20-25 minuts d'instrucció directa sense canvi d'activitat).
-- Transicions planificades i cronometrades.
-- Temps de processament personal (silenci per pensar abans de compartir).
-
-**5. Prevenció de la disrupció:**
-- Proximitat física del docent com a eina de regulació.
-- Instruccions clares i verificades ("Repetiu-me què heu de fer").
-- Activitats ajustades al nivell de l'alumnat (ni massa fàcils ni massa difícils).
-- Anticipació de moments crítics (transicions, finals de classe, dies especials).
-
-**6. Resposta gradual a la conducta disruptiva:**
-- Seqüència de resposta: mirada → nom en veu baixa → proximitat → conversa privada → conseqüència predefinida.
-- Mai humiliar públicament.
-- Separar la conducta de la persona ("El que has fet no és acceptable" vs "Ets un desastre").
-- Restaurar la relació després de la intervenció.
+Les **condicions d'èxit** inclouen:
+*   **Implicació de tota la comunitat educativa**: Docents, equip directiu i famílies han de treballar conjuntament.
+*   **Consens i coherència**: Criteris i actuacions unificades entre tot el professorat i entre escola i llar.
+*   **Mirada positiva**: Reconeixement de l'alumne com a persona, valorant els seus recursos i esforços.
+*   **Comunicació assertiva**: Evitar comunicacions culpabilitzadores o amenaçadores.
+*   **Flexibilitat**: Adaptar les estratègies a les necessitats, procedències i nivell evolutiu de l'alumnat.
 
 ### Recursos necessaris
 
-- **Temps**: les primeres 2-3 setmanes del curs s'inverteixen en establir rutines; la resta del curs es guanya temps gràcies a elles.
-- **Espai**: mobiliari mòbil o configurable.
-- **Materials**: senyals visuals (cartells de normes, rellotges, semàfors emocionals), agenda de rutines.
-- **Formació**: formació en gestió d'aula positiva, disciplina restaurativa, comunicació no violenta.
+*   **Temps**: Dedicar temps al començament del curs per a l'elaboració, revisió i consens de normes i protocols per part de l'equip docent. Temps per ensenyar i practicar les rutines amb l'alumnat. Temps per a tutories individuals i assemblees d'aula.
+*   **Espai**: Organització física de l'aula que afavoreixi la supervisió, la participació, la concentració i les transicions. Espais tranquils per a moments de tensió o mediació. Patis escolars diversificats que fomentin el joc col·laboratiu.
+*   **Materials**:
+    *   Suports visuals: Horaris de classe, llistes de normes redactades en positiu amb imatges o pictogrames, fulls de rutines.
+    *   Materials per a l'educació socioemocional (ex: "Les 36 cartes de les emocions" i "Les 36 cartes de les necessitats").
+    *   Programes de competència social (ex: "Decideix" per a Primària i ESO).
+    *   Guies i dossiers sobre Enfocament Restauratiu Global i mediació escolar.
+    *   Recursos per a la comunicació amb famílies (edublocs, guions d'entrevista, notes en diverses llengües).
+*   **Formació**: Formació del professorat en gestió proactiva de conducta, teoria de l'aferrament, Enfocament Restauratiu Global, Comunicació NoViolenta (CNV), mediació escolar i gestió de la diversitat cultural.
+
+### Com implementar
+
+La implementació es pot graduar en tres nivells, adaptant-se a la realitat de cada centre i grup.
+
+#### Nivell Bàsic
+1.  **Establir poques normes clares i positives**: Definir de 3 a 6 expectatives de comportament per a l'aula, redactades en positiu ("He de parlar en veu baixa", "Cuido el material"). Penjar-les en un lloc visible, reforçades amb imatges o pictogrames.
+2.  **Ensenyar i practicar les rutines**: Explicar, raonar i experimentar les normes i rutines (rutines d'acollida i comiat, d'organització de material, de transicions). No donar per suposat que els alumnes les coneixeran: cal modelar-les i repetir-les.
+3.  **Crear un horari visual i predictible**: Un horari de classe visible permet als alumnes anticipar les activitats del dia, reduint la incertesa i l'ansietat.
+4.  **Reconeixement social positiu**: Elogiar i premiar sistemàticament el treball, l'esforç i la conducta adequada. Donar més atenció a les conductes positives que a les negatives.
+5.  **Comunicació inicial amb les famílies**: Informar sobre normes i rutines, i sobre els canals de comunicació disponibles.
+
+#### Nivell Intermedi
+1.  **Fomentar vincles afectius segurs**: Mostrar sensibilitat, empatia i capacitat de lectura emocional pedagògica. Estar present, disponible i disposat a escoltar, acceptant l'infant tal com és.
+2.  **Consens d'equip docent**: L'equip docent elabora, revisa i consensua les normes generals del centre i les de l'aula, assegurant coherència entre etapes i cicles.
+3.  **Cercles proactius regulars**: Implementar "Temps de Cercle" o "Cercle de Paraula" per construir relacions, fomentar el sentiment de pertinença i prevenir conflictes.
+4.  **Foment de la comunicació assertiva**: Promoure el "jo-missatge" per expressar sentiments i necessitats. Gestionar conflictes lleus amb converses restauratives, centrant-se en el dany causat i la reparació.
+5.  **Participació activa de les famílies**: Establir canals de comunicació bidireccionals, promoure la figura del pare/mare delegat de classe i adaptar la comunicació a la diversitat familiar.
+6.  **Tutoria com a element clau**: El tutor lidera l'acció tutorial, amb suport individualitzat per a l'alumnat amb dificultats.
+
+#### Nivell Avançat
+1.  **Avaluació funcional de conductes**: Davant de conductes problemàtiques persistents, realitzar una avaluació funcional per entendre "per què" l'alumne fa el que fa, recollint informació sobre antecedents, conseqüències i funció de la conducta.
+2.  **Mediació escolar i resolució de conflictes**: Implementar un servei de mediació al centre amb docents i alumnat formats. Integrar l'esperit de la mediació en la cultura del centre, formant alumnes mediadors per a conflictes entre iguals.
+3.  **Intervenció personalitzada**: Planificar intervencions educatives basades en les necessitats de l'infant, preparant l'entorn per reduir frustracions i millorar la receptivitat a nous aprenentatges.
+4.  **Aliança centre-família-comunitat**: Mantenir un diàleg permanent amb les famílies, unificant criteris. Connectar el Projecte Educatiu de Centre (PEC) amb el Projecte Educatiu d'Entorn (PEE) i promoure el treball en xarxa amb serveis i entitats locals.
+5.  **Integració de la perspectiva intercultural**: Incorporar la valoració de la diversitat cultural en les rutines, normes i currículum. Diversificar els espais del pati amb activitats de diverses cultures.
+6.  **Gestió de transicions i canvis**: Tenir cura especial en els canvis d'activitat no previstos i en les transicions, planificant-los amb antelació.
+
+#### Adaptacions per a la diversitat
+*   **Ubicació estratègica**: Seure l'alumne a prop del mestre, de la pissarra o d'un company que el pugui ajudar en l'organització.
+*   **Anticipació i senyals d'alerta**: Planificar els canvis amb antelació i crear complicitats o signes d'alerta amb l'alumne quan comenci a mostrar tensió.
+*   **Moments de respir**: Oferir moments per desconnectar quan l'alumne comenci a esverar-se (ex: anar a una altra aula a portar un material, beure aigua, tenir un racó tranquil).
+*   **Suport visual i lingüístic**: Utilitzar pictogrames i horaris visuals per a les rutines i normes, especialment per a alumnat nouvingut o amb barreres lingüístiques.
+*   **Llenguatge clar i positiu**: Expressar ordres clares amb poc llenguatge reiteratiu, especialment en moments de crisi. Evitar comentaris negatius i comparacions.
 
 ### Exemples d'aplicació per etapa
 
-**Educació Infantil i Primària:** La mestra de P4 utilitza un "tren de rutines" visual amb pictogrames que mostra la seqüència del matí: assemblea → racó de llengua → esmorzar → racó lliure → recollida. Cada vegada que acaben un vagó, un alumne mou la fletxa. Les transicions són previsibles i l'ansietat es redueix.
+*   **Educació Infantil / Primària**:
+    *   **Bàsic**: A l'inici de curs, la tutora de 1r de Primària, amb la participació dels infants, defineix 4 normes de convivència. Les il·lustren amb dibuixos i les pengen a la paret. Cada matí repassen l'horari visual del dia i les rutines d'inici de jornada. La mestra elogia els infants que les segueixen.
+    *   **Intermedi**: Implementació setmanal del "Cercle del matí" on cada infant comparteix com se sent o alguna cosa que vulgui explicar. S'utilitzen les "cartes de les emocions" per identificar i verbalitzar els sentiments. El "Cercle" fomenta l'escolta i el sentiment de pertinença.
+    *   **Avançat**: Programa "Decideix" per treballar l'atenció, les autoinstruccions, la previsió de conseqüències i la resolució de problemes interpersonals. "Patis oberts" on monitors dinamitzen zones per a jocs cooperatius i tradicionals de diverses cultures.
 
-**ESO:** El tutor de 2n d'ESO estableix una rutina d'inici de classe: durant els primers 3 minuts, els alumnes escriuen al quadern una frase sobre el que recorden de la classe anterior. Això crea un moment de transició del passadís a l'aula, activa la memòria i dóna temps al docent per preparar-se.
+*   **Educació Secundària Obligatòria (ESO)**:
+    *   **Bàsic**: A l'inici de 1r d'ESO, el tutor dedica sessions d'assemblea per consensuar normes de convivència. Es treballa el "per què" de cada norma i es creen protocols senzills per a situacions comunes.
+    *   **Intermedi**: Davant un grup amb dificultats de regulació, l'equip docent consensua protocols d'actuació conjunta. S'implementen "Cercles de paraula" quinzenals per abordar conflictes i celebrar èxits. Es crea un equip d'alumnes mediadors, formats per docents, que intervenen en conflictes entre iguals.
+    *   **Avançat**: "Famílies-padrines" per a l'acollida de famílies nouvingudes, que les acompanyen en el procés d'adaptació. Implementació de reunions restauratives formals per a conflictes greus, amb totes les parts implicades.
 
-**Batxillerat/FP:** El professor estableix "contractes d'aprenentatge" a principi de curs: l'alumnat negocia quins compromisos assumeix (puntualitat, participació, lliurament de tasques) i quines conseqüències comporta no complir-los. L'alumnat adult se sent responsable perquè ha participat en la definició.
+*   **Batxillerat / Formació Professional (FP)**:
+    *   **Intermedi**: En un cicle de FP, els professors estableixen expectatives clares sobre l'organització del temps de treball autònom i el respecte als espais compartits. El tutor manté entrevistes individuals regulars per detectar dificultats i oferir suport.
+    *   **Avançat**: Cercles de diàleg periòdics sobre qüestions socials o ètiques rellevants, amb un "objecte de la paraula" per assegurar l'escolta activa. Projectes de servei comunitari vinculats a entitats de l'entorn, aplicant els aprenentatges en context real.
 
 ### Indicadors d'èxit
 
-- Reducció del temps perdut en transicions i en gestió conductual.
-- Augment del temps efectiu d'aprenentatge.
-- Millora del clima emocional de l'aula (mesurat per enquestes d'alumnat).
-- Reducció dels incidents disciplinaris formals.
-- L'alumnat coneix i aplica les rutines de forma autònoma.
+*   **Reducció de conductes disruptives**: Disminució de la freqüència i intensitat de les conductes problemàtiques i derivacions a direcció.
+*   **Millora del clima d'aula**: Augment de la percepció de seguretat, tranquil·litat i respecte entre l'alumnat i amb el professorat.
+*   **Augment de l'autonomia i la responsabilitat**: L'alumnat mostra més capacitat per organitzar-se, gestionar el seu temps i complir les normes.
+*   **Major implicació en l'aprenentatge**: Augment de la motivació, la participació i el rendiment acadèmic.
+*   **Coherència docent**: L'equip docent aplica criteris i protocols unificats.
+*   **Enfortiment dels vincles escola-família-comunitat**: Millora de la comunicació i de la corresponsabilitat educativa.
+*   **Reducció de l'absentisme escolar**: Un entorn acollidor i segur contribueix a la motivació i assistència.
+*   **Reconeixement i valoració de la diversitat**: L'aula i el centre esdevenen espais on la diversitat cultural, lingüística i identitària és vista com una riquesa.
 
 ### Errors comuns
 
-- **Normes imposades sense participació**: l'alumnat no les sent com a pròpies i les transgredeix.
-- **Rutines no ensenyades explícitament**: assumir que l'alumnat ja sap com funcionar.
-- **Resposta desproporcionada**: sancions severes per a disrupcions menors, cosa que erosiona la relació.
-- **Inconsistència**: aplicar les normes de forma diferent segons l'alumne, el dia o l'humor del docent.
-- **Centrar-se en el càstig**: respondre sempre de forma punitiva en lloc de preventiva o restaurativa.
-- **No adaptar la gestió a la diversitat**: alumnat amb TEA, TDAH o trastorns d'ansietat requereix predictibilitat i flexibilitat específiques.
+1.  **Establir massa normes o normes negatives**: Un excés de normes o la seva formulació en negatiu ("No correr") genera confusió i resistència. Les normes han de ser poques, clares, positives i fàcils de recordar.
+2.  **Incoherència en l'aplicació**: Si les normes no s'apliquen de manera consistent per tots els docents o en tots els espais, perden la seva efectivitat i generen inseguretat. La discrepància de criteris entre docents és un dels principals factors de fracàs.
+3.  **No ensenyar explícitament les rutines i normes**: Donar per fet que els alumnes saben com actuar o que les interioritzaran per si sols és un error freqüent. Cal dedicar temps a explicar, raonar, practicar i modelar els comportaments esperats.
+4.  **Centrar-se en la conducta visible sense entendre la funció**: Castigar o reprimir una conducta sense investigar el "per què" (la seva funció o necessitat subjacent) és ineficaç a llarg termini. Cal una avaluació funcional per abordar la causa arrel.
+5.  **Concebre la gestió d'aula com a control punitiu**: Centrar-se només en sancionar les conductes negatives sense abordar les causes ni oferir eines per a la reparació i l'aprenentatge. L'Enfocament Restauratiu proposa superar el model punitiu per humanitzar les relacions.
+6.  **Ignorar la diversitat cultural i emocional**: No adaptar les rutines i la comunicació a les diferents realitats de l'alumnat (idioma, cultura, necessitats emocionals) pot generar exclusió i dificultar la integració.
+7.  **No implicar les famílies**: Considerar la gestió d'aula com una tasca exclusiva del docent, sense una comunicació fluida i corresponsabilitat amb les famílies.
+
+## 2. CONNEXIONS AMB ALTRES DOCUMENTS DEL CORPUS
+
+*   **Enfocament Restauratiu Global (ERG)**: Proporciona el marc per a la prevenció de conflictes, la construcció de relacions i la reparació del dany, fonamental per a la convivència positiva.
+*   **Comunicació NoViolenta (CNV)**: Les habilitats de la CNV (empatia, "jo-missatge", escolta activa) són essencials per a una gestió d'aula efectiva i la resolució de conflictes.
+*   **Mediació Escolar**: La mediació és una eina clau dins de la gestió d'aula per abordar conflictes entre iguals de manera constructiva.
+*   **Projecte de Convivència**: Aquesta estratègia contribueix directament a l'elaboració i implementació del Projecte de Convivència del centre.
+*   **Benestar Emocional i Seguretat**: El clima d'aula i la gestió de rutines impacta directament en el benestar emocional de l'alumnat.
+*   **Educació Socioemocional**: El desenvolupament de la intel·ligència emocional és un pilar per a la gestió positiva de l'aula.
+*   **Acollida d'Alumnat Nouvingut**: Les rutines clares i un bon pla d'acollida són crucials per a la integració d'aquest alumnat.
+*   **Participació de les Famílies**: La implicació de les famílies és fonamental per a la coherència educativa i el suport a les rutines i normes de l'aula.
+*   **Alumnat amb Trastorns Emocionals i de Conducta**: Aquesta estratègia és el marc preventiu i proactiu que dona suport a l'alumnat amb necessitats específiques de regulació del comportament.
+*   **Protocol d'actuació davant de qualsevol tipus de violència en l'àmbit educatiu**: Les estratègies de gestió d'aula son preventives i complementen les actuacions en cas de violència.
+
+## 3. DETECCIÓ (Variables de Context)
+
+### Senyals del docent
+*   "Em sento desbordat/da per les conductes disruptives a l'aula."
+*   "Els meus alumnes no segueixen les normes o rutines que he establert."
+*   "Hi ha molta tensió o conflicte al meu grup classe."
+*   "Em costa mantenir l'atenció dels alumnes o que es concentrin en les tasques."
+*   "No sé com abordar els problemes de comportament recurrents d'alguns alumnes."
+*   "Necessito idees per organitzar millor el dia a dia a l'aula i guanyar temps."
+*   "Vull implementar metodologies actives, però em preocupa la gestió del grup."
+*   "Tinc alumnes de moltes cultures i vull assegurar-me que tots se sentin inclosos."
+
+### Senyals de l'alumne
+*   Conductes disruptives freqüents (crits, interrupcions, agressivitat).
+*   Dificultat per seguir instruccions o rutines.
+*   Ansietat o inseguretat en els canvis d'activitat o transicions.
+*   Manca d'organització personal (material, agenda).
+*   Aïllament social o dificultats en la interacció amb iguals.
+*   Baixa motivació o resistència a les tasques acadèmiques.
+*   Queixes freqüents sobre el comportament dels companys o la falta de respecte.
+
+### Senyals de context
+*   Inici de curs o canvi de cicle/etapa.
+*   Incorporació d'alumnat nou al grup, especialment nouvingut.
+*   Canvis en l'equip docent o en els espais del centre.
+*   Alta freqüència de conflictes entre l'alumnat o amb el professorat.
+*   Inconsistència en les respostes dels docents davant de conductes similars.
+*   Composició del grup amb alta diversitat cultural o de necessitats.
+
+### Anti-senyals
+*   L'aula ja té un clima de treball tranquil i respectuós.
+*   Els alumnes mostren autonomia en la gestió de les seves tasques i materials.
+*   Les rutines i normes són clares, conegudes i seguides per la majoria sense grans conflictes.
+*   El docent se sent competent i segur en la gestió del grup.
+*   Hi ha una alta implicació de l'alumnat en el seu aprenentatge i en la vida de l'aula.
+
+## 4. HEURÍSTIQUES I RAONAMENT PER A L'AGENT
+
+**Principi general**: Prioritzar la creació d'un entorn segur, previsible i positiu —basat en vincles afectius, normes co-construïdes i gestió restaurativa dels conflictes— per fomentar l'aprenentatge i el benestar de tot l'alumnat.
+
+### Heurístiques per a l'Agent DOCENT
+
+*   **Heurística: "El fonament és la base segura"**
+    *   **Quan aplica**: Quan un docent expressa dificultats per connectar amb un alumne o grup, o quan hi ha un clima d'aula tens o de desconfiança.
+    *   **Fonament**: La teoria de l'aferrament (Bowlby, Ainsworth) destaca que la seguretat emocional és precursora de l'aprenentatge. Un vincle segur amb el docent permet a l'alumne explorar i assumir riscos acadèmics.
+    *   **Exemple complet de raonament**: Si un docent diu que un alumne es mostra apàtic o desafiant i li costa establir una relació positiva, l'agent hauria de raonar que, abans d'abordar directament la conducta, és crucial establir una base de confiança. Proposaria al docent reflexionar sobre les seves actituds: "Estàs present i disponible per escoltar-lo? Ets sensible als seus esforços, per petits que siguin? L'acceptes tal com és, fins i tot amb les seves dificultats?". Aconsellaria dedicar temps a activitats que fomentin el vincle: salutacions personalitzades, converses informals, reconeixement dels seus punts forts, per tal que l'alumne percebi el docent com una figura de suport i no només d'autoritat.
+
+*   **Heurística: "Menys és més, i en positiu"**
+    *   **Quan aplica**: Quan un docent es queixa que els alumnes no segueixen les normes o que hi ha massa conflictes per incompliment.
+    *   **Fonament**: Les normes han de ser poques, clares, expressades en positiu i fàcils de recordar. Un excés de regles o una formulació negativa pot ser contraproduent.
+    *   **Exemple complet de raonament**: Si un docent comenta que ha posat moltes normes però els alumnes les ignoren o obliden, l'agent raonaria que la claredat i la simplicitat son claus. Suggereixo revisar les normes i seleccionar-ne només 3 a 6, reformulant-les sempre en positiu ("Parlem en veu baixa" en lloc de "No cridem"), i fer-les visibles amb imatges. Proposa practicar-les explícitament: explicar, demostrar, practicar, revisar. Amb alumnat nouvingut, la versió visual és especialment útil per entendre les expectatives sense dependre del verbal.
+
+*   **Heurística: "L'entorn educa abans que la paraula"**
+    *   **Quan aplica**: Quan un docent busca millorar la gestió diària de l'aula i reduir les interrupcions o la desorganització.
+    *   **Fonament**: Un entorn previsible, coherent i positiu redueix l'ansietat i promou conductes adequades. L'estructura física i temporal de l'aula és una eina pedagògica.
+    *   **Exemple complet de raonament**: Si un docent expressa que perd molt de temps en transicions o que els alumnes estan desorganitzats, l'agent raonaria que l'entorn físic i les rutines estructurades poden ser la solució. Aconsellaria revisar la disposició de l'aula per facilitar els moviments i l'accés al material. Suggeriria establir rutines molt concretes per a l'inici i final de les activitats, per a la recollida de material o per als canvis d'espai, i fer-les visibles amb un horari de classe. Per a alumnat amb NESE, afegir pictogrames a cada pas de la rutina.
+
+*   **Heurística: "El 'per què' de la conducta"**
+    *   **Quan aplica**: Quan un docent s'enfronta a conductes problemàtiques recurrents i no entén per què l'alumne les manifesta.
+    *   **Fonament**: Tota conducta té una funció. No es tracta de sufocar el que fa l'alumne, sinó d'entendre la seva necessitat subjacent i ensenyar-li a resoldre-la de forma adequada.
+    *   **Exemple complet de raonament**: Si un docent diu que un alumne crida o s'enfada cada vegada que ha de fer matemàtiques, i que ja ha provat de renyar-lo sense èxit, l'agent raonaria que cal anar més enllà del símptoma. Proposaria realitzar una avaluació funcional de la conducta, observant els antecedents (què passa abans?), la conducta en si i les conseqüències (què aconsegueix l'alumne amb aquesta conducta?). Per exemple, podria ser que cridi per evitar la tasca (funció d'evitació) a causa d'una ansietat no detectada. Entendre aquest "per què" permetrà dissenyar una intervenció que abordi la necessitat real, com ara oferir suport individualitzat en matemàtiques o moments de respir.
+
+*   **Heurística: "La gestió restaurativa del conflicte"**
+    *   **Quan aplica**: Quan el docent s'enfronta a conflictes a l'aula i busca alternatives al càstig que promoguin l'aprenentatge i la reparació del dany.
+    *   **Fonament**: L'Enfocament Restauratiu se centra en el dany causat a les relacions i la comunitat, en lloc de només en la transgressió de la norma. Mitjançant converses restauratives, es dóna veu a totes les parts per entendre què ha passat, com ha afectat cadascú i quines necessitats han sorgit. Això fomenta la responsabilitat, l'empatia i l'aprenentatge de noves estratègies de convivència.
+    *   **Exemple complet de raonament**: Dos alumnes han tingut una discussió forta que ha afectat el clima de classe. En lloc de simplement sancionar, el docent facilita una "conversa restaurativa": primer escolta individualment cada alumne per entendre la seva perspectiva, com se senten i quines necessitats tenen. Després, si ambdós hi estan disposats, els reuneix per dialogar, guiant-los: "Què va passar?", "Com t'ha afectat?", "Què necessites per sentir-te millor?", "Què cal fer per reparar el dany?". L'objectiu és que assumeixin la responsabilitat de les seves accions i acordin un pla de reparació. Això no només resol el conflicte actual, sinó que els dota d'eines per a futures situacions.
+
+*   **Heurística: "La força de la xarxa"**
+    *   **Quan aplica**: Quan un docent se sent sol davant els reptes de gestió d'aula o quan hi ha problemes de convivència que afecten tot el centre.
+    *   **Fonament**: L'acció conjunta de tot l'equip educatiu i la col·laboració amb les famílies són indispensables per a una gestió d'aula efectiva i per a un bon clima escolar.
+    *   **Exemple complet de raonament**: Si un docent expressa frustració perquè les normes que estableix no son coherents amb les d'altres companys, o si les famílies no donen suport a les seves decisions, l'agent raonaria que la gestió d'aula no és una tasca individual. Suggeriria promoure espais de coordinació amb l'equip docent per consensuar normes i protocols d'actuació comuns, adaptats a cada etapa. Aconsellaria reforçar la comunicació amb les famílies, mantenint un diàleg permanent i unificant criteris educatius, ja que la coherència entre escola i llar proporciona seguretat a l'alumne i augmenta les garanties de benestar i èxit.
+
+### Heurístiques per a l'Agent ALUMNE
+
+*   **Heurística: "El meu mapa del dia"**
+    *   **Quan aplica**: Quan un alumne mostra ansietat, desorientació o resistència als canvis d'activitat.
+    *   **Fonament**: La previsibilitat de l'entorn redueix la incertesa i dona seguretat, permetent a l'alumne anticipar i organitzar-se.
+    *   **Exemple complet de raonament**: Si un alumne pregunta repetidament "Què farem ara?" o es mostra nerviós quan hi ha un canvi inesperat, l'agent hauria de raonar que necessita més predictibilitat. Proposaria assegurar-se que l'alumne té accés visual a l'horari de classe diari, explicant-li les activitats amb antelació i marcant els moments de transició. Si és possible, donar-li un "avís" uns minuts abans d'un canvi: "D'aquí a cinc minuts acabarem i anirem al pati". Això l'ajuda a construir un "mapa mental" del seu dia, reduint l'ansietat i augmentant la seva sensació de control.
+
+*   **Heurística: "La meva veu compta"**
+    *   **Quan aplica**: Quan un alumne expressa frustració amb les normes o se sent poc implicat en la vida de l'aula.
+    *   **Fonament**: Negociar les normes amb els alumnes i implicar-los en la seva elaboració fomenta la responsabilitat i la interiorització.
+    *   **Exemple complet de raonament**: Si un alumne es queixa que les normes de l'aula són injustes o que no les entén, l'agent raonaria que la seva implicació en el procés de creació pot ser clau. Suggeriria obrir un espai de diàleg —una assemblea de classe o un cercle de paraula— on l'alumne pugui expressar la seva opinió sobre les normes o proposar-ne de noves. El docent guia la discussió per assegurar que les propostes siguin coherents i positives, i explica el "per què" de cada norma. Això no només augmenta la comprensió, sinó que reforça el sentiment de pertinença i la responsabilitat de l'alumne en el compliment dels acords col·lectius.
+
+*   **Heurística: "El meu espai de seguretat"**
+    *   **Quan aplica**: Quan un alumne mostra signes de tensió, estrès o necessitat de desconnexió en moments de sobrecàrrega.
+    *   **Fonament**: Oferir moments de respir i un entorn que generi seguretat i tranquil·litat és crucial per a la regulació emocional.
+    *   **Exemple complet de raonament**: Si un alumne comença a mostrar signes d'agitació o frustració durant una activitat, l'agent raonaria que necessita una estratègia per gestionar la tensió abans que escali. Proposaria establir un "senyal de complicitat" amb l'alumne per indicar que necessita un moment de pausa: anar a una altra aula a portar un material, beure aigua, o tenir un racó tranquil a l'aula. L'objectiu és que l'alumne aprengui a identificar els seus propis signes de tensió i tingui eines per autoregular-se en un entorn que li ofereix seguretat i la possibilitat de recuperar la calma sense sentir-se jutjat.
+
+*   **Heurística: "Pensa, Sent, Actua"**
+    *   **Quan aplica**: Quan l'alumne reacciona impulsivament davant un conflicte o li costa entendre les conseqüències dels seus actes.
+    *   **Fonament**: Aquesta heurística ajuda l'alumne a desenvolupar la intel·ligència emocional, ensenyant-li a fer una pausa, reflexionar sobre els seus sentiments i els dels altres, i considerar diferents opcions abans d'actuar.
+    *   **Exemple complet de raonament**: Un alumne s'enfada i crida quan un company li agafa un llapis sense permís. L'agent podria guiar l'alumne amb la seqüència: Primer, "Pensa": "Què ha passat? Quines opcions tinc per reaccionar?". Després, "Sent": "Com em sento? Com crec que se sent el meu company?". Finalment, "Actua": "Quina és la millor manera de resoldre-ho sense fer mal a ningú?". El docent reforçaria la idea que prendre's un moment per pensar i sentir ajuda a trobar solucions més efectives i a evitar problemes més grans.
+
+*   **Heurística: "Organitzar-me per aprendre millor"**
+    *   **Quan aplica**: Quan un alumne té dificultats per gestionar els seus materials, el seu espai de treball o el temps assignat a una tasca.
+    *   **Fonament**: L'organització personal, facilitada per les rutines d'aula, és una competència clau per a l'autonomia en l'aprenentatge.
+    *   **Exemple complet de raonament**: Un alumne té la taula desordenada, no troba els seus llapis i no ha acabat la tasca a temps. L'agent podria guiar l'alumne a establir una rutina senzilla d'organització: "guardar els llibres que no necessito", "posar els llapis a la capsa", "netejar l'espai de treball". També podria ensenyar-li a usar un temporitzador per gestionar el temps de les tasques. Ajudar-lo a interioritzar aquestes rutines l'ajudarà a ser més eficient i independent, alliberant la seva energia mental per a l'aprenentatge.
 
 ---
 
-# 2. CONNEXIONS AMB ALTRES DOCUMENTS DEL CORPUS
+## 5. FONTS DEL CORPUS
 
-- **M7_benestar-emocional-seguretat**: La gestió d'aula és un factor clau per al benestar emocional; un aula ben gestionada és un espai segur.
-- **M7_enfocament-restauratiu-ERG**: Les pràctiques restauratives ofereixen eines per gestionar conflictes de forma educativa, complementant la gestió d'aula.
-- **M1_TEA**, **M1_TDAH**: Alumnat amb perfils neurodiversos requereix adaptacions específiques en la gestió d'aula (predictibilitat, estímuls reduïts, rutines clares).
-- **M2_programacio-multinivell**: La gestió d'aula eficaç és prerequisit per a la implementació de la programació multinivell.
-- **M7_comunicacio-familia**: La coherència entre les expectatives del centre i les de la família reforça les rutines i normes.
+*Nota: Aquesta versió fusiona contingut de tres sessions del corpus (ERG/convivència, intercultural/DEIC, DTCP). Les fonts principals de cadascuna:*
 
-# 3. DETECCIÓ (Variables de Context)
+**Corpus DTCP — Escola Inclusiva (gestió conductual):**
 
-L'agent ha d'activar aquest document quan detecta:
+| # | Títol | URL |
+|---|-------|-----|
+| 3 | cursos:escola_inclusiva:dtcp:modul_3:practica_3 [Formació del professorat] | https://ateneu.xtec.cat/wikiform/wikiexport/cursos/escola_inclusiva/dtcp/modul_3/practica_3 |
+| 4 | cursos:escola_inclusiva:dtcp:modul_3:practica_2 [Formació del professorat] | https://ateneu.xtec.cat/wikiform/wikiexport/cursos/escola_inclusiva/dtcp/modul_3/practica_2 |
+| 5 | cursos:escola_inclusiva:dtcp:modul_3:practica_1 [Formació del professorat] | https://ateneu.xtec.cat/wikiform/wikiexport/cursos/escola_inclusiva/dtcp/modul_3/practica_1 |
+| 6 | cursos:escola_inclusiva:dtcp:modul_3:practica_4 [Formació del professorat] | https://ateneu.xtec.cat/wikiform/wikiexport/cursos/escola_inclusiva/dtcp/modul_3/practica_4 |
+| 7 | cursos:escola_inclusiva:dtcp:modul_4:practica_1 [Formació del professorat] | https://ateneu.xtec.cat/wikiform/wikiexport/cursos/escola_inclusiva/dtcp/modul_4/practica_1 |
+| 9 | cursos:escola_inclusiva:dtcp:modul_4:practica_2 [Formació del professorat] | https://ateneu.xtec.cat/wikiform/wikiexport/cursos/escola_inclusiva/dtcp/modul_4/practica_2 |
 
-**Indicadors directes:**
-- Menció de "gestió de l'aula", "normes de convivència", "rutines d'aula", "disciplina positiva"
-- Problemes de comportament generalitzats o disruptius a l'aula
-- "Com estableixo normes?", "com gestiono la disrupció?", "rutines d'entrada i sortida"
+**Corpus ERG — Enfocament Restauratiu Global:**
 
-**Indicadors contextuals:**
-- Docent que vol millorar el clima de la seva aula
-- Grup amb dinàmica difícil o amb múltiples incidents de conducta
-- Inici de curs i establiment de rutines amb un grup nou
+| # | Títol | URL |
+|---|-------|-----|
+| - | 4-dossier ERG | https://educacio.gencat.cat/web/.content/home/departament/publicacions/monografies/enfocament-restauratiu/manual-enfocament-restauratiu-global/4-dossier.pdf |
+| - | Cercles Restauratius | https://xtec.gencat.cat/web/.content/centres/projeducatiu/convivencia/protocols/documents-vinculats-als-protocols/Cercles_Restauratius.pdf |
+| - | Petit manual ERG | https://xtec.gencat.cat/ca/centres/projeducatiu/convivencia/una-comunitat-educativa-restaurativa-i-resilient/petit-manual-erg-dossiers/ |
 
-**Quan NO activar:**
-- Si el problema és d'un alumne específic amb NESE → activar perfil corresponent
-- Si és sobre pràctiques restauratives → M7_enfocament-restauratiu-ERG
-- Si és sobre benestar emocional → M7_benestar-emocional-seguretat
+**Corpus intercultural / DEIC:**
 
----
+| # | Títol | URL |
+|---|-------|-----|
+| - | cursos:escola_inclusiva:deic:modul_5 | https://ateneu.xtec.cat/wikiform/wikiexport/cursos/escola_inclusiva/deic/modul_5/index |
+| - | decideix1 (Programa competència social) | http://www.xtec.cat/alfresco/d/d/workspace/SpacesStore/bef3af0d-4a53-461d-aaf2-f6c376f879e2/decideix1.pdf |
+| - | Patis oberts | https://xtec.gencat.cat/web/.content/comunitat/entorn_pee_recursos_orientacions_activitatsestiu/Accio-9-Patis-oberts_v2.pdf |
 
-# 4. HEURÍSTIQUES I RAONAMENT PER A L'AGENT
-
-## H1 Establir normes des del primer dia de forma participativa — DOCENT
-**Quan aplica:** Al principi de curs o quan s'inicia una nova etapa o grup.
-**Fonament:** Les normes d'aula construïdes participativament (amb l'alumnat) generen més adhesió que les imposades. Quan l'alumnat ha contribuït a definir les normes, les sent com a pròpies i les compleix amb major motivació intrínseca. Les normes participatives també eduquen en la democràcia i la responsabilitat col·lectiva.
-**Exemple:** El primer dia de curs, el tutor de 2n d'ESO no porta un full de normes fet. En comptes d'això, proposa un exercici: "Penseu en la classe ideal on més heu après i on us heu sentit millor. Quines eren les seves característiques?". Els alumnes en grups generen idees. De la síntesi col·lectiva emergeixen 5 normes bàsiques que tots signen. El tutor afegeix sols les que el centre requereix per llei. Al llarg del curs, quan hi ha un conflicte de normes, recorden: "Vosaltres mateixos ho vàreu proposar."
-
----
-
-## H2 Prevenció proactiva: anticipar i dissenyar l'entorn per reduir conflictes — DOCENT
-**Quan aplica:** Quan es planifica la gestió d'aula, especialment amb grups complexos o en activitats de risc elevat de disrupció.
-**Fonament:** La millor gestió de conflictes és la que els prevé. Dissenyar l'entorn físic, les transicions, les agrupacions i les tasques de forma que redueixi els factors de risc de disrupció és molt més eficient que respondre als conflictes quan ja s'han produït.
-**Exemple:** La professora sap que les transicions entre activitats generen disrupció en el seu grup de 1r d'ESO. Dissenya transicions estructurades: cada canvi d'activitat té una seqüència de 3 passos (guardar, preparar, esperar senyal) que practica explícitament durant les primeres setmanes. Redistribueix els alumnes per separar les parelles conflictives. Estructura les activitats perquè al menys un adult (professora o co-docent) sempre tingui visibilitat de tot l'aula. Les disrupcions en transicions cauen un 70% en un mes.
-
----
-
-## H3 Resposta gradual i proporcional a la disrupció — DOCENT
-**Quan aplica:** Quan un alumne o un grup mostra conducta disruptiva durant la classe.
-**Fonament:** La resposta excessiva (sanció greu per una disrupció menor) erosiona la relació pedagògica i l'autoritat docent. La resposta insuficient normalitza la disrupció. La gradació (mirada, nom en veu baixa, proximitat, conversa privada, conseqüència predefinida) manté el clima d'aula sense escalades.
-**Exemple:** En una classe de matemàtiques, el Jan comença a parlar amb el company. El professor aplica la seqüència graduada: primer una mirada directa (el Jan para 30 segons i continua). Segon, es posa proper al Jan sense dir res (para 2 minuts). Tercer, li diu el nom en veu baixa mentre continua explicant. Quan finalment ha de donar una conseqüència, s'ha fet discretament, sense interrompre la classe, i el Jan no s'ha convertit en el centre d'atenció del grup. La proporcionalitat preserva la dignitat de l'alumne i l'eficàcia del docent.
-
----
-
-## H4 Rutines de transició eficaces i previsibles — DOCENT
-**Quan aplica:** Per a qualsevol canvi d'activitat, sortida o entrada a l'aula, o transició entre espais.
-**Fonament:** Les transicions mal gestionades consumeixen temps i generen desbordament conductual. Les rutines de transició ben establertes (una seqüència coneguda, un senyal clar, una expectativa explícita) redueixen la incertesa i el caos.
-**Exemple:** La mestra de 4t de primària estableix la rutina de "neteja ràpida": 3 minuts abans d'acabar qualsevol activitat, un so específic indica l'inici de la rutina. Els alumnes saben exactament el que toca: guardar materials, posar cadira, comprovar que la taula és neta, asseure's en silenci. La mestra ha practicat la rutina les primeres 2 setmanes fins que és automàtica. A partir de llavors, les transicions entre activitats duren 3 minuts en lloc dels 10 d'abans. Guanya 35 minuts setmanals d'instrucció.
-
----
-
-## H5 Ambient físic com a eina pedagògica i de regulació — DOCENT
-**Quan aplica:** Quan es configura l'espai físic de l'aula o del centre per facilitar l'aprenentatge i el benestar.
-**Fonament:** L'entorn físic (disposició del mobiliari, lluminositat, soroll, zones diferenciades, materials accessibles) influeix directament en el comportament i l'aprenentatge. Un entorn ben dissenyat redueix la necessitat d'intervencions conductuals.
-**Exemple:** La professora de 5è reconfigura la seva aula en zones diferenciades: una zona de treball individual en silenci (taules individuals cap a la paret), una zona de treball en grup (taules agrupades de 4), i un racó de lectura informal (coixins i estanteria). Els alumnes saben quan es treballa en cada zona i canvien de forma autònoma. Els alumnes que necessiten silenci per concentrar-se poden anar a la zona individual sense demanar permís. La disrupció per incompatibilitat de ritmes de treball disminueix significativament.
-
----
-
-## H6 Autoregulació emocional: reconèixer i gestionar les pròpies emocions — ALUMNE
-**Quan aplica:** Quan un alumne experimenta frustració, ira, ansietat o altres emocions intenses que interfereixen en l'aprenentatge o les relacions.
-**Fonament:** L'autoregulació emocional no és innata sinó apresa. Els alumnes que aprenen a identificar les seves emocions, a entendre els seus detonants i a aplicar tècniques de regulació (respiració, pausa, moviment) gestionen millor els conflictes i les situacions de pressió acadèmica.
-**Exemple:** La Marc de 3r de primària explota quan comet un error en matemàtiques: tira el llapis i plora. La tutora ha ensenyat prèviament el "semàfor emocional": quan estàs en verd (tranquil), pots treballar; quan estàs en taronja (tens), usa una tècnica de regulació; quan estàs en vermell (desbordament), ves al "racó de calma". Quan Marc explota, la tutora li diu suaument: "Semàfor?". Marc identifica que està en vermell, va al racó de calma per 5 minuts, fa la respiració que han practicat i torna a l'activitat. En 3 mesos, Marc sap gestionar la frustració sense intervencions externes.
-
----
-
-## H7 Resolució de conflictes entre iguals amb processos restauratius — ALUMNE
-**Quan aplica:** Quan hi ha conflictes entre alumnes i es vol que els implicats arribin a una solució justa i consensuada.
-**Fonament:** Els processos restauratius (cercles de diàleg, mediació entre iguals) empoderen l'alumnat per resoldre els seus conflictes de forma autònoma. En lloc de delegar la resolució a l'autoritat adulta, l'alumnat desenvolupa habilitats de diàleg, empatia i negociació.
-**Exemple:** La Júlia i la Nadia han tingut un conflicte per una publicació en xarxes socials. En lloc d'anar directament a la tutora, participen en un procés de mediació entre iguals facilitat per dos alumnes mediadors de 4t d'ESO format en el programa de mediació del centre. En tres sessions, expliquen cadascuna la seva perspectiva, identifiquen les necessitats subjacents i acorden un pla de reparació. La tutora és informada del resultat però no ha intervingut en el procés. Les dues alumnes diuen que la solució és "seva", no imposada.
-
----
-
-## H8 Contribuir activament al bon clima de l'aula — ALUMNE
-**Quan aplica:** Com a actitud general i en moments de dificultat en les dinàmiques de grup.
-**Fonament:** El clima d'aula és una responsabilitat compartida, no sols del docent. Quan els alumnes entenen que el seu comportament contribueix al benestar col·lectiu, adopten un rol actiu en la creació d'un entorn positiu.
-**Exemple:** En una reunió d'assemblea de classe setmanal, els alumnes de 6è de primària revisen tres preguntes: Quin moment de la setmana ha estat millor per al clima de l'aula? Quin ha estat el moment més difícil? Quina proposta fem per millorar? L'assemblea dura 20 minuts i és facilitada de forma rotatoria per un alumne diferent cada setmana. Al llarg del curs, la classe ha resolt 12 tensions internes sense intervenció de la tutora, i els alumnes han millorat notablement les seves habilitats de comunicació i de perspectiva col·lectiva.
+*Versió fusionada manualment a partir de V1 (ERG, 129 docs), V3 (intercultural, 29 docs) i V5 (DTCP, 9 docs) · 2026-03-18*

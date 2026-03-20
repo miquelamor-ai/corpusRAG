@@ -1,161 +1,178 @@
 ---
-titol: "Adaptació de l'avaluació per a alumnat amb NEE"
 modul: M6
+titol: "Adaptació de l'avaluació per a alumnat divers"
 tipus: estrategia
-etiquetes: [NEE, avaluació inclusiva, flexibilització, PI, formats alternatius, adaptació curricular]
-descripcio: "Estratègies per adaptar els processos i instruments d'avaluació a l'alumnat amb necessitats educatives específiques, garantint l'equitat sense renunciar al rigor."
+descripcio: "Ajustaments d'instruments i condicions d'avaluació per a alumnat amb NEE i NESE"
 review_status: esborrany
+generat_at: 2026-03-18T15:34:39
 ---
 
+## 1. CONTINGUT ESPECÍFIC
 
-# 1. CONTINGUT
+### Descripció i fonament
+L'adaptació de l'avaluació per a l'alumnat divers és una estratègia fonamental que transforma la mirada avaluadora d'un procés merament qualificatiu a un de regulador i formatiu. El seu fonament rau en la premissa que l'avaluació ha de servir per millorar l'aprenentatge, no només per certificar-lo. En un currículum per competències, això implica redefinir què, com, quan i per què s'avalua, posant l'alumne al centre del procés. L'objectiu és que l'alumnat esdevingui protagonista de la seva avaluació, capaç d'autoregular-se, d'identificar les seves dificultats i de trobar camins per superar-les. L'error es percep com una part natural i necessària de l'aprenentatge, no com quelcom a penalitzar, i el feedback esdevé una eina crucial per a aquesta autoregulació. Aquesta estratègia és especialment rellevant per a alumnes amb Necessitats Educatives Específiques (NEE) o Necessitats Específiques de Suport Educatiu (NESE), incloent-hi l'alumnat nouvingut amb baixa competència lingüística, ja que permet ajustar els instruments i les condicions d'avaluació per garantir que puguin demostrar el seu aprenentatge de manera equitativa. El Pla de Suport Individualitzat (PI) es configura com una eina clau per formalitzar aquests ajustos.
 
-## Definició i principis
+### Quan i per a qui és útil
+Aquesta estratègia és útil per a tot l'alumnat i en totes les etapes educatives, des d'Educació Infantil fins al Batxillerat i la Formació Professional, ja que promou una avaluació orientada a l'aprenentatge i l'autonomia. No obstant això, esdevé indispensable per a l'alumnat amb NEE i NESE, incloent-hi:
+*   **Alumnat amb dificultats d'aprenentatge:** Perquè necessiten suports explícits i diversificació en la manera de demostrar el que saben.
+*   **Alumnat d'origen estranger amb baixa competència lingüística:** Perquè les barreres idiomàtiques no impedeixin avaluar el seu coneixement de les matèries.
+*   **Alumnat amb Plans de Suport Individualitzat (PI):** Ja que el PI és un acord d'avaluació que defineix criteris i mesures de suport específiques.
+*   **Alumnat que requereix suports intensius:** Perquè l'avaluació s'ajusti al seu ritme i nivell d'assoliment.
+L'estratègia s'aplica de manera continuada: abans de començar les activitats (per avaluar coneixements previs i explicitar objectius), durant el procés (per monitoritzar i ajustar) i al final (per verificar l'assoliment i consolidar).
 
-L'adaptació de l'avaluació per a alumnat amb necessitats educatives específiques (NEE) consisteix en el conjunt de modificacions que s'apliquen als instruments, condicions, formats i criteris avaluatius per garantir que tot l'alumnat pugui demostrar el seu aprenentatge real sense que les barreres derivades de la seva condició distorsionin els resultats. No es tracta de rebaixar les expectatives ni d'eliminar l'exigència, sinó de separar allò que volem avaluar d'allò que l'instrument convencional avalua de manera col·lateral. Per exemple, si volem avaluar la comprensió d'un procés històric, un examen escrit amb temps limitat pot estar avaluant alhora la velocitat d'escriptura, la capacitat de gestió de l'ansietat o la fluïdesa lectora, competències que no són l'objecte d'avaluació. L'adaptació elimina aquestes interferències perquè l'avaluació mesuri realment el que pretén mesurar. Els principis fonamentals són: equitat (no igualtat formal), validesa de constructe (avaluar el que diem que avaluem), accessibilitat universal com a punt de partida, proporcionalitat de les adaptacions i documentació transparent dins el Pla Individualitzat (PI). Aquesta estratègia s'emmarca en el paradigma d'escola inclusiva i en la normativa vigent que estableix el dret de tot l'alumnat a una avaluació justa i significativa.
+### Recursos necessaris
+Per implementar aquesta estratègia, calen diversos recursos:
+*   **Formació i col·laboració docent:** Temps per a la reflexió pedagògica, el debat en equip i la formació en avaluació formativa i competencial. La col·laboració entre docents, fins i tot amb observacions a l'aula, és clau per millorar les pràctiques.
+*   **Temps:** Dedicar temps a compartir objectius i criteris amb l'alumnat, a la retroalimentació, a l'autoavaluació i coavaluació, i a la revisió de les activitats.
+*   **Instruments d'avaluació diversos:** Rúbriques, llistes de comprovació, protocols d'observació, carpetes d'aprenentatge (portfolis), bases d'orientació, diaris de reflexió i altres eines que permetin recollir evidències d'aprenentatge de múltiples maneres.
+*   **Materials adaptats:** Suports visuals, materials amb llenguatge simplificat, eines digitals, i la possibilitat de diversificar els canals d'expressió (oral, escrita, manipulativa, gràfica).
+*   **Cultura d'aula inclusiva:** Un entorn on l'error és vist com una oportunitat d'aprenentatge, on la veu de l'alumnat és crucial i on es fomenta l'autonomia i la participació.
 
-## Autors i marcs de referència
+### Com implementar
+L'adaptació de l'avaluació es pot implementar progressivament, augmentant la complexitat i la implicació de l'alumnat a mesura que es consoliden les pràctiques.
 
-La fonamentació d'aquesta estratègia s'alimenta dels principis del Disseny Universal per a l'Aprenentatge (DUA), desenvolupat al CAST, que proposa múltiples formes de representació, acció-expressió i implicació. També connecta amb el marc d'avaluació inclusiva promogut per l'Agència Europea per a les Necessitats Educatives Especials i l'Educació Inclusiva, que defensa l'avaluació com a eina al servei de l'aprenentatge de tots. En l'àmbit català, el Departament d'Educació regula les adaptacions a través dels plans individualitzats i les instruccions per a les proves d'avaluació externa.
+**Nivell Bàsic:**
+1.  **Comunicació clara d'objectius i criteris:** Al començament de qualsevol unitat o activitat, explicita què s'espera que l'alumnat aprengui i com serà avaluat. Utilitza un llenguatge senzill i assegura't que l'alumnat ho ha entès.
+2.  **Diversificació d'instruments:** No et limitis a les proves escrites tradicionals. Incorpora observacions, treballs de projecte, presentacions orals, productes creatius o resolució de problemes pràctics.
+3.  **Feedback constructiu:** Ofereix retroalimentació regular i específica que ajudi l'alumne a entendre els seus errors i a saber com millorar, en lloc de només una qualificació.
+4.  **Temps suficient:** Concedeix temps addicional per a la realització de les tasques i per a la revisió individual abans del lliurament, especialment per a l'alumnat que ho necessiti.
+5.  **Garantir l'èxit parcial:** Dissenyar activitats que permetin a tots els alumnes resoldre almenys una part, assegurant que puguin demostrar algun aprenentatge i mantenir la motivació.
 
-## Exemples
+**Nivell Intermedi:**
+1.  **Co-construcció de criteris:** Implica l'alumnat en l'elaboració de rúbriques o llistes de comprovació per a les activitats, de manera que interioritzin els criteris d'èxit.
+2.  **Autoavaluació i coavaluació sistemàtica:** Integra aquestes pràctiques regularment, proporcionant pautes clares perquè els alumnes puguin revisar i millorar el seu treball i el dels seus companys.
+3.  **Carpetes d'aprenentatge (Portfolis):** Fomenta el recull raonat d'evidències d'aprenentatge (activitats, esborranys, reflexions) que mostrin el procés i el progrés de l'alumne.
+4.  **Disseny de tasques autèntiques i complexes:** Crea proves que parteixin de situacions problemàtiques, contextualitzades en la vida real, que requereixin l'aplicació integrada de coneixements i mobilitzin habilitats cognitives superiors (analitzar, interpretar, justificar).
+5.  **Adaptació lingüística:** Per a l'alumnat nouvingut, simplifica el llenguatge de les instruccions, proporciona vocabulari clau, utilitza suports visuals i permet canals d'expressió alternatius (dibuix, manipulació).
 
-### Exemple 1: Flexibilització per a alumna amb dislèxia
+**Nivell Avançat:**
+1.  **Avaluació com a regulació contínua:** Integra l'avaluació en cada fase de l'aprenentatge, utilitzant-la per ajustar la planificació didàctica i les intervencions individualitzades.
+2.  **Bases d'orientació:** Guia l'alumnat en la creació de bases d'orientació, que són seqüències ordenades d'accions per resoldre problemes, afavorint la planificació i l'autoavaluació autònoma.
+3.  **Promoció de la metacognició:** Anima l'alumnat a reflexionar no només sobre *què* han après, sinó *com* ho han après i quines estratègies els han estat útils.
+4.  **Avaluació amb materials de suport:** Permet que l'alumnat utilitzi materials de consulta i suport durant les proves, simulant condicions de la vida real on l'accés a la informació és habitual.
+5.  **Pla de Suport Individualitzat (PI):** Per a l'alumnat amb NEE o NESE, elabora i aplica un PI que especifiqui els criteris d'avaluació adaptats, les mesures de suport i, excepcionalment, la no avaluació temporal d'algunes matèries, sempre amb revisió periòdica.
 
-Una alumna de quart de primària amb dislèxia diagnosticada ha de realitzar una prova de coneixement del medi sobre el cicle de l'aigua. La mestra prepara l'adaptació: amplia el temps un 50%, presenta l'enunciat amb tipografia adaptada (OpenDyslexic, cos 14, interlineat 1.5), llegeix en veu alta les preguntes a l'inici, substitueix dues preguntes de resposta oberta llarga per preguntes on l'alumna ha d'ordenar seqüències i completar un esquema visual, i permet l'ús d'un regle de lectura per seguir les línies. Els criteris d'avaluació se centren en el contingut científic — la comprensió de l'evaporació, condensació i precipitació — i no penalitzen els errors ortogràfics. La mestra documenta les adaptacions al PI i les comunica a la família. L'alumna demostra un coneixement sòlid del cicle de l'aigua que en una prova estàndard quedaria invisibilitzat per les dificultats de decodificació lectora.
+**Adaptacions per diversitat (NEE i NESE):**
+*   **Ajust de criteris:** El PI permet assignar criteris d'avaluació superiors o inferiors als del nivell, segons les capacitats de l'alumne.
+*   **Diversificació de canals d'expressió:** Permetre que l'alumne demostri el seu aprenentatge a través de la manipulació, el dibuix, l'oralitat, o amb l'ajuda de tecnologies, si l'expressió escrita és una barrera.
+*   **Suports visuals i organitzadors:** Utilitzar esquemes, mapes conceptuals, imatges o llistes de comprovació per facilitar la comprensió de les tasques i la planificació.
+*   **Fraccionament de tasques:** Dividir tasques complexes en parts més petites i manejables, avaluant cada pas del procés.
+*   **Ús de llenguatge clar i concís:** Evitar ambigüitats i utilitzar un vocabulari adaptat al nivell de comprensió de l'alumne.
+*   **Temps estès:** Concedir més temps per a la realització de proves o activitats.
+*   **No avaluació temporal:** En casos excepcionals, el PI pot contemplar que algunes matèries no s'avaluïn temporalment, registrant-ho en els documents oficials.
 
-### Exemple 2: Adaptació per a alumne amb TEA a secundària
+### Exemples d'aplicació per etapa
 
-Un alumne de segon d'ESO amb trastorn de l'espectre autista (TEA) ha de fer una presentació oral sobre un projecte de tecnologia. L'oralitat improvisada davant del grup genera una ansietat extrema que bloqueja la seva capacitat comunicativa. El docent dissenya una adaptació del format mantenint els mateixos criteris de contingut: l'alumne grava un vídeo explicatiu a casa amb suport visual (diapositives que ell mateix ha creat), el docent el visualitza individualment amb l'alumne present per poder fer-li preguntes complementàries en un entorn tranquil, i l'alumne respon usant suport escrit si cal. La rúbrica avalua: domini del contingut tècnic, claredat explicativa, ús de vocabulari específic i qualitat del suport visual. No s'avaluen la fluïdesa oral improvisada ni el contacte visual, que no formen part dels objectius d'aprenentatge de la unitat. L'adaptació es recull al PI i s'acorda amb l'equip d'atenció a la diversitat.
+*   **Educació Primària (Cicle Inicial):**
+    *   **Activitat inicial (reproductiva):** Classificar aliments en categories com "aporten proteïnes", "aporten energia", "aporten vitamines".
+    *   **Activitat adaptada (competencial):** Es presenta el cas d'un nen "grasset i que es posa malalt sovint" i el seu menú setmanal poc saludable. L'alumnat ha d'analitzar per què el nen està així, identificar els problemes de la seva dieta i, basant-se en la piràmide dels aliments, proposar un menú setmanal sa i equilibrat per a la seva tieta. Aquesta adaptació passa d'una tasca memorística a una productiva, complexa, contextualitzada i rellevant, que mobilitza habilitats cognitives superiors.
 
-## Errors comuns
+*   **Educació Secundària Obligatòria (ESO):**
+    *   **Activitat inicial (memorística):** Identificar les parts de la flor i explicar el seu paper en la reproducció de les plantes.
+    *   **Activitat adaptada (competencial):** L'alumnat rep una gràfica de la collita de cireres d'un avi i una notícia sobre la reducció de la població d'insectes pol·linitzadors. Han de redactar una carta a l'avi explicant-li de forma entenedora per què la seva collita és escassa, aplicant els coneixements sobre reproducció de plantes i pol·linització. Aquesta tasca és productiva, complexa, contextualitzada, rellevant i té un destinatari clar diferent del mestre.
+    *   **Ús de la Carpeta d'Aprenentatge:** En un projecte de recerca sobre el canvi climàtic, els alumnes recullen en una carpeta digital (blog o web) els seus esborranys, les fonts consultades, les reflexions sobre les dificultats trobades, les coavaluacions dels companys i la versió final del seu projecte. Al final del trimestre, seleccionen les evidències més significatives que demostren el seu aprenentatge i justifiquen per què les han escollit. Això fomenta l'autoregulació i la metacognició.
 
-- **Confondre adaptació amb reducció.** Adaptar no és fer "menys" ni "més fàcil", sinó eliminar les barreres que impedeixen demostrar l'aprenentatge real. Reduir contingut només és pertinent quan hi ha una adaptació curricular significativa documentada al PI.
-- **No documentar les adaptacions.** Si les modificacions no consten al PI, no tenen continuïtat entre docents ni cursos, i generen arbitrarietat.
-- **Aplicar adaptacions sense conèixer l'alumne.** Les adaptacions han de ser personalitzades segons el perfil funcional de cada alumne, no genèriques per diagnòstic.
-- **Estigmatitzar l'alumnat adaptat.** Fer l'adaptació visible davant del grup ("tu tens l'examen diferent") pot generar exclusió. Cal normalitzar la diversitat d'instruments per a tot el grup.
-- **Adaptar només els exàmens.** L'avaluació inclusiva implica adaptar tot el procés avaluatiu: recollida d'evidències, retroalimentació, autoavaluació, no només les proves formals.
+*   **Batxillerat / Formació Professional (FP):**
+    *   **Activitat inicial (reproductiva):** Resoldre un exercici de càlcul de proporcions en un context abstracte.
+    *   **Activitat adaptada (competencial - Base d'Orientació):** Per a la creació d'un climograma, els alumnes, amb el guiatge del docent, elaboren una "base d'orientació" que detalla els passos a seguir (eixos, escales, representació de dades, etc.). Aquesta base s'utilitza com a guia per realitzar la tasca de forma autònoma i com a instrument d'autoavaluació i coavaluació, assegurant que entenen la noció de proporcionalitat per fer els climogrames comparables.
+    *   **Avaluació de projectes amb auto/coavaluació:** En un mòdul d'FP sobre disseny web, els alumnes creen un lloc web per a una empresa real. Utilitzen una rúbrica detallada, co-creada amb el docent, per autoavaluar i coavaluar el disseny, la funcionalitat, l'accessibilitat i el contingut del lloc web. Aquesta rúbrica els permet identificar punts forts i àrees de millora abans de la presentació final al "client" (el docent o un representant de l'empresa).
 
-## Matissos
+### Indicadors d'èxit
+*   **Augment de l'autonomia i autoregulació de l'alumnat:** Els estudiants són més capaços d'identificar els seus objectius, planificar les seves tasques, reconèixer els seus errors i trobar estratègies per millorar.
+*   **Reducció de l'ansietat davant l'avaluació:** L'alumnat percep l'avaluació com una oportunitat per aprendre i no com una amenaça.
+*   **Millora en la qualitat dels aprenentatges:** Es constata un progrés més significatiu en l'assoliment de les competències, ja que l'avaluació guia activament el procés.
+*   **Major implicació de l'alumnat:** Participació activa en l'autoavaluació, la coavaluació i la reflexió sobre el propi aprenentatge.
+*   **Ajust de la pràctica docent:** El professorat utilitza les evidències d'avaluació per adaptar les estratègies pedagògiques i les intervencions didàctiques a les necessitats del grup i individuals.
+*   **Assoliment dels objectius del PI:** L'alumnat amb NEE i NESE assoleix els objectius establerts en el seu Pla de Suport Individualitzat.
+*   **Coherència avaluativa:** Major alineació entre el que s'ensenya, el que s'aprèn i com s'avalua, amb criteris compartits i transparents.
 
-Cal distingir entre adaptacions d'accés (que modifiquen les condicions sense tocar els criteris, com ampliar temps o canviar format) i adaptacions curriculars significatives (que modifiquen els objectius i criteris d'avaluació). Les primeres no requereixen necessàriament un diagnòstic formal i poden beneficiar tot l'alumnat des d'un enfocament DUA. Les segones sí que requereixen documentació al PI i decisió d'equip. A més, les adaptacions no són estàtiques: cal revisar-les periòdicament perquè l'alumnat pot evolucionar i necessitar menys suports o suports diferents. Finalment, és important recordar que l'adaptació no és un privilegi sinó un dret, i que la seva absència pot constituir una forma de discriminació.
-
----
-
-# 2. CONNEXIONS AMB ALTRES DOCUMENTS DEL CORPUS
-
-| Element | Relació | Fitxer |
-|---|---|---|
-| Portfoli i evidències | El portfoli permet formats d'evidència diversos, naturalment adaptables a NEE | `M6_portfoli-evidencies.md` |
-| Coavaluació i autoavaluació | Cal adaptar també els instruments d'autoavaluació i coavaluació per a alumnat NEE | `M6_coavaluacio-autoavaluacio.md` |
-| Participació famílies | Les famílies d'alumnat NEE necessiten informació específica sobre les adaptacions avaluatives | `M7_participacio-families.md` |
-| Gestió aula i rutines | Les rutines predictibles beneficien especialment l'alumnat amb NEE durant situacions d'avaluació | `M7_gestio-aula-rutines.md` |
-
-# 3. DETECCIÓ (Variables de Context)
-
-**Senyals docent:**
-1. El docent observa que determinats alumnes obtenen resultats molt inferiors als esperats en proves escrites però demostren comprensió en contextos informals.
-2. Hi ha alumnes que sistemàticament no acaben les proves dins del temps estipulat, malgrat tenir els coneixements.
-3. El docent percep que un alumne amb PI no està sent avaluat de manera coherent amb les adaptacions acordades.
-4. Es detecta discrepància entre les qualificacions de l'alumne i la seva participació i aprenentatge observat a l'aula.
-5. Les famílies expressen preocupació perquè el seu fill "sap el contingut però les notes no ho reflecteixen."
-6. L'alumnat amb NEE mostra nivells elevats d'ansietat o evitació davant situacions avaluatives.
-
-**Senyals alumne:**
-- L'alumne verbalitza "jo sé la resposta però no sé com escriure-la" o expressions equivalents.
-- Es detecten bloquejos emocionals desproporcionats davant proves que no es donen en el treball diari.
-- L'alumne amb NEE abandona proves a mitges o deixa preguntes en blanc malgrat tenir coneixements.
-
-**Senyals context:**
-- El centre ha adoptat un enfocament inclusiu però els instruments d'avaluació no s'han revisat en coherència.
-- Les proves d'avaluació externa generen resultats molt desiguals entre alumnat amb i sense NEE en proporció no explicable per diferència de coneixements.
-
-**Anti-senyals:**
-- Si l'alumne no presenta dificultats observables en l'avaluació estàndard, no cal adaptar per sistema pel simple fet de tenir un diagnòstic.
-- Si el que es vol avaluar és precisament la competència que l'adaptació eliminaria (p. ex. l'expressió oral en una prova d'expressió oral), cal buscar alternatives sense eliminar l'objecte d'avaluació.
-
-# 4. HEURÍSTIQUES I RAONAMENT PER A L'AGENT
-
-## H1 Necessita decidir quina adaptació aplicar a un alumne — DOCENT
-
-**Quan aplica:** El docent necessita decidir quina adaptació aplicar a un alumne amb NEE per a una prova concreta.
-
-**Fonament:** La decisió ha de partir de la pregunta "què vull avaluar realment?" i, a continuació, identificar quines barreres de l'instrument impedeixen que l'alumne demostri aquest aprenentatge concret. Aquesta anàlisi funcional — centrada en la interacció entre l'alumne, la tasca i el context — és molt més útil que les llistes genèriques d'adaptacions per diagnòstic, perquè dos alumnes amb el mateix diagnòstic poden necessitar adaptacions totalment diferents segons el seu perfil funcional i l'instrument específic.
-
-**Exemple:** Un docent es planteja com adaptar un examen de ciències per a un alumne amb TDAH. En lloc de consultar una llista genèrica, analitza: l'objectiu és avaluar comprensió de conceptes de genètica. Les barreres previsibles són la dificultat de mantenir l'atenció durant una hora i la impulsivitat en la lectura d'enunciats. Decideix: segmentar la prova en dos blocs de 25 minuts amb una pausa, subratllar les paraules clau dels enunciats i permetre que l'alumne faci l'examen en un espai amb menys estímuls distractors.
-
----
-
-## H2 L'equip docent discrepa sobre si una adaptació és — DOCENT
-
-**Quan aplica:** L'equip docent discrepa sobre si una adaptació és "justa" respecte a la resta de l'alumnat.
-
-**Fonament:** La justícia educativa no és tractar tothom igual sinó donar a cadascú el que necessita per tenir les mateixes oportunitats de demostrar el seu aprenentatge. L'analogia de les ulleres és clarificadora: ningú considera injust que un alumne amb miopia porti ulleres a classe; les adaptacions avaluatives són l'equivalent per a altres dificultats menys visibles. El concepte clau és el d'equitat: assolir igualtat de resultats potencials eliminant barreres no rellevants per a l'objecte d'avaluació.
-
-**Exemple:** En una reunió d'equip docent, un professor qüestiona que un alumne amb dislèxia tingui més temps en un examen d'anglès. La coordinadora pedagògica reformula la discussió: "Què volem avaluar en aquest examen? Si és comprensió lectora, potser cal mantenir la condició temporal. Si és gramàtica o vocabulari, el temps addicional simplement compensa la lentitud de decodificació, que no és l'objecte d'avaluació." L'equip acorda que l'adaptació de temps és pertinent per a les proves de gramàtica i vocabulari, però que per a les de comprensió lectora caldrà buscar un altre tipus d'adaptació.
-
----
-
-## H3 Vol adaptar — ALUMNE
-
-**Quan aplica:** El docent vol adaptar però no té PI formalitzat de l'alumne.
-
-**Fonament:** Les adaptacions d'accés — aquelles que no modifiquen els criteris d'avaluació sinó les condicions — poden aplicar-se a qualsevol alumne com a mesura ordinària d'atenció a la diversitat, sense necessitat de PI. De fet, des de l'enfocament DUA, moltes d'aquestes adaptacions beneficien tot el grup. Un PI és necessari per a adaptacions curriculars significatives que modifiquin objectius o criteris, però no cal esperar la burocràcia per aplicar sentit comú pedagògic.
-
-**Exemple:** Una mestra de primer d'ESO té un alumne nouvingut sense PI formal que clarament necessita suport en comprensió lectora. Per a la prova de socials, sense esperar cap document oficial, aplica mesures ordinàries: glossari de termes clau, enunciats simplificats lingüísticament sense modificar el contingut, i possibilitat de respondre combinant text i dibuix. Aquestes mesures les documenta al seu registre d'aula i les comunica a l'equip docent.
+### Errors comuns
+1.  **Prioritzar la qualificació sobre la regulació:** Centrar-se exclusivament en posar una nota al final del procés, sense utilitzar l'avaluació com a eina per guiar i millorar l'aprenentatge. Això desaprofita el potencial formatiu de l'avaluació i redueix la motivació de l'alumnat.
+2.  **No compartir els objectius i criteris d'avaluació:** Mantenir en secret el que s'espera de l'alumnat o com seran avaluats. Si l'alumne no coneix la meta, no pot autoregular-se ni entendre el sentit del seu esforç.
+3.  **Penalitzar l'error:** Crear un clima d'aula on els errors són castigats o ridiculitzats, cosa que genera por, ansietat i inhibeix la participació i l'experimentació, elements clau per a l'aprenentatge.
+4.  **Ús exclusiu de proves memorístiques:** Dissenyar avaluacions que només demanen reproduir informació sense requerir l'aplicació, l'anàlisi, la interpretació o la creació, especialment en un currículum per competències.
+5.  **Ignorar la diversitat de l'alumnat:** Aplicar els mateixos instruments i condicions d'avaluació a tots els alumnes sense considerar les seves necessitats específiques (lingüístiques, cognitives, sensorials, etc.), impedint que demostrin el seu aprenentatge real.
+6.  **Avaluació unidireccional (només del docent):** No involucrar l'alumnat en processos d'autoavaluació o coavaluació, privant-los d'oportunitats crucials per desenvolupar la seva autonomia i capacitat crítica.
+7.  **Feedback genèric o tardà:** Oferir retroalimentació que no és prou específica per ser útil, o fer-ho quan ja és massa tard per a l'alumne per actuar sobre ella i millorar.
+8.  **Confondre "què farem" amb "què aprendrem":** Centrar les instruccions en la tasca en si mateixa en lloc de posar èmfasi en els aprenentatges que s'esperen, fent que l'alumne perdi el focus del propòsit educatiu.
 
 ---
+## 2. CONNEXIONS AMB ALTRES DOCUMENTS DEL CORPUS
+- **Marc_Avaluacio_Formativa**: Aquest document detalla com l'avaluació formativa és el fonament teòric per a l'adaptació de l'avaluació, proporcionant el "per què" d'aquestes estratègies.
+- **Protocol_PI_NEE_NESE**: Descriu el procediment formal per a la creació i seguiment dels Plans de Suport Individualitzat, que són la base normativa per a moltes de les adaptacions aquí proposades.
+- **Eina_Rubrica_Coavaluacio**: Aquesta eina ofereix un instrument concret per implementar l'autoavaluació i coavaluació, pràctiques clau dins d'aquesta estratègia d'adaptació.
+- **Eina_Carpeta_Aprenentatge**: Proporciona una guia per a l'ús de la carpeta d'aprenentatge, un instrument fonamental per recollir evidències i fomentar l'autoregulació en alumnat divers.
+- **Perfil_Alumnat_Nouvingut**: Aprofundeix en les característiques i necessitats de l'alumnat nouvingut amb baixa competència lingüística, un dels perfils clau per als quals aquesta estratègia és essencial.
+- **Estrategia_Diferenciacio_Pedagogica**: Complementa aquesta estratègia en oferir metodologies per adaptar el procés d'ensenyament-aprenentatge en general, no només l'avaluació.
 
-## H4 L'alumnat del grup protesta perquè percep les adaptacions — DOCENT
+## 3. DETECCIÓ (Variables de Context)
+- **Senyals del docent:**
+    - El docent expressa preocupació per com avaluar alumnes amb dificultats sense que la nota reflecteixi només la seva barrera i no el seu aprenentatge real.
+    - El docent pregunta com pot fer que les avaluacions siguin més justes o equitatives per a tot l'alumnat.
+    - El docent detecta que alguns alumnes no entenen les instruccions de les proves o no saben com començar.
+    - El docent vol anar més enllà de l'examen tradicional i busca maneres de fomentar l'autonomia dels alumnes en l'avaluació.
+    - El docent observa que el seu feedback no sempre resulta en una millora visible en els aprenentatges dels alumnes.
+- **Senyals de l'alumne:**
+    - L'alumne mostra ansietat o frustració davant les proves, o es bloqueja.
+    - L'alumne no sap explicar què ha après o per què ha comès un error.
+    - L'alumne amb baixa competència lingüística té dificultats per expressar-se per escrit, tot i que oralment o de forma pràctica pot demostrar coneixement.
+- **Senyals de context:**
+    - S'està implementant un nou currículum per competències al centre.
+    - Hi ha una alta diversitat a l'aula, amb presència d'alumnat amb NEE, NESE o nouvingut.
+    - Els resultats de les avaluacions no mostren una correlació clara amb el procés d'aprenentatge observat a l'aula.
+- **Anti-senyals:**
+    - El docent busca una "solució ràpida" per canviar notes sense adaptar el procés d'aprenentatge.
+    - El docent només vol una llista d'adaptacions sense entendre el fonament pedagògic.
+    - L'objectiu principal és reduir la càrrega de feina del docent en l'avaluació, no millorar l'aprenentatge de l'alumnat.
+    - Es proposa que la IA generi directament les qualificacions o les adaptacions sense la intervenció i el criteri del docent.
 
-**Quan aplica:** L'alumnat del grup protesta perquè percep les adaptacions d'un company com un avantatge.
+## 4. HEURÍSTIQUES I RAONAMENT PER A L'AGENT
+- **Principi general:** L'avaluació ha de ser una palanca per a l'aprenentatge i la inclusió, no un obstacle.
 
-**Fonament:** La gestió de la percepció del grup és fonamental per evitar que les adaptacions generin estigma o conflicte. El docent ha de treballar prèviament la cultura de l'aula entorn de la diversitat i l'equitat, explicant que les diferències en les condicions no signifiquen diferències en l'exigència, i que cadascú rep el suport que necessita per donar el seu millor. No cal revelar el diagnòstic de ningú; cal construir una narrativa col·lectiva sobre la justícia.
+- **Heurística per a l'Agent DOCENT: "El Llistó Ajustable"**
+    - **Quan aplica:** Quan un docent expressa preocupació per com avaluar justament un alumne amb NEE o NESE, o amb baixa competència lingüística, que no pot assolir els mateixos criteris que la resta del grup.
+    - **Fonament:** L'avaluació inclusiva reconeix que no tots els alumnes parteixen del mateix punt ni tenen les mateixes capacitats per demostrar el seu aprenentatge. Un Pla de Suport Individualitzat (PI) permet establir criteris d'avaluació adaptats, ja siguin superiors o inferiors, per tal que l'avaluació sigui significativa i reflecteixi el progrés individual de l'alumne, evitant la frustració i fomentant la motivació. L'objectiu és "posar el llistó" al nivell que l'alumne pugui assolir i revisar-lo periòdicament, com s'indica en la gestió dels PI per a alumnes nouvinguts o amb baixa competència acadèmica.
+    - **Exemple complet de raonament:** Un docent de 3r d'ESO té un alumne nouvingut que ha arribat fa tres mesos i encara té una competència lingüística molt bàsica en català. L'alumne mostra interès i participa activament en les activitats pràctiques de ciències, però les proves escrites són un obstacle insalvable. El docent es planteja com avaluar-lo sense penalitzar la seva manca de domini de la llengua. L'agent, aplicant "El Llistó Ajustable", raonaria que cal revisar el PI de l'alumne (o crear-ne un si no existeix) per acordar amb l'equip docent criteris d'avaluació que prioritzin la comprensió conceptual i la demostració pràctica, utilitzant instruments adaptats com ara proves orals amb suport visual, llistes de comprovació d'habilitats en laboratori, o la creació de maquetes/dibuixos explicatius. Això permetria avaluar el seu aprenentatge de ciències sense que la barrera lingüística sigui el factor determinant de la qualificació, ajustant el "llistó" a la seva realitat actual i reconeixent el seu progrés.
 
-**Exemple:** Un tutor de cinquè detecta comentaris negatius quan un alumne fa proves amb més temps. Dedica una sessió de tutoria a una activitat sobre equitat: presenta situacions on persones diferents necessiten coses diferents per aconseguir el mateix objectiu i demana al grup que debati si és just o injust. Després, sense referir-se a cap alumne concret, connecta amb l'aula: "Cadascú de nosaltres pot necessitar suports diferents en moments diferents; el que importa és que tots tinguem l'oportunitat de mostrar el que sabem."
-
+- **Heurística per a l'Agent DOCENT: "El Calidoscopi Avaluador"**
+    - **Quan aplica:** Quan un docent s'adona que les seves avaluacions actuals no reflecteixen tot el que els seus alumnes saben o poden fer, especialment amb alumnat divers, o quan busca maneres de fer l'avaluació més dinàmica i menys estressant.
+    - **Fonament:** La diversificació dels instruments i canals d'expressió és clau per a una avaluació inclusiva. Cada alumne té fortaleses diferents, i oferir múltiples vies per demostrar l'aprenentatge (oral, escrit, visual, manipulatiu, digital) permet que cadascú pugui expressar el seu coneixement de la manera que li sigui més accessible i efectiva. A més, utilitzar instruments com rúbriques, carpetes d'aprenentatge o bases d'orientació fomenta l'autoregulació i la metacognició, convertint l'avaluació en una eina d'aprenentatge continu. Aquesta pràctica redueix l'ansietat i augmenta la motivació en veure reconegudes les seves capacitats.
+    - **Exemple complet de raonament:** Una mestra de 5
 ---
 
-## H5 Ha d'avaluar competències orals en un alumne amb — DOCENT
+## 5. FONTS DEL CORPUS
 
-**Quan aplica:** El docent ha d'avaluar competències orals en un alumne amb dificultats de comunicació verbal.
+| # | Títol | URL |
+|---|-------|-----|
+| 1 | cursos:escola_inclusiva:ansu:b6:index [Formació del professorat] | https://ateneu.xtec.cat/wikiform/wikiexport/cursos/escola_inclusiva/ansu/b6/index |
+| 2 | cursos:escola_inclusiva:ansu:b6:b6t5 [Formació del professorat] | https://ateneu.xtec.cat/wikiform/wikiexport/cursos/escola_inclusiva/ansu/b6/b6t5 |
+| 3 | cursos:escola_inclusiva:ansu:b7:b7t2 [Formació del professorat] | https://ateneu.xtec.cat/wikiform/wikiexport/cursos/escola_inclusiva/ansu/b7/b7t2 |
+| 4 | cursos:escola_inclusiva:ansu:b6:b6t1 [Formació del professorat] | https://ateneu.xtec.cat/wikiform/wikiexport/cursos/escola_inclusiva/ansu/b6/b6t1 |
+| 5 | cursos:escola_inclusiva:ansu:b6:b6t4 [Formació del professorat] | https://ateneu.xtec.cat/wikiform/wikiexport/cursos/escola_inclusiva/ansu/b6/b6t4 |
+| 6 | cursos:curriculum:inf_pri:cape:aval:index [Formació del professorat] | http://ateneu.xtec.cat/wikiform/wikiexport/cursos/curriculum/inf_pri/cape/aval/index |
+| 7 | cursos:escola_inclusiva:ansu:b6:b6t2 [Formació del professorat] | https://ateneu.xtec.cat/wikiform/wikiexport/cursos/escola_inclusiva/ansu/b6/b6t2 |
+| 8 | cursos:curriculum:inf_pri:cape:aval:taller:index [Formació del professorat] | http://ateneu.xtec.cat/wikiform/wikiexport/cursos/curriculum/inf_pri/cape/aval/taller/index |
+| 9 | cursos:curriculum:inf_pri:cape:aval:taller:s2 [Formació del professorat] | http://ateneu.xtec.cat/wikiform/wikiexport/cursos/curriculum/inf_pri/cape/aval/taller/s2 |
+| 10 | cursos:curriculum:inf_pri:cape:aval:taller:s1 [Formació del professorat] | http://ateneu.xtec.cat/wikiform/wikiexport/cursos/curriculum/inf_pri/cape/aval/taller/s1 |
+| 11 | avaluar_per_aprendre_dc4082466b.pdf | http://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0024/fc53024f-626e-423b-877a-932148c56075/avaluar_per_aprendre.pdf |
+| 12 | carpeta-aprenentatge_2620ab3872.pdf | https://xtec.gencat.cat/web/.content/curriculum/xarxacb/documents/instruments-avaluacio-formativa/carpeta-aprenentatge.pdf |
+| 13 | 3._modificacio_prova_avaluacio_cicle_inicial_8594dbd6d4.pdf | http://ateneu.xtec.cat/wikiform/wikiexport/_media/cursos/curriculum/inf_pri/cape/3._modificacio_prova_avaluacio_cicle_inicial.pdf |
+| 14 | practica_3_8db195af30.pdf | http://ateneu.xtec.cat/wikiform/wikiexport/_media/cursos/curriculum/inf_pri/cape/practica_3.pdf |
+| 15 | avaluaci-formativa_-qu-hi-ha-de-nou_deb2ffb895.pdf | http://ateneu.xtec.cat/wikiform/wikiexport/_media/cursos/curriculum/inf_pri/cape/avaluaci-formativa_-qu-hi-ha-de-nou.pdf |
+| 16 | La-carpeta-daprenentatge_2cdfda0ad0.pdf | http://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0003/0e9f449b-790e-4fd7-a9e9-1cab53252ae3/La-carpeta-daprenentatge.pdf |
+| 17 | 5._modificacio_prova_avaluacio_cicle_superior_e34c732a04.pdf | http://ateneu.xtec.cat/wikiform/wikiexport/_media/cursos/curriculum/inf_pri/cape/5._modificacio_prova_avaluacio_cicle_superior.pdf |
+| 18 | 3a_presentacio_-autoexplicativa_5_9_88d91daaeb.pdf | http://ateneu.xtec.cat/wikiform/wikiexport/_media/cursos/curriculum/inf_pri/cape/3a_presentacio_-autoexplicativa_5_9.pdf |
+| 19 | 4._modificacio_prova_avaluacio_cicle_mitja_506362b8ba.pdf | http://ateneu.xtec.cat/wikiform/wikiexport/_media/cursos/curriculum/inf_pri/cape/4._modificacio_prova_avaluacio_cicle_mitja.pdf |
+| 20 | 2._es_competencial_aquesta_prova_b4b85a43ac.pdf | http://ateneu.xtec.cat/wikiform/wikiexport/_media/cursos/curriculum/inf_pri/cape/2._es_competencial_aquesta_prova.pdf |
+| 21 | Full-indicadors-compartir-objectius-i-criteris-ava_4448f3a238.pdf | http://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0083/c7780a61-36f9-4a59-aeca-21acafc597f3/Full-indicadors-compartir-objectius-i-criteris-avaluacio.pdf |
+| 22 | avaluaci-formativa_-qu-hi-ha-de-nou_228021edaf.pdf | http://xtec.gencat.cat/web/.content/documents/avaluaci-formativa_-qu-hi-ha-de-nou.pdf |
+| 23 | Pautes-per-compartir-objectius-i-criteris-d-avalua_32b5566812.pdf | http://xtec.gencat.cat/web/.content/documents/Pautes-per-compartir-objectius-i-criteris-d-avaluaci.pdf |
+| 24 | Rubrica-Bans_b879cedf7d.pdf | http://xtec.gencat.cat/web/.content/documents/Rubrica-Bans.pdf |
+| 25 | formativa-proves-avaluacio_fde7363bd0.pdf | http://xtec.gencat.cat/web/.content/documents/formativa-proves-avaluacio.pdf |
+| 26 | BANUS_CI_MODIFICACIO_ACTIVITAT_COMPETENCIAL_145f5a418f.pdf | http://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0026/f5b4e60d-88cc-4364-bb7f-4cb2243769bf/BANUS_CI_MODIFICACIO_ACTIVITAT_COMPETENCIAL.pdf |
+| 27 | Mini_GAPPISA_horitzontal_1c526ecc07.pdf | http://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0014/4d35cb97-7bb9-43d3-919b-46cb8f271671/Mini_GAPPISA_horitzontal.pdf |
+| 28 | autoavaluacio-coavaluacio_52971de36c.pdf | http://xtec.gencat.cat/web/.content/curriculum/xarxacb/documents/instruments-avaluacio-formativa/autoavaluacio-coavaluacio.pdf |
+| 29 | 81d0d8_50ad5ebf0be14ae5ac31074d3ec3302d_60f99c9a2a.pdf | https://docs.wixstatic.com/ugd/81d0d8_50ad5ebf0be14ae5ac31074d3ec3302d.pdf |
+| 30 | base-orientacio_7dc60ba889.pdf | http://xtec.gencat.cat/web/.content/curriculum/xarxacb/documents/instruments-avaluacio-formativa/base-orientacio.pdf |
 
-**Fonament:** Quan l'objecte d'avaluació és precisament una competència en què l'alumne té dificultats, l'adaptació és més delicada. No es pot eliminar l'objecte d'avaluació, però sí es poden modificar les condicions perquè la dificultat no impedeixi qualsevol demostració. Cal buscar el format que permeti la màxima expressió possible de la competència amb el mínim de barreres afegides.
-
-**Exemple:** Una alumna amb mutisme selectiu ha d'avaluar-se de la competència comunicativa oral. La docent dissenya una gradació: primer intenta una presentació gravada en vídeo a casa, si no és possible prova amb un àudio, i com a última opció accepta una presentació escrita amb suport visual que l'alumna explica per escrit com si fos un guió oral. L'adaptació es documenta al PI especificant que és temporal i que es revisarà trimestralment.
-
----
-
-## H6 Amb NEE rebutja les adaptacions perquè no vol "ser diferent — ALUMNE
-
-**Quan aplica:** L'alumne amb NEE rebutja les adaptacions perquè no vol "ser diferent."
-
-**Fonament:** En l'adolescència especialment, la necessitat d'encaixar pot fer que l'alumnat rebutgi suports que percep com a estigmatitzants. Cal respectar l'agència de l'alumne, però també assegurar que la decisió sigui informada. El diàleg individual, la normalització de les diferències i la recerca conjunta de formats que l'alumne accepti són clau.
-
-**Exemple:** Un alumne de tercer d'ESO amb TDAH es nega a sortir de l'aula per fer les proves en un espai tranquil. El tutor parla amb ell individualment, reconeix el seu desig de normalitat i li ofereix alternatives: seure en un racó de l'aula amb menys estímuls, usar auriculars amb soroll blanc, o fer la prova a primera hora quan l'aula està més calmada. L'alumne tria els auriculars, una adaptació invisible que accepta de bon grat.
-
----
-
-## H7 Presenta dificultats motrius que impedeixen l'escriptura manual fluida — ALUMNE
-
-**Quan aplica:** L'alumne presenta dificultats motrius que impedeixen l'escriptura manual fluida.
-
-**Fonament:** Les barreres motrius en l'escriptura són un cas clar d'adaptació d'accés: el que volem avaluar no és la cal·ligrafia ni la velocitat d'escriptura manual, sinó el contingut. Permetre l'ús d'ordinador o tauleta, un escrivà o respostes orals gravades són adaptacions que no modifiquen cap criteri d'avaluació.
-
-**Exemple:** Un alumne amb paràlisi cerebral que afecta la motricitat fina fa totes les proves amb un portàtil amb teclat adaptat. Per a les proves de matemàtiques que requereixen gràfics, utilitza un programari de geometria dinàmica. El docent assegura que el format digital no afavoreixi ni perjudiqui: les preguntes són les mateixes i els criteris idèntics als de la resta del grup.
-
----
-
-## H8 Mostra bloqueig emocional sever davant les situacions d'avaluació — ALUMNE
-
-**Quan aplica:** L'alumne mostra bloqueig emocional sever davant les situacions d'avaluació formal.
-
-**Fonament:** L'ansietat davant les proves pot ser especialment intensa en alumnat amb NEE que ha acumulat experiències negatives d'avaluació. En aquests casos, l'adaptació no és només instrumental sinó ambiental i emocional: reduir la pressió temporal, oferir entorns segurs, fragmentar la prova, o integrar l'avaluació dins d'activitats quotidianes per desactivar la percepció d'amenaça.
-
-**Exemple:** Una alumna amb trastorn d'ansietat es bloqueja completament en els exàmens. La tutora, en coordinació amb l'orientadora, dissenya un pla on l'alumna és avaluada principalment a través d'observació directa, activitats de classe i converses individuals. Quan cal una prova escrita, la fa sola amb la tutora, sense límit de temps i amb la possibilitat de fer pauses. Progressivament, a mesura que l'ansietat disminueix, es van introduint condicions més estàndard.
-
-### Fonts i referències
-
-> Fonts pendents de verificació
-
----
+*30 documents font · secció generada automàticament*

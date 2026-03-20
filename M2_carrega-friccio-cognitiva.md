@@ -2,284 +2,181 @@
 modul: M2
 titol: "Càrrega i fricció cognitiva"
 tipus: marc
-descripcio: "Teoria de la càrrega cognitiva, fricció desitjable i rendició cognitiva: com la IA amplifica l'aprenentatge sense substituir-lo"
+descripcio: "Teoria de la càrrega cognitiva i fricció desitjable: la IA augmenta l'aprenentatge, no el substitueix"
 review_status: esborrany
+generat_at: 2026-03-18T15:30:48
 ---
 
-# 1. CONTINGUT
+# 1. CONTINGUT ESPECÍFIC
 
-## Definicions i conceptes fonamentals
+## Definició i principis
 
-La **càrrega cognitiva** i la **fricció desitjable** constitueixen dos dels marcs teòrics més rellevants per entendre com es produeix l'aprenentatge profund i com cal dissenyar les activitats educatives, especialment quan s'introdueixen eines d'intel·ligència artificial a l'aula. Junts, configuren un sistema conceptual que permet al docent auditar si una activitat assistida per IA realment contribueix a l'aprenentatge o simplement produeix una il·lusió d'aprenentatge (bon rendiment immediat sense construcció de coneixement durable).
+La càrrega cognitiva es refereix a la quantitat total d'esforç mental que s'utilitza en la memòria de treball d'una persona. En l'àmbit educatiu, una demanda cognitiva excessiva pot dificultar la comprensió profunda i l'adquisició de nous coneixements, especialment en alumnes amb necessitats diverses o en aprenentatge de segones llengües (DOC 2). L'objectiu pedagògic és gestionar aquesta càrrega per optimitzar l'aprenentatge, reduint la càrrega innecessària (extrínseca) i maximitzant la càrrega rellevant per a l'aprenentatge (intrínseca i germana).
 
-### Teoria de la Càrrega Cognitiva (Sweller)
+La fricció desitjable (o dificultat desitjable) és el concepte que un cert nivell de desafiament o "fricció" en el procés d'aprenentatge és beneficiós per a la retenció a llarg termini i la transferència de coneixement. No es tracta de fer les coses més difícils sense sentit, sinó d'introduir reptes que obliguin l'alumne a un processament més profund de la informació, a raonar i a argumentar (DOC 12, 13, 23). Aquest desequilibri cognitiu, especialment en interacció amb altres punts de vista, és un motor per a la reestructuració dels esquemes de coneixement (DOC 19). L'equilibri entre una càrrega cognitiva gestionable i una fricció desitjable és clau per a un aprenentatge efectiu i autònom.
 
-La teoria de la càrrega cognitiva, formulada per John Sweller als anys 80 i 90, parteix d'una premissa bàsica: la memòria de treball humana té una capacitat limitada. Processar informació nova requereix recursos cognitius, i quan es supera la capacitat de la memòria de treball, l'aprenentatge s'atura o es deteriora.
+Per aconseguir aquest equilibri, els principis pedagògics es centren en:
+*   **Explicitar objectius i criteris d'avaluació:** L'alumne ha de saber què s'espera d'ell i com serà avaluat per reduir la incertesa i enfocar l'esforç (DOC 6, 23).
+*   **Ensenyament gradual i bastides (scaffolding):** Introduir nous coneixements de manera progressiva, amb suport inicial que es retira a mesura que l'alumne guanya autonomia (DOC 5, 7, 18).
+*   **Ensenyar estratègies d'aprenentatge:** Dotar l'alumne d'eines metacognitives, cognitives i socioafectives per autoorganitzar-se i autoregular-se (DOC 2, 6).
+*   **Disseny Universal de l'Aprenentatge (DUA) i ensenyament multinivell:** Planificar activitats amb múltiples opcions per captar interès, presentar informació i demostrar aprenentatge, adaptant-se a la diversitat de l'alumnat (DOC 1, 3, 17, 21, 23).
+*   **Aprenentatge cooperatiu i entre iguals:** Fomentar la interacció social, el diàleg i l'ajuda mútua per aprofitar la diversitat com a potencial educatiu i generar desequilibri sociocognitiu (DOC 8, 9, 15, 19, 20).
+*   **Tasques productives, complexes i contextualitzades:** Proposar reptes que requereixin aplicar coneixements diversos, tinguin més d'una solució i connectin amb la realitat de l'alumnat (DOC 23, 25, 26).
 
-Sweller distingeix tres tipus de càrrega cognitiva:
+La intel·ligència artificial (IA) en aquest context ha de ser una eina que augmenti l'aprenentatge, no que el substitueixi. Pot ajudar a personalitzar suports, oferir retroalimentació o generar escenaris, però la responsabilitat del disseny pedagògic i l'esforç cognitiu recauen en el docent i l'alumne, respectivament.
 
-**1. Càrrega intrínseca:** La dificultat inherent del contingut que s'aprèn. La multiplicació de fraccions és intrínsecament més difícil que la suma de enters. Aquesta càrrega no es pot eliminar, però es pot gestionar desglossant el contingut en parts més petites, seqüenciant bé els aprenentatges i construint sobre coneixements previs. Si la IA redueix la càrrega intrínseca pedagògicament necessària (per exemple, donant directament la solució d'un problema que l'alumne hauria de resoldre), impedeix la construcció del coneixement.
+## Autors i evidència clau
 
-**2. Càrrega extrínseca:** La dificultat afegida per un disseny pobre de la situació d'aprenentatge (instruccions confuses, informació mal organitzada, format inadequat, excés d'elements irrellevants). Aquesta càrrega no contribueix a l'aprenentatge i hauria de minimitzar-se. La IA pot ajudar a reduir la càrrega extrínseca: generant formats clars, organitzant la informació, produint exemples ben estructurats.
+Tot i que els documents no citen directament els teòrics de la càrrega cognitiva (com John Sweller) o de la dificultat desitjable (com Robert Bjork), les pràctiques pedagògiques descrites s'alineen amb els seus principis. Els documents fan referència a autors i marcs que donen suport a la gestió de la càrrega cognitiva i la promoció de la fricció desitjable:
 
-**3. Càrrega germana (germane load):** L'esforç cognitiu que sí genera aprenentatge profund: fer connexions entre conceptes, elaborar esquemes mentals, reflexionar sobre el propi procés d'aprenentatge, aplicar el coneixement en contextos nous. Aquesta és la càrrega que cal preservar i fomentar. Si la IA elimina la càrrega germana fent per l'alumne la part reflexiva i elaborativa de la tasca, l'aprenentatge no es produeix.
+*   **Elizabeth Coelho:** Suggeriments per a l'avaluació i objectius d'aprenentatge per a alumnes nouvinguts, plantejant objectius alternatius o adaptats i proporcionant ajudes addicionals (DOC 1). També destaca la importància de les bastides per aprendre llengua a través del currículum (DOC 5).
+*   **Pere Pujolàs, Johnson, Johnson i Holubec:** Fonamenten l'aprenentatge cooperatiu com a metodologia per maximitzar la interacció i l'aprenentatge de tots, amb principis com la interdependència positiva, la interacció cara a cara i la responsabilitat individual (DOC 8, 9, 19). Aquesta interacció genera un desequilibri sociocognitiu que impulsa l'aprenentatge.
+*   **UNESCO (2001):** Proposa nou regles d'or per a aules inclusives, que inclouen l'ús de suports visuals, la diferenciació d'objectius, l'adaptació de materials i la promoció del treball en grup, tot orientat a gestionar la complexitat i facilitar l'accés a l'aprenentatge (DOC 3, 21).
+*   **Robert Ruiz, Núria Padrós, Olga Pedragosa:** Promotors de l'ensenyament multinivell i el Disseny Universal de l'Aprenentatge (DUA) com a marcs per crear contextos d'aprenentatge flexibles que s'adapten a la diversitat de l'alumnat, permetent múltiples formes d'accés i demostració del coneixement (DOC 1, 3, 17).
+*   **F. Medina:** Materials del curs sobre Ensenyament Protegit, que inclouen la retirada progressiva de les bastides (DOC 5) i bases d'orientació per a l'autonomia (DOC 6).
 
-**Principi clau:** Usar la IA per reduir la càrrega extrínseca (format, presentació, organització) però preservar la càrrega germana (pensament, elaboració, connexió, raonament crític).
+L'evidència clau es troba en la descripció de metodologies que busquen un aprenentatge actiu, participatiu i significatiu, on l'alumne és coresponsable del seu procés, i on el docent actua com a guia i facilitador, proporcionant els suports necessaris per afrontar reptes adequats al seu nivell (DOC 2, 6, 7, 20).
 
-### La Teoria dels Tres Sistemes
+## Exemples concrets d'aplicació a l'aula
 
-Extensió del model de procés dual de Kahneman aplicada al context de la IA educativa:
+1.  **Educació Primària (Cicle Mitjà): Modificació d'activitat competencial sobre nutrició.**
+    *   **Abans:** Una activitat inicial de "completar la piràmide dels aliments" i "indicar la funció de cada tipus d'aliment" és reproductiva i de baixa càrrega cognitiva intrínseca (DOC 25).
+    *   **Després (amb fricció desitjable i gestió de càrrega):** L'activitat modificada demana a l'alumne que escrigui els àpats del dia anterior, els valori amb dos companys i, finalment, construeixi el "menú ideal d'un dia" considerant els seus gustos i el que ha estudiat. Una altra variant (B) implica fer una crítica raonada a la dieta d'un amic, utilitzant etiquetes nutricionals i demostrant amb números els problemes. Aquestes tasques són productives, complexes, contextualitzades, rellevants, amb un destinatari clar i socialitzants, mobilitzant habilitats cognitives superiors i generant una fricció desitjable per a un aprenentatge més profund (DOC 25).
 
-| Sistema | Tipus | Funció |
-|---|---|---|
-| **Sistema 1** | Intuïtiu (humà) | Respostes ràpides, automàtiques, heurística |
-| **Sistema 2** | Deliberatiu (humà) | Pensament crític, anàlisi, raonament lent |
-| **Sistema 3** | Cognició artificial (IA) | Opera fora del cervell; pot suplementar o suplanta els sistemes 1 i 2 |
+2.  **Educació Secundària Obligatòria (ESO): La ucronia per al raonament i l'argumentació.**
+    *   **Aplicació:** Es presenta la ucronia com a gènere literari que especula sobre realitats històriques alternatives, com ara "Què hauria passat si Espanya no hagués entrat a la UE?". Després de la lectura d'un text (DOC 12), l'alumnat ha d'elaborar cooperativament un text argumentatiu que s'haurà de defensar públicament.
+    *   **Fricció desitjable:** Aquesta activitat obliga l'alumnat a raonar i argumentar, identificant causes, desenvolupament i conseqüències, aprofundint en el fenomen. La pauta per guiar la resposta ("El meu argument", "Punts clau", "Altres punts de vista", "Per què penso que el meu argument és millor?", "Conclusió") actua com a bastida per gestionar la complexitat de la tasca, permetent que la fricció se centri en el pensament crític i no en la desorganització (DOC 12).
 
-La implicació educativa fonamental és que quan el Sistema 3 (la IA) assumeix les funcions del Sistema 2 (el pensament crític i deliberatiu humà), l'alumne perd l'oportunitat d'exercitar aquest pensament. L'objectiu educatiu és que el Sistema 3 amplifiqui el Sistema 2, mai no el substitueixi. La IA ha de ser una eina per pensar millor, no una eina per no pensar.
+3.  **Batxillerat/Formació Professional: Simulacions i jocs ("L'antena").**
+    *   **Aplicació:** Un joc de rol on l'alumnat simula una reunió de veïns sobre la instal·lació d'una antena de telefonia mòbil. Hi ha diferents personatges amb interessos contraposats (delegat de la companyia, president de veïns, sector crític, associació de veïns, representant de l'Ajuntament, secretari, observadors) (DOC 11).
+    *   **Fricció desitjable i gestió de càrrega:** La simulació planteja un tema d'actualitat que reprodueix un problema real, fomentant la conversa i el debat. La fricció es genera en la necessitat de trobar arguments, defensar postures i negociar. La definició clara de rols i la finalitat de ser crítics en la utilització de la tecnologia ajuden a estructurar la complexitat, reduint la càrrega extrínseca i permetent que l'esforç cognitiu es destini a l'anàlisi crítica i la resolució de problemes (DOC 11).
 
-### Fricció Productiva (Novokshanova i Potkalitsky)
+## Errors comuns — què NO fer
 
-La **fricció productiva** és la tensió cognitiva que apareix quan un aprenent s'enfronta a un repte genuí que requereix esforç actiu per superar-lo. Contràriament al que podria semblar, la fricció no és un obstacle a l'aprenentatge: és precisament la condició que genera aprenentatge profund. Un alumne que no experimenta fricció en una tasca (perquè és massa fàcil o perquè la IA li ha resolt tots els reptes) aprèn poc.
+1.  **No explicitar els objectius i els criteris d'avaluació:** Si l'alumnat no sap què s'espera d'ell ni com serà avaluat, augmenta la seva càrrega cognitiva extrínseca. Ha de dedicar esforç a entendre la tasca en lloc d'enfocar-se en l'aprenentatge. Això genera incertesa i pot desmotivar, ja que no hi ha una direcció clara per a l'esforç (DOC 6, 23).
+2.  **Mantenir les bastides de suport massa temps o retirar-les massa ràpid:** Les bastides han de ser temporals i ajustar-se al nivell de l'alumne. Si es mantenen massa temps, l'alumne no desenvolupa autonomia. Si es retiren massa ràpid, la càrrega cognitiva pot ser aclaparadora i l'alumne es frustrarà i no podrà assolir l'aprenentatge (DOC 5, 7, 18). L'objectiu és el traspàs progressiu de control.
+3.  **Confondre treball en grup amb aprenentatge cooperatiu:** Simplement agrupar alumnes no garanteix la interacció productiva ni la interdependència positiva. Sense una estructura clara de rols, responsabilitats individuals i habilitats socials explícitament ensenyades, el treball en grup pot augmentar la càrrega extrínseca (problemes de coordinació) i no generar la fricció desitjable del desequilibri sociocognitiu (DOC 8, 9, 19).
+4.  **Centrar-se en les "mancances" de l'alumnat sense adaptar el currículum:** Un enfocament que posa el focus en el que l'alumne "no pot" fer sense flexibilitzar els currículums o les metodologies genera una càrrega cognitiva inassumible per a molts. Cal adaptar el currículum als alumnes, no a la inversa, buscant múltiples formes d'accés i demostració del coneixement (DOC 3, 17).
+5.  **Intentar cobrir massa material en poc temps:** La sobrecàrrega de continguts sense una selecció i priorització adequades augmenta la càrrega cognitiva de manera ineficient. És millor ser selectiu i aprofundir en menys material per permetre un processament més profund i una fricció desitjable, que intentar cobrir-ho tot superficialment (DOC 21).
 
-Els autors descriuen tres moviments epistèmics que caracteritzen la fricció productiva:
+## Matisos i excepcions
 
-| Moviment | Definició | L'alumne... | Exemple |
-|---|---|---|---|
-| **Descoberta** | Veure buits que no es veien | Identifica el que no sabia que no sabia | La IA genera un text; l'alumne hi detecta mancances o errors |
-| **Recursivitat** | Mantenir-se en el bucle iteratiu fins estabilitzar el significat | Torna sobre el problema múltiples vegades, refinant | Revisar, editar, re-preguntar, millorar l'esborrany |
-| **Resistència** | Justificar eleccions pròpies contra suggeriments de la IA | Impugna, contradiu o defensa la seva posició | "La IA diu X, però jo crec Y perquè..." |
-
-### El Semàfor de Fricció
-
-Una eina pràctica per auditar si una activitat amb IA genera o inhibeix l'aprenentatge:
-
-| Nivell | Senyal | Descripció | Indicador |
-|---|---|---|---|
-| STOP (vermell) | Delegació/Col·lapse | L'alumne delega el pensament a la IA | "Fes-me el resum", "Dona'm la idea", "Escriu-me..." |
-| ATENCIÓ (groc) | Risc parcial | L'activitat té elements de fricció però també de delegació | L'alumne usa l'output de la IA sense modificar-lo significativament |
-| GO (verd) | Fricció productiva | L'alumne pensa activament amb la IA com a eina | L'alumne corregeix, debat, justifica, reelabora |
-
-### Rendició Cognitiva (Cognitive Surrender — Shaw i Nave)
-
-La **rendició cognitiva** és el fenomen pel qual l'usuari accepta els resultats de la IA amb un escrutini mínim, anul·lant la seva pròpia intuïció i deliberació. Es manifesta quan l'alumne copia l'output de la IA sense llegir-lo completament, no qüestiona la veracitat ni la qualitat del que la IA ha generat, no modifica ni personalitza el resultat, i perd progressivament la capacitat de fer la tasca sense IA.
-
-La distinció fonamental respecte a la delegació legítima és:
-- **Delegació legítima:** L'alumne sap fer la tasca, delega conscientment per eficiència (correspon als nivells superiors d'interacció amb la IA, quan ja s'ha consolidat la competència bàsica).
-- **Rendició cognitiva:** L'alumne NO sap fer la tasca i la IA la fa per ell. No hi ha aprenentatge, i s'acumula deute cognitiu.
-
-### Deute Cognitiu i Decadència d'Habilitats (Macnamara; MIT Media Lab)
-
-**Deute Cognitiu:** Quan l'alumne delega el pensament des del principi d'una tasca (abans d'haver intentat res pel seu compte), es produeix:
-- Caiguda en l'activitat neural (menor engagement cerebral).
-- Menor retenció a la memòria a llarg termini.
-- Pèrdua del sentit d'autoria ("no és meu; no l'he fet jo").
-
-**Skill Decay (Decadència d'habilitats):** Les habilitats cognitives es degraden per falta d'ús o pràctica. Si l'alumne mai redacta perquè la IA ho fa, perd progressivament la capacitat de redactar. Afecta especialment: l'escriptura argumentativa, el càlcul mental, la síntesi, l'argumentació i el raonament crític.
-
-**Pregunta clau per auditar una activitat:** "Si l'alumne fa aquesta activitat 10 vegades, millorarà la seva habilitat o la perdrà?"
-
-### Dificultats Desitjables (Bjork i Bjork)
-
-La recerca de Robert Bjork i Elizabeth Bjork sobre les condicions d'aprenentatge mostra que l'aprenentatge profund és inherentment incòmode i requereix tres elements que la IA pot eliminar si no es dissenya adequadament:
-
-- **Esforç:** No pot ser fàcil. Les tasques sense esforç no construeixen memòria duradora.
-- **Errors:** Cal equivocar-se per aprendre. Corregir els propis errors és un dels mecanismes d'aprenentatge més potents.
-- **Incertesa:** No saber la resposta d'entrada és pedagògicament valuós. La incertesa inicial activa la cerca activa de significat.
-
-La IA pot interrompre el procés d'aprenentatge si:
-- Elimina l'esforç (dona la resposta directament).
-- Elimina els errors (corregeix automàticament sense que l'alumne raoni sobre l'error).
-- Elimina la incertesa (sempre té una resposta, cosa que inhibeix la recerca activa).
-
-**Principi de disseny:** Una activitat amb IA ha de preservar les dificultats desitjables. L'alumne ha de lluitar, errar i reflexionar ABANS o DURANT l'ús de la IA, no DESPRÉS.
-
-### Funcions de Forçat Cognitiu (Cognitive Forcing Functions — CFF)
-
-Les CFF són estratègies de disseny d'activitats que obliguen l'usuari a aturar-se i reflexionar abans de rebre o usar l'ajuda de la IA. Converteixen una activitat de delegació (semàfor vermell) en una de fricció productiva (semàfor verd):
-
-| Tècnica | Descripció | Exemple a l'aula |
-|---|---|---|
-| **Pre-compromís** | L'alumne escriu la seva resposta ABANS de consultar la IA | "Escriu el teu paràgraf, després demana feedback a la IA" |
-| **Justificació prèvia** | L'alumne ha d'explicar PER QUÈ vol usar la IA | "Abans de preguntar, escriu què esperes obtenir" |
-| **Predicció** | L'alumne prediu què dirà la IA i després compara | "Què creus que la IA respondrà? Comprova-ho" |
-| **Avaluació obligatòria** | L'alumne ha de puntuar/criticar l'output de la IA | "Puntua de 1-5 la qualitat de la resposta i justifica" |
-| **Restricció temporal** | Limitar el temps o nombre d'interaccions amb la IA | "Tens 3 preguntes a la IA. Escull-les bé" |
-| **Comparació múltiple** | Demanar a la IA 3 respostes i triar la millor argumentadament | "Genera 3 opcions i argumenta quina és la millor" |
-
-### Rendiment vs. Aprenentatge
-
-Una de les distincions més importants per als docents que usen IA és la diferència entre **rendiment** (performance) i **aprenentatge** (learning):
-
-| | Rendiment | Aprenentatge |
-|---|---|---|
-| **Definició** | Resultat immediat millorat | Transferència d'habilitats a llarg termini |
-| **Amb IA** | El producte és millor gràcies a la IA | L'alumne és millor gràcies a usar la IA |
-| **Indicador** | Qualitat del lliurament | L'alumne ho pot fer sol després |
-| **Risc** | Confondre bon producte amb bon aprenentatge | Cap (és l'objectiu real) |
-
-**Pregunta d'auditoria:** "L'alumne ha millorat el producte o ha millorat ell/ella com a aprenent?"
-
-### Connexió entre els marcs
-
-```
-Dificultats Desitjables (Bjork)
-        ↓ fonamenta
-Fricció Productiva (Novokshanova)
-        ↓ s'implementa amb
-Funcions de Forçat Cognitiu (CFF)
-        ↓ prevenen
-Rendició Cognitiva (Shaw & Nave)
-        ↓ que causa
-Deute Cognitiu + Skill Decay (Macnamara)
-        ↓ es mesura amb
-Rendiment vs. Aprenentatge
-        ↓ es gestiona controlant
-Càrrega Cognitiva (Sweller): reduir extrínseca, preservar germana
-```
-
-### Implicacions per a la inclusió i la diversitat
-
-Aquests principis tenen implicacions específiques per a l'alumnat divers:
-
-**Alumnat nouvingut:** La IA pot reduir legítimament la càrrega extrínseca lingüística (traduir instruccions, simplificar textos), però ha de preservar la càrrega cognitiva relacionada amb el contingut acadèmic. Un alumne nouvingut que usa la IA per traduir un problema i entendre'l, però el resol ell mateix, fa un ús productiu de la IA. Un alumne nouvingut que demana a la IA que resolgui el problema per ell cau en rendició cognitiva.
-
-**Alumnat amb NESE:** Per a alumnes amb TDAH, dislèxia o dificultats d'aprenentatge, la IA pot ser una eina d'accessibilitat molt valuosa. La clau és identificar quina part de la càrrega cal reduir (extrínseca: format, longitud, complexitat de la instrucció) i quina cal preservar (germana: el contingut conceptual i el raonament). Les Funcions de Forçat Cognitiu s'han d'adaptar al perfil: per a un alumne amb TDAH, restriccions temporals curtes i freqüents seran més efectives que una gran tasca; per a un alumne amb dislèxia, usar la IA per llegir en veu alta el text (reduint la càrrega extrínseca de la descodificació) mentre ell/ella fa la comprensió conceptual és un ús legítim i inclusiu.
-
-**Alumnat amb altes capacitats:** Precisament per la seva capacitat, l'alumnat d'altes capacitats és el que corre més risc de caure en rendició cognitiva de manera ràpida i invisible: la tasca no els suposa cap repte, la IA la resol bé, i no hi ha fricció. El docent ha de dissenyar Funcions de Forçat Cognitiu especialment exigents per a aquest perfil: demanar-los que identifiquin els límits o errors del que la IA ha generat, que l'ampliïn amb coneixement que la IA no té, que proposin contraarguments.
-
----
+*   **La "fricció" no sempre és desitjable en totes les fases de l'aprenentatge:** En les fases inicials d'adquisició de coneixements bàsics o procediments, pot ser més eficient reduir la càrrega cognitiva al màxim amb instrucció directa i modelatge, per evitar la sobrecàrrega. La fricció desitjable és més efectiva quan ja s'han establert les bases i l'objectiu és la comprensió profunda, la transferència o la resolució de problemes complexos (DOC 7).
+*   **El nivell de càrrega i fricció ha de ser personalitzat:** El que és una càrrega adequada o una fricció desitjable per a un alumne pot ser aclaparador o insuficient per a un altre. La diversitat de l'alumnat (lingüística, cognitiva, emocional, cultural) requereix un ajustament constant dels suports i els reptes (DOC 1, 3, 5, 21). L'ensenyament multinivell i el DUA són fonamentals per a aquesta adaptació.
+*   **La retirada de bastides ha de ser sensible al context:** En moments d'introducció de nous continguts o en alumnes amb baixa competència lingüística, les bastides han de ser més intenses. La retirada ha de ser progressiva i a mesura que la competència de l'alumne augmenta, no de forma rígida (DOC 5).
+*   **No totes les tasques han de ser "productives i complexes":** Hi ha tasques de consolidació, pràctica o memorització que tenen el seu valor. L'important és que el conjunt de la seqüència didàctica inclogui un equilibri entre tasques que gestionen la càrrega i tasques que introdueixen la fricció desitjable per a un aprenentatge competencial (DOC 23, 25, 26).
+*   **La motivació i l'interès són factors clau:** Una tasca amb alta fricció pot ser contraproduent si l'alumne no hi troba sentit o no està motivat. Connectar amb els seus interessos i plantejar reptes significatius augmenta la probabilitat que l'alumne s'impliqui en la fricció desitjable (DOC 3, 11, 23).
 
 # 2. CONNEXIONS AMB ALTRES DOCUMENTS DEL CORPUS
-
-| Document relacionat | Relació concreta | Co-activació |
-|---|---|---|
-| M2_factors-promotors-aprenentatge.md | Els factors que promouen l'aprenentatge profund complementen el marc de la fricció desitjable | Obligatòria |
-| M2_models-disseny-instruccional.md | El disseny instruccional ha d'incorporar els principis de càrrega cognitiva i fricció | Obligatòria |
-| M5_prompt-engineering-educatiu.md | El disseny de prompts és la tècnica concreta per implementar les CFF amb la IA | Obligatòria |
-| M5_rols-IA-educacio.md | Els rols de la IA a l'educació determinen si es produeix fricció o rendició cognitiva | Obligatòria |
-| M5_marc-AIA-PCEK.md | El marc AIA/PCEK proporciona criteris per avaluar l'impacte de la IA en l'aprenentatge | Condicional |
-| M6_avaluacio-formativa-formadora.md | L'avaluació formativa ha de detectar si hi ha rendició cognitiva o aprenentatge real | Obligatòria |
-| M6_feedback-formatiu.md | El feedback ha de fomentar la fricció productiva i no la rendició cognitiva | Condicional |
-| M2_gamificacio-motivacio.md | La motivació és la condició perquè l'alumne mantingui l'esforç davant la fricció | Condicional |
-| M2_DUA-principis-pautes.md | El DUA orienta com adaptar la gestió de la càrrega cognitiva a la diversitat de l'alumnat | Condicional |
-
----
+*   **DUA (Disseny Universal de l'Aprenentatge)**: Aquest marc és fonamental per gestionar la càrrega cognitiva i introduir la fricció desitjable, ja que proposa múltiples mitjans de representació, acció i expressió, i implicació per adaptar-se a la diversitat de l'alumnat.
+*   **Bastides de suport (Scaffolding)**: És una estratègia directa per gestionar la càrrega cognitiva, proporcionant el suport necessari per a que l'alumne pugui afrontar tasques que altrament serien massa complexes, i retirant-lo progressivament.
+*   **Aprenentatge cooperatiu**: Aquesta metodologia redueix la càrrega cognitiva individual en tasques complexes i genera fricció desitjable a través del conflicte sociocognitiu i la interdependència positiva.
+*   **Seqüència gradual d'alliberament de la responsabilitat**: Un model pedagògic clau per gestionar la càrrega cognitiva, passant del modelatge del docent a la pràctica autònoma de l'alumne de forma progressiva.
+*   **Ensenyament multinivell**: Permet adaptar els objectius i els suports a la diversitat de l'alumnat, gestionant la càrrega cognitiva i la fricció desitjable de manera individualitzada dins del mateix grup.
+*   **Lectura crítica**: Una estratègia que introdueix fricció desitjable en la comprensió lectora, obligant l'alumne a un processament profund, a raonar i a argumentar sobre el contingut.
+*   **Avaluació inclusiva**: Un enfocament que permet adaptar els criteris i instruments d'avaluació per a alumnes amb necessitats diverses, assegurant que la càrrega avaluativa sigui justa i la demostració de l'aprenentatge sigui possible per a tots.
 
 # 3. DETECCIÓ (Variables de Context)
 
-**Senyals que activen aquest mòdul:**
-- El docent pregunta com usar la IA a l'aula sense que els alumnes "facin trampes".
-- El docent vol dissenyar activitats amb IA que fomentin l'aprenentatge profund.
-- L'alumne pregunta si pot usar la IA per fer els deures o un treball.
-- El docent detecta que els alumnes copien les respostes de la IA sense processar-les.
-- El docent vol avaluar si una activitat amb IA realment fa aprendre.
-- El docent pregunta sobre la diferència entre usar la IA com a eina i fer-la treballar per l'alumne.
+**Senyals del docent**
+*   "Els meus alumnes es bloquegen amb les tasques complexes, no saben per on començar."
+*   "Sento que he d'explicar-ho tot moltes vegades, però igualment no ho acaben d'entendre."
+*   "Alguns alumnes acaben molt ràpid i s'avorreixen, mentre que d'altres no avancen."
+*   "Com puc fer que els meus alumnes pensin més críticament en lloc de només memoritzar?"
+*   "Necessito estratègies per adaptar les activitats sense simplificar-les massa per a la diversitat de l'aula."
 
-**Senyals de l'alumne:**
-- "Puc usar la IA per fer aquesta tasca?"
-- "La IA m'ha donat la resposta però no entenc per què és correcta."
-- "Sempre demano a la IA que m'ho faci perquè és més ràpid."
+**Senyals de l'alumne**
+*   Frustració o desmotivació davant tasques noves o complexes.
+*   Errors repetitius o incapacitat per aplicar coneixements en contextos lleugerament diferents.
+*   Passivitat o manca de participació en activitats que requereixen pensament crític o resolució de problemes.
+*   Acabament ràpid de les tasques sense una reflexió profunda o sense poder explicar el procés.
+*   Expressió de "no entenc" o "és massa difícil" de forma recurrent.
 
-**Anti-senyals (quan NO activar principalment aquest mòdul):**
-- El docent pregunta sobre estratègies didàctiques generals sense relació amb la IA o amb el disseny cognitiu de les tasques.
-- El docent pregunta sobre aspectes normatius o legals de la IA.
+**Senyals de context**
+*   Introducció d'un contingut nou o conceptualment complex.
+*   Activitat que requereix l'aplicació de múltiples coneixements o habilitats.
+*   Grup classe amb alta diversitat de nivells de competència o lingüístics.
+*   Moment en què es busca fomentar l'autonomia i el pensament crític.
+*   Disseny d'una unitat didàctica o projecte que pretén ser competencial.
 
----
+**Anti-senyals (quan NO activar malgrat les aparences)**
+*   L'alumne expressa que una tasca és difícil, però mostra una actitud de desafiament i perseverança, no de frustració. Això podria ser fricció desitjable.
+*   El docent busca activitats de repàs o consolidació de coneixements bàsics. En aquests casos, la prioritat és la fluïdesa i l'automatització, no necessàriament una alta fricció cognitiva.
+*   La tasca requereix una memorització específica (ex: dates, fórmules bàsiques) com a pas previ a una aplicació posterior. En aquests casos, la càrrega cognitiva ha de ser ben gestionada per facilitar la memorització.
+*   L'alumne ja domina la tasca i la realitza amb facilitat, sense cap senyal d'avorriment o desinterès. Potser necessita un repte més gran, però no hi ha una "càrrega" a gestionar en el sentit negatiu.
 
 # 4. HEURÍSTIQUES I RAONAMENT PER A L'AGENT
 
-## H1 Auditar la càrrega cognitiva d'una activitat — DOCENT
+**Principi general:** L'agent ha de guiar el docent i l'alumne per trobar l'equilibri òptim entre un suport adequat per gestionar la càrrega cognitiva i un desafiament estimulant per generar fricció desitjable, sempre amb l'objectiu d'un aprenentatge profund i autònom.
 
-**Quan aplica:** Quan el docent dissenya o revisa una activitat que incorpora la IA com a eina per a l'alumnat.
+### Heurístiques per a l'Agent DOCENT
 
-**Fonament:** Tota activitat amb IA hauria de passar per una auditoria de càrrega cognitiva: quina càrrega és extrínseca (i la IA pot reduir-la legítimament), quina és intrínseca (i cal gestionar-la pedagògicament però no eliminar-la) i quina és germana (i cal preservar-la perquè és el nucli de l'aprenentatge). Sense aquesta distinció, és molt fàcil dissenyar activitats que semblen molt productives (produeixen molt) però que generen poc o cap aprenentatge real.
+1.  **Heurística: Clarificar la fita i el camí.**
+    *   **Quan aplica:** Quan el docent expressa que els alumnes es perden en les tasques, no entenen què han de fer o com seran avaluats, o quan es detecta una alta càrrega cognitiva extrínseca.
+    *   **Fonament:** Reduir la càrrega cognitiva innecessària permet que l'esforç mental es concentri en l'aprenentatge del contingut. Explicitar els objectius i els criteris d'avaluació proporciona un mapa clar, augmentant la motivació i l'autoeficàcia de l'alumne (DOC 6, 23).
+    *   **Exemple complet de raonament:** El docent ha comentat que els seus alumnes sovint entreguen treballs que no s'ajusten al que s'esperava, malgrat les explicacions. L'agent raonaria que, per gestionar la càrrega cognitiva extrínseca associada a la incertesa, cal assegurar-se que els alumnes comprenguin la fita final i els criteris d'èxit. Proposaria al docent revisar si els objectius d'aprenentatge i els criteris d'avaluació estan explícitament comunicats i entesos. Per exemple, podria suggerir crear una rúbrica senzilla amb els alumnes, o fer una activitat inicial on verbalitzin què creuen que s'espera d'ells, per tal de detectar malentesos i aclarir-los abans d'iniciar la tasca principal. Això no només redueix la càrrega mental de l'alumne sobre "què fer", sinó que també fomenta la seva autonomia en el procés.
 
-**Exemple (≥80 paraules):** Una docent de 3r d'ESO vol que els seus alumnes facin una síntesi sobre la Revolució Industrial usant la IA. En lloc de demanar-los que la IA els faci la síntesi, dissenya l'activitat en tres parts: primer, cada alumne escriu el que sap de la Revolució Industrial (sense IA) i identifica tres preguntes que no sap contestar; segon, usen la IA per buscar respostes a les seves preguntes concretes i les comparen amb el que ja sabien; tercer, cadascú escriu la síntesi final integrando el que sabia i el que ha après de la IA. La IA redueix la càrrega extrínseca (cerca d'informació) però preserva la càrrega germana (elaboració, connexió, síntesi pròpia).
+2.  **Heurística: Bastir i desbastir amb sentit.**
+    *   **Quan aplica:** En la introducció de nous continguts o habilitats, especialment amb alumnes amb necessitats de suport, o quan es detecta que una tasca és massa complexa sense ajudes.
+    *   **Fonament:** Les bastides (scaffolding) són suports temporals que permeten a l'alumne realitzar tasques que sense ajuda no podria. La clau és ajustar el suport al nivell competencial i retirar-lo progressivament per fomentar l'autonomia (DOC 5, 18).
+    *   **Exemple complet de raonament:** Un docent vol introduir la redacció d'un text argumentatiu en una classe amb diversitat de nivells, i alguns alumnes mostren dificultats amb l'estructura. L'agent raonaria que, per gestionar la càrrega cognitiva intrínseca de la tasca, cal aplicar bastides. Suggeriria al docent utilitzar una base d'orientació amb un guió clar sobre les parts de l'argumentació (tesi, arguments, exemples, conclusió) o proporcionar models de textos argumentatius ben estructurats. Després d'una pràctica guiada amb aquestes bastides, l'agent recordaria la importància de retirar-les gradualment, potser demanant als alumnes que creïn la seva pròpia pauta la següent vegada, o que identifiquin les parts en un text nou sense la guia explícita. Així, la fricció es manté en el raonament i no en la memorització de l'estructura.
 
+3.  **Heurística: Cooperar per a la complexitat.**
+    *   **Quan aplica:** Quan es vol abordar tasques complexes que requereixen múltiples perspectives o habilitats, o quan es busca fomentar el pensament crític i la resolució de problemes en un entorn col·laboratiu.
+    *   **Fonament:** L'aprenentatge cooperatiu distribueix la càrrega cognitiva entre els membres del grup i genera una fricció desitjable a través del conflicte sociocognitiu, on la interacció i el debat de punts de vista diferents reestructuren els esquemes de coneixement (DOC 8, 9, 19).
+    *   **Exemple complet de raonament:** El docent vol que els alumnes analitzin un cas complex amb múltiples variables. L'agent raonaria que aquesta tasca és ideal per a l'aprenentatge cooperatiu, ja que la complexitat podria sobrecarregar un sol alumne, però la discussió en grup pot generar una fricció productiva. Proposaria al docent estructurar l'activitat en grups heterogenis, assignant rols específics (ex: un expert en dades, un en interpretació, un en presentació) i assegurant la interdependència positiva (l'èxit individual depèn de l'èxit del grup). A més, suggeriria incloure un temps per a l'autoreflexió de grup sobre el procés de treball, per tal que aprenguin a cooperar i a gestionar la fricció de les idees diferents de manera constructiva.
+
+4.  **Heurística: Reptar amb sentit i context.**
+    *   **Quan aplica:** Quan es vol que els alumnes apliquin els seus coneixements de manera significativa, desenvolupin habilitats de pensament d'ordre superior (analitzar, avaluar, crear) i percebin la utilitat del que aprenen.
+    *   **Fonament:** Les tasques productives, complexes i contextualitzades generen una fricció desitjable perquè obliguen l'alumne a mobilitzar diversos aprenentatges i a resoldre problemes reals, donant sentit a l'esforç (DOC 23, 25, 26).
+    *   **Exemple complet de raonament:** Un docent vol que els seus alumnes de primària entenguin la importància d'una dieta equilibrada més enllà de memoritzar la piràmide alimentària. L'agent raonaria que una activitat que generi fricció desitjable hauria de ser contextualitzada i productiva. Suggeriria la modificació d'activitat competencial de l'Escola Banús (DOC 25): en lloc de només etiquetar, demanar als alumnes que analitzin la dieta d'un amic (fictici o real), identifiquin problemes nutricionals amb dades (bastida) i li escriguin una crítica constructiva. Aquesta tasca no només aplica coneixements de nutrició, sinó que també desenvolupa la comunicació escrita i el pensament crític, fent que la fricció cognitiva sigui rellevant i motivadora.
+
+5.  **Heurística: Diversificar per incloure i desafiar.**
+    *   **Quan aplica:** En aules amb alta diversitat d'alumnat (ritmes, estils d'aprenentatge, competència lingüística, NEE) o quan es busca assegurar que tots els alumnes puguin accedir als continguts i ser desafiats adequadament.
+    *   **Fonament:** El DUA i l'ensenyament multinivell permeten gestionar la càrrega cognitiva per a aquells que necessiten més suport, i introduir fricció desitjable per a aquells que poden assumir reptes més grans, oferint múltiples opcions per accedir al coneixement i demostrar-lo (DOC 3, 17, 21).
+    *   **Exemple complet de raonament:** Un docent té alumnes amb diferents nivells de català i alguns amb dificultats d'aprenentatge en una mateixa classe. Vol que tots treballin una unitat sobre la història local. L'agent raonaria que per gestionar la càrrega cognitiva lingüística i cognitiva, i alhora oferir fricció desitjable, cal aplicar principis del DUA i l'ensenyament multinivell. Suggeriria presentar la informació històrica a través de diversos canals (textos adaptats, vídeos amb subtítols, imatges, visites virtuals). Per a la demostració de l'aprenentatge, alguns alumnes podrien crear un mural amb imatges i paraules clau (menor càrrega lingüística), d'altres podrien fer una presentació oral, i els més avançats podrien escriure un assaig crític o dissenyar un joc de rol sobre un esdeveniment històric. Així, tots participen, gestionen la seva càrrega i experimenten una fricció adequada al seu nivell.
+
+### Heurístiques per a l'Agent ALUMNE
+
+1.  **Heurística: Preguntar per aclarir el camí.**
+    *   **Quan aplica:** Quan l'alumne se sent perdut en una tasca, no entén què se li demana o com ha de començar, o quan la càrrega cognitiva extrínseca és alta.
+    *   **Fonament:** Fer preguntes per aclarir instruccions, objectius o criteris d'avaluació redueix la càrrega mental innecessària, permetent a l'alumne enfocar-se en la resolució del problema i no en la interpretació de la tasca. És un pas actiu per gestionar la seva pròpia càrrega (DOC 6).
+    *   **Exemple complet de raonament:** L'alumne està davant d'una tasca nova i complexa i no sap per on començar. L'agent li preguntaria: "Què és exactament el que no entens de la tasca? Podries reformular amb les teves paraules què creus que se t'està demanant? Has revisat la rúbrica o els objectius que el professor ha compartit? Si encara no ho tens clar, quina pregunta concreta li faries al professor o a un company per aclarir-ho?". L'objectiu és guiar l'alumne a identificar la font de la seva confusió i a prendre la iniciativa per obtenir la informació necessària, reduint la càrrega cognitiva de la incertesa i empoderant-lo en el seu aprenentatge.
+
+2.  **Heurística: Desafiar-se amb suport.**
+    *   **Quan aplica:** Quan l'alumne troba una tasca massa fàcil o, per contra, massa difícil i necessita un punt intermedi per a un aprenentatge més profund.
+    *   **Fonament:** La fricció desitjable implica un esforç que porta a un aprenentatge més robust. Si la tasca és fàcil, cal buscar un repte addicional. Si és difícil, cal identificar els suports disponibles (bastides) per poder afrontar el repte sense bloquejar-se (DOC 5, 12, 20).
+    *   **Exemple complet de raonament:** L'alumne ha acabat una activitat ràpidament i sent que no ha après gaire. L'agent li preguntaria: "Què podries fer per aprofundir en aquest tema o per fer la tasca més desafiadora? Podries intentar explicar-ho a un company? O potser buscar una altra perspectiva sobre el tema? Si la tasca et sembla massa difícil, quines eines o recursos t'ha donat el professor que podries utilitzar? Amb quina part concreta necessites ajuda? Recorda que un petit esforç extra ara pot fer que ho recordis molt millor després." L'agent guia l'alumne a reconèixer la importància de la fricció per a un aprenentatge durador i a utilitzar els suports disponibles per afrontar-la.
+
+3.  **Heurística: Pensar amb els altres.**
+    *   **Quan aplica:** Quan l'alumne s'enfronta a un problema complex, necessita generar idees o vol entendre diferents punts de vista.
+    *   **Fonament:** La interacció amb els iguals en un context cooperatiu genera desequilibri sociocognitiu, que és una forma de fricció desitjable. Explicar les pròpies idees i escoltar les dels altres ajuda a reestructurar el propi coneixement i a consolidar l'aprenentatge (DOC 9, 19, 20).
+    *   **Exemple complet de raonament:** L'alumne està intentant resoldre un problema o entendre un concepte des de la seva perspectiva i se sent estancat. L'agent li suggeriria: "Has provat de parlar-ne amb un company o en el teu grup cooperatiu? Com creus que ells ho veuen? Explicar la teva idea en veu alta pot ajudar-te a ordenar-la, i escoltar altres punts de vista pot generar noves connexions o fer-te veure aspectes que no havies considerat. Aquesta 'discussió' és una manera molt potent d'aprendre i de fer que les idees s'assentin millor al teu cap." L'agent promou la col·laboració com a eina per gestionar la càrrega individual i generar una fricció intel·lectual productiva.
 ---
 
-## H2 Transformar una activitat del semàfor vermell al verd — DOCENT
+## 5. FONTS DEL CORPUS
 
-**Quan aplica:** Quan una activitat programada és potencialment de "delegació" (semàfor vermell) i cal reformular-la per convertir-la en una de fricció productiva (semàfor verd).
+| # | Títol | URL |
+|---|-------|-----|
+| 1 | cursos:escola_inclusiva:ansu:b7:index [Formació del professorat] | https://ateneu.xtec.cat/wikiform/wikiexport/cursos/escola_inclusiva/ansu/b7/index |
+| 2 | cursos:escola_inclusiva:ansu:b3:b3t2 [Formació del professorat] | https://ateneu.xtec.cat/wikiform/wikiexport/cursos/escola_inclusiva/ansu/b3/b3t2 |
+| 3 | cursos:escola_inclusiva:ansu:b7:b7t4 [Formació del professorat] | https://ateneu.xtec.cat/wikiform/wikiexport/cursos/escola_inclusiva/ansu/b7/b7t4 |
+| 5 | cursos:escola_inclusiva:ansu:b4:b4t5 [Formació del professorat] | https://ateneu.xtec.cat/wikiform/wikiexport/cursos/escola_inclusiva/ansu/b4/b4t5 |
+| 6 | cursos:escola_inclusiva:ansu:b4:b4t3 [Formació del professorat] | https://ateneu.xtec.cat/wikiform/wikiexport/cursos/escola_inclusiva/ansu/b4/b4t3 |
+| 7 | cursos:escola_inclusiva:ansu:b4:b4t2 [Formació del professorat] | https://ateneu.xtec.cat/wikiform/wikiexport/cursos/escola_inclusiva/ansu/b4/b4t2 |
+| 8 | cursos:escola_inclusiva:ansu:b5:b5t2 [Formació del professorat] | https://ateneu.xtec.cat/wikiform/wikiexport/cursos/escola_inclusiva/ansu/b5/b5t2 |
+| 9 | cursos:escola_inclusiva:ansu:b5:b5t3 [Formació del professorat] | https://ateneu.xtec.cat/wikiform/wikiexport/cursos/escola_inclusiva/ansu/b5/b5t3 |
+| 11 | cursos:curriculum:eso_btx:dcs1:modul_4:practica_5 [Formació del professorat] | http://ateneu.xtec.cat/wikiform/wikiexport/cursos/curriculum/eso_btx/dcs1/modul_4/practica_5 |
+| 12 | cursos:curriculum:eso_btx:dcs1:modul_4:practica_4 [Formació del professorat] | http://ateneu.xtec.cat/wikiform/wikiexport/cursos/curriculum/eso_btx/dcs1/modul_4/practica_4 |
+| 13 | cursos:curriculum:eso_btx:dcs1:modul_2:practica_5 [Formació del professorat] | http://ateneu.xtec.cat/wikiform/wikiexport/cursos/curriculum/eso_btx/dcs1/modul_2/practica_5 |
+| 15 | cursos:curriculum:eso_btx:dcs1:modul_2:practica_3 [Formació del professorat] | http://ateneu.xtec.cat/wikiform/wikiexport/cursos/curriculum/eso_btx/dcs1/modul_2/practica_3 |
+| 17 | caixadeines08_32639931f0.pdf | http://ensenyament.gencat.cat/web/.content/home/departament/publicacions/publicacions-periodiques/caixadeines/caixadeines08/caixadeines08.pdf |
+| 18 | 170614_bastides_MU_81f367adb9.pdf | http://xtec.gencat.cat/web/.content/projectes/lectura/impulslectura/materialsformacio/saber-llegir/cm-cs-eso/documents/170614_bastides_MU.pdf |
+| 19 | el_treball_cooperatiu_62b5c345b4.pdf | http://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0058/810bc5ef-52c3-4172-9642-0fe7768622e5/el_treball_cooperatiu.pdf |
+| 20 | aprenentatge_entre_iguals_fcfb7dbdf7.pdf | http://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0091/df6b6ac8-6646-4ebc-ab7b-9c1a77fe311d/aprenentatge_entre_iguals.pdf |
+| 21 | b6t4_9_regles_unesco_86da447368.pdf | https://ateneu.xtec.cat/wikiform/wikiexport/_media/cursos/escola_inclusiva/ansu/b6/b6t4_9_regles_unesco.pdf |
+| 23 | Full-indicadors-unitats-competencials_58f56ec799.pdf | http://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0029/f0b48627-bdc5-48e5-9b3c-4bceed129d61/Full-indicadors-unitats-competencials.pdf |
+| 25 | 07.BANUS_CS_MODIFICACIO_ACTIVITAT_COMPETENCIAL_e5c32476bf.pdf | http://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0012/3e2d7305-7dfa-4a7b-9d8b-10d7c9ada24b/07.BANUS_CS_MODIFICACIO_ACTIVITAT_COMPETENCIAL.pdf |
+| 26 | BANUS_CM_MODIFICACIO_ACTIVITAT_COMPETENCIAL_608c72827b.pdf | http://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0070/a1cb192d-e46b-43a0-b4eb-8db91593013d/BANUS_CM_MODIFICACIO_ACTIVITAT_COMPETENCIAL.pdf |
 
-**Fonament:** Moltes activitats educatives amb IA comencen com a activitats de delegació perquè la instrucció és massa oberta: "usa la IA per fer un resum" és un semàfor vermell garantit. La tècnica de les Funcions de Forçat Cognitiu permet convertir-les en activitats de fricció: "primer escriu el teu propi resum en 5 frases; després demana a la IA que en faci un; compara els dos i explica en quin aspects el teu és millor i en quin és pitjor". Aquesta seqüència activa els tres moviments epistèmics: descoberta (veus el que no sabies), recursivitat (has de tornar sobre el text), resistència (has de justificar les teves decisions).
-
-**Exemple (≥80 paraules):** Un docent de 5è de Primària havia previst que els alumnes usessin la IA per escriure una nota de reclamació a l'Ajuntament sobre un problema del barri. Però es dona compte que és una activitat de delegació: la IA escriurà la nota i l'alumne la copiarà. Reformula l'activitat: cada alumne ha de fer primer un esborrany de 5 frases de la nota (sense IA), identificant els problemes del barri i les seves demandes. Després demana a la IA que millori la nota. Finalment, l'alumne ha de llegir la versió de la IA, escollir 2 millores i justificar per escrit per què les accepta i 1 element del seu esborrany original que prefereix mantenir i per qué. Ara l'activitat és verda: l'alumne pensa, compara, justifica.
-
----
-
-## H3 Detectar rendició cognitiva i intervenir — DOCENT
-
-**Quan aplica:** Quan el docent sospita o detecta que un alumne no ha fet la tasca ell mateix sinó que ha deixat que la IA ho fes tot.
-
-**Fonament:** La rendició cognitiva és difícil de detectar a partir del producte (la nota de la IA pot ser molt bona), però sí que es pot detectar a partir del procés: l'alumne no pot explicar el que ha fet, no pot respondre preguntes sobre el contingut, la redacció és notablement superior a la seva habitual, o simplement admet que ha demanat a la IA que ho fes. La intervenció no ha de ser punitiva sinó pedagògica: ajudar l'alumne a entendre per qué l'ús que ha fet de la IA no li ha servit per aprendre, i co-dissenyar amb ell una manera de tornar a fer la tasca que preservi la seva agència cognitiva.
-
-**Exemple (≥80 paraules):** En Pau, de 13 anys, entrega una redacció sobre el canvi climàtic que clarament no és seva: el registre lingüístic és molt superior al seu habitual, inclou dades que el docent no havia explicat a classe, i el format és d'un article de divulgació professional. El docent no el culpa ni el sanciona directament. Li fa quatre preguntes orals senzilles sobre el contingut de la redacció: en Pau no sap contestar-les. El docent li explica la diferència entre rendiment (la nota de la IA és bona) i aprenentatge (ell no sap el que la nota diu), i li proposa refar la redacció en tres passos: cinc minuts de pluja d'idees sobre el que ja sap, 10 minuts amb la IA per ampliar, i escriure la redacció final ell mateix usant els seus apunts.
-
----
-
-## H4 Preservar les dificultats desitjables en el disseny — DOCENT
-
-**Quan aplica:** En el disseny de qualsevol activitat que incorpori la IA, especialment en les etapes de planificació.
-
-**Fonament:** Les dificultats desitjables (esforç, errors, incertesa) no s'han d'eliminar del disseny d'activitats amb IA. Al contrari: la IA hauria d'introduir-se en el moment de l'activitat on la seva contribució augmenta la qualitat del producte sense eliminar la lluita cognitiva de l'alumne. Típicament, la IA hauria d'entrar DESPRÉS d'un esforç inicial de l'alumne (post-commit), no ABANS. Entrar ABANS impedeix la descoberta, la construcció de coneixement propi i el sentit d'autoria.
-
-**Exemple (≥80 paraules):** La professora de llengua catalana de 2n de Batxillerat dissenya una activitat d'argumentació: el debat sobre si els videojocs fomenten la violència. En lloc de deixar que els alumnes busquin arguments a la IA des del primer moment, estructura l'activitat així: primera sessió, brainstorming individual (sense eines); segona sessió, contrast d'arguments en grups de quatre (sense IA); tercera sessió, cada grup usa la IA per buscar dades i estudis que reforcin o rebaixin els seus arguments previs i es prepara per al debat final. La IA entra en el moment on el seu valor afegit és màxim (cerca d'evidències) però l'alumne ja ha construït la seva posició argumentativa pròpia, que la IA pot ampliar però no ha construït per ell.
-
----
-
-## H5 Usar la IA per ampliar, no per substituir — DOCENT
-
-**Quan aplica:** En la planificació d'activitats que integren la IA com a recurs pedagògic a qualsevol àrea i nivell.
-
-**Fonament:** El principi fonamental que uneix tots els marcs d'aquest mòdul és que la IA ha d'amplificar el Sistema 2 de l'alumne (el pensament crític i deliberatiu), no substituir-lo. Això implica un canvi de perspectiva en el disseny pedagògic: en lloc de preguntar "com puc usar la IA per fer aquesta tasca?", la pregunta productiva és "en quin moment de la tasca la IA pot amplificar el que l'alumne ja sap fer o ja ha pensat?". La IA és una eina de projecció del pensament, no un substitut del pensament.
-
-**Exemple (≥80 paraules):** Un docent de Matemàtiques de 1r de Batxillerat vol que els alumnes comprenguin la derivada d'una funció. Primer, els explica el concepte i fan problemes manuals. Quan han comprès el procediment i han comès errors propis que han corregit, introdueix la IA com a "verificador": l'alumne resol el problema, i després demana a la IA que el resolgui i compara les dues solucions. Si divergeixen, l'alumne ha d'identificar on s'ha equivocat (ell o la IA). D'aquesta manera, la IA no redueix la càrrega germana (el raonament matemàtic), sinó que enriqueix l'activitat de revisió i autocorrecció, que és en si mateixa un moviment de fricció productiva.
-
----
-
-## H6 Identificar quan la IA m'ajuda a aprendre vs. quan fa la feina per mi — ALUMNE
-
-**Quan aplica:** Quan l'alumne usa la IA per fer activitats escolars i no sap si l'ús que fa és adequat pedagògicament.
-
-**Fonament:** La distinció entre delegació legítima i rendició cognitiva no és sempre evident per a l'alumne. Un criteri pràctic: si, un cop acabada la tasca amb la IA, l'alumne pot explicar el que ha fet, respondre preguntes sobre el contingut i tornar a fer quelcom similar sense la IA, ha après. Si no pot fer cap d'aquestes tres coses, ha caigut en rendició cognitiva. L'alumne ha d'aprendre a usar la IA com un interlocutor amb qui pensar, no com una màquina de fer tasques.
-
-**Exemple (≥80 paraules):** La Clara, de 15 anys, té un treball sobre la Segona Guerra Mundial. Podria demanar a la IA que li escrigués el treball, però en comptes d'això fa el següent: primer, llegeix els seus apunts i escriu cinc preguntes que no sap contestar. Després, usa la IA per buscar respostes a cada pregunta concreta. Llegeix les respostes de la IA i en selecciona les parts que li semblen rellevants. Finalment, escriu el treball amb les seves pròpies paraules, integrant el que ja sabia i el que ha après de la IA. Al final, pot explicar el treball oralment sense llegir el paper. Ha après.
-
----
-
-## H7 Reconèixer i evitar la rendició cognitiva — ALUMNE
-
-**Quan aplica:** Quan l'alumne reconeix que ha caigut (o és temptant caure) en el patró de deixar que la IA faci tota la feina.
-
-**Fonament:** La rendició cognitiva és temptadora perquè el resultat immediat (el producte) és molt bo amb molt poc esforç. Però l'alumne que s'acostuma a la rendició cognitiva perd habilitats, es fa cada vegada més dependent de la IA i, en les situacions on no pot usar-la (exàmens, entrevistes de feina, conversacions), se sent incompetent. Reconèixer les pròpies situacions de rendició cognitiva és un acte de metacognició necessari i honrar l'esforç que suposa la fricció productiva és una actitud que cal cultivar.
-
-**Exemple (≥80 paraules):** En Marc, de 16 anys, s'adona que cada vegada que té un redacció, simplement demana a la IA que l'escrigui, la llegeix per sobre i la lliura. Al principi li semblava eficient. Però ara, quan el professor li fa una pregunta oral sobre el contingut de la redacció, no sap contestar. I quan intenta escriure alguna cosa sense la IA, no li surt. Es troba en un cicle de deute cognitiu. Decideix canviar de estratègia: durant un mes, es compromet a no usar la IA per escriure fins que no hagi fet un esborrany propi. El canvi és difícil al principi (la fricció és incòmoda), però al cap d'unes setmanes nota que escriu millor i que pot contestar les preguntes del professor.
-
----
-
-## H8 Usar les CFF per treure profit real de la IA — ALUMNE
-
-**Quan aplica:** Quan l'alumne vol usar la IA d'una manera que li sigui realment útil per aprendre, no només per produir.
-
-**Fonament:** Les Funcions de Forçat Cognitiu no han de ser imposades sempre pels docents: l'alumne les pot aplicar ell mateix com a estratègia d'autoregulació. Aplicar-les requereix una mica de disciplina (no anar directament a la IA) però el benefici és gran: l'alumne aprèn realment el contingut, construeix habilitats que persistiran, i pot usar la IA per ampliar i no per substituir.
-
-**Exemple (≥80 paraules):** La Laia, de 14 anys, ha decidit usar les CFF que ha après a classe per fer el treball de biologia sobre les cèl·lules. Primer, es compromet a escriure el que ja sap de les cèl·lules en un full (pre-compromís). Després, formula tres preguntes concretes que té (justificació prèvia). Quan pregunta a la IA, prediu primer quina resposta li donarà (predicció). En rebre les respostes, les puntua de l'1 al 5 en qualitat i justifica per qué (avaluació obligatòria). El resultat: Laia no ha "fet" el treball amb la IA, sinó que ha après biologia ajudant-se de la IA, i nota que pot explicar el contingut sense llegir el treball.
-
----
-
-### Fonts i referències
-
-- Sweller, J. (1988). Cognitive load during problem solving: Effects on learning. *Cognitive Science, 12*(2), 257-285.
-- Bjork, R. A., & Bjork, E. L. (1992). A new theory of disuse and an old theory of stimulus fluctuation. *From learning processes to cognitive processes: Essays in honor of William K. Estes, 2*, 35-67.
-- Kahneman, D. (2011). *Thinking, Fast and Slow*. Farrar, Straus and Giroux.
-- Novokshanova, A., & Potkalitsky, S. (s.d.). Productive Friction in AI-Assisted Learning. [Article de referència del corpus].
-- Shaw, A., & Nave, C. (s.d.). Cognitive Surrender in Human-AI Interaction. [Article de referència del corpus].
-- Macnamara, B. N., Hambrick, D. Z., & Oswald, F. L. (2014). Deliberate practice and performance in music, games, sports, education, and professions. *Psychological Science, 25*(8), 1608-1618.
-
-### Fonts del corpus scraped
-
-- file://upload/friccio-cognitiva.md (document carregat al corpus, contingut directe)
-- https://ateneu.xtec.cat/wikiform/wikiexport/cursos/escola_inclusiva/dac/modul_3/practica_4
-- https://ateneu.xtec.cat/wikiform/wikiexport/cursos/escola_inclusiva/dac/modul_3/practica_3
+*20 documents citats de 26 al corpus · secció generada automàticament*

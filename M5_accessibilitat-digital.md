@@ -4,216 +4,126 @@ titol: "Accessibilitat digital"
 tipus: eina
 descripcio: "Estàndards i recursos per a materials digitals accessibles: WCAG, subtítols, lectors de pantalla"
 review_status: esborrany
-generat_at: 2026-03-17T21:58:23
+generat_at: 2026-03-18T15:33:36
 ---
-# 1. CONTINGUT ESPECÍFIC DEL DOCUMENT
 
-## Descripció i propòsit
-L'accessibilitat digital és la pràctica de dissenyar i crear materials i entorns digitals que puguin ser percebuts, entesos, navegats i utilitzats per totes les persones, independentment de les seves capacitats o discapacitats. El seu propòsit principal és eliminar les barreres digitals per garantir la inclusió de tot l'alumnat, especialment aquell amb diversitat funcional sensorial (visual, auditiva), motriu o cognitiva. Aquesta eina proporciona una guia pràctica per assegurar que els recursos digitals que utilitzem a l'aula compleixin amb els estàndards d'accessibilitat, facilitant així l'aplicació dels principis del Disseny Universal per a l'Aprenentatge (DUA) des del disseny.
+# 1. CONTINGUT ESPECÍFIC
 
-## Freqüència i moment d'ús
-Aquesta eina s'ha d'utilitzar de manera **proactiva i contínua** en totes les fases del cicle de vida d'un material digital:
-*   **Disseny inicial**: Quan es conceptualitza un nou material o activitat digital.
-*   **Creació i producció**: Mentre s'està elaborant el contingut (text, imatges, vídeos, presentacions, etc.).
-*   **Revisió i adaptació**: Abans de publicar o compartir un material existent amb l'alumnat.
-*   **Avaluació**: Per verificar l'accessibilitat dels materials ja en ús.
+**Nota important:** La font proporcionada per a la creació d'aquest document ("memoria_53cf553aa9.pdf", Antònia Bernat Cuello, 2006-2007) és una memòria de llicència d'estudis centrada en l'ús pedagògic dels videojocs i les eines tecnològiques per a la construcció de coneixements i l'adquisició de competències, incloent l'alfabetització digital. Aquesta font no conté informació específica, estàndards ni recursos sobre accessibilitat digital (com WCAG, subtítols o lectors de pantalla). Per tant, les seccions següents es presenten amb una explicació de quin seria el seu contingut si la informació estigués disponible, però sense poder-la extreure de la font actual.
 
-No és una eina per a un ús puntual, sinó una mentalitat a integrar en la pràctica diària de creació de recursos.
+### Descripció i propòsit
+Aquesta eina, si la informació estigués disponible a les fonts, tindria com a propòsit guiar els docents en la creació o adaptació de materials digitals per fer-los accessibles a tot l'alumnat, incloent aquells amb necessitats educatives diverses. L'objectiu seria assegurar que els continguts digitals (documents, vídeos, plataformes, etc.) puguin ser percebuts, operats i compresos per tots, independentment de les seves capacitats o de la tecnologia assistiva que utilitzin. La font proporcionada no conté detalls ni estàndards específics sobre accessibilitat digital, per la qual cosa no es pot desenvolupar el contingut d'aquesta eina a partir d'ella.
 
-## Components i estructura
-Aquesta eina es basa en els estàndards de les Pautes d'Accessibilitat al Contingut Web (WCAG), que són un referent internacional. Els components clau es resumeixen en quatre principis fonamentals (PERCEBIBLE, OPERABLE, COMPRENSIBLE, ROBUST) i es desglossen en elements concrets a revisar:
+### Freqüència i moment d'ús
+Idealment, una eina d'accessibilitat digital s'hauria d'utilitzar de manera contínua i proactiva:
+- **En la fase de disseny:** Cada vegada que es planifiquen o creen nous materials digitals (presentacions, documents, activitats interactives, vídeos).
+- **En la fase d'adaptació:** Quan es revisen materials existents per millorar-ne l'accessibilitat o per adaptar-los a necessitats específiques de l'alumnat.
+- **En la fase de selecció:** Quan es trien recursos digitals externs, per avaluar-ne el grau d'accessibilitat abans d'integrar-los a la pràctica docent.
+La font no ofereix informació sobre la freqüència o el moment d'ús d'eines d'accessibilitat.
 
-1.  **Perceptible**: La informació i els components de la interfície d'usuari han de ser presentables als usuaris de manera que puguin percebre'ls.
-    *   **Text alternatiu (Alt text)**: Per a imatges, gràfics, taules.
-    *   **Subtítols i transcripcions**: Per a vídeos i àudios.
-    *   **Contrast de color**: Suficient entre text i fons.
-    *   **Presentació adaptable**: Contingut que es pot presentar de diferents maneres sense perdre informació o estructura.
+### Components i estructura
+Una eina d'accessibilitat digital sol incloure:
+- **Llistes de verificació (checklists):** Basades en estàndards com les WCAG (Web Content Accessibility Guidelines) per a diferents tipus de contingut (text, imatges, àudio, vídeo, interactivitat).
+- **Guies de bones pràctiques:** Consells pràctics per a la creació de continguts accessibles en formats comuns (Word, PDF, PowerPoint, plataformes web).
+- **Recursos i enllaços:** Eines de validació d'accessibilitat, extensions de navegador, programari de suport (lectors de pantalla, programes de subtitulació).
+- **Exemples:** Il·lustracions de com aplicar els principis d'accessibilitat correctament i d'errors comuns a evitar.
+La font proporcionada no detalla components ni l'estructura d'una eina d'aquest tipus.
 
-2.  **Operable**: Els components de la interfície d'usuari i la navegació han de ser operables.
-    *   **Navegació per teclat**: Totes les funcionalitats accessibles sense ratolí.
-    *   **Temps suficient**: Per llegir i utilitzar el contingut.
-    *   **Evitar parpellejos**: Que puguin provocar convulsions.
+### Guia d'ús pas a pas
+Una guia d'ús pas a pas per a l'accessibilitat digital generalment implicaria:
+1. **Identificar el tipus de material:** Document de text, presentació, vídeo, pàgina web, etc.
+2. **Consultar els estàndards rellevants:** Per exemple, WCAG per a contingut web, o guies específiques per a documents.
+3. **Aplicar principis bàsics:** Ús de text alternatiu per a imatges, subtítols per a vídeos, estructuració lògica amb encapçalaments, contrast de color adequat, etc.
+4. **Utilitzar eines de verificació:** Passar el material per un verificador d'accessibilitat (integrat en programari o extern).
+5. **Provar amb tecnologies assistives:** Si és possible, provar el material amb un lector de pantalla o altres eines per simular l'experiència d'un usuari amb necessitats.
+La font no proporciona cap guia d'ús pas a pas per a l'accessibilitat digital.
 
-3.  **Comprensible**: La informació i el funcionament de la interfície d'usuari han de ser comprensibles.
-    *   **Textos clars i senzills**: Llenguatge fàcil d'entendre.
-    *   **Estructura lògica**: Títols, subtítols, llistes.
-    *   **Instruccions clares**: Per a la interacció.
-    *   **Ajuda a la introducció de dades**: Identificació d'errors i suggeriments de correcció.
+### Exemples completats
+Si la informació estigués disponible, s'inclourien exemples de materials digitals (com un document de text o un vídeo educatiu) que mostressin l'aplicació correcta dels principis d'accessibilitat, amb anotacions sobre els elements que els fan accessibles (p. ex., un document Word amb encapçalaments ben estructurats, text alternatiu a les imatges i un bon contrast; o un vídeo amb subtítols precisos i una transcripció). La font no ofereix cap exemple d'aquest tipus.
 
-4.  **Robust**: El contingut ha de ser prou robust perquè pugui ser interpretat per una àmplia varietat d'agents d'usuari, incloses les tecnologies d'assistència.
-    *   **Codi vàlid**: Utilitzar estàndards web i etiquetatge semàntic.
-    *   **Compatibilitat**: Amb lectors de pantalla i altres eines d'assistència.
+### Adaptacions per context
+Les adaptacions per context en accessibilitat digital podrien incloure:
+- **Per a NEE:** Guies més detallades per a perfils específics (discapacitat visual, auditiva, dislèxia, TDAH), amb recomanacions de programari o configuracions.
+- **Per etapes educatives:** Simplificació de les guies per a primària, o enfocament en eines més avançades per a batxillerat/FP.
+- **Versions simplificades:** Checklists ràpides per a una primera avaluació.
+- **Versions digitals:** Eines interactives o plugins per a plataformes d'aprenentatge.
+La font no conté informació sobre adaptacions per context en accessibilitat digital.
 
-## Guia d'ús pas a pas
+### Com interpretar resultats
+La interpretació dels resultats d'una eina d'accessibilitat (com un verificador) implicaria:
+- **Identificar errors:** Localitzar els problemes d'accessibilitat assenyalats.
+- **Prioritzar correccions:** Decidir quins errors són més crítics i quins tenen un impacte més gran en l'experiència de l'usuari.
+- **Aplicar solucions:** Seguir les recomanacions per corregir els problemes.
+- **Revalidar:** Tornar a verificar el material després de les correccions.
+La font no proporciona cap informació sobre com interpretar els resultats d'eines d'accessibilitat.
 
-1.  **Identifica el material digital**: Decideix quin recurs vols fer accessible (presentació, document de text, vídeo, web, etc.).
-2.  **Revisa el principi "Perceptible"**:
-    *   **Imatges i gràfics**: Afegeix text alternatiu descriptiu. Si la imatge és purament decorativa, marca-la com a tal (alt="").
-    *   **Vídeos i àudios**: Inclou subtítols (preferiblement tancats, que es poden activar/desactivar) i una transcripció completa.
-    *   **Colors**: Utilitza eines de contrast per assegurar que la combinació de colors de text i fons tingui un contrast mínim de 4.5:1 (WCAG AA).
-    *   **Estructura visual**: Assegura que la informació no depengui només del color per transmetre significat.
-3.  **Revisa el principi "Operable"**:
-    *   **Navegació**: Prova de navegar pel material només amb el teclat (tecles Tab, Enter, fletxes). Tots els elements interactius (enllaços, botons) han de ser accessibles.
-    *   **Temps**: Si hi ha elements amb temps limitat, ofereix opcions per pausar, aturar o estendre el temps.
-4.  **Revisa el principi "Comprensible"**:
-    *   **Llenguatge**: Utilitza un llenguatge clar, concís i apropiat per a l'edat i nivell de l'alumnat. Evita argot innecessari.
-    *   **Estructura**: Aplica títols (H1, H2, H3), llistes (ordenades/desordenades) i paràgrafs curts per facilitar la lectura i la comprensió.
-    *   **Instruccions**: Formula les instruccions de manera clara i seqüencial.
-5.  **Revisa el principi "Robust"**:
-    *   **Format**: Preferiblement, utilitza formats oberts i estàndard (HTML, PDF etiquetat, ePub).
-    *   **Eines d'autor**: Moltes aplicacions (Word, PowerPoint, Google Docs) tenen verificadors d'accessibilitat integrats. Utilitza'ls.
-    *   **Prova amb lectors de pantalla**: Si és possible, fes una prova bàsica amb un lector de pantalla (NVDA, JAWS, VoiceOver) per veure com es llegeix el teu material.
-
-## Exemples completats
-
-### Exemple 1: Presentació de diapositives (PowerPoint/Google Slides)
-
-**Material original (no accessible):**
-Una presentació amb moltes imatges sense descripció, text amb colors de baix contrast, i sense títols de diapositiva clars.
-
-**Adaptació accessible (pas a pas):**
-1.  **Títols de diapositiva**: Assegura que cada diapositiva tingui un títol únic i significatiu utilitzant els "layouts" de diapositiva predefinits.
-2.  **Text alternatiu per imatges**:
-    *   Imatge: Gràfic de barres amb el creixement de la població escolar.
-    *   Alt text: "Gràfic de barres que mostra l'augment de la població escolar a Catalunya entre 2010 i 2020, passant de 1.2M a 1.5M d'alumnes."
-    *   Imatge: Logotip de l'escola.
-    *   Alt text: "Logotip de l'escola [Nom de l'escola]."
-3.  **Contrast de color**: Revisa els colors del text i fons. Si un títol vermell sobre fons gris té un contrast baix, canvia el vermell per un to més fosc o el fons per un més clar.
-4.  **Estructura del text**: Utilitza els estils de títol i subtítol integrats en el programa, no només canvis de mida de font. Utilitza llistes amb vinyetes per a punts clau.
-5.  **Enllaços**: Assegura que els enllaços tinguin un text descriptiu, no només "clica aquí". Exemple: "Consulta la normativa de DUA (enllaç a la normativa)" en lloc de "Clica aquí".
-
-### Exemple 2: Vídeo educatiu (YouTube/Drive)
-
-**Material original (no accessible):**
-Un vídeo explicatiu de 5 minuts sobre la fotosíntesi, sense subtítols ni transcripció.
-
-**Adaptació accessible (pas a pas):**
-1.  **Subtítols**:
-    *   Utilitza la funció de subtítols automàtics de YouTube o Google Drive com a punt de partida.
-    *   **Revisa i corregeix manualment** els subtítols generats automàticament per assegurar la precisió, la puntuació i la sincronització.
-    *   Assegura que els subtítols incloguin la identificació de qui parla si hi ha diversos interlocutors.
-2.  **Transcripció**:
-    *   Crea un document de text amb la transcripció completa del diàleg del vídeo.
-    *   Afegeix descripcions breus d'elements visuals importants que no s'expliquen verbalment (ex: "[Mostra un diagrama de la cèl·lula vegetal]").
-    *   Posa aquest document a disposició de l'alumnat com a recurs addicional.
-3.  **Àudio clar**: Assegura que l'àudio del vídeo sigui clar i que la música de fons no interfereixi amb la veu.
-
-## Adaptacions per context
-
-*   **Necessitats Educatives Específiques (NEE)**: Per a alumnes amb dislèxia, utilitzar tipografies clares i espaiades. Per a alumnes amb TDAH, fragmentar el contingut en blocs més petits i amb instruccions molt concretes. La IA pot ajudar a simplificar textos o generar exercicis graduats, però cal supervisar que no es perdi el rigor del contingut.
-*   **Etapes educatives (Infantil/Primària)**: Simplificar el llenguatge al màxim. Utilitzar més elements visuals amb descripcions senzilles. Els subtítols poden ser una eina per al desenvolupament de la lectoescriptura.
-*   **Versió simplificada**: Si el material és molt complex, crea una versió "lectura fàcil" que mantingui la informació essencial amb un vocabulari i estructura més bàsics. La IA pot ser útil per generar esborranys d'aquesta versió simplificada.
-*   **Versió digital**: Aprofita les funcionalitats d'accessibilitat integrades en les plataformes (LMS, editors de text, etc.). Moltes plataformes permeten afegir descripcions d'imatges, subtítols i etiquetes semàntiques directament.
-
-## Com interpretar resultats
-L'objectiu no és obtenir un "100% accessible" perfecte, sinó millorar contínuament.
-*   **Verificació manual**: La millor interpretació prové de revisar el material amb la perspectiva d'una persona amb diversitat funcional.
-*   **Feedback de l'alumnat**: Pregunta directament a l'alumnat si troben barreres. El seu feedback és el més valuós.
-*   **Eines automàtiques**: Les eines de verificació d'accessibilitat (integrades en programes o extensions de navegador) són un bon punt de partida, però no detecten tots els problemes (ex: un "alt text" pot existir, però ser poc descriptiu).
-*   **Impacte en l'aprenentatge**: Observa si l'alumnat amb NEE o diversitat funcional pot accedir i interactuar amb el material de manera autònoma i efectiva. Si no és així, calen més adaptacions.
-*   **Principi DUA**: Recorda que l'accessibilitat és un pilar del DUA. Si els materials són accessibles, s'està facilitant múltiples formes de representació, acció i expressió, i implicació, beneficiant a tot l'alumnat.
+---
 
 # 2. CONNEXIONS AMB ALTRES DOCUMENTS DEL CORPUS
-
-| Document relacionat | Relació concreta | Co-activació obligatòria | Co-activació condicional |
-|---|---|---|---|
-| `inclusio-necessitats` | L'accessibilitat digital és una mesura universal i específica fonamental per a l'atenció a la diversitat i l'aplicació del DUA. Aquest document detalla com la IA pot ajudar a generar materials accessibles. | Sí, sempre que es parli d'inclusió o DUA. | Quan es dissenyen materials per a NEE o diversitat funcional. |
-| `competencia-digital-ia` | La creació de contingut digital accessible és una subcompetència de la competència digital general i, per extensió, de la competència digital en IA, especialment en la dimensió de "Diligència" (creació responsable). | No. | Quan es parla de crear contingut digital amb o sense IA, o de la responsabilitat en l'ús de la tecnologia. |
-| `friccio-cognitiva` | L'accessibilitat digital assegura que l'alumnat pugui accedir al contingut per iniciar la "fricció productiva". Si el material no és accessible, la fricció cognitiva no es pot ni iniciar. | No. | Quan es dissenyen activitats amb IA i es vol assegurar que el punt de partida sigui equitatiu per a tots. |
+- **Marc_DUA**: L'accessibilitat digital és un pilar fonamental del Disseny Universal per a l'Aprenentatge, ja que busca eliminar barreres des del disseny.
+- **Perfil_Alumnat_NEE**: Aquesta eina és crucial per adaptar els materials a les necessitats específiques de l'alumnat amb Necessitats Educatives Específiques, garantint la seva participació plena.
+- **Estrategia_Diferenciacio_Pedagogica**: L'accessibilitat digital permet una diferenciació efectiva dels materials, oferint múltiples formes d'accés al contingut per a la diversitat de l'aula.
+- **Normativa_Inclusio_Educativa**: La creació de materials accessibles contribueix al compliment de la legislació vigent en matèria d'inclusió i equitat educativa.
+- **Eina_Creacio_Materials_Didactics**: Aquesta eina complementaria qualsevol procés de creació de materials, assegurant que els recursos generats siguin inclusius des del principi.
 
 # 3. DETECCIÓ (Variables de Context)
-
-**Senyals del docent:**
-*   "Com puc assegurar que tots els meus alumnes puguin accedir a aquest material digital?"
-*   "He de preparar un vídeo per a la classe, però tinc alumnes amb dificultats auditives."
-*   "M'han dit que els meus documents de text no són fàcils de llegir per a alguns alumnes amb dislèxia."
-*   "Vull utilitzar una eina digital nova, però em preocupa que no sigui inclusiva."
-*   "Com puc fer que la meva presentació sigui més útil per a un alumne amb baixa visió?"
-
-**Senyals de l'alumne:**
-*   L'alumne demana que es repeteixi la informació visualment o auditivament.
-*   L'alumne té dificultats per interactuar amb un recurs digital (no pot clicar un botó, no entén un formulari).
-*   L'alumne expressa frustració per no poder seguir un vídeo o una presentació.
-
-**Senyals de context:**
-*   Disseny d'una nova unitat didàctica que inclou molts recursos digitals.
-*   Incorporació d'un nou alumne amb NEE o diversitat funcional al grup.
-*   Ús de plataformes o eines digitals noves a l'aula.
-*   Revisió de materials didàctics existents.
-
-**Anti-senyals (quan NO activar malgrat les aparences):**
-*   Quan la pregunta del docent es refereix exclusivament a la dificultat tècnica d'ús d'una eina digital, sense implicar barreres d'accés per a la diversitat funcional.
-*   Quan la preocupació principal és la gestió de llicències o la seguretat informàtica, i no l'accés al contingut.
-*   Quan es demana una solució per a un problema de rendiment acadèmic general que no està directament relacionat amb l'accessibilitat del material.
+- **Senyals del docent**:
+    - "Em preocupa que alguns alumnes no puguin accedir als materials digitals que preparo per la seva forma o format."
+    - "Com puc assegurar que els meus vídeos siguin útils per a alumnes amb dificultats auditives o visuals?"
+    - "Vull que tots els meus alumnes puguin interactuar amb els recursos en línia que utilitzo, independentment de les seves capacitats."
+    - "Necessito saber quins estàndards o pautes he de seguir per crear documents i presentacions digitals que siguin realment inclusius."
+    - "He notat que alguns alumnes es desconnecten o no participen en activitats digitals, i sospito que pot ser per barreres d'accés."
+- **Senyals de l'alumne**:
+    - L'alumne expressa frustració o dificultat per llegir el text a la pantalla, seguir un vídeo sense subtítols, o interactuar amb elements digitals.
+    - L'alumne utilitza o demana l'ús de tecnologies assistives (lectors de pantalla, lupes, teclats adaptats) que no funcionen bé amb els materials proporcionats.
+    - L'alumne té un diagnòstic de necessitats educatives especials (visuals, auditives, motrius, dislèxia) que requereixen adaptacions en els materials digitals.
+- **Senyals de context**:
+    - Es detecta una alta diversitat a l'aula, incloent alumnat amb NEE o amb diferents estils d'aprenentatge que es beneficien de múltiples formats.
+    - S'està implementant un nou projecte o unitat didàctica que fa un ús intensiu de recursos digitals.
+    - L'escola o el departament està revisant les seves pràctiques digitals per complir amb la normativa d'inclusió o millorar la qualitat educativa.
+- **Anti-senyals**:
+    - L'alumne pot accedir sense problemes a tots els materials digitals i interactuar-hi de manera autònoma i efectiva.
+    - La preocupació principal del docent o de l'alumne es centra exclusivament en aspectes tècnics (velocitat de connexió, funcionament del dispositiu) que no estan relacionats amb l'accessibilitat del contingut.
+    - Ja existeixen protocols o eines d'accessibilitat digital implementats i funcionant correctament per a tots els materials i alumnes.
 
 # 4. HEURÍSTIQUES I RAONAMENT PER A L'AGENT
 
-## H1 Heurística — DOCENT
+- **Principi general**: L'accessibilitat digital és un dret i una condició fonamental per a la participació plena i equitativa de tot l'alumnat en l'aprenentatge, independentment de les seves capacitats.
 
-**Quan aplica:** Quan el docent està dissenyant una nova activitat o material digital des de zero, o quan vol revisar la inclusió dels seus recursos. *
+- **Heurístiques per a l'Agent DOCENT**:
 
-**Fonament:** L'accessibilitat no és una "addició" sinó un pilar del Disseny Universal per a l'Aprenentatge (DUA). Pensar en l'accessibilitat des del principi estalvia temps i esforços, i garanteix que el material sigui inherentment més inclusiu. A més, evita la "fricció cognitiva" innecessària causada per barreres d'accés, permetent que l'alumne es concentri en l'aprenentatge real. *
+    - **Nom**: **Disseny Universal per a l'Aprenentatge (DUA) en la creació digital.**
+    - **Quan aplica**: Quan el docent està creant, seleccionant o adaptant qualsevol material o recurs digital per a l'aula, des de documents de text fins a presentacions multimèdia o plataformes interactives.
+    - **Fonament**: Anticipar les diverses necessitats de l'alumnat des del principi, seguint els principis del DUA, redueix dràsticament la necessitat d'adaptacions posteriors, millorant l'experiència per a tothom i complint amb els principis d'equitat i inclusió. Aquesta aproximació beneficia no només l'alumnat amb NEE, sinó tota la diversitat de l'aula.
+    - **Exemple complet de raonament**: "Un docent vol crear una presentació interactiva per explicar un concepte complex de ciències socials. En lloc de fer-la només visual amb text i imatges, l'agent raonaria: 'Per assegurar que aquesta presentació sigui accessible per a tot l'alumnat, el docent hauria de considerar el DUA des de la fase de disseny. Això implica no només usar un contrast de color adequat i una mida de lletra llegible per a alumnes amb baixa visió o dislèxia, sinó també afegir descripcions de text alternatives (alt text) per a totes les imatges i gràfics, de manera que els lectors de pantalla puguin interpretar-les per a alumnes amb discapacitat visual. Si hi ha contingut d'àudio o vídeo, caldrà incloure subtítols precisos i, idealment, una transcripció completa per a alumnes amb dificultats auditives o que prefereixen llegir. A més, la navegació per la presentació hauria de ser possible tant amb ratolí com amb teclat, per a alumnes amb dificultats motrius. Aquesta anticipació permetrà que alumnes amb diverses necessitats (visuals, auditives, motrius o cognitives) puguin accedir al contingut de manera autònoma i efectiva, sense haver de demanar adaptacions especials que podrien estigmatitzar-los o retardar el seu aprenentatge, i millorarà l'experiència per a la resta de la classe.'"
 
-**Exemple:** Un docent vol crear una presentació interactiva per introduir un tema nou. En lloc de fer la presentació i després pensar en com adaptar-la, l'agent suggeriria al docent que, des del primer esborrany, utilitzi plantilles amb títols de diapositiva estructurats, s'asseguri que les imatges que inclogui tinguin espai per a text alternatiu, i que els colors de fons i text tinguin un bon contrast. Això no només beneficiarà a alumnes amb baixa visió o dislèxia, sinó que també millorarà l'estructura i la claredat per a tot l'alumnat, fent la presentació més robusta i comprensible per a tots, tal com promou el DUA.
+    - **Nom**: **Verificació i validació amb eines d'accessibilitat.**
+    - **Quan aplica**: Després de crear o adaptar un material digital, i abans de compartir-lo amb l'alumnat.
+    - **Fonament**: Les eines automatitzades i les proves manuals ajuden a identificar barreres que podrien passar desapercebudes, assegurant que el material compleix amb els estàndards bàsics d'accessibilitat.
+    - **Exemple complet de raonament**: "Un docent ha preparat un document PDF amb exercicis per als seus alumnes. L'agent raonaria: 'Un cop el document PDF està finalitzat, és crucial no donar per fet que és accessible. El docent hauria d'utilitzar les funcions de verificació d'accessibilitat que molts programes (com Adobe Acrobat Pro o Microsoft Word) incorporen. Aquestes eines poden detectar problemes com la manca de text alternatiu a les imatges, l'absència d'etiquetes per a l'estructura del document (que dificulten la navegació amb lectors de pantalla), o un contrast de color insuficient. A més de la verificació automàtica, seria molt beneficiós fer una petita prova manual, com intentar navegar pel document només amb el teclat o simular l'ús d'un lector de pantalla, per assegurar-se que l'experiència de l'usuari és fluida i que cap element essencial queda inaccessible. Aquesta validació final garanteix que l'esforç en el disseny accessible es tradueix en un material realment usable per a tots els alumnes.'"
 
+    - **Nom**: **Formació i actualització contínua en accessibilitat digital.**
+    - **Quan aplica**: De manera regular, especialment amb l'evolució de les tecnologies i els estàndards.
+    - **Fonament**: L'entorn digital canvia ràpidament, i mantenir-se al dia amb les millors pràctiques i eines d'accessibilitat és essencial per garantir una inclusió efectiva i sostenible.
+    - **Exemple complet de raonament**: "Un docent ha estat utilitzant les mateixes eines i mètodes per crear materials digitals durant anys. L'agent raonaria: 'Donada la ràpida evolució de la tecnologia i dels estàndards d'accessibilitat, és fonamental que el docent es mantingui en formació contínua en aquest àmbit. Les pautes WCAG s'actualitzen, apareixen noves eines de creació de continguts i les tecnologies assistives milloren constantment. Participar en cursos, tallers o comunitats de pràctica sobre accessibilitat digital permetrà al docent conèixer les últimes novetats, aprendre a utilitzar noves funcionalitats de les eines que ja fa servir (com la generació automàtica de subtítols i la seva revisió), i descobrir recursos que faciliten la creació de materials inclusius. Aquesta actualització no només millorarà la qualitat dels seus materials, sinó que també reforçarà la seva confiança i competència per atendre la diversitat de l'alumnat de manera proactiva i eficient.'"
+
+- **Heurístiques per a l'Agent ALUMNE**:
+
+    - **Nom**: **Reconeixement i ús d'eines d'accessibilitat personalitzades.**
+    - **Quan aplica**: Quan l'alumne troba dificultats per accedir o interactuar amb un material digital o una plataforma educativa.
+    - **Fonament**: L'alumne ha de ser autònom en la identificació de les seves necessitats i en l'ús de les eines disponibles (integrades en el sistema operatiu, el navegador o el programari) per superar les barreres digitals, fomentant la seva autoeficàcia i autonomia en l'aprenentatge.
+    - **Exemple complet de raonament**: "Un alumne amb dislèxia està intentant llegir un document PDF amb molta informació i una font petita, i se sent frustrat. L'agent raonaria: 'L'alumne està trobant una barrera significativa en la lectura del PDF. En lloc de simplement dir-li que ho intenti de nou o que demani ajuda al docent, l'agent hauria de guiar-lo per explorar les opcions d'accessibilitat disponibles al seu dispositiu o al lector de PDF. Això podria incloure suggerir l'ús de la funció de text a veu del sistema operatiu o del propi lector de PDF per escoltar el text, o si el document ho permet, canviar la font a una més llegible per a dislèctics, ajustar la mida del text o el contrast de color. L'objectiu és empoderar l'alumne perquè conegui i utilitzi activament les eines que ja té a l'abast per millorar la seva experiència d'aprenentatge digital, sense dependre constantment de l'ajuda externa i desenvolupant estratègies d'autonomia.'"
+
+    - **Nom**: **Comunicació activa de barreres d'accessibilitat.**
+    - **Quan aplica**: Quan l'alumne es troba amb un material digital inaccessible i les seves eines personalitzades no són suficients per superar la barrera.
+    - **Fonament**: La comunicació efectiva de les dificultats permet al docent o al centre educatiu prendre mesures correctores, millorant l'accessibilitat per a l'alumne i per a futurs usuaris.
+    - **Exemple complet de raonament**: "Un alumne amb deficiència auditiva està mirant un vídeo educatiu que el docent ha penjat a la plataforma, però no té subtítols i no pot seguir el contingut. L'agent raonaria: 'En aquesta situació, és crucial que l'alumne sàpiga com comunicar de manera efectiva la barrera que troba. L'agent l'aconsellaria que parli amb el docent, explicant clarament que el vídeo no té subtítols i que això li impedeix comprendre la informació. Podria suggerir que el docent afegís subtítols o proporcionés una transcripció del vídeo. Aquesta comunicació no només resoldrà la situació per a l'alumne en qüestió, sinó que també alertarà el docent sobre la necessitat de revisar l'accessibilitat dels seus materials per a tota la classe, beneficiant a altres alumnes amb necessitats similars o que simplement prefereixen els subtítols per a una millor comprensió. Això fomenta la corresponsabilitat en la creació d'un entorn d'aprenentatge inclusiu.'"
 ---
 
-## H2 Heurística — DOCENT
+## 5. FONTS DEL CORPUS
 
-**Quan aplica:** Quan el docent crea o selecciona contingut informatiu (text, vídeo, àudio). *
+| # | Títol | URL |
+|---|-------|-----|
+| 1 | memoria_53cf553aa9.pdf | http://www.xtec.cat/~abernat/articles/memoria.pdf |
 
-**Fonament:** Per complir amb el principi DUA de "múltiples formes de representació", oferir la informació en almenys tres formats diferents (visual, auditiu, textual) maximitza les possibilitats que tot l'alumnat pugui accedir-hi segons les seves preferències o necessitats. Això inclou subtítols per a vídeos, transcripcions per a àudios i text alternatiu per a imatges. *
-
-**Exemple:** Un docent vol compartir un vídeo explicatiu sobre un concepte complex. L'agent raonaria que, per fer-lo accessible, no n'hi ha prou amb el vídeo en si. Caldria assegurar que el vídeo tingui subtítols precisos (format textual per a l'àudio), i idealment, una transcripció completa que també descrigui elements visuals rellevants (un altre format textual). A més, si el vídeo conté gràfics, aquests haurien de tenir descripcions verbals o text alternatiu. Aquesta aproximació beneficia no només a alumnes amb dificultats auditives, sinó també a aquells que prefereixen llegir, que es troben en un entorn sorollós, o que volen repassar el contingut de manera ràpida.
-
----
-
-## H3 Heurística — DOCENT
-
-**Quan aplica:** Quan el docent vol verificar la usabilitat i accessibilitat d'un material digital interactiu o d'una plataforma. *
-
-**Fonament:** Simular l'experiència d'un usuari amb una discapacitat sensorial o motriu ajuda a identificar barreres que d'altra manera passarien desapercebudes. La navegació per teclat és un requisit WCAG fonamental per a moltes tecnologies d'assistència. *
-
-**Exemple:** Un docent ha dissenyat un qüestionari en línia amb imatges interactives. L'agent suggeriria al docent que intenti completar el qüestionari utilitzant només el teclat (tecla Tab per moure's, Enter per seleccionar) i, si és possible, amb un lector de pantalla bàsic activat. Si el docent no pot navegar per totes les preguntes, seleccionar respostes o enviar el formulari sense el ratolí, o si el lector de pantalla no llegeix correctament les preguntes o les opcions, significa que hi ha barreres d'operabilitat o de percepció que cal corregir. Això garanteix que alumnes amb dificultats motrius o visuals puguin participar plenament. *
-
----
-
-## H6 Heurística — ALUMNE
-
-**Quan aplica:** Quan el docent considera utilitzar eines d'IA per generar o adaptar materials digitals amb finalitats d'accessibilitat. *
-
-**Fonament:** La IA pot ser una eina potent per a l'accessibilitat (generar subtítols, simplificar textos, descriure imatges), però no substitueix la supervisió humana. Les "al·lucinacions" o biaixos de la IA poden generar contingut incorrecte o poc precís, que podria crear noves barreres o "fricció cognitiva" innecessària si no es revisa. *
-
-**Exemple:** Un docent decideix utilitzar una eina d'IA per generar automàticament els subtítols d'un vídeo educatiu i per simplificar un text complex. L'agent aconsellaria al docent que, tot i que la IA pot accelerar el procés, és absolutament imprescindible revisar i corregir manualment els subtítols generats per assegurar la seva precisió i sincronització, ja que els errors podrien confondre o frustrar l'alumne. De la mateixa manera, el text simplificat per la IA ha de ser revisat per garantir que manté la informació essencial i el rigor acadèmic, i que el llenguatge és realment adequat per al nivell de comprensió desitjat, evitant la "rendició cognitiva" per part de l'alumne que podria acceptar un text simplificat sense escrutini.
-
----
-
-## H7 Heurística — ALUMNE
-
-**Quan aplica:** Quan l'alumne té dificultats per accedir a un material digital o vol millorar la seva experiència d'aprenentatge. *
-
-**Fonament:** L'alumne ha de ser conscient de les tecnologies d'assistència disponibles (lectors de pantalla, subtítols, configuracions de contrast) i de com utilitzar-les. Això fomenta l'autonomia i la "competència digital" en l'ús d'eines per a l'aprenentatge. *
-
-**Exemple:** Un alumne amb dificultats auditives està mirant un vídeo a classe. L'agent podria recordar-li que la majoria de plataformes de vídeo tenen una opció per activar els subtítols (el botó "CC"). Si els subtítols no estan disponibles o són incorrectes, l'agent podria suggerir-li que ho comuniqui al docent. Això no només l'ajuda a accedir al contingut, sinó que també el capacita per identificar i resoldre barreres d'accessibilitat de manera proactiva, desenvolupant la seva autonomia i la seva "competència digital en IA" si ha d'interactuar amb eines que utilitzen IA per a l'accessibilitat.
-
----
-
-## H8 Heurística — ALUMNE
-
-**Quan aplica:** Quan l'alumne es troba amb un material digital al qual no pot accedir o que li resulta molt difícil d'utilitzar. *
-
-**Fonament:** L'alumne té dret a accedir a la informació en un format que li sigui comprensible. Demanar un format alternatiu és una forma de defensar el seu dret a la inclusió i a l'aplicació del DUA. *
-
-**Exemple:** Un alumne amb dislèxia rep un document PDF escanejat amb moltes imatges de text, que li resulta gairebé impossible de llegir amb el seu lector de pantalla o amb eines de text a veu. L'agent aconsellaria a l'alumne que demani al docent una versió del document en un format de text editable (Word, Google Docs) o una versió "lectura fàcil" si és possible. Això permetria a l'alumne utilitzar les seves eines d'assistència de manera efectiva, reduint la "fricció cognitiva" innecessària i permetent-li concentrar-se en el contingut en lloc de la lluita per accedir-hi.
-
----
-
-## H9 Heurística — ALUMNE
-
-**Quan aplica:** Quan l'alumne utilitza eines d'IA per generar contingut accessible (ex: subtítols automàtics, resums simplificats). *
-
-**Fonament:** Les eines d'IA, tot i ser útils, poden cometre errors ("al·lucinacions", biaixos) que afecten la precisió i, per tant, l'accessibilitat del contingut. L'alumne ha de desenvolupar la "competència digital en IA" per discernir i verificar la informació. *
-
-**Exemple:** Un alumne utilitza una eina d'IA per generar un resum simplificat d'un text complex. L'agent li recordaria que, tot i que la IA és una bona ajuda, és crucial que l'alumne llegeixi el resum i el compari amb el text original per assegurar-se que la informació és correcta i que no s'han perdut detalls importants. L'alumne ha de ser capaç de detectar si la IA ha "inventat" alguna cosa o ha simplificat excessivament, comprometent la veracitat. Aquesta actitud de "resistència" i "discerniment" contra la "rendició cognitiva" és fonamental per a un ús ètic i eficaç de la IA en el seu aprenentatge. # 5. FONTS 1.  Dakan, J. & Feller, R. (2023). *AI Fluency: A Framework for AI Literacy*. ISTE. 2.  Novokshanova, O. & Potkalitsky, M. (2024). *Productive Friction with AI: A Pedagogical Framework*. Journal of Educational Technology & Society, 27(1), 1-15. 3.  Shaw, A. & Nave, G. (2023). *Cognitive Surrender: How AI Undermines Critical Thinking*. Educational Leadership, 81(2), 44-49.
-
----
+*1 documents font · secció generada automàticament*

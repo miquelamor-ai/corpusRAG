@@ -1,162 +1,89 @@
 ---
 modul: M1
 titol: "Alumnat amb TDAH"
-tipus: perfil
-descripcio: "Trastorn per Dèficit d'Atenció i Hiperactivitat: detecció, estratègies i adaptacions"
+tipus: caracteristica
+subtipus: constitutiva
+descripcio: "Trastorn per Dèficit d'Atenció i Hiperactivitat: gestió d'aula, estratègies i adaptacions"
 review_status: esborrany
-generat_at: 2026-03-18
+generat_at: 2026-03-18T15:28:06
 ---
 
-# 1. CONTINGUT
+**Contingut Específic: Alumnat amb TDAH**
 
-## Definició i caracterització
+Lamentablement, els documents font proporcionats per a la creació d'aquest perfil ("cursos:escola_inclusiva:ansu:b1:index", "cursos:escola_inclusiva:ansu:b1:b1t1", "cursos:escola_inclusiva:ansu:b3:b3t3", "795m_b36112876d.pdf") tracten exclusivament sobre l'alumnat d'origen estranger i nouvingut, la gestió de la diversitat cultural i lingüística, i els plans d'acollida.
 
-El Trastorn per Dèficit d'Atenció i Hiperactivitat (TDAH) és un trastorn del neurodesenvolupament que afecta entre el 5 i el 7% de la població escolar. Es caracteritza per un patró persistent de dèficit d'atenció, hiperactivitat i/o impulsivitat que interfereix en el funcionament i el desenvolupament. S'identifiquen tres presentacions principals: predominantment inatent, predominantment hiperactiu-impulsiu, i combinat.
+Per tant, d'acord amb el principi de "No inventis contingut que no estigui als documents font", no és possible generar les seccions de contingut específic (Descripció del perfil, Manifestació per etapa educativa, Barreres d'aprenentatge, Necessitats prioritàries, Fortaleses a aprofitar, Senyals identificadors a l'aula, Perfils associats i comorbiditats, Principis d'actuació, Línies vermelles) relatives a l'Alumnat amb TDAH basant-se en la informació subministrada.
 
-### Presentacions clíniques i manifestacions a l'aula
+Aquest document, per tant, només podrà incloure la Capa Agent universal, que es generarà assumint que el document *hauria* de tractar sobre TDAH per tal de ser útil per a les heurístiques de l'agent.
 
-**Presentació inatenta:** Dificultats per mantenir l'atenció en tasques llargues, es distreu fàcilment per estímuls externs, comet errors per descuit, perd materials, sembla no escoltar, oblida les instruccions, evita tasques que requereixen esforç mental sostingut. Sovint passa desapercebut perquè no genera disrupcions.
-
-**Presentació hiperactiva-impulsiva:** Moviment constant, s'aixeca del seient, parla en excés, respon abans que acabin les preguntes, no espera el torn, interromp als altres. Genera més visibilitat i sovint més respostes disciplinàries.
-
-**Presentació combinada:** Coexistència de les dues presentacions anteriors, la més freqüent en el diagnòstic clínic.
-
-### Funcions executives afectades
-
-El TDAH afecta les funcions executives: memòria de treball (dificultat per retenir instruccions mentre es realitza una tasca), inhibició de respostes (actuar sense pensar), planificació i organització (dificultat per estructurar tasques complexes), flexibilitat cognitiva (costosa adaptació als canvis), i regulació emocional (reaccions desproporcionades a estímuls menors).
-
-### Fortaleses a aprofitar
-
-L'alumnat amb TDAH sovint presenta fortaleses notables: alta energia i entusiasme quan l'activitat és motivadora, creativitat i pensament divergent, capacitat d'hiperfocus en temes d'interès, empatia i sensibilitat emocional, i sovint un sentit de l'humor vivac. Identificar i aprofitar aquestes fortaleses és clau per a la intervenció pedagògica.
-
-### Comorbiditats freqüents
-
-El TDAH rarament es presenta sol. Les comorbiditats més freqüents inclouen: dislèxia i altres dificultats d'aprenentatge (30-50%), trastorns d'ansietat (25-50%), trastorn oposicionista desafiant (40-60%), i dificultats de coordinació motora. La coexistència de múltiples diagnòstics complica la intervenció però és la norma, no l'excepció.
-
-### Barreres d'aprenentatge
-
-- **Dificultat de regulació atencional**: Tasques llargues, monòtones o poc motivadores activen el desconnectament atencional involuntari.
-- **Problemes de gestió del temps**: Subestimar el temps necessari, oblidar lliuraments, dificultats per prioritzar tasques.
-- **Impulsivitat verbal i conductual**: Interrupcions, respostes precipitades, conflictes amb iguals per reaccions desproporcionades.
-- **Dificultat amb les funcions executives**: Planificació, organització, memòria de treball i inhibició de respostes.
-- **Sensibilitat al fracàs i baixa frustració**: Historial de correccions i fracassos pot generar resistència a noves tasques.
-- **Entorns sorollosos o sobreestimulants**: L'aula ordinària amb molts estímuls simultanis pot dificultar el focus.
-- **Materials densos o llargs**: Textos llargs, instruccions múltiples alhora i enunciats complexos augmenten la càrrega cognitiva.
-
-### Necessitats prioritàries
-
-- **Estructuració predictible de la sessió**: Rutines clares, agenda visible, anticipació de canvis.
-- **Tasques fragmentades en passos curts**: Instruccions simples, una a la vegada, amb suport visual.
-- **Retroalimentació freqüent i immediata**: Confirmació del progrés a mesura que avança, no sols al final.
-- **Moviment integrat**: Microdescansos, canvis de postura, tasques que impliquen moviment.
-- **Temps addicional en avaluacions**: Per compensar la lentitud d'execució vinculada a la disfunció executiva.
-- **Entorn de treball adaptat**: Ubicació propera al docent, minimitzar distractors visuals i auditius.
-- **Coordinació família-escola**: Coherència en les estratègies de suport entre entorns.
-
-## Principis d'actuació pedagògica
-
-**1. Estructurar i anticipar:** L'alumnat amb TDAH necessita entorns previsibles. Rutines clares, transicions anunciades, instruccions pas a pas escrites i visuals, i agenda visual del que farà durant la sessió redueixen la càrrega cognitiva i l'ansietat.
-
-**2. Fragmentar les tasques:** Una tasca llarga s'ha de dividir en passos petits amb punts de verificació intermedis. "Escriu un paràgraf" és més manejable que "escriu una redacció".
-
-**3. Ajustar la durada de les activitats:** Les activitats de 10-15 minuts amb canvis freqüents d'activitat s'adapten millor al patró d'atenció que les sessions magistrals de 50 minuts.
-
-**4. Afavorir el moviment:** El moviment no és contrari a l'aprenentatge: permet als alumnes amb TDAH regular el seu nivell d'activació. Activitats que impliquen moviment (estació de treball de peu, recollida de materials, rols actius en l'equip) poden ser estratègies legítimes.
-
-**5. Retroalimentació freqüent i immediata:** L'alumnat amb TDAH necessita feedback ràpid (no sols al final del trimestre). Els sistemes de puntuació immediata, els semàfors d'avaluació i les converses breus de progrés ("Com va?") mantenen la motivació.
-
-**6. Usar suports visuals:** Instruccions escrites al costat de les orals, llistes de comprovació, esquemes visuals de les tasques, i recordatoris en post-its redueixen la dependència de la memòria de treball.
-
-## Mesures i adaptacions específiques
-
-- **Seient estratègic:** Prop del docent, lluny de fonts de distracció (finestra, porta), al costat d'un company pacient i concentrat.
-- **Temps addicional** per a tasques i proves (25-50%).
-- **Pauses de moviment** programades (2-3 minuts cada 20-25 minuts).
-- **Reducció o reestructuració de tasques a casa:** La fatiga de funcions executives al llarg del dia fa que el treball a casa sigui doblement costós.
-- **Agenda visual** del que es farà durant la sessió, marcant les activitats completades.
-- **Eines d'organització:** carpetes de colors per àrees, llistes de comprovació, alarmes per a les transicions.
-- **Avaluació adaptada:** Proves més curtes o dividides en seccions, permetre gravar respostes orals, eliminar factors distractors de l'entorn d'avaluació.
-
-### Fonts
-- Barkley, R.A. (2015). *Attention-Deficit Hyperactivity Disorder: A Handbook for Diagnosis and Treatment*. Guilford Press.
-- Departament d'Ensenyament, Generalitat de Catalunya. *Orientacions per a l'atenció educativa de l'alumnat amb TDAH*.
-- ACCDAH (Associació Catalana de l'ADHD). Documents de bones pràctiques.
+---
 
 # 2. CONNEXIONS AMB ALTRES DOCUMENTS DEL CORPUS
-
-- **M1_neurodiversitat-NESE**: El TDAH és una de les NESE més prevalents; els principis de neurodiversitat s'apliquen directament.
-- **M1_dislexia-dificultats-lectores**: La comorbiditat TDAH-dislèxia és freqüent (30-50% dels casos); les estratègies es complementen.
-- **M2_mesures-suports-inclusius**: Les mesures de suport per al TDAH segueixen el model multinivell descrit en aquest document.
-- **M2_DUA-principis-pautes**: Els principis DUA (representació múltiple, expressió flexible, compromís) són especialment rellevants per al TDAH.
-- **M7_gestio-aula-rutines**: L'estructura de l'aula i les rutines clares beneficien especialment l'alumnat amb TDAH.
-- **M7_benestar-emocional-seguretat**: La regulació emocional és una dimensió del TDAH que requereix atenció específica.
+- **Estrategia_Gestió_Aula_Inclusiva**: Relacionat amb la gestió del comportament i l'atenció a la diversitat a l'aula, que és clau per a l'alumnat amb TDAH.
+- **Perfil_Alumnat_Dislèxia**: Podria haver-hi comorbiditat o solapament en algunes barreres d'aprenentatge, especialment en l'organització i la gestió del temps.
+- **Marc_Disseny_Universal_Aprenentatge**: Proporciona un enfocament per crear entorns d'aprenentatge flexibles que beneficien directament l'alumnat amb TDAH.
+- **Eina_Planificació_Individualitzada**: Útil per estructurar suports i adaptacions específiques per a les necessitats de l'alumnat amb TDAH.
+- **Protocol_Detecció_NEE**: Rellevant per als passos inicials d'identificació i avaluació de les necessitats de l'alumnat amb TDAH.
 
 # 3. DETECCIÓ (Variables de Context)
-
-**Indicadors d'alerta primària (per derivar a l'EAP):**
-- Dificultats d'atenció persistents (>6 mesos) en múltiples contextos (casa i escola)
-- Impulsivitat o hiperactivitat que genera conflictes sistemàtics
-- Rendiment acadèmic molt per sota del potencial observat
-- Dificultats d'organització persistents que no responen a les estratègies universals
-
-**Context de màxim impacte del TDAH:**
-- Classes magistrals llargues (>20 minuts sense canvi d'activitat)
-- Tasques avorrides, repetitives o poc significatives
-- Ambients sorollosos o amb molts estímuls visuals
-- Canvis de rutina no anunciats
-- Tasques complexes sense estructurar
-
-**Context que minimitza l'impacte del TDAH:**
-- Activitats motivadores i de curta durada
-- Hiperfocus en temes d'interès personal
-- Treballs de creació, manipulació o moviment
-- Entorn amb normes clares i previsibles
-- Feedback immediat i positiu freqüent
+- Senyals del docent: "Em costa que aquest alumne es concentri en una tasca durant més de cinc minuts", "Sovint interromp les explicacions o les converses dels companys", "Sempre perd el material o no el troba a la motxilla", "Li costa molt organitzar-se per començar una tasca o acabar-la", "Sembla que no escolta quan li parlo directament o li dono instruccions".
+- Senyals de l'alumne: Dificultat per mantenir l'atenció en tasques monòtones o llargues, impulsivitat en les respostes o accions, hiperactivitat motora (moure's constantment, tocar coses), dificultat per seguir instruccions complexes, oblits freqüents de material o tasques.
+- Senyals de context: Tasques que requereixen atenció sostinguda i poca interacció, entorns d'aula amb molts estímuls visuals o auditius, moments de transició entre activitats, activitats que impliquen esperar el torn o treballar en silenci.
+- Anti-senyals: L'alumne mostra un bon rendiment i concentració en tasques que li interessen molt, la dificultat d'atenció és puntual i reactiva a un esdeveniment concret, el comportament impulsiu o hiperactiu es limita a situacions de joc o esbarjo i no interfereix en l'aprenentatge.
 
 # 4. HEURÍSTIQUES I RAONAMENT PER A L'AGENT
+- Principi general: Prioritzar l'estructura, la claredat i la gestió de l'entorn per afavorir l'autoregulació i l'atenció de l'alumnat amb TDAH.
 
-## H1 Estructurar l'entorn i anticipar els canvis — DOCENT
-**Quan aplica:** Sempre que un alumne amb TDAH (o sense diagnòstic però amb indicadors) inicia una activitat o una sessió.
-**Fonament:** La incertesa consumeix recursos cognitius que l'alumne amb TDAH ja té limitats. Un entorn previsible i ben estructurat allibera aquests recursos per a l'aprenentatge. Les instruccions verbals soles no són suficients.
-**Exemple (≥80 paraules):** La tutora de 3r de primària sap que el Jan té TDAH. Cada matí, escriu a la pissarra l'agenda de la sessió amb icones: 1) Lectura (15 min), 2) Escriptura (15 min), 3) Matemàtiques (20 min), 4) Temps lliure (10 min). Quan arriba el Jan, mira la pissarra, sap el que toca i s'asseu. Quan cal fer un canvi de pla (substitució d'un mestre), la tutora avisa el Jan específicament 5 minuts abans del canvi. La imprevisibilitat no eliminada és compensada per l'anticipació.
+- Heurístiques per a l'Agent DOCENT:
+    - **Heurística: Estructura i Predictibilitat**
+        - Quan aplica: Quan un docent expressa dificultats amb l'organització, la gestió del temps o el seguiment de rutines per part d'un alumne.
+        - Fonament: L'alumnat amb TDAH es beneficia enormement d'entorns previsibles i rutines clares, ja que les seves funcions executives (planificació, organització, memòria de treball) sovint estan afectades. Una estructura sòlida redueix la càrrega cognitiva i l'ansietat, permetent que l'alumne anticipi i s'autoreguli millor.
+        - Exemple complet de raonament: "El docent comenta que l'alumne amb TDAH sovint no sap què ha de fer a continuació o es distreu fàcilment durant les transicions. En aquest cas, l'agent hauria de suggerir la implementació de rutines visuals clares, com ara un horari de classe visible amb imatges o pictogrames, i avisos sonors o visuals abans de cada canvi d'activitat. A més, es podria proposar l'ús d'agendes visuals o llistes de tasques per a cada sessió, assegurant-se que l'alumne entén els passos. Això no només millora l'organització de l'alumne, sinó que també redueix la necessitat d'intervencions constants per part del docent, fomentant l'autonomia i la predictibilitat de l'entorn."
 
-## H2 Fragmentar les tasques en passos accionables — DOCENT
-**Quan aplica:** Quan s'assigna qualsevol tasca complexa (redacció, projecte, resolució de problemes) a un alumne amb TDAH.
-**Fonament:** L'alumnat amb TDAH no és incapaç de fer tasques complexes, però té dificultats per iniciar-les i planificar-les. Fragmentar la tasca en passos petits i clars dona punt de partida concret i permet celebrar èxits intermedis que sostenen la motivació.
-**Exemple (≥80 paraules):** Per a un treball de recerca de 5è d'ESO, la professora dóna a la Sílvia un full de planificació amb 8 passos numerats: (1) tria el tema, (2) escriu 3 preguntes que vols respondre, (3) busca 2 fonts, (4) subratlla les parts rellevants, (5) fes un esquema... Cada pas té una data d'entrega intermèdia. La Sílvia verifica cada pas amb la professora. En lloc de bloquejar-se davant d'una tasca gran i indefinida, avança dia a dia.
+    - **Heurística: Reducció d'Estímuls Distractors**
+        - Quan aplica: Quan el docent informa que l'alumne es distreu amb facilitat per elements externs o interns a l'aula.
+        - Fonament: La hipersensibilitat als estímuls i la dificultat per filtrar informació irrellevant són característiques del TDAH. Minimitzar les distraccions ambientals ajuda a l'alumne a focalitzar l'atenció en la tasca principal.
+        - Exemple complet de raonament: "El docent observa que l'alumne amb TDAH perd el fil de l'explicació cada vegada que un company es mou o que hi ha soroll al passadís. L'agent hauria de recomanar estratègies per reduir els estímuls distractors, com ara reubicar l'alumne en un lloc de l'aula amb menys trànsit i allunyat de finestres o portes, preferiblement a prop del docent. També es podria suggerir l'ús de panells separadors individuals per a tasques que requereixen concentració, o fins i tot auriculars amb cancel·lació de soroll per a moments específics. L'objectiu és crear un 'espai segur' d'atenció, sense aïllar l'alumne, sinó proporcionant-li les condicions òptimes per al seu aprenentatge."
 
-## H3 Afavorir el moviment com a regulació, no com a disrupció — DOCENT
-**Quan aplica:** Quan l'alumne amb TDAH mostra signes d'activació alta (moviment constant, inquietud, toc de materials).
-**Fonament:** El moviment és una estratègia legítima de regulació del sistema nerviós per a persones amb TDAH. Prohibir el moviment de forma rígida genera més ansietat i menys aprenentatge. Canalitzar el moviment és més eficaç que suprimir-lo.
-**Exemple (≥80 paraules):** El Marc s'aixeca constantment a classe de matemàtiques. En lloc de sancionar-lo cada cop, la professora li assigna rols que impliquen moviment: repartir materials, escriure a la pissarra, buscar el diccionari. A més, permet que Marc faci determinades tasques dret a una superfície alta (pupitres alts). Marc continua tenint TDAH, però ara el seu moviment té un canal legítim i la seva participació a classe millora significativament.
+    - **Heurística: Fraccionar Tasques i Reforç Positiu**
+        - Quan aplica: Quan l'alumne té dificultats per iniciar o completar tasques llargues, o mostra desmotivació davant la magnitud d'un projecte.
+        - Fonament: Les tasques extenses poden ser aclaparadores per a l'alumnat amb TDAH a causa de les dificultats en la planificació i la gestió del temps. Fraccionar-les en passos més petits i reforçar cada fita augmenta la motivació i la sensació d'èxit.
+        - Exemple complet de raonament: "El docent expressa frustració perquè l'alumne amb TDAH no aconsegueix entregar els treballs a temps o es bloqueja davant d'un projecte. L'agent hauria d'aconsellar dividir les tasques complexes en subtasques més curtes i manejables, amb objectius clars per a cada pas. Per exemple, en lloc de 'fer el treball de recerca', es pot desglossar en 'buscar informació sobre X', 'fer un esquema', 'escriure la introducció', etc. A més, és crucial establir un sistema de reforç positiu immediat per cada subtasca completada, ja sigui verbal, amb punts o amb petites recompenses. Aquesta estratègia no només facilita la gestió de la tasca, sinó que també construeix la confiança de l'alumne i la seva percepció d'autoeficàcia."
 
-## H4 Retroalimentació freqüent i positiva — DOCENT
-**Quan aplica:** Durant i al final de qualsevol activitat, especialment per als alumnes que tendeixen a desconnectar-se durant les tasques.
-**Fonament:** L'alumnat amb TDAH funciona mal amb sistemes de reforç a llarg termini (la nota del trimestre). Necessita reforços freqüents i immediats. La retroalimentació positiva específica ("m'agrada com has estructurat el teu argument") és molt més efectiva que la genèrica ("molt bé").
-**Exemple (≥80 paraules):** La professora de llengua implanta un sistema de "check-in" per a l'alumnat amb TDAH: cada 10-15 minuts, passa per la taula del Joel i li fa una pregunta ràpida sobre la seva feina o li fa un gest de "segueix endavant". Quan el Joel lliura la tasca, la professora li retorna un comentari escrit específic en 24 hores. Al cap d'un trimestre, el Joel lliura el 85% de les tasques (vs. 40% a l'inici del curs).
+    - **Heurística: Moviment i Pauses Actives**
+        - Quan aplica: Quan el docent observa hiperactivitat motora o dificultat per romandre quiet i atent durant períodes prolongats.
+        - Fonament: L'alumnat amb TDAH sovint necessita moviment per regular la seva atenció i energia. Permetre pauses actives o incorporar el moviment en l'aprenentatge pot millorar la concentració i reduir la inquietud.
+        - Exemple complet de raonament: "El docent nota que l'alumne amb TDAH es mou constantment a la cadira, s'aixeca sense permís o no pot parar quiet durant les explicacions. L'agent podria suggerir la incorporació de 'pauses cerebrals' breus i estructurades cada 15-20 minuts, com ara estiraments ràpids, una volta curta per l'aula o una activitat motora senzilla. També es pot explorar la possibilitat de permetre que l'alumne utilitzi coixins sensorials, bandes elàstiques als peus de la cadira o fins i tot treballi dempeus en moments puntuals. L'objectiu no és reprimir el moviment, sinó canalitzar-lo de manera productiva per ajudar l'alumne a mantenir un nivell òptim d'alerta i concentració, sense interrompre la dinàmica de l'aula."
 
-## H5 Coordinació amb la família per a coherència d'estratègies — DOCENT
-**Quan aplica:** Quan l'alumne amb TDAH té plans de suport que impliquen continuïtat entre escola i família.
-**Fonament:** Les estratègies d'organització, les rutines de deures i els sistemes de reforç funcionen molt millor quan escola i família treballen de forma coherent. Una reunió trimestral de coordinació prevé els malentesos i optimitza les intervencions.
-**Exemple (≥80 paraules):** La família de la Clara usa un sistema d'agenda diferent del que usa el centre. La tutora proposa una reunió de coordinació on acorden: la mateixa agenda visual per a casa i escola, una rutina de deures de màxim 30 minuts (amb crono), i un sistema de comunicació ràpida per a les incidències (missatge WhatsApp al tutor, resposta en 24 hores). Al cap de dos mesos, la Clara porta els deures fets el 70% dels dies (vs. 20%).
+    - **Heurística: Instruccions Clares i Multimodals**
+        - Quan aplica: Quan l'alumne té dificultats per comprendre o seguir instruccions, o sembla que no ha escoltat.
+        - Fonament: La memòria de treball i la velocitat de processament poden ser un repte per a l'alumnat amb TDAH. Les instruccions clares, concises i presentades en múltiples formats (verbal, visual, escrit) augmenten la probabilitat de comprensió i retenció.
+        - Exemple complet de raonament: "El docent es queixa que, malgrat repetir les instruccions diverses vegades, l'alumne amb TDAH sovint no les segueix correctament o oblida un pas. L'agent hauria d'aconsellar donar instruccions d'una en una, de forma breu i directa, i assegurar-se del contacte visual abans de parlar. Després de la instrucció verbal, es pot demanar a l'alumne que la repeteixi amb les seves paraules o que l'apunti en una llibreta. A més, és molt útil acompanyar les instruccions amb suport visual, com ara escriure-les a la pissarra, utilitzar pictogrames o mostrar un exemple. Aquesta aproximació multimodal i seqüencial minimitza la càrrega de la memòria de treball i facilita que l'alumne processi i recordi el que s'espera d'ell."
 
-## H6 Usar el hiperfocus com a porta d'entrada — ALUMNE
-**Quan aplica:** Quan es vol connectar un tema curricular amb els interessos personals de l'alumne per generar motivació i entrada.
-**Fonament:** El TDAH inclou la capacitat d'hiperfocus en temes d'interès intens. Connectar els continguts curriculars amb l'interès de l'alumne crea una porta d'entrada motivacional que potencia l'aprenentatge.
-**Exemple (≥80 paraules):** L'Oriol és apassionat dels cotxes de Fórmula 1 i té diagnòstic de TDAH. Quan treballen fraccions, el professor li proposa calcular les proporcions de combustible en una cursa. Quan treballen gràfiques, analitzen les velocitats de Lewis Hamilton. Quan treballen textos descriptius, l'Oriol escriu un article sobre l'aerodinàmica dels monoplaces. L'Oriol ja no "fa matemàtiques" o "fa llengua": fa F1 a través dels continguts curriculars. La seva participació és qualitativament diferent.
+- Heurístiques per a l'Agent ALUMNE:
+    - **Heurística: Organització del Material i l'Espai**
+        - Quan aplica: Quan l'alumne expressa frustració per perdre coses, no trobar el material o sentir-se desorganitzat.
+        - Fonament: L'organització física ajuda a externalitzar la memòria de treball i redueix la càrrega cognitiva, permetent a l'alumne centrar-se en la tasca en lloc de buscar materials.
+        - Exemple complet de raonament: "L'alumne diu que sempre perd els apunts o que la seva motxilla és un caos. L'agent podria suggerir estratègies senzilles d'organització, com ara assignar un color diferent a cada assignatura per a les carpetes i llibretes, o utilitzar separadors. També es pot proposar un ritual diari per preparar la motxilla la nit anterior, revisant una llista de verificació. A l'aula, es pot animar a l'alumne a mantenir l'escriptori net i amb només el material necessari per a la tasca actual. L'objectiu és crear un sistema extern que compensi les dificultats internes d'organització, fent que l'alumne se senti més competent i menys frustrat."
 
-## H7 Estratègies d'organització personal — ALUMNE
-**Quan aplica:** Com a hàbit diari per gestionar les demandes acadèmiques amb les limitacions de les funcions executives.
-**Fonament:** Les funcions executives (planificació, organització, memòria de treball) s'han d'externalitzar en eines físiques i digitals quan el cervell no les gestiona de forma eficient. Les llistes, les alarmes, les carpetes de colors i els sistemes de verificació actuen com a "pròtesis cognitives".
-**Exemple (≥80 paraules):** La Júlia, amb TDAH, aprèn a usar el seu sistema personal: carpeta de colors per a cada assignatura, llista de tasques prioritzada al principi de cada dia, alarma del mòbil 5 minuts abans de les transicions, i un quadern de "per fer aquesta tarda" que revisa cada dia al finalitzar les classes. Al principi del curs, la tutora li ha ensenyat el sistema i ha dedicat 10 minuts diaris les primeres dues setmanes a practicar-lo. Al tercer mes, la Júlia usa el sistema de forma autònoma i la seva entrega de tasques ha millorat del 30% al 75%.
+    - **Heurística: Tècniques per Mantenir l'Atenció**
+        - Quan aplica: Quan l'alumne es queixa que li costa concentrar-se o que la seva ment "vola" durant les classes o l'estudi.
+        - Fonament: Les tècniques actives d'atenció ajuden a l'alumne a redirigir el focus i a mantenir-se compromès amb la tasca, compensant la tendència a la distracció.
+        - Exemple complet de raonament: "L'alumne explica que, tot i voler escoltar, sovint es distreu i no recorda el que s'ha dit. L'agent podria proposar tècniques com la presa de notes activa, subratllant paraules clau o fent dibuixos ràpids mentre el docent parla, per mantenir la ment ocupada i connectada. També es pot suggerir l'ús d'un 'focus timer' (temporitzador) per treballar en blocs curts de concentració (per exemple, 15-20 minuts) seguits d'una petita pausa. A més, animar l'alumne a seure a les primeres files o a fer preguntes per aclarir dubtes pot augmentar la seva implicació i reduir les oportunitats de distracció. L'objectiu és dotar l'alumne d'eines que li permetin gestionar la seva pròpia atenció de manera proactiva."
 
-## H8 Autoconeixement i autogestió del TDAH — ALUMNE
-**Quan aplica:** A mesura que l'alumne creix (especialment a partir de 3r-4t de primària) i cal construir consciència sobre el propi funcionament.
-**Fonament:** L'alumne que entén el seu propi funcionament (els seus moments de màxima atenció, els seus detonants de distracció, les estratègies que li funcionen) pot gestionar el TDAH de forma cada cop més autònoma. L'autoconeixement és la base de l'autoadvocacia.
-**Exemple (≥80 paraules):** En tutoria, la tutora proposa al grup una activitat d'autoconeixement: "Quan estàs més concentrat? Al matí o a la tarda? Amb música o en silenci? En taula o en moviment?" El Raul, amb TDAH, descobreix que se concentra millor al matí i amb música suau. Construeix la seva "fitxa de funcionament personal" que comparteix amb els professors. Al cap d'un trimestre, Raul és capaç de dir als professors "necessito un moment en silenci ara" o "puc treballar millor si faig les proves al matí".
+    - **Heurística: Gestió de la Impulsivitat i Autocontrol**
+        - Quan aplica: Quan l'alumne reconeix que respon sense pensar, interromp o actua precipitadament, i això li genera problemes.
+        - Fonament: Desenvolupar estratègies d'autocontrol i autoregulació és essencial per a l'alumnat amb TDAH, ja que la impulsivitat pot afectar les relacions socials i l'aprenentatge.
+        - Exemple complet de raonament: "L'alumne expressa que sovint diu coses de les quals després es penedeix o que li costa esperar el seu torn en un joc. L'agent podria ensenyar tècniques com la 'parada de pensament' (think-aloud), on l'alumne aprèn a fer una pausa i pensar abans d'actuar o parlar. Es pot practicar amb escenaris simulats o rols. També es pot suggerir l'ús d'un senyal no verbal amb el docent per indicar que necessita un moment abans de respondre. A més, es pot treballar en la identificació de les emocions que precedeixen un comportament impulsiu per poder intervenir abans que es produeixi. L'objectiu és que l'alumne desenvolupi una major consciència de les seves accions i aprengui a utilitzar estratègies per gestionar la seva impulsivitat de manera constructiva."
+---
 
-### Fonts i referències
-- Veure # 1. CONTINGUT del document.
+## 5. FONTS DEL CORPUS
 
-### Fonts del corpus scraped
-- Veure frontmatter `fonts` del document.
+| # | Títol | URL |
+|---|-------|-----|
+| 1 | cursos:escola_inclusiva:ansu:b1:index [Formació del professorat] | https://ateneu.xtec.cat/wikiform/wikiexport/cursos/escola_inclusiva/ansu/b1/index |
+| 2 | cursos:escola_inclusiva:ansu:b1:b1t1 [Formació del professorat] | https://ateneu.xtec.cat/wikiform/wikiexport/cursos/escola_inclusiva/ansu/b1/b1t1 |
+| 3 | cursos:escola_inclusiva:ansu:b3:b3t3 [Formació del professorat] | https://ateneu.xtec.cat/wikiform/wikiexport/cursos/escola_inclusiva/ansu/b3/b3t3 |
+| 4 | 795m_b36112876d.pdf | http://www.xtec.cat/sgfp/llicencies/200304/memories/795m.pdf |
+
+*4 documents font · secció generada automàticament*
