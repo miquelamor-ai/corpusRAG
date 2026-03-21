@@ -1,244 +1,127 @@
 ---
 modul: M1
 titol: "Alumnat amb TEA"
-tipus: caracteristica
-subtipus: constitutiva
+tipus: perfil
 descripcio: "Trastorn de l'Espectre Autista: característiques, estratègies d'aula, suports i adaptacions"
 review_status: esborrany
-generat_at: 2026-03-18T16:06:34
+generat_at: 2026-03-18T11:17:03
 ---
 
-### Descripció del tret
+# 1. CONTINGUT ESPECÍFIC DEL PERFIL: ALUMNAT AMB TEA
 
-L'alumnat amb Trastorn de l'Espectre Autista (TEA) presenta un trastorn profund del desenvolupament, no una malaltia, que afecta de manera significativa la comunicació social, la relació amb els altres i la conducta. Aquesta condició interfereix en el desenvolupament normal del cervell en àrees com el raonament, les habilitats comunicatives i la interacció social. Les persones amb TEA tenen dificultats per connectar-se amb la realitat i per relacionar-se amb els altres i amb si mateixes, la qual cosa impacta el seu desenvolupament emocional i cognitiu.
+**Descripció del perfil**
+Els documents proporcionats per a la creació d'aquest perfil d'alumnat amb Trastorn de l'Espectre Autista (TEA) no contenen informació específica sobre les característiques, l'espectre de variabilitat o la prevalença del TEA. La totalitat dels documents subministrats se centren en l'alumnat nouvingut i d'origen estranger, abordant aspectes com la seva acollida, el suport lingüístic i social, les trajectòries educatives i els instruments d'avaluació de la seva integració escolar. Per tant, no és possible generar una descripció detallada del perfil TEA basant-se exclusivament en les fonts subministrades. Per a una comprensió del TEA, caldria consultar documents que tractin directament les seves manifestacions en el desenvolupament social, comunicatiu i conductual, així com la diversitat de presentacions dins de l'espectre autista.
 
-És crucial entendre que el TEA és un "espectre" molt ampli, amb una gran variabilitat en les manifestacions i el grau d'afectació. Podem trobar des d'alumnes amb Síndrome d'Asperger, que llegeixen i fan operacions matemàtiques al mateix nivell que els seus companys, fins a alumnes amb autisme que presenten dificultats molt més greus, com crisis epilèptiques, manca de control d'esfínters, conductes autoagressives o absència de llenguatge i relació amb la mirada. Malgrat que no hi ha una "cura" per al TEA, una intervenció educativa i terapèutica adequada pot millorar substancialment la qualitat de vida i l'adquisició de noves habilitats, afavorint una major independència i benestar en la vida adulta.
+**Manifestació per etapa educativa (Infantil/Primària, ESO, Batxillerat/FP)**
+Els documents font no proporcionen informació sobre com es manifesta el Trastorn de l'Espectre Autista en les diferents etapes educatives (Infantil/Primària, ESO, Batxillerat/FP). La informació disponible es refereix a l'alumnat nouvingut i les seves necessitats d'integració i suport lingüístic i social en el sistema educatiu català.
 
-La prevalença del TEA s'ha situat al voltant d'un 6,2 per cada 1000 habitants, afectant més freqüentment el sexe masculí (4:1), tot i que aquesta proporció pot variar segons el grau de discapacitat intel·lectual associada. L'augment en la detecció es deu a criteris diagnòstics més precisos, millor formació professional, major conscienciació familiar i la necessitat d'un diagnòstic per accedir a serveis. L'etiopatogènia és multifactorial, amb una creixent importància dels factors genètics, i sovint s'observa disfunció neurobiològica, com discapacitat intel·lectual (60-70%), crisis epilèptiques i anomalies cerebrals.
+**Barreres d'aprenentatge (per àmbits: lingüístic, cognitiu, emocional, social, sensorial, curricular)**
+Els documents proporcionats no detallen barreres d'aprenentatge específiques per a l'alumnat amb TEA. Les barreres que s'esmenten en les fonts estan relacionades amb l'alumnat nouvingut, com les dificultats lingüístiques en català o castellà, el dol migratori, la construcció de la identitat múltiple, la baixa expectativa d'èxit acadèmic o la manca de sentiment de pertinença al centre. No s'aborden barreres cognitives, emocionals, socials, sensorials o curriculars pròpies del TEA.
 
-Les persones amb TEA sovint demanen comprensió, ordre, estructura i anticipació en el seu món. Necessiten que es respecti el seu ritme i que la comunicació sigui clara i concisa, ja que les paraules poden ser una càrrega pesada. Valoren compartir el plaer i fer les coses bé, i s'irriten amb massa errors. El seu món és simple i obert, i les seves conductes no són intencionadament "contra tu", sinó formes d'enfrontar el món des de la seva particular manera de ser i percebre.
+**Necessitats prioritàries (suports concrets ordenats per prioritat)**
+Les fonts no identifiquen necessitats prioritàries ni suports concrets per a l'alumnat amb TEA. Les necessitats i suports descrits en els documents es refereixen a l'alumnat nouvingut, com ara l'acollida inicial, el suport lingüístic intensiu, la facilitació de la integració social i emocional, i l'accés al currículum ordinari.
 
-### Manifestació per etapa educativa
+**Fortaleses a aprofitar (capacitats sovint invisibles — el perfil NO és un dèficit)**
+Els documents subministrats no descriuen fortaleses o capacitats específiques de l'alumnat amb TEA. La informació es limita a l'alumnat nouvingut, on es valoren aspectes com la seva adaptació, esforç en el treball i interacció amb companys, però sense fer referència a les potencialitats úniques que sovint es troben en l'espectre autista.
 
-*   **Infantil/Primària:**
-    *   **Detecció precoç:** Les dificultats solen manifestar-se en el primer o segon any de vida, afectant la comunicació i socialització. Els mestres d'Educació Infantil tenen un paper clau en la detecció.
-    *   **Símptomes precoços:** Trastorns de l'alimentació o la son, absència d'actitud anticipada per ser agafat, desinterès per jocs o sonalls, un lactant particularment tranquil que plora poc, o un interès excessiu per jocs de mans davant els ulls.
-    *   **Manifestacions a l'aula:** Dificultat per jugar amb altres nens (no entenen les regles, volen guanyar sempre, prefereixen jugar sols). Ploren fàcilment, mostren manca d'empatia, fan comentaris ofensius sense adonar-se'n i tenen dificultats per entendre les intencions dels altres. La seva conducta pot semblar inadequada o maleducada. Els costa mirar als ulls, creuen tot literalment, parlen en un to alt, peculiar o pedant, i poden inventar paraules. Parlen molt dels seus interessos sense interès pel que diuen els altres, i canvien de tema quan estan confosos. Poden tenir dificultats amb la roba (posar-se-la al revés). A l'escola, poden no agradar-los els jocs d'equip per dificultats motrius o de comprensió, i poden ser castigats sense entendre el motiu. Sovint destaquen en assignatures lògiques com matemàtiques o ciències i poden aprendre a llegir molt ràpid.
-*   **ESO, Batxillerat i Formació Professional:**
-    *   Les dificultats en la comunicació social i la interacció persisteixen i es fan més complexes en entorns socials més exigents. La rigidesa de pensament i la baixa tolerància als canvis poden generar més angoixa davant les noves demandes acadèmiques i socials.
-    *   La necessitat d'estructura, anticipació i claredat en les instruccions i expectatives continua sent fonamental.
-    *   Els interessos restringits poden ser una gran fortalesa, permetent una especialització i un rendiment elevat en àrees acadèmiques o tècniques concretes, especialment si es poden connectar amb els seus temes de fascinació.
-    *   Les dificultats amb la "Teoria de la Ment" es tradueixen en malentesos socials més freqüents, dificultat per interpretar sarcasme o ironia, i per navegar les subtileses de les relacions entre iguals.
-    *   La gestió de l'ansietat i la frustració davant els canvis (de professors, d'horaris, de tasques) o les demandes inesperades segueix sent un repte important.
+**Senyals identificadors a l'aula (per activar suport, NO per diagnosticar)**
+Els documents no proporcionen senyals identificadors a l'aula relacionats amb el Trastorn de l'Espectre Autista. Les enquestes i fulls de recollida de dades inclosos en les fonts es focalitzen en aspectes com l'actitud general (agressivitat, adaptació), l'actitud en el treball (esforç, hàbits bàsics) i la interacció amb els companys (relació amb la pròpia cultura o amb l'aula d'acollida, rebuig, acceptació) de l'alumnat nouvingut.
 
-### Barreres d'aprenentatge
+**Perfils associats i comorbiditats (quins coexisteixen freqüentment)**
+Les fonts no aborden perfils associats ni comorbiditats que coexisteixen freqüentment amb el Trastorn de l'Espectre Autista. La informació disponible es restringeix a les característiques i reptes de l'alumnat nouvingut.
 
-*   **Lingüístic:**
-    *   Retard o absència total del desenvolupament del llenguatge oral, sovint sense intents de compensació amb modes alternatius de comunicació.
-    *   Si hi ha parla, alteració important per iniciar o mantenir una conversa.
-    *   Utilització estereotipada i repetitiva del llenguatge o llenguatge idiosincràtic (ecolàlia, literalitat).
-    *   Problemes de comprensió, especialment amb frases ràpides, complexes o amb dobles sentits.
-*   **Cognitiu:**
-    *   Dificultat per integrar la informació perceptiva i organitzar-la mentalment, quedant-se amb els detalls i dificultant una interpretació global de les situacions.
-    *   Desordres perceptius i/o de processament de la informació, amb respostes anormals als estímuls i hiperestimulació sensorial.
-    *   Dificultat per simbolitzar, per passar d'un pensament concret a un abstracte, i per representar mentalment seqüències temporals (passat-present-futur).
-    *   Pensament rígid, dificultats per comprendre el sentit de moltes de les coses que se'ls demanen.
-    *   Memòria mecànica privilegiada que sovint no poden fer significativa, és a dir, no poden utilitzar les dades recordades per resoldre problemes.
-    *   Greus dificultats de comprensió i interpretació (llegeixen però no comprenen, calculen però no resolen problemes). Cada operació cognitiva pot existir separada de les altres, sense una necessitat lògica d'integració.
-*   **Emocional:**
-    *   Dificultat per intuir el que els altres pensen o senten (Teoria de la Ment), per diferenciar el seu pensament del dels altres i per establir empatia.
-    *   Angoixa i malestar per les dificultats per entendre les exigències de l'entorn i per comunicar-se.
-    *   Fragilitat emocional, baixa tolerància als canvis i a la frustració.
-    *   Reaccions intenses davant l'alegria (nerviosisme, salts, crits) o la tristesa (plor fàcil).
-*   **Social:**
-    *   Alteració qualitativa de la interacció social: ús atípic del contacte ocular, expressió facial, postures corporals i gestos.
-    *   Incapacitat per desenvolupar relacions amb companys adequades al nivell de desenvolupament.
-    *   Absència de la tendència espontània a compartir interessos o objectius amb altres persones.
-    *   Falta de reciprocitat social o emocional.
-    *   Manca d'interès per l'entorn, la realitat no els ofereix problemes que actuïn com a conflictes mobilitzadors.
-*   **Sensorial:**
-    *   Respostes anormals als estímuls, hiperestimulació sensorial que impedeix organitzar la informació de diverses fonts.
-    *   Por i angoixa davant sorolls forts (motos, broques), algunes carícies, certes peces de roba o la visió d'objectes que per a altres són normals.
-    *   Malestar en llocs amb molt soroll i molta gent.
-*   **Curricular:**
-    *   Dificultats importants en aprenentatges que exigeixen un alt grau de competència comunicativa i social.
-    *   Resistència als canvis i preferència per conductes repetitives en comptes de cercar noves experiències.
-    *   El conflicte cognitiu no actua com a motor per al desenvolupament, o pot ser desestructurant per la baixa tolerància a la frustració.
+**Principis d'actuació (adaptar continguts, activitats, avaluació, interacció — format narratiu)**
+Els principis d'actuació que es deriven dels documents proporcionats estan orientats a l'alumnat nouvingut i no a l'alumnat amb TEA. Aquests principis inclouen l'establiment d'un pla d'acollida integral que faciliti la integració lingüística i social, l'adaptació del currículum per garantir l'accés a l'aprenentatge, i la creació d'un entorn escolar que promogui el sentiment de pertinença i el desenvolupament personal. Es posa èmfasi en la importància de la dotació de professorat especialitzat (tutors d'aula d'acollida), recursos informàtics i materials didàctics adequats, així com la formació contínua del professorat i l'assessorament per part d'equips especialitzats. L'objectiu és aconseguir que l'alumne se senti acollit, escoltat i valorat, oferint-li les eines bàsiques per al seu procés d'ensenyament-aprenentatge.
 
-### Necessitats prioritàries
-
-1.  **Estructura i Predictibilitat:** Crear entorns molt estructurats, predictibles i fixes, evitant espais caòtics. Això facilita l'anticipació, redueix l'ansietat i proporciona seguretat sobre les pautes de comportament esperades.
-2.  **Comunicació Clara i Visual:** Utilitzar suports visuals (dibuixos, fotografies, pictogrames, agendes visuals) per complementar la informació verbal. Parlar de manera concreta, lenta i amb frases senzilles, evitant preguntes indefinides o expressions idiomàtiques. Implementar sistemes augmentatius i/o alternatius de comunicació si el llenguatge oral és limitat o no funcional.
-3.  **Aprenentatge sense Error i Suport Graduat:** Adaptar els objectius al nivell evolutiu de l'alumne, descomposant-los al màxim. Controlar la presentació clara dels estímuls, neutralitzar els irrellevants i evitar distraccions. Proporcionar la màxima ajuda inicial i retirar-la progressivament.
-4.  **Atenció a la Funció Comunicativa de la Conducta:** Respondre a totes les conductes comunicatives (verbals o gestuals, intencionades o no) i fer-les funcionals. Davant de conductes autoagressives o disruptives, intervenir amb alternatives i realitzar una anàlisi funcional per detectar la seva intenció comunicativa i ensenyar habilitats més apropiades.
-5.  **Foment de la Interacció Social Estructurada:** Realitzar jocs circulars d'interacció centrats en el cos per desenvolupar motivacions de relació i anticipació. Promoure jocs de simulació i imitació per iniciar el joc simbòlic. Organitzar activitats cooperatives amb rols definits.
-6.  **Desenvolupament de l'Autonomia i Elecció:** Proposar activitats que fomentin la capacitat d'elecció per millorar l'autoestima. Manipular aspectes per afavorir la funció comunicativa de petició (p. ex., col·locar objectes desitjats fora de l'abast).
-7.  **Treball en Xarxa i Familiar:** Col·laboració estreta amb EAP, mestres de pedagogia terapèutica, logopedes, serveis de salut mental (CDIAP, CSMIJ) i serveis socials. Implicar activament les famílies, promovent actituds de respecte i confiança.
-
-### Fortaleses a aprofitar
-
-*   **Memòria mecànica privilegiada:** Molts alumnes amb TEA tenen una gran capacitat per recordar dates, fets, textos llargs o dades concretes. Aquesta fortalesa pot ser aprofitada per a l'adquisició de coneixements factuals.
-*   **Talent visoespacial i visomotriu:** Alguns poden tenir un talent destacat en àrees que requereixen habilitats visuals i espacials, com el dibuix, els puzles, la construcció o la informàtica.
-*   **Interessos restringits:** La seva fascinació per temes específics (p. ex., dinosaures, trens, sistemes solars) pot ser un potent motor de motivació i un punt de partida per a l'aprenentatge en diverses àrees curriculars.
-*   **Originalitat i pensament lateral:** Poden ser molt originals a l'hora d'enfocar un problema o de proposar solucions, aportant perspectives diferents.
-*   **Atenció als detalls:** La seva tendència a fixar-se en els detalls pot ser una avantatge en tasques que requereixen precisió i observació minuciosa.
-*   **Habilitats en assignatures lògiques:** Sovint mostren interès i bon rendiment en matemàtiques o ciències, i poden aprendre a llegir molt ràpid.
-*   **Sentit de l'humor peculiar:** Poden tenir un sentit de l'humor particular que, si és comprès, pot ser una via per a la connexió social.
-
-### Senyals identificadors a l'aula
-
-*   **Dificultats en la interacció social:** Evita el contacte ocular, manca d'expressió facial o gestos, no inicia interaccions amb companys, no comparteix espontàniament interessos o objectes, manca de reciprocitat en el joc o la conversa.
-*   **Dificultats en la comunicació:** Retard o absència de llenguatge oral, ús de llenguatge repetitiu (ecolàlia) o inusual, dificultat per mantenir una conversa, no entén expressions figurades o sarcasme, parla de forma pedant o en to alt sense modular.
-*   **Patrons de comportament, interessos i activitats restringits i repetitius:** Preocupació absorbenta per un o més interessos molt concrets, adhesió inflexible a rutines o rituals no funcionals, malestar intens davant els canvis.
-*   **Manierismes motors estereotipats:** Moviments repetitius amb les mans, els dits o tot el cos (aleteig, balanceig).
-*   **Respostes sensorials atípiques:** Reaccions intenses a sorolls, textures, olors o llums que altres no perceben com a problemàtics. Pot tapar-se les orelles o evitar certs contactes físics.
-*   **Dificultats en el joc:** Absència de joc simbòlic o imaginatiu espontani, preferència per jugar sol o amb objectes de manera repetitiva.
-*   **Gestió emocional:** Plor fàcil, reaccions de nerviosisme o excitació intenses quan estan contents, baixa tolerància a la frustració que pot derivar en rabietes o conductes disruptives.
-*   **Dificultat per comprendre instruccions:** Necessita que les instruccions siguin molt concretes, pas a pas, i pot no entendre preguntes obertes o abstractes.
-*   **Conductes disruptives o autoagressives:** Poden aparèixer com a forma de comunicar malestar, angoixa o una necessitat no satisfeta.
-
-### Perfils associats i comorbiditats
-
-L'alumnat amb TEA pot presentar altres condicions o trastorns de manera concomitant:
-
-*   **Discapacitat intel·lectual:** Present en un 60-70% dels casos, amb una relació 1:1 entre sexes en casos de discapacitat profunda.
-*   **Crisis epilèptiques:** Són freqüents en aquest col·lectiu.
-*   **Trastorns Generalitzats del Desenvolupament (TGD) segons DSM-IV-TR:**
-    *   **Trastorn de Rett:** Principalment en nenes, amb desenvolupament normal inicial seguit de desacceleració del creixement cranial, pèrdua d'habilitats manuals intencionals i aparició de moviments coordinats pobres.
-    *   **Trastorn Desintegratiu Infantil:** Regressió evolutiva en múltiples àrees del funcionament després d'almenys dos anys de desenvolupament normal.
-    *   **Síndrome d'Asperger:** Caracteritzat per alteracions en la comunicació social i la interacció, amb patrons de comportament, interessos i activitats estereotipades, però sense retard significatiu en l'adquisició del llenguatge ni en el desenvolupament cognitiu.
-    *   **TGD no especificat:** Quan hi ha una alteració greu i generalitzada del desenvolupament que no compleix els criteris de cap dels trastorns anteriors.
-*   **Altres quadres:** El diagnòstic de TEA pot formar part de quadres amb entitat pròpia com l'esclerosi tuberosa, la fenilcetonúria, la neurofibromatosi o la síndrome del cromosoma X fràgil.
-
-### Principis d'actuació
-
-Per acompanyar l'alumnat amb TEA, és fonamental adoptar una perspectiva inclusiva que valori la singularitat de cada persona i s'adapti a les seves necessitats específiques:
-
-*   **Adaptar continguts:** Cal descomposar els objectius d'aprenentatge al màxim, adaptant-los al nivell evolutiu de l'alumne. Utilitzar suports visuals com dibuixos, fotografies o pictogrames per fer els continguts més accessibles i concrets. Les adaptacions de llibres de text i la creació de fitxes adaptades són eines útils. Aprofitar els seus interessos restringits per vehicular aprenentatges en diverses àrees curriculars pot augmentar la motivació i la significació.
-*   **Adaptar activitats:** Proposar activitats que estimulin l'exploració d'objectes o activitats funcionals simples. Fomentar jocs circulars d'interacció centrats en el cos (pessigolles, manyagues) per desenvolupar la relació i l'anticipació. Introduir jocs de simulació i imitació per iniciar el joc simbòlic. Cal evitar l'avorriment o la inactivitat, ja que poden generar conductes disruptives. Les activitats han de ser estructurades, amb instruccions clares i pas a pas, oferint la màxima ajuda inicial i retirant-la progressivament. Les activitats en grup reduït poden ser útils per a àrees instrumentals i hàbits socials, mentre que la participació en el grup classe requereix suport en assignatures com música, plàstica, educació física, o socials i naturals.
-*   **Adaptar avaluació:** L'Inventari de l'Espectre Autista (IDEA) pot ser una eina valuosa per traçar un perfil de les àrees més afectades i les més conservades, indicant objectius d'intervenció. Permet objectivar els avenços en cada fase de l'avaluació, considerant la gravetat del trastorn i l'edat mental i cronològica de l'alumne. L'avaluació ha de ser contínua i centrada en el progrés individual.
-*   **Adaptar interacció:** La comunicació ha de ser sempre clara, concreta i sense ambigüitats, evitant preguntes indefinides o expressions idiomàtiques. Cal parlar a l'altura de l'alumne, assegurant-se que presta atenció i donant-li temps per respondre. És fonamental respondre a totes les conductes comunicatives, siguin verbals o gestuals, i donar-los sentit. Respectar les distàncies que necessiten, sense deixar-los sols, i evitar ser excessivament imprevisibles o estimulants. No s'han d'atribuir males intencions a les conductes disruptives, sinó intentar comprendre la seva funció comunicativa. Fomentar la convivència amb companys que proporcionin models de relació i comunicació, i treballar estretament amb les famílies, promovent la confiança i el respecte mutu.
-
-### Línies vermelles
-
-*   **No etiquetar la persona pel seu diagnòstic:** És crucial recordar que "la persona es primero, y ante todo, persona, y su trastorno no es lo que la define, sino una característica, a veces esencial, de su persona, pero no lo que la etiqueta." Reduir l'alumne al seu diagnòstic de TEA pot limitar la visió de les seves capacitats i singularitats, impedint una atenció educativa veritablement inclusiva que valori els seus interessos, capacitats i personalitat específica.
-*   **No reduir el TEA a mites o anècdotes:** No s'ha de caure en la simplificació de pensar que els alumnes amb TEA no els agrada jugar, no poden parlar, són agressius, o que el seu trastorn és culpa dels pares. Aquestes idees errònies perpetuen estigmes i condueixen a intervencions inadequades, negant el dret a una escolarització normalitzada i a una millora de la qualitat de vida.
-*   **No ignorar la importància de la detecció i intervenció precoç:** Retardar el diagnòstic o la implementació d'una intervenció específica i personalitzada és perjudicial. La intervenció precoç, especialment abans dels 3 anys, millora significativament el pronòstic en la majoria dels casos, ja que permet abordar les dificultats en comunicació, socialització i atenció des dels primers anys de vida.
-*   **No castigar conductes disruptives sense comprendre la seva funció:** Les conductes autoagressives, les rabietes o els moviments estereotipats sovint tenen una intenció comunicativa o són mecanismes d'autoregulació davant l'angoixa o la sobreestimulació. Reprimir aquestes conductes sense entendre el seu "per què" no resol el problema i pot augmentar el malestar de l'alumne. Cal fer una anàlisi funcional de la conducta per ensenyar alternatives comunicatives més adaptades.
-*   **No envair excessivament l'espai personal o sensorial de l'alumne:** Les persones amb TEA poden ser molt sensibles als estímuls externs i necessitar respectar les seves distàncies. Ser massa imprevisible, sorollós o estimulant pot generar angoixa i desregulació. Cal respectar els seus ritmes i la seva necessitat d'espai, tot i que sense caure en l'aïllament.
-
----
+**Línies vermelles (biaixos a evitar, amb el PERQUÈ)**
+Els documents proporcionats no especifiquen línies vermelles o biaixos a evitar en l'atenció a l'alumnat amb TEA. No obstant això, a partir del contingut sobre l'alumnat nouvingut, es poden inferir algunes línies generals aplicables a qualsevol diversitat:
+- **Evitar la categorització simplista basada en l'origen o la condició:** Els documents sobre alumnat nouvingut subratllen la complexitat de les trajectòries i necessitats individuals. Cal evitar reduir l'alumne a una etiqueta (com ara "TEA") i oblidar la persona amb la seva història, fortaleses i particularitats. Perquè cada alumne és únic i requereix una mirada individualitzada que transcendeixi qualsevol diagnòstic o procedència.
+- **No confondre les dificultats d'adaptació amb manca de capacitat:** En el cas de l'alumnat nouvingut, les dificultats inicials amb la llengua o la cultura no impliquen una menor capacitat intel·lectual. De la mateixa manera, en el TEA, les dificultats en la comunicació o la interacció social no són un reflex de la intel·ligència o el potencial d'aprenentatge. Perquè aquest biaix pot portar a una reducció d'expectatives i a la limitació d'oportunitats educatives.
+- **No aïllar l'alumne del grup ordinari de manera permanent sense justificació pedagògica clara:** Els documents sobre aules d'acollida emfatitzen la integració. Si bé els suports específics són necessaris, l'objectiu final és la plena participació en el context ordinari. Perquè l'aïllament pot dificultar la socialització, el desenvolupament de la identitat i el sentiment de pertinença, elements crucials per a qualsevol alumne, inclòs l'alumnat amb TEA.
 
 # 2. CONNEXIONS AMB ALTRES DOCUMENTS DEL CORPUS
-*   **Marc d'Educació Inclusiva**: Aquest perfil d'alumnat requereix un enfocament inclusiu que s'adapti a la seva singularitat i necessitats.
-*   **Eina IDEA (Inventari de l'Espectre Autista)**: És una eina clau per a l'avaluació inicial i el seguiment del perfil d'aprenentatge de l'alumnat amb TEA.
-*   **Estratègia de Suports Visuals**: Essencial per millorar la comunicació, l'anticipació i l'estructura per a l'alumnat amb TEA.
-*   **Protocol de Detecció Precoç de NEE**: Conté els passos per identificar els senyals d'alerta del TEA en etapes primerenques.
-*   **Perfil Alumnat amb TDAH**: Permet comparar i contrastar les necessitats d'estructura i atenció, tot i les diferències en l'origen i manifestació.
-*   **Estratègia de Treball Cooperatiu**: Requereix adaptacions específiques per fomentar la participació i la interacció social de l'alumnat amb TEA.
-*   **Normativa de Suports Educatius (Decret 150/2017)**: Estableix el marc legal per a l'organització dels suports com les USEE i els EAP, fonamentals per a l'atenció a l'alumnat amb TEA.
-*   **Estratègia d'Aprenentatge Basat en Projectes (ABP)**: Pot ser adaptada per aprofitar els interessos restringits de l'alumnat amb TEA i oferir un aprenentatge significatiu.
+Els documents proporcionats per a la creació d'aquest perfil d'alumnat amb TEA estan exclusivament centrats en l'alumnat nouvingut i d'origen estranger. Per tant, les connexions que es poden establir són amb documents que tractin aquesta temàtica:
+
+*   **1860m_59faeb9677.pdf**: Aquest document descriu un pla d'acollida de matemàtiques per a l'alumnat nouvingut d'ESO, oferint un exemple concret de suport curricular per a aquest perfil.
+*   **Proposta formativa. XTEC - Xarxa Telemàtica Educativa de Catalunya**: Aquesta proposta formativa proporciona recursos i estratègies per a l'acollida, l'adquisició de la llengua i l'accés al currículum de l'alumnat nouvingut.
+*   **quaderns-SLS-desenvolupament-personal_39f22aae68.pdf**: Aquest document aborda el desenvolupament personal i social de l'alumnat d'origen estranger, incloent factors de risc i el paper del docent en la seva integració.
+*   **caixaeines4_09468ca5b4.pdf**: Aquest document descriu la implementació i el propòsit de les Aules d'Acollida com a recurs clau per a l'atenció i integració de l'alumnat nouvingut.
+*   **poblacion-migrante-y-escuela_bc76da0efd.pdf**: Aquesta recopilació d'investigacions és útil per comprendre els perfils d'alumnat nouvingut i els reptes que presenten per al sistema educatiu.
+*   **obligatoria_postobligatoria_5a216c0d01.pdf**: Aquest resum de recerca analitza les trajectòries educatives i l'abandonament escolar en l'alumnat d'origen immigrat.
+*   **recollida_dades_8e9b1b2eaa.pdf**: Aquest document és un full per a la recollida de dades inicials d'alumnat nouvingut, incloent informació lingüística i d'escolarització prèvia.
+*   **PRI_enquesta_tutor_AO_red_1011_ffa6bc7aa7.pdf**: Aquesta enquesta per al tutor/a de l'aula ordinària serveix per avaluar l'actitud general, hàbits de treball i interacció social de l'alumnat nouvingut.
+*   **PRI_enquesta_tutor_AA_red_1011_a9a07df165.pdf**: Aquesta enquesta per al tutor/a de l'aula d'acollida avalua l'actitud, el treball i la interacció d'alumnes nouvinguts.
+*   **orientacions_integracio_escolar_b96d048c1d.pdf**: Aquest document proporciona instruments i orientacions per avaluar la integració escolar dels alumnes nouvinguts en Aules d'Acollida.
+*   **PRI_enquesta_tutor_AO_red_1011_336f06b87c.pdf**: Duplicat del document PRI_enquesta_tutor_AO_red_1011_ffa6bc7aa7.pdf, útil per avaluar l'actitud, el treball i la interacció d'alumnes nouvinguts.
+*   **recollida_dades_9325c047b8.pdf**: Duplicat del document recollida_dades_8e9b1b2eaa.pdf, que facilita la recollida de dades clau per entendre el perfil de l'alumnat nouvingut.
+*   **SEC_enquesta_integracio_tutor_AO_red_371670d20f.pdf**: Enquesta per al tutor/a d'aula ordinària per avaluar l'actitud, adaptació i interacció social d'alumnes que han passat per una aula d'acollida.
+*   **SEC_enquesta_integracio_tutor_AA_red_357d66840c.pdf**: Enquesta per al tutor de l'aula d'acollida que avalua l'actitud general, l'actitud en el treball i la interacció amb companys de l'alumnat nouvingut.
+*   **obligatoria_postobligatoria_fae8e659b9.pdf**: Duplicat del document obligatoria_postobligatoria_5a216c0d01.pdf, que analitza la incidència de l'abandonament escolar i les trajectòries de l'alumnat d'origen immigrat.
+*   **igualar_diversitat_ca8da35b0f.pdf**: Aquest resum executiu d'una tesi doctoral analitza l'atenció educativa a l'alumnat d'origen estranger en primària, abordant la identificació de la diversitat i els models d'actuació.
 
 # 3. DETECCIÓ (Variables de Context)
+Els documents proporcionats no contenen informació específica per a la detecció de l'alumnat amb TEA. Les variables de context que es poden extreure de les fonts estan relacionades amb l'alumnat nouvingut.
 
-*   **Senyals del docent:**
-    *   Observa que l'alumne no respon a les instruccions verbals o sembla no entendre-les, malgrat que la seva audició és correcta.
-    *   Nota que l'alumne evita el contacte visual o té una expressió facial poc variada durant la interacció.
-    *   Percep que l'alumne es frustra fàcilment amb els canvis de rutina o d'activitat, manifestant-ho amb conductes repetitives o desregulació emocional.
-    *   Identifica que l'alumne té un interès molt intens i restringit per un tema concret, del qual parla constantment sense tenir en compte l'interès dels altres.
-    *   Observa moviments repetitius (aleteig, balanceig) o una preocupació inusual per parts d'objectes.
-    *   Li costa que l'alumne participi en jocs de grup o activitats que requereixen interacció social espontània.
-    *   L'alumne fa comentaris socialment inadequats sense adonar-se'n.
-*   **Senyals de l'alumne:**
-    *   Aïllament social, preferència per jugar o treballar sol.
-    *   Manca d'iniciativa per comunicar-se o per compartir els seus interessos.
-    *   Reaccions intenses (plors, crits, bloqueig) davant sorolls forts, canvis inesperats o ambients amb molta gent.
-    *   Ús repetitiu de paraules o frases (ecolàlia) o un llenguatge molt literal.
-    *   Dificultat per entendre les emocions dels altres o per expressar les seves pròpies.
-*   **Senyals de context:**
-    *   Canvis inesperats en l'horari escolar o en la rutina de l'aula.
-    *   Activitats que requereixen molta interacció social espontània o joc lliure no estructurat.
-    *   Ambients sorollosos, amb molta gent o amb excessiva estimulació sensorial (llums, olors).
-    *   Tasques amb instruccions complexes, abstractes o amb múltiples passos sense suport visual.
-    *   Avaluacions que depenen de la comprensió de dobles sentits o de la interpretació d'intencions.
-*   **Anti-senyals:**
-    *   L'alumne té dificultats puntuals en la socialització, però mostra interès genuí per la interacció i pot adaptar-se amb un suport verbal mínim o amb models de rol.
-    *   Presenta conductes repetitives en moments d'avorriment o ansietat, però les abandona fàcilment quan se li ofereix una activitat nova i motivadora.
-    *   Té una preferència per jugar sol, però participa en jocs de grup si les regles són clares i els rols estan definits.
-    *   Mostra sensibilitat a certs estímuls, però pot autoregular-se o comunicar el seu malestar de manera funcional.
+*   **Senyals del docent**:
+    *   Preguntes sobre com acollir i integrar l'alumnat nouvingut.
+    *   Interès per instruments d'avaluació de la integració escolar.
+    *   Cerca d'estratègies per al suport lingüístic i social.
+    *   Preocupació per l'adaptació emocional i els hàbits de treball de l'alumnat.
+    *   Necessitat de recursos per a l'aula d'acollida o per a l'atenció a la diversitat cultural.
+*   **Senyals de l'alumne**:
+    *   Dificultats en l'adquisició de la llengua vehicular del centre.
+    *   Manca d'hàbits escolars o experiència prèvia d'escolarització irregular.
+    *   Dificultats per establir vincles emocionals o relacionals amb companys/es o docents.
+*   **Senyals de context (moment, activitat, composició grup)**:
+    *   Incorporació recent d'un alumne al centre (nouvingut).
+    *   Presència d'alumnat amb diverses llengües familiars en un mateix grup.
+    *   Necessitat de planificar un pla d'acollida al centre o a l'aula.
+*   **Anti-senyals (quan NO activar malgrat les aparences)**:
+    *   Si la dificultat de comunicació es deu clarament a una barrera lingüística recent i no a una alteració de la intenció o la funció comunicativa.
+    *   Si les conductes repetitives o interessos restringits són part d'una expressió cultural o d'un procés d'adaptació a un nou entorn, i no patrons rígids i inflexibles.
+    *   Si la dificultat en la interacció social es deu a la timidesa o a la manca d'oportunitats per interactuar en una nova llengua, i no a una incomprensió profunda de les normes socials implícites.
 
 # 4. HEURÍSTIQUES I RAONAMENT PER A L'AGENT
+**Principi general**: Prioritzar la comprensió individualitzada de l'alumne i les seves necessitats, basant-se en l'observació i la recollida de dades, per oferir suports ajustats i fomentar la seva integració i desenvolupament integral.
 
-*   **Principi general:** Prioritza l'estructura, la predictibilitat i la comunicació clara per reduir l'ansietat i facilitar l'aprenentatge i la interacció social, adaptant-te a la singularitat de cada alumne.
+**Heurístiques per a l'Agent DOCENT**:
+*   **Heurística: Detecció de necessitats d'acollida i suport lingüístic.**
+    *   **Quan aplica**: Quan un docent expressa preocupació per la integració d'un alumne nouvingut o per les seves dificultats amb la llengua vehicular.
+    *   **Fonament**: Els documents subratllen la importància d'un pla d'acollida estructurat i el suport lingüístic intensiu com a pilars per a la integració de l'alumnat nouvingut. Aquests són els primers passos per garantir l'accés al currículum i la socialització.
+    *   **Exemple complet de raonament**: "El docent ha manifestat que té un alumne nouvingut que mostra dificultats per seguir les explicacions a l'aula i interactuar amb els companys. Aquesta situació em fa pensar que l'alumne podria estar en la fase inicial d'adaptació lingüística i social. Segons els documents, és crucial activar un pla d'acollida i oferir suport lingüístic. Per tant, suggeriré al docent que revisi els protocols d'acollida del centre, especialment els relacionats amb l'aula d'acollida si n'hi ha, i que consideri l'ús d'eines com el 'Full de recollida de dades d'alumnat nouvingut' per obtenir informació sobre l'escolarització prèvia i les llengües familiars. Això permetrà ajustar el suport lingüístic i les expectatives acadèmiques, facilitant la seva integració progressiva en l'aula ordinària i evitant que les barreres idiomàtiques es confonguin amb altres dificultats."
 
-*   **Heurístiques per a l'Agent DOCENT:**
+*   **Heurística: Avaluació de la integració escolar i el benestar emocional.**
+    *   **Quan aplica**: Quan hi ha dubtes sobre el grau d'adaptació d'un alumne nouvingut, la seva actitud o les seves relacions socials.
+    *   **Fonament**: Els documents destaquen que la integració escolar és complexa i inclou aspectes emocionals, hàbits i relacions socials. Instruments com les enquestes als tutors són clau per obtenir una visió global.
+    *   **Exemple complet de raonament**: "Un docent pregunta com saber si un alumne nouvingut s'està adaptant bé, ja que el veu callat i poc participatiu. Aquesta situació indica la necessitat d'avaluar la seva integració escolar de manera més formal. Els documents proporcionen instruments com les 'Enquestes per al tutor/a de l'aula ordinària' i 'de l'aula d'acollida', que permeten valorar l'actitud general, l'actitud en el treball i la interacció amb els companys. Aconsellaré al docent que utilitzi aquestes eines per recollir dades objectives i sistemàtiques. Aquesta informació, combinada amb l'observació directa, ajudarà a identificar si el silenci és per timidesa, dificultat lingüística, o una manca de sentiment de pertinença, i així poder dissenyar intervencions més precises per fomentar el seu benestar emocional i social."
 
-    *   **Heurística: L'Agenda Visual és el teu millor aliat.**
-        *   **Quan aplica:** Quan un alumne amb TEA mostra ansietat davant canvis, dificultat per seguir la rutina o desorganització en les transicions entre activitats.
-        *   **Fonament:** L'alumnat amb TEA necessita predictibilitat i estructura per reduir l'angoixa i comprendre el seu entorn. Els suports visuals són més accessibles que el llenguatge oral per a ells, ja que processen millor la informació visual i concreta.
-        *   **Exemple complet de raonament:** Si un docent observa que un alumne amb TEA es desregula cada vegada que hi ha un canvi inesperat d'activitat o que li costa iniciar la següent tasca, l'agent ha de raonar que la manca d'anticipació és una barrera significativa per a aquest alumne. Basant-se en la necessitat d'estructura i predictibilitat del perfil TEA, l'agent proposaria al docent crear una agenda visual diària o setmanal amb pictogrames o fotografies que representin cada activitat. Aquesta agenda s'hauria de revisar amb l'alumne al principi del dia, assenyalant els canvis amb antelació si és possible. L'objectiu és que l'alumne pugui "veure" el que vindrà, reduint la incertesa i augmentant la seva seguretat, la qual cosa facilita la transició i la participació en les activitats.
+*   **Heurística: Adaptació del currículum i foment de la participació.**
+    *   **Quan aplica**: Quan un docent busca maneres d'ajustar les activitats o continguts per a un alumne amb un nivell de llengua o coneixements previs diferents.
+    *   **Fonament**: Els documents sobre l'alumnat nouvingut emfatitzen la importància d'adaptar l'accés al currículum ordinari. Això implica flexibilitat metodològica i l'ús de recursos diversos.
+    *   **Exemple complet de raonament**: "El docent expressa frustració perquè un alumne nouvingut no aconsegueix seguir el ritme de la classe en matemàtiques. En aquest cas, és fonamental adaptar el currículum i les activitats per assegurar la seva participació i aprenentatge. Recordaré al docent que el 'Pla d’acollida matemàtica per a l’alumnat nouvingut' suggereix estratègies per facilitar l'accés a continguts. Li proposaré que utilitzi materials visuals, suports manipulatius, i que fomenti el treball cooperatiu amb companys que puguin fer de mediadors lingüístics. També és important simplificar les instruccions i oferir tasques amb diferents nivells de complexitat, permetent que l'alumne pugui demostrar els seus coneixements de maneres diverses, sense que la barrera lingüística o la manca de coneixements previs siguin un impediment insalvable per al seu progrés."
 
-    *   **Heurística: Descompon i Concretitza.**
-        *   **Quan aplica:** Quan l'alumne no comprèn una instrucció, una tasca complexa o un concepte abstracte.
-        *   **Fonament:** Les persones amb TEA tenen un pensament literal i dificultats per integrar informació abstracta o global. Descompondre les tasques en passos petits i fer-les concretes facilita la comprensió i l'execució.
-        *   **Exemple complet de raonament:** Si un docent diu a un alumne amb TEA "Fes un resum del text" i l'alumne es queda bloquejat o només copia fragments, l'agent ha de raonar que el concepte "resumir" és massa abstracte i complex per a ell. L'agent suggeriria al docent descompondre la tasca en passos molt concrets i seqüenciats, per exemple: "1. Llegeix el primer paràgraf. 2. Subratlla la frase més important d'aquest paràgraf. 3. Escriu aquesta frase en la teva llibreta. 4. Repeteix amb el següent paràgraf." A més, es podria utilitzar un suport visual com un organitzador gràfic amb espais definits per a cada idea principal, fent el procés més tangible i menys abstracte, i permetent a l'alumne seguir una seqüència clara.
+*   **Heurística: Promoció del sentiment de pertinença i identitat.**
+    *   **Quan aplica**: Quan es detecten signes de desmotivació, aïllament social o dificultats en la construcció de la identitat en l'alumnat.
+    *   **Fonament**: El document sobre el desenvolupament personal de l'alumnat d'origen estranger destaca la importància de la construcció de la identitat múltiple i el sentiment de pertinença per evitar factors de risc.
+    *   **Exemple complet de raonament**: "Un docent observa que un alumne nouvingut es relaciona exclusivament amb companys de la seva mateixa cultura i mostra poc interès en les activitats de grup amb la resta de la classe. Aquesta situació pot indicar una dificultat en la construcció del sentiment de pertinença al centre i al grup classe. Basant-me en els documents, que parlen del desenvolupament personal de l'alumnat d'origen estranger, aconsellaré al docent que dissenyi activitats cooperatives que requereixin la interacció amb diferents companys, assignant rols clars i fomentant la interdependència positiva. També és útil incorporar elements de la cultura d'origen de l'alumne en el currículum o en projectes de classe, per tal de validar la seva identitat i fer-lo sentir valorat. Crear un espai on pugui compartir les seves experiències i coneixements pot reforçar la seva autoestima i facilitar la seva integració social."
 
-    *   **Heurística: Busca la funció, no només la conducta.**
-        *   **Quan aplica:** Quan l'alumne presenta conductes repetitives, disruptives o autoagressives.
-        *   **Fonament:** Moltes conductes "problema" en l'alumnat amb TEA són formes de comunicar una necessitat, un malestar o d'autoregular-se davant l'angoixa o la sobreestimulació. No són intencionadament "males".
-        *   **Exemple complet de raonament:** Si un docent observa que un alumne comença a balancejar-se, a emetre sons repetitius o a picar-se suaument el cap, l'agent ha de raonar que aquestes conductes probablement tenen una funció reguladora o comunicativa. En lloc de reprimir la conducta directament, l'agent aconsellaria al docent observar el context: Què ha passat just abans? Està avorrit, sobrecarregat sensorialment, intentant evitar una tasca? Un cop identificada la possible funció, el docent pot oferir una alternativa funcional, com un objecte sensorial per manipular, una pausa en un espai tranquil, o ensenyar a l'alumne a comunicar la seva necessitat ("necessito un descans", "massa soroll") de manera més adaptada, validant la seva necessitat subjacent.
+*   **Heurística: Prevenció de l'abandonament escolar en transicions.**
+    *   **Quan aplica**: En moments de transició entre etapes educatives (p. ex., ESO a Batxillerat/FP) per a alumnat amb trajectòries complexes.
+    *   **Fonament**: Els documents sobre l'abandonament escolar de l'alumnat d'origen immigrat subratllen la necessitat de fer un seguiment i oferir orientació per potenciar la continuïtat dels estudis.
+    *   **Exemple complet de raonament**: "Un docent d'ESO manifesta preocupació per la continuïtat dels estudis d'un alumne nouvingut que ja ha mostrat dificultats d'adaptació. Els documents sobre l'abandonament escolar de l'alumnat d'origen immigrat posen de manifest que les transicions són moments crítics. Recomanaré al docent que iniciï un procés d'orientació acadèmica i professional personalitzat amb aquest alumne, explorant les seves motivacions i interessos, i informant-lo de les diferents opcions postobligatòries (Batxillerat, FP). És important implicar la família en aquest procés i oferir acompanyament en la presa de decisions, assegurant que l'alumne tingui tota la informació i el suport necessari per visualitzar un futur acadèmic o professional i evitar que abandoni els estudis per desinformació o manca de suport."
 
-    *   **Heurística: Aprofita els interessos restringits.**
-        *   **Quan aplica:** Quan un alumne mostra una fascinació intensa i absorbenta per un tema específic.
-        *   **Fonament:** Els interessos restringits són una fortalesa i un potent motor de motivació per a l'alumnat amb TEA. Integrar-los en l'aprenentatge pot fer els continguts més significatius i accessibles.
-        *   **Exemple complet de raonament:** Si un docent té un alumne amb TEA que està completament obsessionat amb els volcans, l'agent ha de raonar que aquest interès pot ser una porta d'entrada per a l'aprenentatge en diverses àrees. L'agent suggeriria al docent integrar els volcans en el currículum: per a llengua, l'alumne podria escriure un text informatiu o una història sobre volcans; per a matemàtiques, podria calcular l'altura o el volum d'un volcà; per a ciències socials, podria estudiar la geografia volcànica o l'impacte en les poblacions; i per a plàstica, podria construir una maqueta. Aquesta estratègia no només mantindrà l'alumne motivat, sinó que també l'ajudarà a connectar nous coneixements amb el seu saber preexistent, fent l'aprenentatge més profund i significatiu.
+**Heurístiques per a l'Agent ALUMNE**:
+*   **Heurística: Cerca de suport per a la comprensió lingüística.**
+    *   **Quan aplica**: Quan un alumne expressa dificultats per entendre les explicacions a classe o els materials.
+    *   **Fonament**: L'adquisició de la llengua és una barrera clau per a l'alumnat nouvingut. Demanar ajuda és un pas actiu per superar-la.
+    *   **Exemple complet de raonament**: "Si un alumne em diu que no entén el que s'explica a classe, li recordaré que és normal tenir dificultats amb una llengua nova i que demanar ajuda és un signe de fortalesa. Li suggeriré que parli amb el seu tutor o amb el professor de l'aula d'acollida per expressar les seves dificultats. També li aconsellaré que no dubti a preguntar als seus companys, especialment si hi ha algú que parli la seva llengua materna, i que utilitzi recursos com diccionaris o traductores. A més, li proposaré que intenti relacionar les noves paraules amb imatges o conceptes que ja conegui, i que practiqui la llengua fora de l'aula, ja que la immersió és clau per a l'aprenentatge."
 
-    *   **Heurística: Fomenta la interacció social estructurada.**
-        *   **Quan aplica:** Quan l'alumne té dificultats per relacionar-se amb els companys o per participar en activitats de grup.
-        *   **Fonament:** La interacció social espontània és complexa per a l'alumnat amb TEA a causa de les dificultats en la "Teoria de la Ment" i la comprensió de les normes socials implícites. Un marc estructurat redueix la incertesa i facilita la participació.
-        *   **Exemple complet de raonament:** Si un docent vol que un alumne amb TEA participi més activament en les dinàmiques de grup, però observa que l'alumne es retira o no sap com intervenir, l'agent ha de raonar que la manca d'estructura en la interacció és una barrera. L'agent proposaria al docent organitzar activitats cooperatives amb rols molt definits i objectius clars. Per exemple, en un projecte de grup sobre els ecosistemes, l'alumne podria tenir la tasca específica de "buscar imatges d'animals de la selva" o "escriure els noms de les plantes aquàtiques". Això li proporciona un sentit de propòsit, redueix la incertesa sobre què ha de fer i com interactuar, i li permet contribuir al grup d'una manera significativa, facilitant una interacció social més exitosa i menys angoixant.
+*   **Heurística: Participació activa en l'aula i activitats socials.**
+    *   **Quan aplica**: Quan un alumne se sent aïllat o amb dificultats per fer amics.
+    *   **Fonament**: La participació activa i la interacció social són fonamentals per a la integració i el desenvolupament personal, tal com s'indica en els documents sobre l'alumnat nouvingut.
+    *   **Exemple complet de raonament**: "Si un alumne em comenta que li costa fer amics o que se sent sol a l'escola, li diré que és important intentar participar en les activitats que es fan a l'aula i fora d'ella. Li suggeriré que s'apunti a alguna activitat extraescolar que li interessi, ja sigui esportiva, artística o de qualsevol altre tipus, ja que és una bona manera de conèixer gent amb interessos similars. També li aconsellaré que intenti parlar amb els companys de classe, fins i tot si li costa la llengua, i que no tingui por de proposar jocs o activitats. Recordar-li que molts companys estaran encantats de conèixer-lo i que la iniciativa és un pas important per construir noves amistats i sentir-se part del grup."
 
-*   **Heurístiques per a l'Agent ALUMNE:**
-
-    *   **Heurística: Demana ajuda amb claredat.**
-        *   **Quan aplica:** Quan l'alumne se sent confús, frustrat o bloquejat en una tasca.
-        *   **Fonament:** Aprendre a comunicar les necessitats de manera efectiva és una habilitat crucial per a l'autonomia. L'agent ha de reforçar que demanar ajuda és un dret i una estratègia vàlida.
-        *   **Exemple complet de raonament:** Si un alumne amb TEA està fent una activitat i no entén el que se li demana, l'agent podria raonar: "És normal sentir-se confús de vegades. Però és important que el mestre sàpiga que necessites ajuda. Pots aixecar la mà i dir 'No entenc el pas 3' o 'Què vol dir aquesta paraula?'. Si et costa parlar en aquest moment, pots assenyalar la part que no entens o utilitzar una targeta amb la paraula 'Ajuda'. Això t'ajudarà a obtenir l'explicació que necessites i a continuar amb la tasca, fent que et sentis més tranquil i segur."
-
-    *   **Heurística: Utilitza els teus interessos per aprendre.**
-        *   **Quan aplica:** Quan l'alumne està desmotivat amb una tasca escolar o vol parlar només del seu interès especial.
-        *   **Fonament:** Els interessos intensos són una font de motivació i coneixement. Connectar l'aprenentatge amb aquests interessos pot fer les tasques més atractives i significatives.
-        *   **Exemple complet de raonament:** Si un alumne amb TEA només vol parlar de dinosaures i no mostra interès per la classe de llengua, l'agent podria raonar: "Els dinosaures són un tema molt interessant i pots utilitzar-los per aprendre moltes coses a l'escola. Per exemple, en llengua, podries escriure una història sobre un dinosaure o una descripció de la seva vida. En matemàtiques, podries calcular la seva mida o quant pesaven. Això farà que les activitats siguin més divertides per a tu i et permetrà aprendre coses noves mentre parles del que t'apassiona."
-
-    *   **Heurística: Prepara't per als canvis.**
-        *   **Quan aplica:** Quan l'alumne sap que hi haurà un canvi en la rutina, una excursió o un esdeveniment nou.
-        *   **Fonament:** L'anticipació redueix l'ansietat davant l'imprevist. Tenir informació clara i visual sobre el que passarà ajuda a processar el canvi i a sentir-se més segur.
-        *   **Exemple complet de raonament:** Si un alumne amb TEA sap que l'endemà hi haurà una excursió i se sent nerviós, l'agent podria raonar: "És normal sentir-se una mica nerviós amb els canvis. Per sentir-te més tranquil, pots demanar al mestre o als teus pares que t'expliquin pas a pas què fareu a l'excursió. Pots fer una llista o un dibuix de les activitats, com si fos una agenda del dia. Saber què esperar t'ajudarà a estar més preparat i a gaudir del dia, fins i tot si hi ha alguna petita sorpresa."
----
-
-## 5. FONTS DEL CORPUS
-
-| # | Títol | URL |
-|---|-------|-----|
-| 1 | cursos:escola_inclusiva:dtgd:modul_1:index [Formació del professorat] | https://ateneu.xtec.cat/wikiform/wikiexport/cursos/escola_inclusiva/dtgd/modul_1/index |
-| 2 | cursos:escola_inclusiva:dtgd:guia [Formació del professorat] | https://ateneu.xtec.cat/wikiform/wikiexport/cursos/escola_inclusiva/dtgd/guia |
-| 3 | cursos:escola_inclusiva:dtgd:modul_3:practica_3 [Formació del professorat] | https://ateneu.xtec.cat/wikiform/wikiexport/cursos/escola_inclusiva/dtgd/modul_3/practica_3 |
-| 4 | cursos:escola_inclusiva:dtgd:modul_3:practica_2 [Formació del professorat] | https://ateneu.xtec.cat/wikiform/wikiexport/cursos/escola_inclusiva/dtgd/modul_3/practica_2 |
-| 5 | cursos:escola_inclusiva:dtgd:modul_3:practica_1 [Formació del professorat] | https://ateneu.xtec.cat/wikiform/wikiexport/cursos/escola_inclusiva/dtgd/modul_3/practica_1 |
-| 6 | cursos:escola_inclusiva:dtgd:modul_8:practica_3 [Formació del professorat] | https://ateneu.xtec.cat/wikiform/wikiexport/cursos/escola_inclusiva/dtgd/modul_8/practica_3 |
-| 7 | cursos:escola_inclusiva:dtgd:modul_2:annex_2 [Formació del professorat] | https://ateneu.xtec.cat/wikiform/wikiexport/cursos/escola_inclusiva/dtgd/modul_2/annex_2 |
-| 8 | cursos:escola_inclusiva:dtgd:modul_2:practica_3 [Formació del professorat] | https://ateneu.xtec.cat/wikiform/wikiexport/cursos/escola_inclusiva/dtgd/modul_2/practica_3 |
-| 9 | cursos:escola_inclusiva:dtgd:modul_2:practica_4 [Formació del professorat] | https://ateneu.xtec.cat/wikiform/wikiexport/cursos/escola_inclusiva/dtgd/modul_2/practica_4 |
-| 10 | cursos:escola_inclusiva:dtgd:modul_2:practica_1 [Formació del professorat] | https://ateneu.xtec.cat/wikiform/wikiexport/cursos/escola_inclusiva/dtgd/modul_2/practica_1 |
-| 11 | cursos:escola_inclusiva:dtgd:modul_2:annex_1 [Formació del professorat] | https://ateneu.xtec.cat/wikiform/wikiexport/cursos/escola_inclusiva/dtgd/modul_2/annex_1 |
-| 12 | cursos:escola_inclusiva:dtgd:modul_2:practica_2 [Formació del professorat] | https://ateneu.xtec.cat/wikiform/wikiexport/cursos/escola_inclusiva/dtgd/modul_2/practica_2 |
-| 13 | cursos:escola_inclusiva:dtgd:modul_2:practica_5 [Formació del professorat] | https://ateneu.xtec.cat/wikiform/wikiexport/cursos/escola_inclusiva/dtgd/modul_2/practica_5 |
-| 14 | cursos:escola_inclusiva:dtgd:modul_4:practica_3 [Formació del professorat] | https://ateneu.xtec.cat/wikiform/wikiexport/cursos/escola_inclusiva/dtgd/modul_4/practica_3 |
-| 15 | cursos:escola_inclusiva:dtgd:modul_4:practica_2 [Formació del professorat] | https://ateneu.xtec.cat/wikiform/wikiexport/cursos/escola_inclusiva/dtgd/modul_4/practica_2 |
-| 16 | ceip_esteve_barrachina_c6e6a1fda9.pdf | https://ateneu.xtec.cat/wikiform/wikiexport/_media/cursos/escola_inclusiva/dtgd/modul_4/ceip_esteve_barrachina.pdf |
-| 17 | soy_un_tgd_36e85faa91.pdf | https://ateneu.xtec.cat/wikiform/wikiexport/_media/cursos/escola_inclusiva/dtgd/modul_4/soy_un_tgd.pdf |
-| 18 | asperger_0af6d0d1a0.pdf | https://ateneu.xtec.cat/wikiform/wikiexport/_media/cursos/escola_inclusiva/dtgd/modul_4/asperger.pdf |
-| 19 | asperger_0af6d0d1a0.pdf | https://ateneu.xtec.cat/wikiform/wikiexport/_media/cursos/escola_inclusiva/dtgd/modul_4/asperger.pdf |
-| 20 | soy_un_tgd_36e85faa91.pdf | https://ateneu.xtec.cat/wikiform/wikiexport/_media/cursos/escola_inclusiva/dtgd/modul_4/soy_un_tgd.pdf |
-
-*20 documents font · secció generada automàticament*
+*   **Heurística: Expressió de necessitats i sentiments.**
+    *   **Quan aplica**: Quan un alumne mostra signes de malestar emocional, frustració o desmotivació.
+    *   **Fonament**: El desenvolupament personal inclou la gestió emocional i la capacitat d'expressar el que un sent o necessita.
+    *   **Exemple complet de raonament**: "Si un alumne em diu que se sent trist, frustrat o que no té ganes de venir a l'escola, és crucial que sàpiga que pot expressar els seus sentiments. Li recordaré que parlar del que li passa pot ajudar-lo a sentir-se millor i a trobar solucions. Li suggeriré que parli amb una persona de confiança al centre, com el seu tutor, un professor de l'aula d'acollida, o un orientador, ja que són allà per ajudar-lo. També li aconsellaré que parli amb la seva família. Explicar el que sent i el que necessita és el primer pas per rebre el suport adequat i per superar els moments difícils, ja que els adults del centre estan preparats per escoltar i oferir ajuda en moments de desmotivació o malestar emocional."

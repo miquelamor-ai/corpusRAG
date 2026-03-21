@@ -1,231 +1,258 @@
-```yaml
+---
 modul: M3
 titol: "Llengua i diversitat a l'aula"
 tipus: marc
 descripcio: "Andamiatge lingüístic, simplificació i adaptació de textos per a alumnat amb dificultats de llengua"
 review_status: esborrany
-generat_at: 2026-03-18T15:32:16
+generat_at: 2026-03-18T11:44:47
 ---
-# Llengua i diversitat a l'aula: Andamiatge lingüístic, simplificació i adaptació de textos
 
-## 1. CONTINGUT ESPECÍFIC
+# 1. CONTINGUT ESPECÍFIC
 
-### Definició i principis
+## Definició i principis
 
-El marc de l'andamiatge lingüístic, la simplificació i l'adaptació de textos es fonamenta en la premissa que la llengua és el vehicle essencial per a l'aprenentatge i la construcció del coneixement en totes les àrees curriculars. No es tracta només d'aprendre una llengua, sinó d'aprendre a través de la llengua, especialment el llenguatge acadèmic propi de cada disciplina. Aquest enfocament és crucial en contextos d'aula amb diversitat lingüística, on l'alumnat pot tenir diferents nivells de domini de la llengua vehicular (L2), que sovint no és la seva llengua materna (L1).
+L'andamiatge lingüístic, la simplificació i l'adaptació de textos són estratègies pedagògiques fonamentals per abordar la diversitat lingüística a l'aula, especialment amb l'alumnat amb dificultats en la llengua vehicular o d'incorporació tardana. Aquestes pràctiques no es limiten a "fer la feina més fàcil", sinó que busquen crear ponts perquè tot l'alumnat pugui accedir al currículum i desenvolupar les competències lingüístiques necessàries per a la seva integració escolar i social.
 
-El concepte central és el **Tractament Integrat de Llengua i Continguts (TILC)**, que no pretén convertir tots els docents en professors de llengua, sinó que cada àrea o matèria ensenyi els aspectes lingüístics que li són propis, com el lèxic especialitzat, els gèneres discursius i les funcions cognitivolingüístiques (FCL) [DOC 1, DOC 2, DOC 3, DOC 7, DOC 10, DOC 12]. El TILC reconeix que l'aprenentatge és un procés social i individual on la interacció i la comunicació verbal són fonamentals per interpretar fets, contrastar idees i construir coneixement [DOC 12, DOC 21, DOC 34].
+**L'andamiatge lingüístic (scaffolding)** es refereix al suport temporal i ajustat que el docent proporciona a l'alumnat per ajudar-lo a realitzar tasques que, sense aquesta ajuda, estarien fora del seu abast. Aquest suport es retira progressivament a mesura que l'alumne adquireix autonomia. El seu fonament rau en la teoria sociocultural de Vygotsky i el concepte de Zona de Desenvolupament Proper. En l'àmbit lingüístic, l'andamiatge implica fer explícites les demandes lingüístiques de les tasques, modelar el llenguatge acadèmic, proporcionar estructures i vocabulari clau, i oferir oportunitats de pràctica guiada. No es tracta de fer la feina per l'alumne, sinó de guiar-lo a través d'un procés que el capaciti per fer-la de manera independent en el futur. Els suports poden ser visuals, orals, escrits o interactius.
 
-Aquest marc es basa en quatre components clau, sovint anomenats les "quatre C": **Continguts acadèmics, Llengua, Cognició i Cultura** [DOC 3, DOC 10].
-*   **Continguts acadèmics**: Es refereixen als sabers propis de cada àrea, que han de ser accessibles i significatius per a l'alumnat, sense reduir el nivell d'exigència [DOC 15].
-*   **Llengua**: Implica el desenvolupament del llenguatge acadèmic (CALP - *Cognitive and Academic Language Proficiency*), que va més enllà de la competència conversacional bàsica (BICS - *Basic Interpersonal Communicative Skills*) i requereix un ensenyament explícit i sostingut [DOC 7, DOC 13].
-*   **Cognició**: Es refereix a les operacions mentals necessàries per construir el coneixement, que es vehiculen a través de les FCL com narrar, descriure, definir, resumir, explicar, justificar i argumentar [DOC 9, DOC 23, DOC 33].
-*   **Cultura**: Reconeix la importància del bagatge cultural i lingüístic de l'alumnat, promovent la competència plurilingüe i la integració dels referents culturals diversos a l'aula [DOC 10, DOC 14].
+La **simplificació i adaptació de textos** consisteixen en modificar materials escrits o orals per fer-los més accessibles a l'alumnat amb menys domini de la llengua vehicular. Aquesta adaptació va més enllà de la simple reducció de paraules; implica una revisió de la complexitat sintàctica, del vocabulari, de l'estructura textual i de la presentació visual. L'objectiu és garantir que el contingut sigui comprensible sense perdre la riquesa conceptual ni la precisió de la informació. Es busca un "input comprensible" que permeti a l'alumne centrar-se en l'aprenentatge del contingut mentre, de manera implícita, adquireix la llengua. Aquestes adaptacions han de ser estratègiques i temporals, amb l'objectiu final de capacitar l'alumnat per accedir a textos originals. La "Lectura Fàcil" és un exemple de metodologia de simplificació textual que segueix criteris específics per garantir la màxima accessibilitat.
 
-L'andamiatge lingüístic (o *scaffolding*) és una estratègia didàctica fonamental que proporciona suports temporals i ajustats a les necessitats de l'alumnat per facilitar l'accés al currículum [DOC 4, DOC 16]. Aquests suports poden ser contextuals (gestos, visuals, manipulatius) o lingüístics (simplificació del llenguatge, ús de sinònims, explicacions expandides) [DOC 19, DOC 20, DOC 45]. La simplificació i adaptació de textos són eines clau dins d'aquest andamiatge, buscant fer l'input comprensible sense disminuir l'exigència cognitiva, reformulant enunciats, utilitzant vocabulari conegut, incorporant exemples i destacant paraules clau [DOC 20, DOC 45].
+Els principis que guien aquestes pràctiques són:
+*   **Enfocament comunicatiu:** La llengua s'aprèn millor quan s'utilitza en contextos significatius i autèntics per comunicar-se.
+*   **Integració de llengua i contingut (TILC):** L'aprenentatge de la llengua vehicular no és una activitat aïllada, sinó que està intrínsecament lligada a l'aprenentatge de les matèries curriculars.
+*   **Valoració de la diversitat lingüística i cultural:** La llengua materna de l'alumnat és un recurs valuós que pot ser utilitzat com a pont per a l'aprenentatge de la nova llengua i els continguts.
+*   **Progressió gradual:** Els suports i les adaptacions han de ser flexibles i ajustar-se al nivell de competència de cada alumne, augmentant la complexitat a mesura que progressen.
+*   **Motivació i confiança:** Crear un entorn segur i de suport on l'alumnat se senti capaç de participar i aprendre, reduint l'ansietat lingüística.
+*   **Ús de recursos multimodals:** Combinar text, imatges, àudio, vídeo i elements interactius per facilitar la comprensió i l'expressió.
 
-En resum, aquest marc pedagògic subratlla que l'aprenentatge de la llengua i dels continguts són processos interdependents que han de ser abordats de manera integrada, sistemàtica i amb suports adaptats per garantir l'èxit de tot l'alumnat, especialment aquell amb dificultats de llengua o d'origen estranger [DOC 2, DOC 10, DOC 12, DOC 17].
+Aquest marc reconeix que la llengua és l'eina imprescindible per adquirir nous coneixements i expressar idees, i que proporcionar les competències lingüístiques necessàries és clau per garantir la integració escolar i social de tot l'alumnat.
 
-### Autors i evidència clau
+## Autors i evidència clau
 
-El marc de l'andamiatge lingüístic i el TILC beuen de diverses fonts teòriques i pedagògiques:
+El marc teòric darrere l'andamiatge lingüístic i l'adaptació de textos s'arrela en diverses teories de l'adquisició de segones llengües i la pedagogia inclusiva.
 
-*   **Jim Cummins**: El seu model de quadrant és fonamental per entendre la relació entre l'exigència cognitiva d'una tasca i el suport contextual necessari per a l'aprenentatge [DOC 19]. Diferencia entre BICS (habilitats comunicatives interpersonals bàsiques) i CALP (competència lingüística acadèmica i cognitiva), subratllant que l'adquisició de la CALP requereix molt més temps (sovint 7-10 anys) i un suport explícit a l'escola [DOC 7, DOC 13]. Aquesta distinció és clau per entendre per què l'alumnat nouvingut pot semblar fluid en la conversa diària però tenir dificultats significatives amb el llenguatge acadèmic.
+*   **Lev Vygotsky:** El concepte d'andamiatge (scaffolding) prové directament de la seva teoria sociocultural de l'aprenentatge, especialment de la "Zona de Desenvolupament Proper (ZDP)". Vygotsky argumentava que l'aprenentatge es produeix de manera més efectiva quan un individu rep suport d'un "més competent" (docent, company) per realitzar tasques que estan just per sobre del seu nivell actual de desenvolupament autònom.
+*   **Stephen Krashen:** La seva hipòtesi de l'"Input Comprensible" és fonamental per a la simplificació i adaptació de textos. Krashen postula que l'adquisició de la llengua es produeix quan els aprenents estan exposats a un llenguatge que és lleugerament superior al seu nivell actual de comprensió (i+1), però que encara poden entendre amb l'ajuda del context i altres suports.
+*   **Jim Cummins:** Va introduir la distinció entre BICS (Basic Interpersonal Communicative Skills) i CALP (Cognitive Academic Language Proficiency). Aquesta distinció és crucial per entendre que l'alumnat pot desenvolupar ràpidament la llengua social (BICS) per a la comunicació quotidiana, però necessita un suport molt més prolongat i explícit per adquirir la llengua acadèmica (CALP) necessària per al currículum. Molts documents del Servei d'Immersió i Acolliment Lingüístics fan referència a aquesta necessitat d'aprendre el "llenguatge de les matèries".
+*   **Consell d'Europa i el Marc Europeu Comú de Referència per a les Llengües (MECR):** Aquest marc és una referència clau per a l'ensenyament i l'avaluació de llengües a Catalunya. Documents com `guia_didactica_projecte_mon_5843384272.pdf`, `nivell_inicial_ec0ebc0fd9.pdf`, `130117_Objectius_generals_L2_d09b4a07e8.pdf`, `Alumnat_origen_estranger_descriptors_llengua_c6438107b5.pdf` i `Nivells_materies_CELM_2bbf3c6e75.pdf` el citen explícitament per establir objectius, continguts i descriptors de competència lingüística (A1, A2, B1, B2). El MECR proporciona una base estandarditzada per dissenyar materials i avaluar el progrés, especialment per a l'alumnat d'origen estranger.
+*   **Servei d’Immersió i Acolliment Lingüístics (SIAL) del Departament d'Educació de la Generalitat de Catalunya:** Aquest servei ha estat fonamental en la producció de materials i guies pedagògiques que apliquen aquests principis a la realitat catalana. Publicacions com els "Quaderns SLS" (`quaderns-SLS-aprendre-llengua-materies_3afd7edb65.pdf`, `quaderns-SLS-adequar-curriculum_366b5bcb5a.pdf`, `quaderns-SLS-aprendre-vocabulari-materies_0939b573dc.pdf`) i les guies didàctiques de materials com "Vincles" (`V1_guia_967b928fe2.pdf`, `V2_guia_7b8941c840.pdf`, `V3_guia_195ae8ab2c.pdf`) o "Enrola't" (`comunicacio_enrolat_16e6254639.pdf`) són exemples concrets d'aquesta evidència pràctica i contextualitzada.
 
-*   **Enric Custodio i Neus Sanmartí**: Destaquen la importància del "patró lingüístic" de cada disciplina, que s'ha d'ensenyar paral·lelament al "patró temàtic". Argumenten que el llenguatge científic, per exemple, té estructures retòriques i de gènere pròpies (descripció, justificació, plantejament d'hipòtesis) que són intrínseques a l'aprenentatge de la disciplina [DOC 1]. Sanmartí també ha contribuït a la comprensió de la regulació del procés de construcció del coneixement a través del llenguatge [DOC 34].
+L'evidència pràctica es troba en la multitud de propostes didàctiques que integren suports visuals (làmines, pictogrames, imatges), activitats de rol-play per a la comunicació oral, i materials específicament dissenyats per a l'alumnat nouvingut amb diferents nivells d'escolarització prèvia. Aquestes propostes demostren que un enfocament conscient en la dimensió lingüística de totes les matèries és essencial per a l'èxit educatiu de l'alumnat amb dificultats de llengua.
 
-*   **Vicent Pascual**: Ha sistematitzat la llengua que cal treballar en el TILC en 8 categories: gèneres de text, tipus de discurs, habilitats de lectura i escriptura, habilitats cognitivolingüístiques, aspectes lèxics, gramaticals i ortogràfics, altres llenguatges (multimodalitat), processament de la informació i tècniques de treball i estudi [DOC 7, DOC 10, DOC 15, DOC 41]. Les seves aportacions són crucials per a la planificació i organització de les unitats didàctiques amb un enfocament TILC.
+## Exemples concrets d'aplicació a l'aula
 
-*   **Jaume Jorba**: Juntament amb altres autors, ha emfatitzat que les operacions cognitives necessiten ser expressades en una forma lingüística, definint les funcions cognitivolingüístiques (FCL) com a habilitats que permeten transcriure aquestes operacions a la llengua [DOC 9, DOC 34].
+### Educació Infantil / Cicle Inicial de Primària
+*   **Andamiatge amb suports visuals i jocs:** Per a l'alumnat d'Educació Infantil i Cicle Inicial, es poden utilitzar "Les CENT DOTZE ACCIONS" (`Accions_e-n-lligada_190367285b.pdf`) o les làmines "Vivim junts" (`guia_didactica_vivim_junts_29bdb108a5.pdf`) i "Viure a Catalunya" (`guia_Viure_634b7c13ed.pdf`). Per exemple, el docent mostra un cartronet amb una acció (dormir, menjar, jugar) i els alumnes la representen amb mímica o l'associen a una frase senzilla. Això facilita l'adquisició de vocabulari i estructures bàsiques de manera lúdica i contextualitzada. Un altre exemple és l'ús de l'àlbum personal "El meu àlbum" (`guia_el_meu_album_be568aed7c.pdf`), on els infants dibuixen i escriuen (amb suport) sobre la seva biografia i el seu país d'origen, connectant l'aprenentatge de la llengua amb les seves vivències personals i afectives.
 
-*   **Elizabeth Coelho**: Recull un decàleg d'estratègies didàctiques per facilitar l'aprenentatge en aules amb alumnes de L2, incloent garantir un *input* comprensible, proporcionar recursos materials alternatius, promoure la conversa cooperativa, incorporar les L1 dels estudiants, donar models d'execució i bastides de suport [DOC 16].
+### Educació Primària (Cicle Mitjà i Superior)
+*   **Andamiatge en el llenguatge acadèmic i resolució de problemes:** En matèries com matemàtiques, es poden adaptar enunciats de problemes complexes, utilitzant frases més curtes, vocabulari controlat i destacant les paraules clau. Per exemple, en un problema de càlcul de perímetres, es pot proporcionar una imatge clara de la figura geomètrica i una llista de vocabulari específic (costat, perímetre, mesura) amb definicions visuals. Els jocs de rol de la sèrie "Enrola't" (`comunicacio_enrolat_16e6254639.pdf`, `guia_didactica_2d378b6d4c.pdf`, i els documents `CM_X`) són excel·lents per practicar la comunicació oral en contextos simulats (ex: `CM_14_72bdbed42d.pdf` "Anem a comprar peix!" per ampliar lèxic i practicar la interacció en una peixateria). El docent pot proporcionar "targetes d'ajuda" amb exponents lingüístics i vocabulari, que es van retirant a mesura que l'alumnat guanya confiança.
 
-*   **Consell d’Europa i CELM (Centre Europeu de Llengües Modernes)**: Han elaborat documents sobre la dimensió lingüística de les matèries i descriptors de competències lingüístiques (nivells A2, B1, B2 del MECR) específiques per a l'aprenentatge de matèries com història o matemàtiques, proporcionant un marc per identificar necessitats i donar suport lingüístic [DOC 7, DOC 13, DOC 40].
+### Educació Secundària Obligatòria (ESO) / Batxillerat / Formació Professional
+*   **Adaptació de textos i estratègies de comprensió lectora:** Per a textos de ciències socials, història o literatura, es pot aplicar la metodologia de "Lectura Fàcil" (`911m_757ca1b3cd.pdf`), que implica reescriure el text amb vocabulari senzill, frases curtes, estructura clara i suport visual. Una altra estratègia és la lectura guiada (`lectura_guiada_proposta_didactica_treballar_proces_lector_secundaria_material_didactic_2017.pdf`), on el docent pre-ensenya vocabulari clau, activa coneixements previs, llegeix el text per fragments i proposa activitats de comprensió (resums, organitzadors gràfics). Per exemple, abans de llegir un text històric sobre la Guerra Civil, es pot presentar un mapa conceptual amb els actors principals i les dates clau, i un glossari de termes històrics adaptats. Els jocs de rol per a secundària (documents `CS_X`, com `CS_12_3418358339.pdf` "Olelé, olalà...!" per simular una roda de premsa) permeten practicar el llenguatge acadèmic i formal en contextos més complexos.
 
-L'evidència clau suggereix que l'ensenyament explícit del llenguatge acadèmic i l'ús de l'andamiatge són crucials per a l'èxit escolar de l'alumnat amb dificultats lingüístiques. La interacció social i el treball cooperatiu són també mecanismes poderosos per negociar significats, obtenir models de llengua i practicar la L2 [DOC 5, DOC 21, DOC 22].
+## Errors comuns — què NO fer
 
-### Exemples concrets d'aplicació a l'aula
+1.  **Simplificar el contingut en lloc de la llengua:** Un error freqüent és reduir la complexitat cognitiva o els objectius d'aprenentatge de la matèria per a l'alumnat amb dificultats lingüístiques. L'andamiatge i l'adaptació han de permetre l'accés al mateix contingut curricular, no substituir-lo per un de menys exigent. El fonament teòric és que l'alumnat té la capacitat cognitiva per aprendre el contingut, però necessita suport per accedir-hi lingüísticament. Si es simplifica el contingut, es limita el seu desenvolupament acadèmic i es creen expectatives baixes.
+2.  **Mantenir l'andamiatge de manera permanent:** L'andamiatge és un suport temporal. Si es manté indefinidament, l'alumnat pot desenvolupar una dependència i no adquirir les estratègies d'aprenentatge autònom necessàries per funcionar sense ajuda. El principi de la Zona de Desenvolupament Proper de Vygotsky subratlla que el suport ha de ser progressivament retirat per fomentar la independència i l'autonomia en l'aprenentatge de la llengua i els continguts.
+3.  **Centrar-se exclusivament en el vocabulari aïllat sense context:** Presentar llistes de paraules noves sense un context significatiu o sense relacionar-les amb els coneixements previs de l'alumnat és poc efectiu. L'adquisició de vocabulari és més sòlida quan es fa en situacions comunicatives reals, a través de textos autèntics i activitats que requereixen el seu ús. Els documents sobre aprenentatge de vocabulari (`quaderns-SLS-aprendre-vocabulari-materies_0939b573dc.pdf`, `adquisicio_vocabulari_estrategies_organitzadors_2015.pdf`) emfatitzen la importància del context i les estratègies.
+4.  **Ignorar la llengua materna (L1) de l'alumnat:** No reconèixer ni utilitzar la L1 com a recurs pot ser un error. La L1 és la base del pensament i l'aprenentatge de l'alumne, i pot servir de pont per a la comprensió de nous conceptes en la L2. Documents com `guia_didactica_projecte_mon_5843384272.pdf` o `Ful_lleng_alu_116a84d712.pdf` (avaluació L1) reconeixen la importància del bagatge lingüístic i cultural de l'alumnat nouvingut.
+5.  **No explicitar les demandes lingüístiques de les tasques:** Assumir que l'alumnat amb dificultats de llengua entendrà les expectatives lingüístiques d'una tasca (per exemple, "descriu", "compara", "argumenta") sense una explicació explícita i modelatge és un error. L'andamiatge requereix fer visibles aquestes demandes i proporcionar les eines lingüístiques per respondre-hi.
 
-1.  **Educació Primària (Cicle Mitjà): Descripció d'un ésser viu**
-    *   **Context**: Alumnes de 3r de Primària, alguns amb L2 inicial o amb dificultats per estructurar textos. L'objectiu és descriure un animal estudiat a Ciències de la Naturalesa.
-    *   **Andamiatge/Simplificació**:
-        *   El docent proporciona una "base d'orientació" o plantilla amb preguntes guia: "Com és el seu cos? De què està cobert? Quantes potes té? On viu? De què s'alimenta?" [DOC 9].
-        *   S'utilitzen imatges, vídeos i objectes reals (si és possible) de l'animal per activar coneixements previs i oferir suport contextual [DOC 20, DOC 29].
-        *   Es crea un banc de vocabulari visual a l'aula amb paraules clau (ex: "escates", "plomes", "mamífer", "hervívor") i els seus significats, i es proporcionen connectors senzills com "a més", "però", "perquè" [DOC 8, DOC 11].
-        *   Es modela una descripció senzilla en veu alta, pensant en veu alta sobre com s'organitzen les idees [DOC 9, DOC 16].
-        *   En petits grups cooperatius, els alumnes descriuen l'animal a un company, negociant significats i rebent retroalimentació [DOC 5, DOC 21].
-    *   **Resultat esperat**: L'alumnat produeix descripcions més estructurades i amb un vocabulari més precís, millorant tant el contingut científic com l'expressió lingüística.
+## Matissos i excepcions
 
-2.  **Educació Secundària Obligatòria (ESO): Justificació d'un fenomen històric**
-    *   **Context**: Alumnes de 2n d'ESO que han estudiat la Revolució Francesa i han de justificar les seves causes. Alguns tenen dificultats amb el llenguatge acadèmic i l'argumentació.
-    *   **Andamiatge/Simplificació**:
-        *   El docent presenta un "organitzador gràfic" (ex: un diagrama de causes i efectes) per visualitzar les relacions entre els fets i les idees clau [DOC 16, DOC 45].
-        *   Es proporcionen textos adaptats sobre les causes de la revolució, amb vocabulari clau destacat i explicat, i estructures de frases simplificades [DOC 20].
-        *   S'ofereixen "bases d'orientació" per a l'argumentació: "La meva idea és que... Les meves raons són... Arguments en contra de la meva idea poden ser... L'evidència que donaria..." [DOC 6, DOC 27].
-        *   Es fomenta el debat en parelles o petits grups per practicar l'expressió oral i la negociació de significats abans de l'escriptura [DOC 5, DOC 21, DOC 22].
-        *   El docent pot fer un modelatge d'una justificació, pensant en veu alta sobre com seleccionar i organitzar els arguments [DOC 9].
-    *   **Resultat esperat**: L'alumnat és capaç de construir justificacions més coherents i fonamentades, utilitzant el lèxic i les estructures pròpies del discurs històric.
+L'andamiatge lingüístic i l'adaptació de textos són eines poderoses, però no són una solució universal i presenten matisos importants:
 
-3.  **Batxillerat/Formació Professional: Anàlisi i interpretació de gràfics**
-    *   **Context**: Alumnes de 1r de Batxillerat en Biologia que han d'interpretar un gràfic sobre l'evolució de la temperatura global i extreure'n conclusions.
-    *   **Andamiatge/Simplificació**:
-        *   Es proporciona una "guia de lectura d'imatges/gràfics" que inclou preguntes per a l'observació (què veiem?), la descripció (què representa cada eix, unitats?), la interpretació (què significa la tendència?) i la conclusió (quines implicacions té?) [DOC 38].
-        *   Es treballa el lèxic específic (ex: "tendència ascendent", "fluctuació", "anomalia", "correlació") i els connectors per expressar relacions causals o temporals ("a causa de", "per tant", "mentre que") [DOC 8, DOC 11].
-        *   S'utilitzen exemples de gràfics similars amb explicacions modelades per part del docent, destacant com es passa de la lectura literal a la inferencial i avaluativa [DOC 32, DOC 37].
-        *   Es promou el treball cooperatiu per a la interpretació, on els alumnes discuteixen i consensuen les seves conclusions abans de redactar l'informe individual [DOC 5, DOC 21].
-        *   Es pot oferir una plantilla per a l'informe de pràctiques o anàlisi, amb seccions clares per a la descripció del gràfic, la interpretació de dades i les conclusions [DOC 32].
-    *   **Resultat esperat**: L'alumnat desenvolupa la capacitat d'analitzar críticament dades presentades gràficament, utilitzant un llenguatge acadèmic precís per comunicar les seves interpretacions i conclusions.
+*   **No substitueixen l'ensenyament explícit de la L2:** Aquestes estratègies faciliten l'accés al currículum i l'adquisició de la llengua en context, però no reemplacen la necessitat d'una instrucció específica i sistemàtica de la llengua vehicular com a segona llengua (L2), especialment per a l'alumnat d'incorporació tardana o amb poca escolarització prèvia. El "Nivell Inicial de Català A1 - Usuari Bàsic" (`nivell_inicial_ec0ebc0fd9.pdf`) i les programacions de català L2 (`prog_lcatalana_e6213bb1f.pdf`) són exemples d'aquesta instrucció explícita.
+*   **Límits en la simplificació:** Una simplificació excessiva pot desvirtuar el contingut, eliminar matisos importants o reduir la complexitat conceptual necessària per a l'aprenentatge acadèmic. L'objectiu és fer el text accessible, no trivial. Cal trobar un equilibri entre la claredat lingüística i la riquesa del contingut.
+*   **Risc de "dumbing down" el currículum:** Com s'ha esmentat en els errors comuns, la temptació de reduir les exigències cognitives juntament amb les lingüístiques és un risc. L'andamiatge ha de permetre a l'alumnat amb dificultats de llengua accedir a un currículum ric i desafiador, no a un de devaluat.
+*   **No aplicable a totes les dificultats d'aprenentatge:** Aquestes estratègies són particularment útils per a dificultats derivades del domini insuficient de la llengua vehicular. No són la resposta única per a altres necessitats educatives especials (NEE) que puguin requerir intervencions pedagògiques o terapèutiques diferents, tot i que poden complementar-les. Per exemple, un alumne amb dislèxia en la seva L1 i L2 necessitarà suports addicionals més enllà de la simplificació textual.
+*   **Tensions amb l'autonomia de l'alumne:** Un andamiatge mal gestionat pot limitar l'autonomia de l'alumne. L'equilibri rau en proporcionar el suport just i necessari, i retirar-lo progressivament, fomentant que l'alumne desenvolupi les seves pròpies estratègies de comprensió i producció.
+*   **Diversitat dins de la diversitat:** L'alumnat amb dificultats de llengua és un grup heterogeni. No tots els nouvinguts tenen el mateix nivell d'escolarització prèvia, ni la mateixa L1, ni el mateix ritme d'aprenentatge. Les estratègies han de ser flexibles i personalitzades, no una talla única. Per exemple, l'alumnat amb poca o nul·la escolarització prèvia (`Tema1_lligada_4d09ff368b.pdf`, `oralpha_metode_alfabetitzacio_catala_guia_ced5b69b9e.pdf`) necessitarà un enfocament més intensiu en l'alfabetització bàsica abans de poder beneficiar-se plenament de la simplificació de textos acadèmics.
 
-### Errors comuns — què NO fer
+---
 
-1.  **Assumir que la competència conversacional (BICS) és suficient per a l'aprenentatge acadèmic (CALP)**: Un error freqüent és pensar que si un alumne pot comunicar-se de manera fluida en situacions quotidianes, ja té el domini lingüístic necessari per al currículum. La realitat és que la CALP requereix un vocabulari especialitzat, estructures gramaticals complexes i gèneres discursius propis de cada matèria, que triguen molt més a adquirir-se (7-10 anys) [DOC 13]. No ensenyar explícitament el llenguatge acadèmic de les àrees és deixar l'alumnat sense les eines essencials per construir coneixement.
+# 2. CONNEXIONS AMB ALTRES DOCUMENTS DEL CORPUS
 
-2.  **Simplificar el contingut fins a reduir l'exigència cognitiva**: L'objectiu de l'andamiatge i l'adaptació no és "rebaixar" el currículum, sinó fer-lo accessible. Reduir la complexitat cognitiva de les tasques pot impedir que l'alumnat desenvolupi el pensament crític i les habilitats de raonament necessàries per aprofundir en el coneixement [DOC 15, DOC 19]. Cal mantenir l'exigència cognitiva i afegir suports contextuals i lingüístics, no eliminar el repte intel·lectual. Una activitat de "copiar sense comprendre" és un exemple d'error en aquest sentit [DOC 19].
+*   **Perfil_Alumnat_Nouvingut**: Aquest marc proporciona les bases teòriques i estratègies per atendre les necessitats lingüístiques d'aquest perfil d'alumnat.
+*   **Estrategia_Aprenentatge_Cooperatiu**: L'aprenentatge cooperatiu és un entorn ideal per aplicar l'andamiatge lingüístic i fomentar la interacció comunicativa entre iguals.
+*   **Estrategia_Aprenentatge_Basat_Projectes**: Els projectes ofereixen contextos significatius per a la pràctica de la llengua i la integració de continguts, on l'andamiatge i l'adaptació de textos són crucials.
+*   **Eina_Organitzadors_Grafics**: Els organitzadors gràfics són eines visuals excel·lents per andamiar la comprensió i l'expressió de continguts complexos, especialment per a l'alumnat amb dificultats de llengua.
+*   **Eina_Rubriques_Avaluacio_Linguistica**: Per avaluar el progrés de l'alumnat en la llengua vehicular, és essencial utilitzar rúbriques que tinguin en compte els nivells del MECR i els suports proporcionats.
+*   **Normativa_Decret_Educacio_Inclusiva**: Aquest marc s'alinea amb els principis del decret d'educació inclusiva, que promou l'atenció a la diversitat i l'eliminació de barreres d'aprenentatge, incloses les lingüístiques.
+*   **Normativa_Projecte_Linguistic_Centre**: El projecte lingüístic de centre ha d'incorporar les estratègies d'andamiatge i adaptació de textos per garantir la cohesió lingüística i l'èxit de tot l'alumnat.
+*   **Eina_Proves_Avaluacio_Inicial_L2**: Les proves d'avaluació inicial de L2 (i L1) són fonamentals per diagnosticar les necessitats de l'alumnat i planificar l'andamiatge i les adaptacions adequades.
+*   **Estrategia_Lectura_Guiada**: La lectura guiada és una estratègia directa d'andamiatge per millorar la comprensió lectora en textos adaptats o simplificats.
+*   **Estrategia_Tallers_Lectura**: Els tallers de lectura poden incloure materials adaptats i estratègies d'andamiatge per fomentar el gust per la lectura en alumnes amb diferents nivells de competència lingüística.
 
-3.  **Considerar la llengua com una responsabilitat exclusiva del professorat de llengua**: La llengua és el vehicle de tots els aprenentatges. Si només el professorat de llengua s'ocupa del desenvolupament lingüístic, l'alumnat no rebrà el suport necessari per aprendre el "patró lingüístic" específic de cada àrea (ciències, socials, matemàtiques, etc.) [DOC 1, DOC 12, DOC 22, DOC 23, DOC 24, DOC 34]. Tots els docents han de ser conscients de la dimensió lingüística de la seva matèria i integrar l'ensenyament del llenguatge acadèmic en la seva pràctica.
+# 3. DETECCIÓ (Variables de Context)
 
-4.  **Ignorar el bagatge lingüístic i cultural de l'alumnat**: No reconèixer ni aprofitar la L1 i la cultura d'origen de l'alumnat com a recurs pedagògic és un error. Això no només pot afectar la seva autoestima i integració, sinó que també perd l'oportunitat de fer transferències entre llengües i enriquir l'aprenentatge [DOC 14, DOC 16, DOC 21]. La competència plurilingüe és una competència clau del currículum actual i ha de ser fomentada.
+*   **Senyals del docent:**
+    *   Observa que l'alumnat nouvingut o amb dificultats de llengua no comprèn les explicacions orals o els textos escrits.
+    *   Detecta que aquest alumnat té dificultats per participar en debats o expressar les seves idees en català.
+    *   Nota que l'alumnat es bloqueja davant tasques que requereixen producció escrita o oral complexa.
+    *   Percep que l'alumnat tradueix literalment de la seva L1 o utilitza estructures gramaticals incorrectes de forma recurrent.
+    *   S'adona que l'alumnat no connecta els conceptes de la matèria amb el llenguatge acadèmic utilitzat.
+    *   Rep preguntes freqüents sobre el significat de paraules o expressions específiques de la matèria.
+    *   Observa que l'alumnat amb bon rendiment en L1 té dificultats per demostrar el seu coneixement en L2.
 
-### Matisos i excepcions
+*   **Senyals de l'alumne:**
+    *   Silenci o poca participació oral a l'aula.
+    *   Frustració o desmotivació davant tasques lingüísticament exigents.
+    *   Ús excessiu de gestos o la L1 per comunicar-se.
+    *   Dificultat per seguir instruccions complexes o textos llargs.
+    *   Errors recurrents en la comprensió d'expressions idiomàtiques o llenguatge figurat.
+    *   Baix rendiment en avaluacions escrites o orals, malgrat una possible comprensió conceptual.
 
-*   **No tots els alumnes necessiten el mateix nivell d'andamiatge**: L'andamiatge ha de ser ajustat i temporal. Un excés de suport pot ser contraproduent, impedint que l'alumne desenvolupi la seva autonomia. El model de Cummins [DOC 19] és útil per graduar l'ajuda segons el nivell de competència lingüística i l'exigència cognitiva de la tasca. L'objectiu és retirar gradualment els suports a mesura que l'alumne guanya autonomia.
+*   **Senyals de context:**
+    *   Presència d'alumnat nouvingut o amb un nivell baix de competència en la llengua vehicular.
+    *   Introducció de nous temes amb vocabulari acadèmic dens o abstracte.
+    *   Lectura de textos amb estructura complexa, frases llargues o referents culturals desconeguts.
+    *   Activitats que requereixen una alta producció oral o escrita sense suports clars.
+    *   Aules multilingües on la diversitat lingüística és la norma.
+    *   Moment de l'any escolar (inici de curs, canvi d'etapa, etc.) on les demandes lingüístiques poden augmentar.
 
-*   **La simplificació no sempre és la millor opció**: En alguns casos, en lloc de simplificar un text, pot ser més efectiu proporcionar múltiples formats d'informació (text, gràfic, vídeo, oral) o organitzadors visuals que ajudin a processar la informació complexa sense reduir-ne la riquesa [DOC 15, DOC 20, DOC 35]. La multimodalitat és una eina poderosa per a la comprensió.
+*   **Anti-senyals (quan NO activar malgrat les aparences):**
+    *   L'alumne té un bon domini de la llengua vehicular en contextos acadèmics, però la dificultat es deu a una manca de coneixements previs del contingut o a una dificultat d'aprenentatge específica no relacionada amb la llengua.
+    *   L'alumne mostra resistència a la participació per timidesa o preferència per l'observació, però la seva comprensió és alta i pot expressar-se en altres formats.
+    *   La tasca és deliberadament dissenyada per ser un repte lingüístic sense andamiatge per avaluar el nivell autònom de l'alumne (en un moment d'avaluació sumativa, per exemple).
+    *   La "dificultat" és en realitat un procés natural d'adquisició de la llengua que requereix temps i exposició, i no una barrera que impedeixi l'accés al contingut.
 
-*   **Equilibri entre la llengua oral i escrita**: Si bé aquest marc posa èmfasi en l'adaptació de textos (escrita), la interacció oral és igualment crucial per a l'adquisició de la llengua i la construcció del coneixement. Cal planificar activitats que fomentin tant la comprensió i producció escrita com l'expressió i interacció oral, incloent el treball cooperatiu i els debats [DOC 5, DOC 21, DOC 22, DOC 28].
+# 4. HEURÍSTIQUES I RAONAMENT PER A L'AGENT
 
-*   **Límits del TILC**: Tot i la seva eficàcia, el TILC no és una solució única per a totes les dificultats lingüístiques. L'alumnat amb necessitats educatives especials més profundes o amb un nivell molt inicial de la L2 pot requerir suports més intensius i especialitzats, com el Suport Lingüístic i Social (SLS) o l'aula d'acollida, que complementen però no substitueixen el treball a l'aula ordinària [DOC 17].
-
-*   **La importància del feedback**: L'andamiatge no només és proporcionar suports inicials, sinó també oferir un feedback continu i de suport en resposta a la producció dels alumnes, que els ajudi a polir el seu discurs i millorar la seva competència comunicativa [DOC 16, DOC 21].
-
-## 2. CONNEXIONS AMB ALTRES DOCUMENTS DEL CORPUS
-
-*   **perfil_alumnat_nouvingut**: Aquest document proporciona el marc teòric per entendre les necessitats lingüístiques i culturals d'aquest perfil d'alumnat, justificant la importància de l'andamiatge.
-*   **estrategia_treball_cooperatiu**: El treball cooperatiu és una metodologia clau per implementar l'andamiatge lingüístic, ja que facilita la interacció, la negociació de significats i l'obtenció de models de llengua entre iguals.
-*   **eina_bases_orientacio**: Aquesta eina és un exemple concret d'andamiatge lingüístic per guiar l'alumnat en la producció de textos, aplicant els principis d'aquest marc.
-*   **eina_organitzadors_grafics**: Els organitzadors gràfics són suports visuals essencials per fer l'input comprensible i estructurar el coneixement, com es descriu en aquest marc.
-*   **normativa_decret_inclusio**: Aquesta normativa estableix el marc legal per a l'atenció a la diversitat i la inclusió, incloent el suport lingüístic i social, que aquest marc teòric desenvolupa pedagògicament.
-*   **estrategia_ensenyament_protegit**: L'ensenyament protegit és una proposta de TILC que sistematitza l'ús de bastides, directament relacionada amb les estratègies d'andamiatge d'aquest marc.
-*   **protocol_suport_linguistic_social**: Aquest protocol descriu com s'organitza el SLS, un suport clau per a l'alumnat d'origen estranger, que es basa en els principis d'andamiatge i TILC.
-
-## 3. DETECCIÓ (Variables de Context)
-
-**Senyals del docent**
-*   "Els meus alumnes tenen dificultats per entendre els textos del llibre de text, especialment els de ciències o socials."
-*   "Quan els demano que expliquin o justifiquin alguna cosa, els costa molt estructurar les idees i usar el vocabulari adequat."
-*   "Tinc alumnes nouvinguts a l'aula i no sé com fer que accedeixin als continguts de la meva matèria si no dominen la llengua."
-*   "M'agradaria que els meus alumnes participessin més oralment, però els costa expressar-se amb precisió."
-*   "Em sento que estic simplificant massa els continguts per fer-los accessibles, però no vull baixar el nivell."
-*   "No sé com avaluar els progressos lingüístics dels meus alumnes en la meva matèria, més enllà de la correcció gramatical."
-
-**Senyals de l'alumne**
-*   L'alumne mostra dificultat per seguir explicacions orals complexes o textos escrits sense suport visual o contextual.
-*   Utilitza un vocabulari limitat o imprecís en les seves produccions orals o escrites, malgrat comprendre el concepte bàsic.
-*   Li costa estructurar un discurs (descripció, explicació, argumentació) de manera coherent i lògica.
-*   Mostra frustració o desmotivació davant tasques que requereixen un alt nivell de llenguatge acadèmic.
-*   Recorre freqüentment a la L1 amb els companys per negociar significats en tasques de grup.
-
-**Senyals de context**
-*   Introducció d'un tema nou amb vocabulari especialitzat i conceptes abstractes.
-*   Lectura de textos acadèmics o científics amb alta densitat d'informació.
-*   Realització de tasques que exigeixen producció escrita formal (informes, assajos, justificacions).
-*   Aules amb presència significativa d'alumnat d'origen estranger o amb diagnòstic de dificultats específiques d'aprenentatge del llenguatge.
-*   Transició entre etapes educatives (ex: de primària a ESO) on l'exigència del llenguatge acadèmic augmenta dràsticament.
-
-**Anti-senyals**
-*   L'alumne ja demostra un domini fluid i precís del llenguatge acadèmic de la matèria, tant oralment com per escrit. En aquest cas, un andamiatge excessiu podria ser contraproduent i limitar la seva autonomia.
-*   La tasca proposada té una exigència cognitiva molt baixa i ja està altament contextualitzada (ex: activitats de reconeixement simple amb imatges clares), on l'andamiatge lingüístic addicional podria ser redundant.
-*   L'objectiu principal de l'activitat és el desenvolupament de la creativitat o l'expressió personal lliure, on una estructura lingüística massa rígida podria coartar la producció.
-*   El docent busca una avaluació diagnòstica del nivell real de l'alumne sense ajuts, per identificar necessitats, no per facilitar l'aprenentatge en si mateix.
-
-## 4. HEURÍSTIQUES I RAONAMENT PER A L'AGENT
-
-**Principi general**: L'agent ha de guiar el docent i l'alumne a entendre que la llengua és la clau per accedir i construir el coneixement, i que l'andamiatge lingüístic és una estratègia essencial per fer el currículum accessible a tothom, sense reduir l'exigència.
+**Principi general:** Prioritza l'accés al significat i la participació activa de tot l'alumnat mitjançant suports lingüístics estratègics, fomentant tant l'adquisició de la llengua com l'aprenentatge dels continguts.
 
 ### Heurístiques per a l'Agent DOCENT
 
-1.  **Heurística: Identifica el "patró lingüístic" de la teva matèria**
-    *   **Quan aplica**: Quan un docent expressa dificultats perquè els alumnes entenguin conceptes o no sàpiguen expressar-los correctament en la seva àrea, o quan té alumnat amb diversitat lingüística.
-    *   **Fonament**: Cada disciplina té un llenguatge acadèmic i uns gèneres discursius propis (descriure, justificar, argumentar, etc.) que cal ensenyar explícitament. No és només "què" es diu, sinó "com" es diu [DOC 1, DOC 7, DOC 9].
-    *   **Exemple complet de raonament**: Un docent de ciències socials comenta que els seus alumnes "no saben argumentar" en els seus treballs. L'agent raonaria: "Entenc la teva preocupació. Sovint, quan diem que els alumnes no saben argumentar, ens referim a que no dominen el 'patró lingüístic' propi de l'argumentació en l'àmbit de les ciències socials. Això inclou no només tenir idees, sinó saber estructurar-les amb una tesi, proves, contraarguments i conclusions, utilitzant connectors causals i d'ordenació. No és una habilitat innata, sinó que s'aprèn. Podries començar per identificar els gèneres discursius més comuns en la teva matèria, com la justificació o l'argumentació històrica, i ensenyar-los de manera explícita. Per exemple, pots proporcionar 'bases d'orientació' amb frases model per iniciar un argument o llistes de connectors que els ajudin a estructurar les seves idees. Això els donarà les eines lingüístiques per vehicular el seu pensament i millorarà la seva comprensió dels continguts."
+*   **Heurística 1: Diagnòstic Lingüístic Inicial i Continu.**
+    *   **Quan aplica:** Quan un docent detecta que un alumne té dificultats per seguir la classe, participar o comprendre els materials, especialment si és nouvingut o presenta un rendiment lingüístic inferior a l'esperat.
+    *   **Fonament:** És crucial entendre el punt de partida de l'alumne en la L1 i la L2 (segons el MECR) per dissenyar intervencions efectives. Sense un diagnòstic precís, les adaptacions poden ser ineficaces o inadequades. Aquesta avaluació no és només inicial, sinó contínua, per ajustar l'andamiatge al progrés de l'alumne.
+    *   **Exemple complet de raonament:** Un docent expressa preocupació perquè la Maria, una alumna nouvinguda, no participa en les discussions de classe i té dificultats per entendre els textos de Ciències Socials. L'agent, en lloc de suggerir directament una simplificació generalitzada, raona que primer caldria aplicar una avaluació inicial de les competències lingüístiques de la Maria, tant en la seva L1 (si és possible) com en català (L2), utilitzant eines com les proves d'expressió i comprensió oral i escrita per a aules d'acollida. Aquesta avaluació permetrà al docent determinar el seu nivell real (A1, A2, B1) i identificar les àrees específiques de dificultat (vocabulari, sintaxi, comprensió de la informació principal, etc.). Amb aquesta informació, el docent podrà planificar un andamiatge personalitzat, com ara proporcionar glossaris bilingües, adaptar textos amb un vocabulari controlat o assignar-li tasques de producció oral més estructurades, assegurant que els suports s'ajustin a les seves necessitats específiques i no siguin ni massa ni massa poc.
 
-2.  **Heurística: Aplica el model de Cummins per ajustar l'andamiatge**
-    *   **Quan aplica**: Quan el docent té alumnat amb diferents nivells de competència lingüística (especialment L2) i necessita planificar activitats que siguin accessibles però mantinguin l'exigència cognitiva.
-    *   **Fonament**: El model de Cummins permet visualitzar la relació entre l'exigència cognitiva d'una tasca i el suport contextual que es proporciona. L'objectiu és progressar cap a tasques cognitivament exigents amb menys suport contextual, evitant tasques de baixa exigència i poc suport [DOC 19].
-    *   **Exemple complet de raonament**: Un docent d'ESO pregunta com pot fer que un alumne nouvingut participi en una discussió complexa sobre un tema de literatura. L'agent raonaria: "És un repte comú. El model de Cummins ens pot ajudar a planificar. Una discussió complexa és una tasca d'alta exigència cognitiva i poc suport contextual. Per a un alumne nouvingut, això pot ser aclaparador. Podries començar amb activitats al quadrant A: alta contextualització i baixa exigència cognitiva. Per exemple, abans de la discussió, l'alumne podria veure un vídeo curt sobre el tema amb subtítols en la seva L1 (si és possible) o en català, i després fer un exercici de reconeixement de vocabulari clau amb imatges. Després, podria passar al quadrant B: alta contextualització i alta exigència, com ara treballar en parelles amb un company que li faci d'andamiatge, utilitzant un organitzador gràfic per resumir les idees principals del vídeo. Això li permetrà construir coneixement i practicar la llengua en un entorn segur, abans d'intentar participar en la discussió general de l'aula."
+*   **Heurística 2: Integració Explícita de Llengua i Contingut (TILC).**
+    *   **Quan aplica:** Quan un docent ha d'ensenyar un concepte complex en una matèria no lingüística (història, ciències, matemàtiques) a alumnes amb dificultats de llengua, i vol assegurar que adquireixen tant el contingut com el llenguatge acadèmic associat.
+    *   **Fonament:** La llengua no és només un vehicle, sinó part intrínseca de l'aprenentatge del contingut. El llenguatge acadèmic (CALP) és diferent del llenguatge social (BICS) i requereix una instrucció explícita.
+    *   **Exemple complet de raonament:** Un docent de Ciències Naturals vol explicar el cicle de l'aigua a un grup amb alumnat amb diferents nivells de català. L'agent raona que simplement simplificar el text no serà suficient si no s'aborda el llenguatge acadèmic. Proposa al docent que, abans de la lectura, introdueixi el vocabulari clau (evaporació, condensació, precipitació, infiltració) amb suports visuals (diagrames, vídeos) i que els alumnes el practiquin oralment. Després, durant la lectura, el docent pot utilitzar organitzadors gràfics per estructurar la informació i fer explícites les relacions causals i temporals. Finalment, es pot demanar als alumnes que expliquin el cicle amb les seves paraules, utilitzant el vocabulari après, primer en parelles i després en gran grup, proporcionant així oportunitats per a la producció oral guiada i la consolidació del llenguatge acadèmic en un context significatiu.
 
-3.  **Heurística: Fes l'input comprensible sense reduir l'exigència cognitiva**
-    *   **Quan aplica**: Quan el docent detecta que els alumnes no comprenen la informació que reben (oralment o per escrit) o quan es planteja simplificar continguts.
-    *   **Fonament**: L'input comprensible és fonamental per a l'adquisició de la llengua. Això implica adequar la parla, explicar les tasques amb claredat, activar coneixements previs i adaptar les lectures, però sense disminuir el nivell de complexitat del contingut [DOC 15, DOC 20, DOC 45].
-    *   **Exemple complet de raonament**: Un docent de primària expressa que els seus alumnes "no entenen" els problemes de matemàtiques. L'agent raonaria: "És una situació habitual, sovint la dificultat no és matemàtica sinó lingüística. Per fer l'input comprensible, no cal que els problemes siguin més fàcils, sinó més accessibles lingüísticament. Podries llegir el problema en veu alta, fent pauses i utilitzant gestos per aclarir conceptes. Després, podríeu subratllar les paraules clau i els verbs d'acció, i crear un petit glossari visual. També pots reformular les frases amb estructures més simples o expandir les explicacions amb sinònims. Abans de resoldre'l, activa els seus coneixements previs preguntant 'Què sabem d'això?' o 'Què ens demana el problema?'. Això els ajudarà a construir un pont entre el que ja saben i la nova informació, fent el problema més comprensible sense simplificar el repte matemàtic."
+*   **Heurística 3: Ús Sistemàtic de Suports Multimodals i Visuals.**
+    *   **Quan aplica:** Quan un docent observa que els alumnes tenen dificultats per comprendre instruccions orals, explicacions o textos escrits, o per expressar-se oralment.
+    *   **Fonament:** La sobrecàrrega cognitiva lingüística pot ser un obstacle. Els suports visuals i multimodals redueixen aquesta càrrega, fent l'input més comprensible i activant diferents canals d'aprenentatge.
+    *   **Exemple complet de raonament:** Un docent es troba amb un grup d'alumnes que no acaben d'entendre les instruccions per a una activitat de projecte. L'agent raona que la complexitat de les instruccions orals pot ser un obstacle. Suggereix al docent que complementi les seves explicacions amb suports visuals: escriure les instruccions clau a la pissarra amb lletra clara i frases curtes, utilitzar pictogrames o imatges per representar conceptes abstractes, i fins i tot fer una demostració pràctica de la primera fase de l'activitat. A més, pot proporcionar un guió visual pas a pas de la tasca. Aquesta aproximació multimodal permet als alumnes accedir al significat a través de múltiples canals, reduint la dependència exclusiva de la comprensió auditiva i facilitant que puguin seguir el ritme de la classe i participar activament.
 
-4.  **Heurística: Promou la interacció i el treball cooperatiu com a andamiatge natural**
-    *   **Quan aplica**: Quan el docent vol fomentar l'ús actiu de la llengua, la negociació de significats i l'aprenentatge entre iguals.
-    *   **Fonament**: La interacció és un element indispensable per a l'aprenentatge, ja que permet verbalitzar, contrastar idees, negociar significats i rebre models de llengua. El treball cooperatiu crea situacions comunicatives que faciliten aquest procés [DOC 5, DOC 21, DOC 22].
-    *   **Exemple complet de raonament**: Un docent vol que els seus alumnes de batxillerat millorin la seva expressió oral en anglès. L'agent raonaria: "La interacció és clau per millorar l'expressió oral. En lloc de només fer exposicions individuals, podries estructurar activitats de treball cooperatiu. Per exemple, en un 'treball per projectes', els alumnes han de resoldre un problema en grup i presentar les seves conclusions. Durant el procés, es veuran obligats a negociar significats, a demanar aclariments i a oferir models de llengua als seus companys. Pots crear 'grups d'experts' on cadascú investiga una part del tema i després l'explica als altres. Això no només fomenta l'ús actiu de la llengua, sinó que també els proporciona un 'feedback' constant i un entorn de suport on l'error és part del procés d'aprenentatge, tal com es descriu en el TILC."
+*   **Heurística 4: Foment de la Interacció Comunicativa Estructurada.**
+    *   **Quan aplica:** Quan un docent vol augmentar la participació oral i la fluïdesa en català d'alumnes amb dificultats de llengua, especialment en contextos socials i acadèmics.
+    *   **Fonament:** La pràctica activa i significativa en interaccions reals és fonamental per a l'adquisició de la llengua. Les activitats estructurades redueixen l'ansietat i proporcionen el suport necessari.
+    *   **Exemple complet de raonament:** Un docent vol que els seus alumnes amb un nivell A2 de català practiquin l'expressió d'opinions en un debat sobre un tema d'actualitat. L'agent raona que una interacció lliure podria ser intimidatòria. Proposa al docent que utilitzi una activitat de rol-play com les descrites en els materials "Enrola't", on cada alumne té un personatge amb una opinió predefinida i unes "targetes d'ajuda" amb expressions útils per argumentar, assentir o dissentir (ex: "Estic d'acord amb...", "No ho veig clar perquè...", "La meva opinió és que..."). El docent pot modelar primer un diàleg, i després els alumnes practiquen en parelles o petits grups abans de la representació davant la classe. Aquesta estructura proporciona un andamiatge lingüístic i social que permet als alumnes practicar la llengua en un context segur i significatiu, augmentant la seva confiança i fluïdesa de manera progressiva.
 
-5.  **Heurística: Valora i integra el plurilingüisme de l'alumnat**
-    *   **Quan aplica**: Quan el docent té alumnat amb diferents L1 a l'aula i vol aprofitar aquest recurs per enriquir l'aprenentatge i fomentar la inclusió.
-    *   **Fonament**: La competència plurilingüe és una competència clau del currículum. Reconèixer i valorar el bagatge cultural i lingüístic de l'alumnat no només reforça la seva autoestima, sinó que també pot ser un recurs cognitiu i acadèmic, permetent transferències entre llengües [DOC 14].
-    *   **Exemple complet de raonament**: Una docent d'ESO té alumnes que parlen àrab, xinès i ucraïnès a l'aula i no sap com integrar les seves llengües. L'agent raonaria: "És una oportunitat fantàstica per fomentar la competència plurilingüe! En lloc de veure les L1 com una barrera, podem usar-les com un pont. Per exemple, quan introduïu vocabulari nou, pots demanar als alumnes que busquin l'equivalent en la seva L1 i el comparteixin amb la classe. Això no només els ajuda a comprendre millor, sinó que també valida la seva llengua i cultura. Podries fer petits projectes on investiguin un aspecte del tema des de la perspectiva de la seva cultura d'origen, i després el presentin a la classe. Fins i tot, en moments de treball cooperatiu, pots permetre que utilitzin la seva L1 per negociar significats o aclarir dubtes entre ells, sempre que la producció final sigui en la llengua vehicular. Això crea un ambient d'aula més inclusiu i aprofita el seu capital lingüístic."
+*   **Heurística 5: Adaptació Gradual i Progressiva de Materials.**
+    *   **Quan aplica:** Quan un docent ha d'adaptar un text, un exercici o un material didàctic per a alumnes amb diferents nivells de competència lingüística en la L2.
+    *   **Fonament:** L'adaptació no és una solució única, sinó un procés dinàmic que ha d'evolucionar amb l'alumne. Ha de ser prou desafiadora per promoure l'aprenentatge, però prou accessible per evitar la frustració.
+    *   **Exemple complet de raonament:** Un docent vol que els seus alumnes llegeixin un fragment d'un llibre de text de Geografia amb un vocabulari i estructures complexes. L'agent raona que una adaptació massa dràstica podria empobrir el contingut, mentre que una insuficient generaria frustració. Suggereix al docent que creï tres versions del text: una original, una simplificada amb frases més curtes, vocabulari bàsic i eliminació de subordinades complexes (nivell A2), i una tercera amb un glossari de termes clau, sinònims i organitzadors gràfics (nivell B1). A més, el docent pot introduir el tema amb un vídeo curt, pre-ensenyar el vocabulari més difícil de cada versió i proposar activitats de comprensió diferenciades. Així, cada alumne pot accedir al contingut des del seu nivell, i el docent pot anar augmentant la complexitat dels materials a mesura que l'alumne demostra progressos en la seva competència lingüística.
 
 ### Heurístiques per a l'Agent ALUMNE
 
-1.  **Heurística: Busca els teus "suports" per entendre millor**
-    *   **Quan aplica**: Quan l'alumne expressa que no entén el que llegeix o el que explica el professor, o se sent perdut en una tasca.
-    *   **Fonament**: L'aprenentatge és més fàcil quan la informació és comprensible. Hi ha moltes maneres de fer-la comprensible, i l'alumne pot aprendre a buscar aquests suports [DOC 20, DOC 45].
-    *   **Exemple complet de raonament**: Un alumne diu: "No entenc aquest text de socials, té paraules molt difícils". L'agent raonaria: "És normal sentir-se així amb textos nous. Però no et rendeixis! Pensa que hi ha moltes maneres d'entendre millor. Primer, subratlla les paraules que no entens. Després, mira si hi ha imatges, gràfics o mapes al costat del text que et puguin donar pistes. Pots preguntar al professor si hi ha un vídeo o una explicació més senzilla del tema. També pots buscar aquestes paraules en un diccionari o preguntar a un company. Si el text és molt llarg, intenta llegir només els títols i subtítols per fer-te una idea general. Recorda que no cal entendre-ho tot a la primera, sinó anar construint el coneixement a poc a poc amb l'ajuda de diferents suports."
+*   **Heurística 1: Demana Aclariments i Suports Actius.**
+    *   **Quan aplica:** Quan un alumne no entén una explicació del docent, una instrucció o un fragment d'un text, i se sent bloquejat o confós.
+    *   **Fonament:** Prendre la iniciativa per demanar ajuda és una estratègia d'aprenentatge activa que redueix la frustració i proporciona al docent informació valuosa sobre les dificultats.
+    *   **Exemple complet de raonament:** L'agent observa que la Laia, una alumna amb dificultats de llengua, sembla perduda durant l'explicació d'un concepte de Matemàtiques. L'agent raona que la Laia hauria de sentir-se empoderada per demanar ajuda de manera proactiva. Li suggereix que aixequi la mà i digui: "Ho pots repetir, si us plau?", o "Què vol dir 'hipotenusa'?", o "Podries fer un dibuix?". També podria preguntar al seu company de taula. Aquesta acció no només l'ajuda a ella a comprendre el concepte en el moment, sinó que també envia un senyal al docent que necessita més andamiatge o una explicació més visual, fomentant així un entorn d'aprenentatge més inclusiu on demanar ajuda és un signe de proactivitat i no de feblesa.
 
-2.  **Heurística: Practica "com dir" el que saps, no només "què saps"**
-    *   **Quan aplica**: Quan l'alumne té un coneixement del contingut però li costa expressar-lo en un examen, un treball o una presentació oral.
-    *   **Fonament**: Saber expressar el coneixement amb el llenguatge adequat (acadèmic, formal, propi de cada matèria) és part de l'aprenentatge. Les funcions cognitivolingüístiques (descriure, explicar, argumentar) són habilitats que es practiquen [DOC 9, DOC 23, DOC 33].
-    *   **Exemple complet de raonament**: Un alumne diu: "Jo sé la resposta, però no sé com posar-la per escrit". L'agent raonaria: "Això és molt comú! Saber el contingut és una part, i saber 'com' comunicar-lo és una altra, i totes dues són importants. Imagina que has d'explicar un procés. No és el mateix explicar-ho a un amic que fer-ho en un informe de ciències. En l'informe, necessites un llenguatge més precís, potser usar connectors com 'en primer lloc', 'a continuació', 'per tant'. Pots demanar al teu professor si té un exemple d'un bon informe o una 'base d'orientació' que et digui els passos a seguir. També pots practicar explicant-ho en veu alta a un company abans d'escriure-ho. Verbalitzar les idees t'ajuda a ordenar-les i a trobar les paraules adequades. Recorda que cada matèria té la seva manera de parlar i escriure, i aprendre-la et farà més competent."
+*   **Heurística 2: Utilitza Recursos Multimodals i Contextuals per a la Comprensió.**
+    *   **Quan aplica:** Quan un alumne s'enfronta a un text o una explicació oral que conté vocabulari o conceptes desconeguts, i no té accés immediat a una traducció.
+    *   **Fonament:** Activar múltiples canals sensorials i buscar pistes en el context pot compensar les llacunes lingüístiques i facilitar la construcció de significat.
+    *   **Exemple complet de raonament:** En Joan ha de llegir un text sobre el canvi climàtic i troba moltes paraules que no entén. L'agent raona que en Joan no ha de dependre només del diccionari. Li suggereix que, abans de buscar cada paraula, miri les imatges o gràfics que acompanyen el text, intenti deduir el significat pel context de la frase o del paràgraf, i busqui paraules clau que ja conegui. També podria buscar un vídeo curt sobre el canvi climàtic en català o en la seva L1 per obtenir una visió general del tema. Aquesta estratègia multimodal i contextual li permetrà construir una comprensió global del text, fins i tot amb vocabulari desconegut, i li facilitarà l'aprenentatge de noves paraules de manera més orgànica i menys dependent de la traducció literal.
 
-3.  **Heurística: Utilitza la teva llengua materna (L1) per ajudar-te a entendre**
-    *   **Quan aplica**: Quan l'alumne té una L1 diferent de la llengua vehicular i se sent aïllat o amb dificultats per accedir al contingut.
-    *   **Fonament**: La L1 és un recurs cognitiu valuós. Fer ponts entre la L1 i la L2 pot facilitar la comprensió i l'adquisició de nous conceptes, i reforça la identitat de l'alumne [DOC 14, DOC 21].
-    *   **Exemple complet de raonament**: Un alumne nouvingut expressa que li costa molt seguir les classes perquè no entén el català. L'agent raonaria: "És comprensible que et costi al principi, però la teva llengua materna és una eina molt potent per ajudar-te! No tinguis por d'utilitzar-la. Per exemple, quan el professor explica un concepte nou, pots intentar traduir-lo mentalment a la teva L1 per veure si l'entens millor. Si tens companys que parlen la teva mateixa llengua, pots demanar-los que t'expliquin alguna cosa en la vostra L1 durant el treball en grup. Això no és fer trampes, és una manera intel·ligent d'aprofitar els teus recursos per construir coneixement. També pots fer petits glossaris amb les paraules clau en català i la seva traducció a la teva L1. A mesura que vagis entenent més en català, necessitaràs menys la L1, però és un suport molt útil al principi."
-```
+*   **Heurística 3: Practica la Llengua Activa en Contextos Significatius.**
+    *   **Quan aplica:** Quan un alumne vol millorar la seva fluïdesa oral, la seva confiança en la comunicació i la seva capacitat d'utilitzar el vocabulari i les estructures apreses.
+    *   **Fonament:** L'adquisició de la llengua és un procés actiu que es consolida amb la pràctica en situacions comunicatives reals i significatives, més enllà de les tasques formals de l'aula.
+    *   **Exemple complet de raonament:** La Fàtima vol parlar millor català, però se sent insegura a l'aula. L'agent raona que la pràctica activa en entorns de baixa pressió és clau. Li suggereix que busqui oportunitats per parlar català amb els seus companys durant els patis o les activitats extraescolars, que s'apunti a algun club o activitat on es parli català (esport, teatre, etc.), o que intenti utilitzar el català en situacions quotidianes (comprar al supermercat, demanar informació). També podria practicar amb jocs de rol amb amics o amb el docent, utilitzant les "targetes d'ajuda" amb frases fetes o expressions. Aquesta immersió activa en contextos reals i significatius li permetrà consolidar el vocabulari i les estructures de manera natural, guanyar confiança i veure la llengua com una eina funcional per a la seva vida diària.
 ---
 
 ## 5. FONTS DEL CORPUS
 
 | # | Títol | URL |
 |---|-------|-----|
-| 1 | cursos:escola_inclusiva:ansu:b2:index [Formació del professorat] | https://ateneu.xtec.cat/wikiform/wikiexport/cursos/escola_inclusiva/ansu/b2/index |
-| 2 | cursos:escola_inclusiva:ansu:guia [Formació del professorat] | https://ateneu.xtec.cat/wikiform/wikiexport/cursos/escola_inclusiva/ansu/guia |
-| 3 | cursos:escola_inclusiva:ansu:b3:index [Formació del professorat] | https://ateneu.xtec.cat/wikiform/wikiexport/cursos/escola_inclusiva/ansu/b3/index |
-| 4 | cursos:escola_inclusiva:ansu:b4:index [Formació del professorat] | https://ateneu.xtec.cat/wikiform/wikiexport/cursos/escola_inclusiva/ansu/b4/index |
-| 5 | cursos:escola_inclusiva:ansu:b5:index [Formació del professorat] | https://ateneu.xtec.cat/wikiform/wikiexport/cursos/escola_inclusiva/ansu/b5/index |
-| 6 | cursos:escola_inclusiva:ansu:b2:b2t3 [Formació del professorat] | https://ateneu.xtec.cat/wikiform/wikiexport/cursos/escola_inclusiva/ansu/b2/b2t3 |
-| 7 | cursos:escola_inclusiva:ansu:b2:b2t1 [Formació del professorat] | https://ateneu.xtec.cat/wikiform/wikiexport/cursos/escola_inclusiva/ansu/b2/b2t1 |
-| 8 | cursos:escola_inclusiva:ansu:b2:b2t4 [Formació del professorat] | https://ateneu.xtec.cat/wikiform/wikiexport/cursos/escola_inclusiva/ansu/b2/b2t4 |
-| 9 | cursos:escola_inclusiva:ansu:b2:b2t2 [Formació del professorat] | https://ateneu.xtec.cat/wikiform/wikiexport/cursos/escola_inclusiva/ansu/b2/b2t2 |
-| 10 | cursos:escola_inclusiva:ansu:b1:b1t4 [Formació del professorat] | https://ateneu.xtec.cat/wikiform/wikiexport/cursos/escola_inclusiva/ansu/b1/b1t4 |
-| 11 | cursos:escola_inclusiva:ansu:b2:b2t5 [Formació del professorat] | https://ateneu.xtec.cat/wikiform/wikiexport/cursos/escola_inclusiva/ansu/b2/b2t5 |
-| 12 | cursos:escola_inclusiva:ansu:b1:b1t2 [Formació del professorat] | https://ateneu.xtec.cat/wikiform/wikiexport/cursos/escola_inclusiva/ansu/b1/b1t2 |
-| 13 | cursos:escola_inclusiva:ansu:b1:b1t3 [Formació del professorat] | https://ateneu.xtec.cat/wikiform/wikiexport/cursos/escola_inclusiva/ansu/b1/b1t3 |
-| 14 | cursos:escola_inclusiva:ansu:b3:b3t4 [Formació del professorat] | https://ateneu.xtec.cat/wikiform/wikiexport/cursos/escola_inclusiva/ansu/b3/b3t4 |
-| 15 | cursos:escola_inclusiva:ansu:b3:b3t1 [Formació del professorat] | https://ateneu.xtec.cat/wikiform/wikiexport/cursos/escola_inclusiva/ansu/b3/b3t1 |
-| 16 | cursos:escola_inclusiva:ansu:b7:b7t5 [Formació del professorat] | https://ateneu.xtec.cat/wikiform/wikiexport/cursos/escola_inclusiva/ansu/b7/b7t5 |
-| 17 | cursos:escola_inclusiva:ansu:b7:b7t3 [Formació del professorat] | https://ateneu.xtec.cat/wikiform/wikiexport/cursos/escola_inclusiva/ansu/b7/b7t3 |
-| 19 | cursos:escola_inclusiva:ansu:b4:b4t1 [Formació del professorat] | https://ateneu.xtec.cat/wikiform/wikiexport/cursos/escola_inclusiva/ansu/b4/b4t1 |
-| 20 | cursos:escola_inclusiva:ansu:b4:b4t4 [Formació del professorat] | https://ateneu.xtec.cat/wikiform/wikiexport/cursos/escola_inclusiva/ansu/b4/b4t4 |
-| 21 | cursos:escola_inclusiva:ansu:b5:b5t1 [Formació del professorat] | https://ateneu.xtec.cat/wikiform/wikiexport/cursos/escola_inclusiva/ansu/b5/b5t1 |
-| 22 | cursos:curriculum:eso_btx:dcs1:modul_4:index [Formació del professorat] | http://ateneu.xtec.cat/wikiform/wikiexport/cursos/curriculum/eso_btx/dcs1/modul_4/index |
-| 23 | cursos:curriculum:eso_btx:dcs1:modul_3:index [Formació del professorat] | http://ateneu.xtec.cat/wikiform/wikiexport/cursos/curriculum/eso_btx/dcs1/modul_3/index |
-| 24 | cursos:curriculum:eso_btx:dcs1:modul_2:index [Formació del professorat] | http://ateneu.xtec.cat/wikiform/wikiexport/cursos/curriculum/eso_btx/dcs1/modul_2/index |
-| 27 | cursos:curriculum:eso_btx:dcs1:modul_4:practica_3 [Formació del professorat] | http://ateneu.xtec.cat/wikiform/wikiexport/cursos/curriculum/eso_btx/dcs1/modul_4/practica_3 |
-| 28 | cursos:curriculum:eso_btx:dcs1:modul_4:practica_1 [Formació del professorat] | http://ateneu.xtec.cat/wikiform/wikiexport/cursos/curriculum/eso_btx/dcs1/modul_4/practica_1 |
-| 29 | cursos:curriculum:eso_btx:dcs1:modul_3:practica_2 [Formació del professorat] | http://ateneu.xtec.cat/wikiform/wikiexport/cursos/curriculum/eso_btx/dcs1/modul_3/practica_2 |
-| 32 | cursos:curriculum:eso_btx:dcs1:modul_3:practica_4 [Formació del professorat] | http://ateneu.xtec.cat/wikiform/wikiexport/cursos/curriculum/eso_btx/dcs1/modul_3/practica_4 |
-| 33 | cursos:curriculum:eso_btx:dcs1:modul_3:practica_1 [Formació del professorat] | http://ateneu.xtec.cat/wikiform/wikiexport/cursos/curriculum/eso_btx/dcs1/modul_3/practica_1 |
-| 34 | cursos:curriculum:eso_btx:dcs1:modul_1:practica_1 [Formació del professorat] | http://ateneu.xtec.cat/wikiform/wikiexport/cursos/curriculum/eso_btx/dcs1/modul_1/practica_1 |
-| 35 | cursos:curriculum:eso_btx:dcs1:modul_1:practica_3 [Formació del professorat] | http://ateneu.xtec.cat/wikiform/wikiexport/cursos/curriculum/eso_btx/dcs1/modul_1/practica_3 |
-| 37 | cursos:curriculum:eso_btx:dcs1:modul_2:practica_2 [Formació del professorat] | http://ateneu.xtec.cat/wikiform/wikiexport/cursos/curriculum/eso_btx/dcs1/modul_2/practica_2 |
-| 38 | cursos:curriculum:eso_btx:dcs1:modul_2:practica_4 [Formació del professorat] | http://ateneu.xtec.cat/wikiform/wikiexport/cursos/curriculum/eso_btx/dcs1/modul_2/practica_4 |
-| 40 | Nivells_materies_CELM_42330e1010.pdf | http://xtec.gencat.cat/web/.content/projectes/alumnat-origen-estranger/suport-linguistic-social/seguiment/Nivells_materies_CELM.pdf |
-| 41 | continguts_de_llengua_relacionats_amb_les_arees_no_8421d97948.pdf | https://ateneu.xtec.cat/wikiform/wikiexport/_media/cursos/escola_inclusiva/ansu/b2/continguts_de_llengua_relacionats_amb_les_arees_no_lingueistiques.b2.pdf |
-| 45 | input_comprensible_b3_d7bb1fd400.pdf | https://ateneu.xtec.cat/wikiform/wikiexport/_media/cursos/escola_inclusiva/ansu/b3/input_comprensible_b3.pdf |
+| 1 | Accions_e-n-lligada_190367285b.pdf | https://xtec.gencat.cat/web/.content/projectes/alumnat-origen-estranger/alumnatnou/materials/catala/lexic/Accions_e-n-lligada.pdf |
+| 2 | guia_didactica_projecte_mon_5843384272.pdf | https://xtec.gencat.cat/web/.content/projectes/alumnat-origen-estranger/alumnatnou/materials/catala/global/guia_didactica_projecte_mon.pdf |
+| 3 | quaderns-SLS-aprendre-llengua-materies_3afd7edb65.pdf | https://xtec.gencat.cat/web/.content/projectes/alumnat-origen-estranger/suport-linguistic-social/publicacions/quaderns/documents/quaderns-SLS-aprendre-llengua-materies.pdf |
+| 4 | quaderns-SLS-orientacions-EI-CI_e7fce57f30.pdf | https://xtec.gencat.cat/web/.content/projectes/alumnat-origen-estranger/suport-linguistic-social/publicacions/quaderns/documents/quaderns-SLS-orientacions-EI-CI.pdf |
+| 5 | quaderns-SLS-adequar-curriculum_366b5bcb5a.pdf | https://xtec.gencat.cat/web/.content/projectes/alumnat-origen-estranger/suport-linguistic-social/publicacions/quaderns/documents/quaderns-SLS-adequar-curriculum.pdf |
+| 6 | quaderns-SLS-adequar-curriculum_14e08d6baf.pdf | http://xtec.gencat.cat/web/.content/projectes/alumnat-origen-estranger/suport-linguistic-social/publicacions/quaderns/documents/quaderns-SLS-adequar-curriculum.pdf |
+| 7 | quaderns-SLS-orientacions-EI-CI_e0844f0826.pdf | http://xtec.gencat.cat/web/.content/projectes/alumnat-origen-estranger/suport-linguistic-social/publicacions/quaderns/documents/quaderns-SLS-orientacions-EI-CI.pdf |
+| 8 | quaderns-SLS-aprendre-vocabulari-materies_0939b573dc.pdf | http://xtec.gencat.cat/web/.content/projectes/alumnat-origen-estranger/suport-linguistic-social/publicacions/quaderns/documents/quaderns-SLS-aprendre-vocabulari-materies.pdf |
+| 9 | quaderns-SLS-aprendre-llengua-materies_b77479aece.pdf | http://xtec.gencat.cat/web/.content/projectes/alumnat-origen-estranger/suport-linguistic-social/publicacions/quaderns/documents/quaderns-SLS-aprendre-llengua-materies.pdf |
+| 10 | Ful_lleng_alu_116a84d712.pdf | https://xtec.gencat.cat/web/.content/projectes/alumnatnou/avaluacio/inicial2/documents/Ful_lleng_alu.pdf |
+| 11 | Bra_mat_alu_0c54423892.pdf | https://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0009/2ee95d7f-c560-4888-9427-eec2c0019f2f/Bra_mat_alu.pdf |
+| 12 | caixadeines02_b77d235916.pdf | https://educacio.gencat.cat/.content/home/departament/publicacions/publicacions-periodiques/caixadeines/caixadeines02/caixadeines02.pdf |
+| 13 | nivell_inicial_ec0ebc0fd9.pdf | http://www.xtec.cat/alfresco/d/d/workspace/SpacesStore/359c6661-6f0b-4571-ae38-ecf627ac0cfa/nivell_inicial.pdf |
+| 14 | 130117_Objectius_generals_L2_d09b4a07e8.pdf | http://www.xtec.cat/alfresco/d/d/workspace/SpacesStore/6d7f1544-43b4-4baa-a6ca-5f16deb88fd3/130117_Objectius_generals_L2.pdf |
+| 15 | Alumnat_origen_estranger_descriptors_llengua_c6438107b5.pdf | https://xtec.gencat.cat/web/.content/projectes/alumnat-origen-estranger/suport-linguistic-social/seguiment/Alumnat_origen_estranger_descriptors_llengua.pdf |
+| 16 | Nivells_materies_CELM_2bbf3c6e75.pdf | https://xtec.gencat.cat/web/.content/projectes/alumnat-origen-estranger/suport-linguistic-social/seguiment/Nivells_materies_CELM.pdf |
+| 17 | prog_lcatalana_e621c3bb1f.pdf | http://www.xtec.cat/alfresco/d/d/workspace/SpacesStore/823d1d60-559d-412a-a9be-28b5faa581ae/prog_lcatalana.pdf |
+| 18 | 1753m_a2910c9730.pdf | http://www.xtec.cat/sgfp/llicencies/200708/memories/1753m.pdf |
+| 19 | 911m_757ca1b3cd.pdf | http://www.xtec.cat/sgfp/llicencies/200405/memories/911m.pdf |
+| 20 | Prf2-Escola_institut_05a6a4b663.pdf | http://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0008/2b4e3332-560d-46c8-9571-fcb2ca1e3230/Prf2-Escola_institut.pdf |
+| 21 | V1_guia_967b928fe2.pdf | http://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0070/a3b352de-9313-41c9-bc20-c33a1171d6db/V1_guia.pdf |
+| 22 | Tema1_lligada_4d09ff368b.pdf | http://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0052/632add3e-ec36-41c5-942e-518dade27a16/Tema1_lligada.pdf |
+| 23 | V3_guia_195ae8ab2c.pdf | http://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0077/b5dc013b-bfd0-4828-b74c-29bbd2e726da/V3_guia.pdf |
+| 24 | Prf5-La_familia_9565b58e87.pdf | http://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0094/e85ca1b9-d5a8-4417-bbc1-055827eb6ea7/Prf5-La_familia.pdf |
+| 25 | V2_guia_7b8941c840.pdf | http://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0055/72292d11-345f-4056-947d-0a9877c14b5c/V2_guia.pdf |
+| 26 | Prf9_Els_animals_92e8c5dbca.pdf | http://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0007/1fceb626-a426-4cbc-b12b-e19e847be761/Prf9_Els_animals.pdf |
+| 27 | Prf12-Els_oficis_cd34030d7c.pdf | http://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0013/3f36e43a-110f-4b43-a514-1c8106482257/Prf12-Els_oficis.pdf |
+| 28 | oralpha_metode_alfabetitzacio_catala_guia_ced5b69b9e.pdf | https://dixit.gencat.cat/web/.content/home/04recursos/02publicacions/02publicacions_de_bsf/05_immigracio/oralpha_metode_alfabetitzacio_catala/oralpha_metode_alfabetitzacio_catala_guia.pdf |
+| 29 | Prf1-La_classe_243a08a501.pdf | http://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0012/3d4788f9-d474-4068-b978-9a539780b8d7/Prf1-La_classe.pdf |
+| 30 | guia_el_meu_album_be568aed7c.pdf | https://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0069/9ee3a2c8-7e81-490d-9127-7fea655f33f9/guia_el_meu_album.pdf |
+| 31 | guia_didactica_vivim_junts_29bdb108a5.pdf | https://llengua.gencat.cat/web/.content/documents/publicacions/vivim_junts/arxius/guia_didactica_vivim_junts.pdf |
+| 32 | guia_Viure_634b7c13ed.pdf | https://llengua.gencat.cat/web/.content/documents/publicacions/viure_a_catalunya/guia_Viure.pdf |
+| 33 | xarranca_150416_9b8268a4f1.pdf | https://fundaciobofill.cat/uploads/docs/l/4/j/o/o/3/j/x/o/xarranca_150416.pdf |
+| 34 | 1_fitxa_practica_album_festes_hivern_b6f4af899a.pdf | https://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0062/8e961a7e-5de3-4337-aefe-17dccd4e71e1/1_fitxa_practica_album_festes_hivern.pdf |
+| 35 | instruccions_CL_abeae8fb6c.pdf | https://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0043/3968ff89-8455-4ba1-b7ee-97e59326ed44/instruccions_CL.pdf |
+| 36 | instruccions_EO_5dfaf458cc.pdf | https://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0049/57240bc3-aac3-4ca0-96ec-7160ebd36991/instruccions_EO.pdf |
+| 37 | instruccions_aplicacio-CL_sec_red_ebab0c71e2.pdf | https://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0067/9a5aad6b-dcf4-4542-93fb-ae004dd279a7/instruccions_aplicacio-CL_sec_red.pdf |
+| 38 | CM_7_716f02dab2.pdf | http://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0076/b4d0fcfc-f18e-485d-8b60-36a461724d40/CM_7.pdf |
+| 39 | CS_3_ab4c815f59.pdf | http://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0046/48087db8-3981-4780-abc0-ffa4bea25745/CS_3.pdf |
+| 40 | CM_13_49e7652b72.pdf | http://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0068/9ce4ddc3-d644-4fd2-8f10-6366ce1dab2c/CM_13.pdf |
+| 41 | CM_9_e40012bad3.pdf | http://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0081/c2e13bd2-1178-4238-bde4-78bb750e8aaa/CM_9.pdf |
+| 42 | CM_3_8530284913.pdf | http://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0066/968e13af-2c1e-4461-bfd2-0f93d21db115/CM_3.pdf |
+| 43 | CS_5_7a2c0ee3f1.pdf | http://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0033/07926d76-b3f6-430b-99f0-c1065adfcfee/CS_5.pdf |
+| 44 | CM_15_cd7b1ff345.pdf | http://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0040/275cd5c6-51b7-42b4-9504-1f6ae041b0d6/CM_15.pdf |
+| 45 | CM_4_591b3a5feb.pdf | http://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0024/fc942d9f-e32d-4698-838c-44a18537454b/CM_4.pdf |
+| 46 | comunicacio_enrolat_16e6254639.pdf | https://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0056/75efd036-9962-4032-b26a-d6eb2ceee3f3/comunicacio_enrolat.pdf |
+| 47 | CS_2_968cf7f93d.pdf | http://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0053/66cd004b-2273-437a-8536-fe28dc54fc5d/CS_2.pdf |
+| 48 | guia_didactica_2d378b6d4c.pdf | https://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0011/3c60b30e-abd6-424c-a241-fb12797377b3/guia_didactica.pdf |
+| 49 | CM_11_2f450f430e.pdf | http://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0019/6d69d147-72b2-407a-97a6-819495b8652d/CM_11.pdf |
+| 50 | CM_2_9694f8d6ee.pdf | http://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0090/dfb2bb7e-e15b-4666-bd8c-6b7e992ccead/CM_2.pdf |
+| 51 | CM_1_d9503c5069.pdf | https://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0045/45c10f02-dd85-4a7a-adba-82cdb97b3468/CM_1.pdf |
+| 52 | CS_6_aa98afe9b2.pdf | http://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0015/05aa0a9f-350b-4dfa-9022-242d2b62ceb7/CS_6.pdf |
+| 53 | CM_14_72bdbed42d.pdf | http://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0089/da022fc4-d24e-479b-8d08-a881bb20eaa9/CM_14.pdf |
+| 54 | CS_14_31058e2b0e.pdf | http://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0077/b5fb0e39-9a36-48d3-b19e-2d5e0f8ab160/CS_14.pdf |
+| 55 | CM_5_47feeeb760.pdf | http://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0092/e428a152-dd0c-4c7b-a77e-e8b30f33c711/CM_5.pdf |
+| 56 | CS_4_8a4b323ba6.pdf | http://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0060/8863334c-e95b-4ea8-8709-a4ca6f5b81f6/CS_4.pdf |
+| 57 | CM_10_ddf938c1ca.pdf | http://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0035/1467011b-4522-489b-b3f3-6189e593cc7a/CM_10.pdf |
+| 58 | CS_10_9d6a313190.pdf | http://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0092/e444c5dc-c114-4fe6-a7ac-87a9995861ad/CS_10.pdf |
+| 59 | CM_6_3a5e4fdd4b.pdf | http://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0035/158db48e-6f05-4d4a-ac3f-4c95636e86c5/CM_6.pdf |
+| 60 | CS_8_ecab8e0e65.pdf | http://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0056/745143be-cf86-464b-a1c3-ee343f078c61/CS_8.pdf |
+| 61 | CM_8_a3a355dd3a.pdf | http://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0012/3e862ae0-629a-4826-b79a-ce80934bfd4a/CM_8.pdf |
+| 62 | CS_11_3d3bd3cfc3.pdf | http://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0090/df5b428c-4a5a-43a7-a2ef-3413c51f9b2e/CS_11.pdf |
+| 63 | CM_12_50d6fca930.pdf | http://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0060/8755336e-a197-494e-b6a5-f00efcce8157/CM_12.pdf |
+| 64 | CS_1_cc54cc7446.pdf | http://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0083/c9140f67-fef1-447c-a286-46b6c394edce/CS_1.pdf |
+| 65 | CS_15_84cd7e8c2f.pdf | http://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0069/9f7d24a9-1f42-48e2-9438-52ce7d2924cd/CS_15.pdf |
+| 66 | CS_13_f50b59a9c1.pdf | http://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0023/fe66436c-0ce4-4ee1-bd7c-5caea42d1413/CS_13.pdf |
+| 67 | CS_12_3418358339.pdf | http://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0038/236482e7-2993-419e-9d00-c6108a7dd991/CS_12.pdf |
+| 68 | CS_9_6e9c18463c.pdf | http://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0027/f2f5db4b-9fbe-490a-9778-acf38e47f784/CS_9.pdf |
+| 69 | instruccions_CO_82651e16ad.pdf | http://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0075/b19a4098-b85a-460c-b1e7-c875c9f84e92/instruccions_CO.pdf |
+| 70 | insruccions_aplicacio_EE_sec_red_9b3ea8f8fa.pdf | http://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0026/f9df3b4f-24ad-40ad-8020-a992aab567ba/insruccions_aplicacio_EE_sec_red.pdf |
+| 71 | https://repositori.educacio.gencat.cat/bitstream/handle/20.500.12694/2827/proces_lector_2020.pdf?sequence=1&isAllowed=y | https://repositori.educacio.gencat.cat/bitstream/handle/20.500.12694/2827/proces_lector_2020.pdf?sequence=1&isAllowed=y |
+| 72 | https://repositori.educacio.gencat.cat/bitstream/handle/20.500.12694/2838/estrategies_lectura_fer_connexions_2016.pdf?sequence=1&isAllowed=y | https://repositori.educacio.gencat.cat/bitstream/handle/20.500.12694/2838/estrategies_lectura_fer_connexions_2016.pdf?sequence=1&isAllowed=y |
+| 73 | https://repositori.educacio.gencat.cat/bitstream/handle/20.500.12694/2839/tallers_lectura_material_didactic_2015.pdf?sequence=1&isAllowed=y | https://repositori.educacio.gencat.cat/bitstream/handle/20.500.12694/2839/tallers_lectura_material_didactic_2015.pdf?sequence=1&isAllowed=y |
+| 74 | https://repositori.educacio.gencat.cat/bitstream/handle/20.500.12694/2825/lectura_guiada_proposta_didactica_treballar_proces_lector_secundaria_material_didactic_2017.pdf?sequence=1&isAllowed=y | https://repositori.educacio.gencat.cat/bitstream/handle/20.500.12694/2825/lectura_guiada_proposta_didactica_treballar_proces_lector_secundaria_material_didactic_2017.pdf?sequence=1&isAllowed=y |
+| 75 | https://repositori.educacio.gencat.cat/bitstream/handle/20.500.12694/2649/dossier_escolta_estructurada_3_edicio_2024.pdf?sequence=6&isAllowed=y | https://repositori.educacio.gencat.cat/bitstream/handle/20.500.12694/2649/dossier_escolta_estructurada_3_edicio_2024.pdf?sequence=6&isAllowed=y |
+| 76 | El gust per llegir a educació infantil i a educació primària [material didàctic] (2a edició, 2016) - RDE - Repositori del Departament d'Educació i Formació Professional | https://repositori.educacio.gencat.cat/handle/20.500.12694/2854#page=1 |
+| 77 | https://repositori.educacio.gencat.cat/bitstream/handle/20.500.12694/2852/parlem_llibres_tertulia_literaria_2_edicio_2016.pdf?sequence=1&isAllowed=y | https://repositori.educacio.gencat.cat/bitstream/handle/20.500.12694/2852/parlem_llibres_tertulia_literaria_2_edicio_2016.pdf?sequence=1&isAllowed=y |
+| 78 | https://repositori.educacio.gencat.cat/bitstream/handle/20.500.12694/2824/temps_lectura_primaria_material_didactic_2014.pdf?sequence=1&isAllowed=y | https://repositori.educacio.gencat.cat/bitstream/handle/20.500.12694/2824/temps_lectura_primaria_material_didactic_2014.pdf?sequence=1&isAllowed=y |
+| 79 | https://repositori.educacio.gencat.cat/bitstream/handle/20.500.12694/2854/gust_llegir_educacio_infantil_educacio_primaria_2_edicio_2016.pdf?sequence=1&isAllowed=y | https://repositori.educacio.gencat.cat/bitstream/handle/20.500.12694/2854/gust_llegir_educacio_infantil_educacio_primaria_2_edicio_2016.pdf?sequence=1&isAllowed=y |
+| 80 | https://repositori.educacio.gencat.cat/bitstream/handle/20.500.12694/2864/habit_lector_temps_lectura_educacio_secundaria_2_edicio_2016.pdf?sequence=1&isAllowed=y | https://repositori.educacio.gencat.cat/bitstream/handle/20.500.12694/2864/habit_lector_temps_lectura_educacio_secundaria_2_edicio_2016.pdf?sequence=1&isAllowed=y |
+| 81 | https://repositori.educacio.gencat.cat/bitstream/handle/20.500.12694/3549/piramide_lectura_educacio_secundaria_material_didactic_2014.pdf?sequence=3&isAllowed=y | https://repositori.educacio.gencat.cat/bitstream/handle/20.500.12694/3549/piramide_lectura_educacio_secundaria_material_didactic_2014.pdf?sequence=3&isAllowed=y |
+| 82 | https://repositori.educacio.gencat.cat/bitstream/handle/20.500.12694/2826/lectura_guiada_proposta_didactica_treballar_proces_lector_cm_cs_material_didactic_2015.pdf?sequence=1&isAllowed=y | https://repositori.educacio.gencat.cat/bitstream/handle/20.500.12694/2826/lectura_guiada_proposta_didactica_treballar_proces_lector_cm_cs_material_didactic_2015.pdf?sequence=1&isAllowed=y |
+| 83 | https://repositori.educacio.gencat.cat/bitstream/handle/20.500.12694/2840/adquisicio_vocabulari_estrategies_organitzadors_2015.pdf?sequence=1&isAllowed=y | https://repositori.educacio.gencat.cat/bitstream/handle/20.500.12694/2840/adquisicio_vocabulari_estrategies_organitzadors_2015.pdf?sequence=1&isAllowed=y |
+| 84 | https://xtec.gencat.cat/web/.content/projectes/alumnat-origen-estranger/suport-linguistic-social/publicacions/quaderns/documents/quaderns-SLS-aprendre-vocabulari-materies.pdf | https://xtec.gencat.cat/web/.content/projectes/alumnat-origen-estranger/suport-linguistic-social/publicacions/quaderns/documents/quaderns-SLS-aprendre-vocabulari-materies.pdf |
 
-*35 documents citats de 47 al corpus · secció generada automàticament*
+*84 documents font · secció generada automàticament des dels metadades del corpus*

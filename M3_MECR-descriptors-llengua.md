@@ -5,6 +5,7 @@ tipus: estrategia
 etiquetes: [MECR, MCERL, nivells-llengua, descriptors, pre-A1, A1, A2, B1, alumnat-nouvingut, competencia-lingüistica, avaluacio-llengua]
 descripcio: "Descriptors de competència lingüística del MECR (pre-A1 a B2) i instruments d'avaluació per a alumnat nouvingut: pautes d'observació, competències lingüístiques per a les matèries i enfocament orientat a l'acció"
 review_status: esborrany
+generat_at: 2026-03-18T00:00:00
 ---
 
 # Marc Europeu Comú de Referència per a les Llengües (MECR): Descriptors i Nivells

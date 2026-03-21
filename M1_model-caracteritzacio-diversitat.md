@@ -6,6 +6,7 @@ subtipus: arquitectural
 etiquetes: [diversitat, caracteristica, perfil, neurodiversitat, inclusio, DUA, caracteritzacio, constitutiva, contextual]
 descripcio: "Marc conceptual del sistema de tres nivells (característica, perfil, grup) que governa com l'AAU representa i processa la diversitat de l'alumnat. Inclou la distinció constitutiva/contextual i les implicacions pedagògiques, ètiques i tècniques."
 review_status: draft
+generat_at: 2026-03-18T00:00:00
 ---
 
 # 1. Definició i principis

@@ -1,304 +1,222 @@
 ---
 modul: M1
-titol: "Alumnat nouvingut — Perfil i acollida"
+titol: "Alumnat nouvingut — Perfil"
 tipus: perfil
-descripcio: "Perfil, necessitats i estratègies d'acollida lingüística, cultural i emocional per a l'alumnat nouvingut"
+descripcio: "Perfil, barreres, necessitats i principis d'actuació per a l'alumnat que s'incorpora al sistema educatiu"
 review_status: esborrany
+generat_at: 2026-03-18T13:30:00
 ---
 
-## Tensions de fons que habitem
-
-Aquest document ofereix eines pedagògiques, però se situa en una cruïlla que no es pot resoldre amb estratègies. Tres tensions travessen qualsevol treball amb alumnat nouvingut. Negar-les seria simplificar; reconèixer-les és condició per actuar amb honradesa.
-
-**Integrar o co-construir?**
-Quan parlem d'"integrar" l'alumne nouvingut, el centre de gravetat és implícit: "nosaltres", la norma existent, el sistema. La pregunta que emergeix és altra: i si la seva arribada ens crida a tots a construir junts alguna cosa nova? No incorporar-lo a "la nostra aula" sinó deixar que la seva presència la transformi.
-
-**Individual o estructural?**
-Les estratègies d'aquest document actuen sobre la persona: el docent adapta, l'alumne aprèn, la família es comunica. Però darrere de cada alumne nouvingut hi ha fenòmens estructurals —polítiques migratòries, desigualtat global, fronteres— que cap estratègia pedagògica pot resoldre. Tenir-ho present no paralitza l'acció; la situa en el seu lloc i n'evita la ingenuïtat.
-
-**"Nouvingut" o "migrant"?**
-El mot *nouvingut* és tècnic, neutral, pedagògic. El mot *migrant* porta en ell la política, la història, el cos que ha travessat una frontera. No hi ha una paraula correcta, però l'elecció no és innocent. Nomenar-les totes dues és una manera d'estar alerta davant el que cada vocabulari amaga.
-
-*Aquestes tensions no s'han de resoldre. S'han d'habitar.*
-
----
-
-# 1. CONTINGUT
+# 1. CONTINGUT ESPECÍFIC
 
 ## Descripció del perfil
+L'alumnat nouvingut és aquell que s'incorpora al sistema educatiu català havent estat escolaritzat prèviament en un altre sistema educatiu, sovint en un context cultural i lingüístic diferent. Aquest perfil ha experimentat un creixement continuat i significatiu en els darrers anys, passant de ser gairebé anecdòtic a principis dels anys noranta a representar un percentatge notable de l'alumnat, amb una distribució irregular al territori. Aquest perfil és extremadament heterogeni, ja que la "diversitat cultural és una de les múltiples diversitats que conformen la societat complexa" (DOC 2). No es tracta d'un grup homogeni, sinó d'individus amb "identitats de múltiples pertinences" (DOC 1, DOC 3), resultat de diverses identificacions flexibles i canviants. Generalment, la incorporació es produeix en els darrers vint-i-quatre mesos, o excepcionalment en els darrers trenta-sis mesos, especialment si procedeixen d'àmbits lingüístics i culturals molt allunyats del nostre. La seva arribada, especialment en les darreres dècades, ha estat ràpida i creixent, abastant totes les comarques catalanes (DOC 5). Aquest alumnat pot provenir de més de 150 estats diferents, amb experiències educatives prèvies molt variades, des de sistemes d'alta qualitat fins a escolaritzacions intermitents o inexistents. Aquesta diversitat s'amplifica amb factors socioeconòmics, d'edat i de gènere, que es combinen i fan difícil identificar grups culturals o socials uniformes (DOC 2). La globalització ha accelerat aquesta mobilitat, fent que les distàncies s'escurcin i la circulació d'informació i persones sigui extraordinària (DOC 4). Per tant, el perfil de l'alumnat nouvingut no es defineix per un origen comú, sinó per la seva recent incorporació i la necessitat d'adaptació a un nou entorn educatiu, social i lingüístic.
 
-L'alumnat nouvingut és aquell que s'incorpora al sistema educatiu català procedent d'un altre país o d'un sistema educatiu diferent, sovint amb una llengua familiar que no és ni el català ni el castellà. Constitueix un grup molt heterogeni en quant a orígens, bagatges culturals, nivells d'escolarització prèvia, situació familiar i competència lingüística. No es pot reduir a una única caracterització: un alumne de 10 anys procedent de Romania amb escolarització regular és un perfil molt diferent del d'un adolescent de 14 anys procedent del Marroc amb escolarització intermitent o del d'una nena de 6 anys nascuda a Catalunya de família d'origen pakistanès però sense exposició al català.
+## Manifestació per etapa educativa
 
-El que sí comparteixen és la necessitat de fer una doble adaptació: al nou context lingüístic i comunicatiu, i al nou entorn social i cultural. Aquesta doble adaptació pot generar un alt cost cognitiu i emocional que el docent ha de saber reconèixer i acompanyar. El procés d'adaptació és gradual i no lineal: pot haver-hi períodes de silenci (el famós "període silent" de l'adquisició de L2, descrit per Krashen), regressions temporals, o comportaments que reflecteixen estrès d'aculturació.
+*   **Infantil/Primària:** En aquesta etapa, la barrera lingüística pot ser molt evident, afectant la comprensió de les instruccions i la interacció amb els companys. Els infants poden mostrar dificultats per seguir el ritme de l'aula, necessitar més suport visual i gestual, i tenir períodes d'adaptació emocional més intensos, manifestant timidesa o, en alguns casos, frustració. La socialització pot ser un repte inicial, tot i que la plasticitat d'aquesta edat sol afavorir una integració més ràpida un cop superada la barrera comunicativa inicial.
+*   **ESO:** A l'educació secundària, les barreres lingüístiques es fan més complexes, ja que el llenguatge acadèmic és més abstracte i especialitzat. L'alumnat pot tenir dificultats per comprendre textos, participar en debats, i expressar idees complexes, afectant totes les àrees curriculars. La integració social és crucial, i poden sorgir problemes d'autoestima o desajustos de la personalitat (DOC 8) si no se senten acceptats o capaços. Es desenvolupen plans d'acollida específics, com els de matemàtiques, per facilitar la integració curricular i metodològica. La diferència cultural pot manifestar-se en la interpretació de normes socials o expectatives acadèmiques, i cal un seguiment acurat de les trajectòries educatives per prevenir l'abandonament escolar.
+*   **Batxillerat/FP:** En aquestes etapes, l'alumnat nouvingut s'enfronta a una exigència acadèmica elevada i a la necessitat de prendre decisions sobre el seu futur. Les barreres lingüístiques i culturals poden limitar l'accés a continguts avançats i la participació en activitats que requereixen un alt nivell de competència comunicativa. La pressió per obtenir bons resultats i la incertesa sobre el reconeixement dels estudis previs poden generar ansietat. Les propostes d'actuació se centren en potenciar la continuïtat dels estudis, oferint orientació acadèmica i professional, i assegurant que les barreres lingüístiques i socioeconòmiques no limitin les oportunitats futures. L'autonomia, la motivació i la construcció d'un projecte de vida prenen un paper central.
 
-### Diversitat interna del col·lectiu
+## Barreres d'aprenentatge
 
-Dins del col·lectiu d'alumnat nouvingut, cal distingir almenys els perfils següents:
+*   **Lingüístic:** El "desconeixement de les dues llengües" o el "desconeixement de la llengua catalana" (DOC 8) és la barrera més immediata i significativa. Afecta la comprensió de les explicacions, la participació a l'aula, l'accés als continguts curriculars i la capacitat d'expressar-se oralment i per escrit.
+*   **Cognitiu:** Pot haver-hi un "retard en les àrees instrumentals de dos cursos" o en el "desenvolupament del llenguatge a nivell d'estructuració i organització" (DOC 8), no per una dificultat intrínseca, sinó per la discontinuïtat o diferència del sistema educatiu d'origen, o per la dificultat d'accedir al coneixement a través d'una llengua no dominada. La manca d'hàbits d'estudi i de treball del sistema educatiu català, així com baixes expectatives d'èxit acadèmic, poden obstaculitzar el progrés.
+*   **Emocional:** L'adaptació a un nou entorn pot generar "problemes d'autoestima i autoconcepte" (DOC 8), ansietat, por a equivocar-se, o sentiment de pèrdua per la cultura d'origen. El dol migratori —la pèrdua de referents, entorn familiar i cultural— la dificultat en la construcció d'una identitat múltiple, la inseguretat i la por al fracàs són factors de risc que afecten el desenvolupament personal. La "identitat de múltiples pertinències" (DOC 1) pot ser complexa de gestionar emocionalment.
+*   **Social:** Dificultats per establir relacions amb els iguals, per comprendre les dinàmiques socials de l'aula o el centre, o per sentir-se part del grup. Pot haver-hi "desajustaments de la personalitat" o "necessitats afectives greus i permanents" (DOC 8) derivades del procés migratori o d'experiències prèvies.
+*   **Sensorial:** Tot i que no és una barrera específica del nouvingut, qualsevol dificultat sensorial preexistent (com la deficiència visual o motriu esmentada en DOC 10) pot veure's agreujada per la barrera lingüística i la manca d'adaptació inicial.
+*   **Curricular:** La diferència en els currículums d'origen i de destinació, els mètodes d'ensenyament i avaluació, o la manca de coneixements previs en àrees específiques poden generar un desfasament important.
 
-- **Nouvinguts amb alta competència acadèmica en la seva L1:** Alumnes que han tingut una escolarització regular i de qualitat al país d'origen. Solen adquirir el català i integrar-se acadèmicament de manera relativament ràpida si reben suport lingüístic adequat.
-- **Nouvinguts amb escolarització irregular o mancant:** Alumnes que per diverses raons (migracions repetides, conflictes, pobresa) han tingut una escolarització discontinua. Necessiten suport no només lingüístic sinó també en habilitats bàsiques de lecto-escriptura i pensament acadèmic.
-- **Alumnes de segona generació:** Fills i filles d'immigrants nascuts a Catalunya que parlen la llengua familiar a casa però que tenen el català com a llengua de l'escola. Tot i que no són "nouvinguts" en el sentit estricte, comparteixen molts dels reptes lingüístics i culturals.
-- **Nouvinguts en situació de vulnerabilitat:** Alumnes refugiats, fills de treballadors temporals o en situació administrativa irregular, que acumulen factors de risc addicionals (inestabilitat familiar, trauma, incertesa sobre el futur).
-- **Nouvinguts amb necessitats educatives específiques:** Alumnes que, a més de la barrera lingüística, presenten NESE (TDAH, dislèxia, TEA, etc.), cosa que complica enormement la detecció i la intervenció.
+## Necessitats prioritàries
 
-### Marc legal i drets de l'alumnat nouvingut
+1.  **Adquisició accelerada de la llengua vehicular:** És fonamental per a l'accés al currículum i la integració social. Les aules d'acollida són un "espai obert, flexible i dinàmic per atendre l'alumnat nouvingut" i "el lloc per excel·lència per desenvolupar el coneixement de la llengua de l'escola" (DOC 5).
+2.  **Acollida emocional i social:** Crear un ambient segur i de confiança que faciliti la integració, el sentiment de pertinença i la gestió de les emocions associades al canvi.
+3.  **Suport curricular adaptat:** Proporcionar estratègies i materials que permetin accedir als continguts, tenint en compte els coneixements previs i el ritme d'aprenentatge, diversificant procediments i activitats (DOC 8).
+4.  **Reconeixement i valoració de la cultura d'origen:** Integrar les seves experiències i coneixements previs per construir ponts entre la seva identitat i la nova realitat educativa.
+5.  **Orientació i acompanyament familiar:** Implicar les famílies en el procés educatiu i facilitar-los la comprensió del sistema.
+6.  **Facilitar la incorporació al nou entorn escolar i a la societat d'acollida:** Orientació sobre el funcionament del centre, les normes, els espais i les oportunitats de participació perquè l'alumne pugui sentir-se part de la comunitat.
+7.  **Facilitar l'accés al llenguatge acadèmic:** Estratègies per desenvolupar les habilitats lingüístiques necessàries per comprendre i expressar conceptes en les diferents àrees curriculars, distingint entre la llengua comunicativa i la llengua acadèmica.
+8.  **Adquisició d'hàbits escolars i de treball:** Orientació en les rutines, normes i expectatives del sistema educatiu per fomentar l'autonomia i la seguretat en l'entorn escolar.
 
-L'alumnat nouvingut a Catalunya té dret a una acollida educativa de qualitat garantida per diverses normatives. La Llei 12/2009 d'Educació de Catalunya estableix que tot alumne té dret a rebre una educació adaptada a les seves necessitats. El Decret 102/2010 d'autonomia dels centres estableix que els centres han de disposar d'un Pla d'Acollida. A nivell internacional, la Convenció sobre els Drets de l'Infant (ONU, 1989) estableix el dret de tot infant a l'educació sense discriminació. La Declaració Universal de la UNESCO sobre la Diversitat Cultural (2001) reconeix la diversitat cultural com a patrimoni de la humanitat i estableix l'obligació de promoure el pluralisme cultural en l'educació.
+## Fortaleses a aprofitar
 
-### El procés d'adquisició del català com a L2
+L'alumnat nouvingut aporta una "riquesa i un bé comú" (DOC 10) inestimable a l'aula. Les seves fortaleses inclouen:
+*   **Plurilingüisme i pluriculturalitat:** Són portadors de diverses llengües i cultures, la qual cosa enriqueix el context educatiu i fomenta la "identitat de múltiples pertinences" (DOC 1). Aquesta diversitat és un recurs per a l'aprenentatge intercultural de tot l'alumnat.
+*   **Resiliència i capacitat d'adaptació:** El procés migratori sovint implica una gran capacitat de superació i adaptació a nous contextos, que pot ser un motor per a l'aprenentatge.
+*   **Noves perspectives:** Aporten punts de vista diferents sobre el món, la història, la geografia o les relacions socials, enriquint els debats i el pensament crític a l'aula.
+*   **Coneixements previs diversos:** Poden tenir coneixements o habilitats en àrees no explorades pel currículum local, o una profunditat diferent en temes comuns.
+*   **Motivació per aprendre:** Molts d'ells tenen una gran motivació per integrar-se i aprofitar les oportunitats educatives. Sovint, tant l'alumnat com les seves famílies tenen una alta motivació i expectatives respecte a l'educació com a via de progrés.
 
-L'adquisició d'una segona llengua segueix un procés previsible i gradual que el docent ha de conèixer per tenir expectatives realistes i dissenyar intervencions adequades. Seguint el Marc Europeu Comú de Referència per a les Llengües (MECR), el procés va del nivell A1 (principiant absolut) fins al C2 (competència plena), amb fites intermèdies molt significatives:
+## Senyals identificadors a l'aula
 
-- **Nivell A1-A2 (0-6 mesos aprox.):** L'alumne pot comunicar-se en situacions molt bàsiques (saludar, demanar, respondre preguntes senzilles). És el "llindar de supervivència" per a la participació social immediata.
-- **Nivell B1 (6-18 mesos aprox.):** L'alumne pot participar en converses sobre temes familiars, entendre textos senzills i produir textos bàsics. És el llindar per a la participació escolar funcional.
-- **Nivell B2 i superior (18 mesos - anys):** L'alumne pot participar plenament en activitats acadèmiques, llegir textos complexos i produir escrits elaborats. Assolir aquest nivell sol requerir anys d'exposició significativa i suport sostingut.
+*   **Dificultats comunicatives:** Manca de fluïdesa en català o castellà, ús de llenguatge no verbal per compensar, dificultat per seguir instruccions orals complexes, o per expressar idees de forma coherent.
+*   **Aïllament social:** Poca interacció amb els companys, tendència a estar sols durant els patis o activitats grupals, o dificultat per formar part de grups de treball.
+*   **Baix rendiment acadèmic inicial:** Especialment en àrees que requereixen un alt nivell de comprensió lectora o expressió escrita, que pot no reflectir la seva capacitat intel·lectual real.
+*   **Comportaments d'observació:** Tendència a observar molt abans de participar, o a imitar les accions dels companys per entendre què s'espera d'ells.
+*   **Preguntes sobre normes o rutines:** Dubtes sobre aspectes bàsics del funcionament de l'aula o del centre que la resta de l'alumnat ja coneix.
+*   **Fatiga o desmotivació:** Després d'un esforç continuat per comprendre i adaptar-se, poden mostrar signes de cansament o desinterès.
+*   **Informació de dades inicials:** L'expedient o el full de recollida de dades indica un país de procedència diferent, una data d'arribada recent a Catalunya i/o una escolarització prèvia irregular o nul·la.
+*   **Fatiga o esgotament inusual** després de les sessions, resultat de l'esforç cognitiu i emocional constant d'adaptació i comprensió en una llengua no plenament dominada.
+*   **Ús de la llengua materna en moments de tensió o estrès**, com a refugi comunicatiu quan la pressió supera la capacitat d'expressió en la llengua vehicular.
 
-Un error freqüent és confondre la fluïdesa conversacional (BICS, Basic Interpersonal Communication Skills) amb la competència acadèmica (CALP, Cognitive Academic Language Proficiency). Un alumne pot semblar que "ja parla bé" el català en conversació però necessitar anys per assolir la competència lingüística necessària per fer una redacció argumentativa, comprendre un text científic o participar en un debat acadèmic.
+## Perfils associats i comorbiditats
 
-La llengua d'origen de l'alumne influeix de manera decisiva en el procés d'adquisició del català. Les transferències positives (quan les estructures de la L1 s'assemblen a les del català) i les transferències negatives o interferències (quan difereixen) determinen el perfil d'errors i les estratègies d'intervenció més adequades. Per exemple:
-- Un parlant de castellà tindrà relativament poc cost per adquirir el català, però podrà cometre errors de calcomanies de l'estructura castellana.
-- Un parlant d'àrab haurà de construir des de zero estructures sintàctiques molt allunyades (ordre de paraules, sistema verbal, articles determinats).
-- Un parlant de xinès s'enfrontarà a un sistema fonològic i morfosintàctic radicalment diferent (plurals, temps verbals, articles).
+L'alumnat nouvingut pot presentar, com qualsevol altre alumne, altres necessitats educatives o condicions. La "diversitat cultural és una de les múltiples diversitats" (DOC 2) i els "factors de vulnerabilitat i exclusió social" (DOC 2) poden afectar-los de manera més accentuada.
+*   **Necessitats educatives especials (NEE):** Un alumne nouvingut pot tenir, per exemple, un "retard maduratiu", "trastorn de conducta", "discapacitat motriu" o "trastorn generalitzat del desenvolupament" (DOC 10), que es pot veure emmascarat o agreujat per la barrera lingüística inicial.
+*   **Altes capacitats:** Un alumne nouvingut també pot ser d'"altes capacitats" (DOC 6, DOC 8), i les seves necessitats d'ampliació curricular poden passar desapercebudes si el focus es posa només en la llengua.
+*   **Situacions de vulnerabilitat social:** Poden provenir de famílies en situació de pobresa, amb dificultats d'habitatge, o amb experiències traumàtiques derivades del procés migratori, que afecten el seu benestar emocional i el seu rendiment escolar.
+*   **Problemes de salut crònics:** Condicions com l'asma (DOC 7) o altres malalties cròniques poden coexistir i requerir adaptacions, com en qualsevol altre alumne (DOC 8).
+*   **Dificultats emocionals o de salut mental:** El procés migratori pot desencadenar o agreujar problemes d'ansietat, depressió o estrès posttraumàtic, riscos vinculats directament a les pèrdues i al canvi radical d'entorn que comporta la migració.
 
-### Barreres d'aprenentatge
+## Principis d'actuació
 
-Les barreres que pot enfrontar l'alumnat nouvingut van molt més allà de la lingüística:
+L'atenció a l'alumnat nouvingut ha de basar-se en un enfocament inclusiu que reconegui la diversitat com una riquesa (DOC 10). En primer lloc, és crucial una "bona acollida en un centre que sigui acollidor" (DOC 5), que va més enllà de la figura d'un tutor d'aula d'acollida i implica tot el claustre. Cal "identificar i suprimir barreres" (DOC 10) per a l'aprenentatge i la participació.
 
-**Barreres lingüístiques i comunicatives:**
-- Desconeixement del català (i sovint del castellà).
-- Dificultat per comprendre les instruccions a l'aula.
-- Impossibilitat d'expressar les seves necessitats, dubtes o malestar.
-- Mancança de vocabulari acadèmic específic de cada àrea.
+Per adaptar els continguts, és important "adaptar els continguts i activitats als coneixements previs de l'alumnat" (DOC 8), utilitzant materials visuals, llenguatge senzill i clar, i oferint suports lingüístics específics, com les aules d'acollida (DOC 5). Es poden introduir conceptes de forma gradual, connectant-los amb les seves experiències i cultures d'origen. L'etnomatemàtica, per exemple, pot ser un recurs intercultural per connectar amb els coneixements matemàtics previs de l'alumnat i validar els seus referents culturals.
 
-**Barreres culturals i socials:**
-- Diferències en les normes de comportament escolar (actitud davant l'autoritat, rol de l'alumne, participació a l'aula).
-- Desconeixement dels rituals i convencions socials de l'escola.
-- Possible xoc cultural entre els valors familiars i els de l'escola.
-- Risc d'estigmatització o rebuig per part dels companys.
-- **Aporofòbia:** El rebuig que pateix l'alumne nouvingut sovint no és per ser estranger sinó per la intersecció de *pobresa + origen*. Treballar la diversitat cultural no és suficient si no s'aborda explícitament la discriminació per classe socioeconòmica.
+Pel que fa a les activitats, cal "diversificar els procediments i activitats tant d'aprenentatge com d'avaluació" (DOC 8). Les activitats cooperatives són molt beneficioses per potenciar les relacions amb els iguals (DOC 6) i facilitar la interacció lingüística. S'ha de fomentar que "l'alumnat pugui presentar el treball de diverses maneres" (DOC 8). L'assignació d'un company tutor és una pràctica pedagògica concreta i eficaç per facilitar la integració quotidiana, aclarir dubtes i crear vincles entre l'alumnat nouvingut i la resta del grup.
 
-**Barreres emocionals i psicològiques:**
-- Dol migratori: pèrdua del context familiar, dels amics, del país.
-- Estrès d'aculturació: tensió entre mantenir la identitat d'origen i adaptar-se al nou context.
-- En alumnes refugiats: possible trauma previ (conflicte, violència, desplaçament forçat).
-- Ansietat davant la situació acadèmica (por de fracassar, de no entendre, de quedar en ridícul).
+L'avaluació ha de ser formativa i flexible, tenint en compte el procés d'adquisició lingüística. Els criteris d'avaluació poden ser els mateixos que la resta d'alumnat, però "més alguna qüestió relacionada amb el treball de cerca i d'ampliació que desenvolupi" (DOC 6), o adaptant les eines per avaluar la comprensió més enllà de l'expressió lingüística. "Es potencia l'autoavaluació i coavaluació, com a mesura d'autoregulació de l'aprenentatge" (DOC 8).
 
-**Barreres administratives i familiars:**
-- Famílies que no coneixen el funcionament del sistema educatiu català.
-- Possibles barreres d'accés dels pares a les comunicacions del centre (notes en català, reunions sense traducció).
-- Situació laboral precària dels progenitors que dificulta l'acompanyament escolar.
+Finalment, la interacció a l'aula ha de ser respectuosa i inclusiva. El professorat ha de "reconèixer l'esforç que exigeix completar una tasca o el cansament que pugui provocar" (DOC 8) i "explicar l'objectiu que té cada classe" (DOC 8). Cal evitar la còpia i les activitats mecàniques (DOC 8), i promoure la discussió en parelles i petits grups (DOC 8). La coordinació amb els mestres de suport (LIC - Aula d'acollida, EAP) és clau per garantir una atenció integral (DOC 10).
 
-> **Important:** La família nouvinguda no és únicament una barrera de comunicació. Darrere de cada família migrant hi ha una decisió estratègica complexa, xarxes de suport construïdes i un projecte vital sòlid. Tractar-la exclusivament com a "problema de comunicació" invisibilitza un capital que el centre pot i ha d'activar com a recurs.
+La **coordinació amb la família i la comunitat** és un eix transversal d'actuació: cal establir canals de comunicació efectius amb les famílies, oferir informació clara sobre el funcionament del sistema educatiu i implicar-les en el procés educatiu dels seus fills, si cal amb mediació intercultural. Treballar en xarxa amb els serveis socials i altres entitats del territori reforça la xarxa de suport de l'alumne més enllà de l'escola.
 
-### Fortaleses a aprofitar
+## Línies vermelles
 
-L'alumnat nouvingut porta un bagatge que sovint es tracta com a obstacle però que és, de fet, un recurs pedagògic extraordinari:
-
-- **Competència plurilingüe real:** Saben una o més llengües que els seus companys no coneixen. Aquesta competència és un capital cognitiu i cultural genuí.
-- **Cultura d'origen rica i diversa:** Coneixements de geografia, historia, gastronomia, arts, música, tradicions i formes de vida que amplien l'horitzó de tot el grup.
-- **Experiència migratoria com a aprenentatge:** Haver viscut en contextos molt diversos desenvolupa l'adaptabilitat, la resiliència i la capacitat d'observació social.
-- **Perspectiva alternativa:** La mirada "des de fora" del nouvingut pot fer visible el que els autòctons donen per suposat, generant preguntes i reflexions que enriqueixen tot el grup.
-- **Habilitats acadèmiques no lingüístiques:** Matemàtiques, ciències, arts, esport, música — competències que no depenen de la llengua i que sovint superen la mitjana del grup.
-
-**Principi clau — La cultura d'origen com a referent:** La intervenció pedagògica més eficaç és aquella que usa la cultura d'origen de l'alumne nouvingut com a **punt de partida i referent constant**, no com a anècdota. Quan el mestre pregunta "a casa teva, com es fa?", quan el problema de matemàtiques es formula amb dades del país d'origen, quan la lectura del text es compara amb com es narraria en la seva cultura — en tots aquests casos, el nouvingut passa de ser "l'alumne que no sap" a ser "l'expert en la seva experiència". Aquesta inversió del rol és transformadora per a l'autoestima, la motivació i la connexió amb l'aprenentatge. La cultura d'origen no és un afegit puntual: és el fil conductor des del qual l'alumne teixeix la comprensió del nou context.
-
-**Principi ignasià — La classe com a comunitat de migrants:** Des de la perspectiva "Migrants som tots" (Companyia de Jesús, 2022), cap alumne és "l'excepció": si el grup explora els orígens familiars de tothom, sovint apareix que la majoria té avis o besavis que van migrar. Fer visible aquesta continuïtat transforma la dinàmica: el nouvingut deixa de ser l'estrany a integrar i es reconeix com a part d'una condició humana compartida. El docent no gestiona un "cas" sinó que facilita un reconeixement mutu que enriqueix el grup sencer.
-
-### Necessitats prioritàries
-
-1. **Acollida planificada i personalitzada:** El centre ha de tenir un Pla d'Acollida que estableixi els passos per a la incorporació de nou alumnat: qui s'encarrega de l'acollida, quines proves es fan, quins suports s'activen, com s'informa a la família.
-2. **Avaluació lingüística inicial rigorosa:** Avaluar el nivell de competència en català (i, si escau, en castellà) i en la llengua d'origen per planificar les intervencions. Les proves de nivell per a aules d'acollida (fins a A2) són un punt de referència, però s'han de complementar amb observació qualitativa.
-3. **Suport lingüístic específic (Aula d'Acollida):** Les aules d'acollida ofereixen suport intensiu de català com a L2 en un entorn reduït i específic. L'objectiu no és segregar l'alumne, sinó oferir-li les eines per a la ràpida integració a l'aula ordinària.
-4. **Adaptació dels materials i metodologies a l'aula ordinària:** El suport lingüístic no ha de quedar confinat a l'aula d'acollida. El docent de l'àrea ha de dissenyar activitats accessibles per a l'alumnat amb menys domini de la llengua: suports visuals, simplificació del text, glossaris bilingües, parelles lingüístiques entre iguals.
-5. **Acompanyament emocional:** Crear un clima de seguretat i pertinença on l'alumne nouvingut se senti valorat i acceptat. Reconèixer i legitimar el seu bagatge cultural i lingüístic com a riquesa.
-6. **Comunicació efectiva amb la família:** Establir canals de comunicació que superin la barrera lingüística (traduccions, mediadors culturals, notes bilingües estandarditzades). La família és un agent clau en el procés d'integració.
-
-### Recursos i estratègies d'acollida a l'aula
-
-**Estratègies lingüístiques:**
-- **Input comprensible:** Parlar de manera clara, pausada, amb un vocabulari controlat. Usar frases curtes i directes.
-- **Suport visual:** Acompanyar sempre les instruccions orals amb suport visual (imatges, esquemes, pictogrames, pissarra).
-- **Parella lingüística o "buddy":** Assignar un company que parli la mateixa llengua materna (si n'hi ha) o que sigui empàtic i comunicatiu per ajudar a la integració inicial.
-- **Glossaris visuals:** Proporcionar glossaris amb les paraules clau de cada tema, en català i si és possible en la L1 de l'alumne.
-- **Materials adaptats:** Simplificar textos, afegir suports visuals, reduir la longitud de les activitats escrites per als primers estadis.
-
-**Estratègies culturals i emocionals:**
-- **Reconèixer la llengua i cultura d'origen:** Incorporar elements de les cultures presents a l'aula en els materials i en la vida del grup. Demanar als alumnes nouvinguts que comparteixin elements de la seva cultura quan se sentin preparats.
-- **Crear un espai segur:** Garantir que l'alumne nouvingut no es vegi sotmès a ridiculització o pressió per la seva competència lingüística.
-- **Período de silenci:** Respectar els primers dies o setmanes en què l'alumne pot estar en un "periode silent", observant i processant, sense poder o voler produir llengua. No forçar la producció oral prematura.
-- **Rutines clares i predictibles:** Les rutines d'aula ajuden a l'alumne nouvingut a anticipar el que passarà i a participar tot i no entendre-ho tot.
-
-### Errors freqüents i línies vermelles
-
-- **Ignorar la llengua i cultura d'origen:** Tractar la llengua materna de l'alumne com un obstacle en lloc d'un recurs. La recerca en adquisició de L2 mostra clarament que una bona base en la L1 facilita l'adquisició de la L2.
-- **Confiar exclusivament en l'aula d'acollida:** L'aula d'acollida és un recurs complementari, no un contenidor. L'alumne ha d'estar integrat a l'aula ordinària la major part del temps possible des del primer moment.
-- **Tenir expectatives massa baixes:** Assumir que l'alumne nouvingut "no pot" fer determinades activitats per la barrera lingüística, quan en realitat pot participar si es li proporcionen els suports adequats.
-- **Reduir l'avaluació als aspectes lingüístics:** Un alumne nouvingut pot tenir coneixements matemàtics, musicals, esportius o de ciències naturals molt avançats que no es mostren perquè la barrera lingüística impedeix l'expressió. L'avaluació ha de buscar vies alternatives d'expressió.
-- **Comunicar-se exclusivament en català o castellà amb la família:** Usar notes estandarditzades bilingües, mediadors culturals o eines de traducció per assegurar que la família entén les comunicacions del centre.
-
----
+*   **No etiquetar l'alumne només pel seu origen:** Evitar reduir la persona a la seva condició de "nouvingut" o a la seva cultura d'origen. El perfil és "la suma de múltiples pertinences" (DOC 1), i no es pot identificar "grups culturals o socials homogenis" (DOC 2). Etiquetar pot portar a prejudicis i a no veure la seva individualitat i les seves capacitats.
+*   **No aïllar l'alumne de l'aula ordinària de forma permanent:** L'aula d'acollida és un recurs temporal per a l'adquisició de la llengua, però "el lloc per excel·lència per desenvolupar el coneixement de la llengua de l'escola és l'aula ordinària" (DOC 5). Aïllar-lo impedeix la integració social i l'exposició al llenguatge natural de l'aula, dificultant la seva inclusió plena (DOC 10).
+*   **No assumir un dèficit intel·lectual per la barrera lingüística:** La dificultat en la llengua no implica una menor capacitat cognitiva. Assumir-ho pot portar a reduir les expectatives acadèmiques i a no oferir reptes adequats, limitant el seu potencial.
+*   **No ignorar la seva cultura i coneixements previs:** Desvaloritzar o ignorar la seva herència cultural i els aprenentatges anteriors és un error. És fonamental reconèixer i valorar les seves fortaleses i el que aporten.
+*   **No delegar tota la responsabilitat d'acollida en un únic professional:** "Disposar d'un tutor per a l'aula d'acollida no suposa que la resta del claustre ja es pugui desentendre d'aquesta funció" (DOC 5). L'acollida és una tasca de tot el centre i de tots els professionals (DOC 5).
+*   **No tenir baixes expectatives acadèmiques:** Assumir que l'alumnat nouvingut té menys potencial o que no pot assolir els mateixos objectius que els seus companys és un biaix que limita les seves oportunitats i el seu desenvolupament.
+*   **No ignorar el component emocional i social:** Centrar-se exclusivament en l'aprenentatge de la llengua i el currículum, deixant de banda el benestar emocional i la integració social, és un error que pot portar al fracàs escolar i a l'abandonament.
+*   **No deixar l'acollida a la improvisació:** El procés d'acollida és crucial i requereix una planificació detallada i la implicació de tota la comunitat educativa. Improvisar pot generar sentiments d'inseguretat i dificultar la integració.
+*   **No centrar-se exclusivament en el dèficit lingüístic:** Tot i que l'adquisició de la llengua és fonamental, cal reconèixer i valorar les altres capacitats i coneixements previs de l'alumne, així com la seva llengua materna, com a recurs i no com a obstacle.
 
 # 2. CONNEXIONS AMB ALTRES DOCUMENTS DEL CORPUS
 
-| Document relacionat | Relació concreta | Co-activació |
-|---|---|---|
-| M1_acollida-marc-conceptual.md | Marc general de l'acollida al centre, del qual l'alumnat nouvingut és una dimensió específica | Obligatòria |
-| M1_diversitat-cultural-identitat.md | La identitat cultural i lingüística de l'alumnat nouvingut com a recurs pedagògic | Condicional |
-| M1_vulnerabilitat-socioeducativa.md | L'alumnat nouvingut en situació de vulnerabilitat social o familiar acumula factors de risc | Condicional |
-| M2_DUA-principis-pautes.md | El DUA orienta el disseny de materials accessibles per a l'alumnat nouvingut | Obligatòria |
-| M2_mesures-suports-inclusius.md | Les mesures de suport a l'alumnat nouvingut s'emmarquen en el sistema de suports inclusius | Obligatòria |
-| M3_estrategies-catala-L2.md | Les estratègies específiques d'ensenyament del català com a L2 | Obligatòria |
-| M3_translanguaging-plurilinguisme.md | L'ús de les llengües d'origen com a recurs pedagògic (translanguaging) | Condicional |
-| M3_TIL-tractament-integrat-llengues.md | La coordinació del treball de les diverses llengües del centre | Condicional |
-| M7_benestar-emocional-seguretat.md | El benestar emocional és un prerequisit per a l'aprenentatge, especialment en l'alumnat nouvingut | Obligatòria |
-| M7_participacio-families.md | La implicació de les famílies nouvingudes en el centre | Obligatòria |
-| M9_normativa-llengua-escola.md | El marc legal que regula l'ús del català a les escoles i els drets lingüístics de l'alumnat nouvingut | Condicional |
-| M9_protocols-atencio-diversitat.md | Els protocols específics d'atenció a l'alumnat nouvingut | Obligatòria |
-| M0_cura-personalis.md | L'acollida de l'alumne nouvingut com a realització concreta de la Cura Personalis: atenció integral a la persona en la seva singularitat cultural, emocional i vital | Condicional |
-| M0_ciutadania-global-justicia.md | La migració com a fenomen de justícia global que demana una resposta educativa des de la missió ignasiana | Condicional |
-| M0_identitat-missio-valors.md | La tradició ignasiana d'hospitalitat (PAU 2a, Servei Jesuïta als Refugiats) com a fonament del model d'acollida FJE | Condicional |
-
----
+*   **Marc_Inclusió_Educativa**: Aquest document sobre l'alumnat nouvingut s'alinea amb els principis de la inclusió educativa, que busca suprimir barreres i atendre la diversitat de tot l'alumnat.
+*   **Estratègia_Aprenentatge_Cooperatiu**: Les metodologies cooperatives són molt útils per a la integració lingüística i social de l'alumnat nouvingut, ja que fomenten la interacció i el suport mutu.
+*   **Eina_Pla_Individualitzat**: Per a l'alumnat nouvingut amb necessitats més específiques, un Pla Individualitzat pot ser necessari per adaptar el currículum i els suports.
+*   **Protocol_Aules_Acollida**: Aquest perfil fa referència explícita a les aules d'acollida com a recurs clau per a l'adquisició de la llengua, per la qual cosa un protocol detallat seria complementari.
+*   **Perfil_Alumnat_Altes_Capacitats**: Un alumne nouvingut pot tenir altes capacitats, i la combinació d'ambdós perfils requereix una atenció específica que aquest document esmenta.
+*   **Marc_Identitat_Múltiple**: El concepte d'identitat de múltiples pertinences és fonamental per entendre la complexitat de l'alumnat nouvingut i evitar estereotips.
+*   **Normativa_Atenció_Diversitat**: Les obligacions i drets que genera la normativa sobre atenció a la diversitat són la base legal per a l'actuació amb l'alumnat nouvingut.
+*   **Eina_Pauta_Observació_Integració_Social**: Instrument útil per avaluar l'adaptació social i emocional de l'alumnat nouvingut a l'aula i al centre, i per fer un seguiment sistemàtic del procés d'integració.
+*   **Eina_Recollida_Dades_Inicials_Alumnat**: Document clau per obtenir informació rellevant sobre l'escolarització prèvia i les llengües familiars de l'alumnat nouvingut en el moment d'incorporació al centre.
+*   **DUA** (Disseny Universal per a l'Aprenentatge): Els principis d'actuació per a l'alumnat nouvingut s'alineen amb el DUA en la necessitat d'adaptar continguts, activitats i avaluació per garantir l'accessibilitat i donar resposta a la diversitat de l'aula.
+*   **Tutoria_entre_iguals**: Estratègia metodològica clau per abordar les necessitats socials i emocionals de l'alumnat nouvingut, facilitant la integració al grup classe i l'adquisició de la llengua en un context de suport entre iguals.
 
 # 3. DETECCIÓ (Variables de Context)
 
-**Senyals del docent que activen aquest mòdul:**
-- "Tinc un alumne nou que acaba d'arribar de... i no parla català/castellà."
-- "No entenc per què l'alumne nouvingut no participa a classe."
-- "Com puc comunicar-me amb la família si no parlen la nostra llengua?"
-- "L'alumne nouvingut sembla bloquejat, com si no entengués res, però a vegades fa coses sorprenents."
-- "Quins materials puc usar amb un alumne que no sap llegir en català?"
-- "Com faig el Pla d'Acollida?"
-- "Quin suport lingüístic pot rebre l'alumnat nouvingut al nostre centre?"
+**Senyals del docent**
+*   "Observo que un alumne no participa en les converses de grup."
+*   "Un alumne nou no entén les meves instruccions orals o escrites."
+*   "Noto que un alumne nouvingut sembla aïllat durant el pati o les activitats lúdiques."
+*   "Un alumne nou lliura treballs amb errors lingüístics significatius o amb contingut que no s'ajusta a la tasca."
+*   "La família d'un alumne nouvingut expressa dificultats per entendre el funcionament del centre o comunicar-se amb mi."
+*   "Un alumne nou mostra signes de frustració o desmotivació davant tasques que requereixen un alt nivell de llengua."
 
-**Senyals de l'alumne que activen aquest mòdul:**
-- "No entenc res a classe."
-- "Enyoro el meu país i els meus amics."
-- "No sé com dir-ho en català."
-- "A casa parlem [llengua], però aquí ningú l'entén."
+**Senyals de l'alumne**
+*   L'alumne utilitza gestos o senyals no verbals per comunicar-se o per indicar que no entén.
+*   L'alumne evita el contacte visual o la interacció amb els companys i el professorat.
+*   L'alumne es mostra callat o amb por a equivocar-se en parlar en català o castellà.
+*   L'alumne té dificultats per seguir el ritme de la classe o per completar les tasques en el temps establert.
 
-**Senyals de context:**
-- Incorporació d'alumnat a mig curs.
-- Alta diversitat lingüística al grup classe.
-- Zona escolar amb alta proporció de famílies immigrants.
-- Presència d'alumnes refugees o en situació de vulnerabilitat.
+**Senyals de context**
+*   **Moment:** Recent incorporació al centre o a l'aula.
+*   **Activitat:** Tasques que requereixen alta competència lingüística (lectura, escriptura, debat), o activitats socials no estructurades. Activitat que requereix alt nivell de llengua sense suports visuals, contextuals o lingüístics addicionals.
+*   **Composició grup:** Presència d'altres alumnes nouvinguts que parlen la mateixa llengua o, per contra, absència total de referents lingüístics o culturals.
 
-**Anti-senyals (quan NO activar principalment aquest mòdul):**
-- Alumne de tercera generació plenament integrat sense dificultats acadèmiques ni lingüístiques.
-- Alumne que ha estat al sistema educatiu català des d'infantil i ha assolit plena competència lingüística.
-
----
+**Anti-senyals** (quan NO activar malgrat les aparences)
+*   Un alumne nou que es mostra callat però participa activament en tasques visuals o pràctiques i respon bé a suports no verbals: pot ser un estil d'aprenentatge o un període d'observació, no necessàriament una barrera insalvable.
+*   Un alumne que parla una altra llengua a casa però mostra fluïdesa i comprensió en català a l'escola: la seva condició de nouvingut és només d'origen, no implica necessàriament barreres actives.
+*   Un alumne que comet errors gramaticals però es comunica amb seguretat i comprèn el contingut: pot estar en una fase d'adquisició normal de la llengua, sense necessitat de suports intensius més enllà de la pràctica.
+*   Les dificultats observades són generals i no específiques del procés migratori o d'integració, podent correspondre a altres necessitats educatives.
 
 # 4. HEURÍSTIQUES I RAONAMENT PER A L'AGENT
 
-## H1 Acollida planificada com a primer pas — DOCENT
+**Principi general:** L'agent ha de promoure una acollida integral i personalitzada, reconeixent la diversitat de l'alumnat nouvingut com una riquesa i facilitant la seva plena participació i aprenentatge.
 
-**Quan aplica:** Quan s'anuncia la incorporació d'un alumne nouvingut o quan acaba d'arribar i no s'ha fet cap planificació específica.
+**Heurístiques per a l'Agent DOCENT**
 
-**Fonament:** L'acollida no és un acte espontani, sinó un protocol que ha d'estar planificat. Els primers dies i setmanes determinen en gran mesura com serà la integració. Un alumne que arriba a una classe on ningú l'espera, on no hi ha materials adaptats, on no sap on seure ni com funciona la dinàmica, desenvolupa de seguida una sensació d'alienació que pot perdurar mesos. En canvi, una acollida planificada — amb un referent clar, materials bilingües, un company "buddy", una entrevista amb la família — crea les condicions per a una integració exitosa. El Pla d'Acollida del centre ha de preveure qui s'encarrega de cada pas, quines proves es fan, quins recursos s'activen i com s'informa la família.
+*   **Heurística: El pont lingüístic és la primera pedra.**
+    *   **Quan aplica:** Quan un docent expressa preocupació per la manca de comprensió o expressió lingüística d'un alumne nouvingut.
+    *   **Fonament:** El desconeixement de la llengua vehicular és la barrera més immediata i limitant per a l'accés al currículum i la integració. Les aules d'acollida són un recurs clau, però la llengua s'aprèn millor en contextos significatius i d'ús real.
+    *   **Exemple complet de raonament:** Si un docent em pregunta com pot ajudar un alumne nouvingut que no entén res a classe, l'agent hauria de raonar que la prioritat és establir un pont lingüístic. Això implica no només derivar a l'aula d'acollida si n'hi ha, sinó també oferir estratègies immediates a l'aula ordinària. Per exemple, suggeriria al docent utilitzar suports visuals, gestos, un llenguatge senzill i frases curtes. També podria proposar l'ús de traducció automàtica per a conceptes clau o la creació de glossaris il·lustrats. El raonament és que sense una base mínima de llengua, l'alumne no podrà accedir als continguts ni interactuar, i cada dia que passa sense aquest suport inicial, la bretxa s'amplia. A més, la interacció amb els companys en un context significatiu és vital per a l'adquisició natural de la llengua.
 
-**Exemple (≥80 paraules):** El primer dia de classe del Hamid, de 12 anys, nascut al Marroc i recent incorporat a 1r d'ESO, la tutora Marta ha preparat un dossier de bienvenuda en català i àrab amb els horaris, el mapa del centre i les normes bàsiques. Ha parlat prèviament amb en Khalid, un company marroquí de 2n que vol fer de guia. Ha adaptat la llista de material escolar en pictogrames. Durant la primera setmana, la tutora dedica cinc minuts al dia a parlar amb el Hamid (amb en Khalid d'intermediari si cal) per saber com se sent. Aquesta acollida planificada redueix dràsticament l'ansietat del Hamid i el motiva a participar, perquè sent que és esperat i valorat.
+*   **Heurística: La inclusió comença a l'aula ordinària.**
+    *   **Quan aplica:** Quan un docent es planteja com integrar socialment un alumne nouvingut o si ha de separar-lo per rebre suport.
+    *   **Fonament:** L'aïllament de l'alumne, fins i tot amb la millor intenció de suport lingüístic, pot dificultar la seva integració social i el sentiment de pertinença. L'acollida és una responsabilitat de tot el claustre i l'aula ordinària és el context natural per a la socialització i l'aprenentatge entre iguals.
+    *   **Exemple complet de raonament:** Un docent em comenta que té un alumne nouvingut que passa la major part del temps a l'aula d'acollida i que, quan torna a l'aula ordinària, li costa interactuar amb els companys. L'agent raonaria que, si bé l'aula d'acollida és vital per a l'adquisició lingüística, la inclusió social i curricular s'ha de fomentar activament a l'aula ordinària. Suggeriria al docent estratègies com l'aprenentatge cooperatiu, assignant rols clars que no depenguin exclusivament de la llengua, o la creació de parelles lingüístiques amb companys que puguin fer de referents. També podria proposar activitats on l'alumne nouvingut pugui compartir aspectes de la seva cultura o coneixements previs, valorant la seva aportació única. L'objectiu és que l'alumne se senti part del grup i que els companys també aprenguin a interactuar amb la diversitat, evitant la creació de guetos.
 
----
+*   **Heurística: Valora la maleta cultural.**
+    *   **Quan aplica:** Quan un docent busca maneres de connectar amb un alumne nouvingut o de fer el currículum més rellevant per a ell.
+    *   **Fonament:** L'alumnat nouvingut no arriba amb un "full en blanc", sinó amb una "maleta" plena de coneixements, experiències i una cultura pròpia. Ignorar-ho és perdre una oportunitat d'enriquiment per a tota l'aula i de motivació per a l'alumne.
+    *   **Exemple complet de raonament:** Si un docent em pregunta com pot motivar un alumne nouvingut que sembla desinteressat en els continguts, l'agent raonaria que és essencial connectar amb la seva "maleta cultural". Proposaria al docent que busqui maneres d'incorporar les experiències i coneixements previs de l'alumne en les activitats d'aula. Per exemple, si estan estudiant geografia, podria demanar a l'alumne que expliqui aspectes del seu país d'origen. Si treballen història, podria investigar sobre esdeveniments rellevants en la seva cultura. Això no només valida la identitat de l'alumne i la seva "identitat de múltiples pertinències", sinó que també enriqueix la perspectiva de la resta de la classe i fa que l'aprenentatge sigui més significatiu i rellevant per a ell.
 
-## H2 Suport lingüístic progressiu sense segregació — DOCENT
+*   **Heurística: Les expectatives altes són inclusives.**
+    *   **Quan aplica:** Quan un docent dubta sobre el potencial acadèmic d'un alumne nouvingut a causa de les barreres inicials.
+    *   **Fonament:** Assumir un dèficit intel·lectual per la barrera lingüística és un error. Mantenir expectatives altes, juntament amb els suports necessaris, és crucial per al desenvolupament del potencial de tot l'alumnat.
+    *   **Exemple complet de raonament:** Un docent expressa preocupació perquè un alumne nouvingut, tot i esforçar-se, no aconsegueix els resultats esperats i tem que no tingui la capacitat per seguir el ritme. L'agent raonaria que és fonamental mantenir expectatives altes, ja que la barrera lingüística o la diferència curricular no equival a una manca de capacitat intel·lectual. Suggeriria al docent que revisi les eines d'avaluació per assegurar-se que estan mesurant la comprensió del contingut i no només la fluïdesa lingüística. Podria proposar l'ús d'avaluacions orals, projectes visuals o l'ús de la llengua materna com a suport puntual. A més, animaria el docent a oferir reptes intel·lectuals adequats, amb els suports lingüístics necessaris, per evitar la desmotivació per falta d'estímul i per demostrar a l'alumne que es confia en el seu potencial.
 
-**Quan aplica:** Quan s'ha d'organitzar el suport lingüístic per a un alumne nouvingut, especialment en els primers mesos, i cal decidir quant temps passa a l'aula d'acollida versus l'aula ordinària.
+*   **Heurística: La flexibilitat metodològica és la clau.**
+    *   **Quan aplica:** Quan un docent busca estratègies per adaptar la seva pràctica a la diversitat de l'alumnat nouvingut.
+    *   **Fonament:** L'aula és un espai de "gran diversitat cultural i social" (DOC 8), i una metodologia rígida no pot atendre les necessitats de tots. La diversificació d'activitats i avaluacions és essencial.
+    *   **Exemple complet de raonament:** Un docent em pregunta com pot fer les seves classes més accessibles per a un grup amb diversos alumnes nouvinguts amb diferents nivells de llengua. L'agent raonaria que la flexibilitat metodològica és indispensable. Proposaria al docent que "diversifiqui els procediments i activitats tant d'aprenentatge com d'avaluació" (DOC 8). Això podria incloure la combinació d'explicacions orals amb recursos visuals i interactius, activitats de recerca individual, treballs en petits grups amb rols diferenciats, i la possibilitat de presentar els treballs en formats diversos (oral, escrit, visual, digital). També suggeriria que "s'adaptin els continguts i activitats als coneixements previs de l'alumnat" (DOC 8) i que es doni temps per "assimilar-ho" (DOC 8), evitant "la còpia i les activitats mecàniques" (DOC 8). L'objectiu és que cada alumne pugui trobar la seva via d'accés al coneixement i demostrar el seu aprenentatge de la manera més efectiva.
 
-**Fonament:** L'Aula d'Acollida és un recurs de suport intensiu, no un espai de segregació permanent. L'alumnat nouvingut ha de passar la major part del temps a l'aula ordinària, participant en les activitats generals amb els suports adequats, i sortir a l'Aula d'Acollida per rebre suport lingüístic específic. La investigació mostra que la integració plena en contextos comunicatius reals (l'aula ordinària) és la condició més favorable per a l'adquisició de la L2. El suport de l'Aula d'Acollida és molt valuós, però no ha de substituir l'exposició a la L2 en contextos naturals i significatius amb iguals. A mesura que l'alumne progressa, el temps a l'Aula d'Acollida ha de reduir-se gradualment.
+*   **Heurística: "L'àncora emocional"**
+    *   **Quan aplica:** Quan observes que un alumne nouvingut mostra signes d'aïllament, tristesa, irritabilitat o manca de motivació, indicant un possible dol migratori o dificultats d'adaptació emocional.
+    *   **Fonament:** El benestar emocional és un prerequisit per a l'aprenentatge. El procés migratori pot generar pèrdues significatives (família, amics, cultura, estatus) que es manifesten com a dol migratori. Crear un vincle de confiança i un sentiment de pertinença és crucial per a l'estabilitat de l'alumne i per poder afrontar els reptes acadèmics i socials. La mediació cultural pot ser un recurs clau per acompanyar aquest procés.
+    *   **Exemple complet de raonament:** En Joan, que va arribar del Marroc fa un mes, sovint està amb la mirada perduda i no s'implica en les activitats de grup. Quan els companys intenten parlar amb ell, es tanca. Això no és només una barrera lingüística, sinó que podria ser un senyal de dol migratori o de dificultat per establir nous vincles. En lloc de forçar la interacció, m'aproparé a ell de forma individual, oferint-li un espai segur per expressar-se si ho desitja, potser amb l'ajuda d'un mediador cultural si n'hi ha. També buscaré maneres d'incorporar elements de la seva cultura d'origen a l'aula, com ara mapes, música o històries, per validar la seva identitat i ajudar-lo a sentir-se més connectat amb el seu passat mentre construeix el seu present.
 
-**Exemple (≥80 paraules):** La Fatima, de 9 anys, arriba de Mauritània i no parla català ni castellà. El centre la matricula a 4t de Primària i estableix que passa 5 hores setmanals a l'Aula d'Acollida per rebre ensenyament intensiu de català L2, centrat en el vocabulari quotidià i les estructures bàsiques. La resta del temps és a l'aula ordinària amb la seva tutora, que li ha preparat una versió simplificada dels textos i li assigna una parella lingüística. A matemàtiques, on la barrera lingüística és menor, participa plenament. Al cap de tres mesos, el temps a l'Aula d'Acollida es redueix a 3 hores perquè ja pot seguir moltes de les rutines de l'aula ordinària.
+*   **Heurística: "La xarxa de suport"**
+    *   **Quan aplica:** Quan l'alumne nouvingut presenta múltiples barreres (lingüístiques, emocionals, socials, curriculars) i necessita un acompanyament més enllà de l'aula.
+    *   **Fonament:** La integració de l'alumnat nouvingut és una responsabilitat compartida de tota la comunitat educativa i social. Implicar la família, el personal de l'aula d'acollida, els serveis socials i altres agents educatius crea una xarxa de suport que maximitza les oportunitats d'èxit i benestar de l'alumne. Cap professional pot gestionar sol la complexitat de múltiples barreres simultànies.
+    *   **Exemple complet de raonament:** En David està tenint moltes dificultats per adaptar-se. A més de la barrera lingüística, la seva família no ha pogut venir a les reunions i sembla que hi ha problemes a casa. Això em fa pensar que necessitem una xarxa de suport més àmplia. En lloc de gestionar-ho sol, em coordinaré amb el tutor de l'aula d'acollida per compartir informació sobre la seva evolució. També contactaré amb el servei de mediació intercultural del centre o de l'ajuntament per facilitar la comunicació amb la família i entendre millor la seva situació. Proposaré al departament d'orientació que valori si hi ha necessitats addicionals i buscarem recursos externs si cal, assegurant que tots els actors rellevants treballin de manera coordinada per al seu benestar i progrés.
 
----
+*   **Heurística: "Implicar activament la família"**
+    *   **Quan aplica:** Des del moment de la matriculació i durant tot el procés d'adaptació, especialment si hi ha dificultats de comunicació o si el docent vol entendre millor el context de l'alumne.
+    *   **Fonament:** Els documents subratllen la importància de "l'acollida de l'alumnat i les seves famílies" i que el pla d'acollida ha d'incloure actuacions referides a la matriculació i l'acollida inicial de les famílies. La família és un agent clau en el procés d'integració: quan se sent part de la comunitat educativa, l'alumne ho percep i se sent més segur.
+    *   **Exemple complet de raonament:** Un docent expressa: "M'agradaria parlar amb la família del nou alumne, però no sé com comunicar-me amb ells perquè no parlen català ni castellà." L'agent raonaria que la implicació familiar és crucial per a l'èxit de l'alumne. Aconsellaria al docent contactar amb el servei de mediació intercultural del centre o de l'ajuntament, si n'hi ha, per facilitar la comunicació. Proposaria utilitzar eines de traducció per a comunicacions escrites bàsiques (circulars, horaris) i organitzar una primera trobada amb un intèrpret per explicar el funcionament del centre, les expectatives i recollir informació rellevant sobre l'alumne (escolarització prèvia, interessos, situació familiar). L'objectiu és establir un canal de comunicació obert i de confiança que permeti a la família sentir-se part de la comunitat educativa i col·laborar en el procés d'aprenentatge del seu fill.
 
-## H3 Adaptar l'avaluació per separar la competència lingüística del contingut — DOCENT
+**Heurístiques per a l'Agent ALUMNE**
 
-**Quan aplica:** Quan s'ha d'avaluar l'alumnat nouvingut en qualsevol àrea i cal evitar que la barrera lingüística distorsioni l'avaluació del contingut acadèmic.
+*   **Heurística: Demana ajuda per entendre.**
+    *   **Quan aplica:** Quan un alumne nouvingut no entén el que s'explica a classe o una tasca.
+    *   **Fonament:** La por a equivocar-se o a no saber expressar-se pot portar a l'aïllament. Demanar ajuda és un signe de fortalesa i una eina clau per superar la barrera lingüística i avançar en l'aprenentatge.
+    *   **Exemple complet de raonament:** Un alumne nouvingut em pregunta què ha de fer quan no entén les explicacions del professor. L'agent raonaria que "demanar ajuda per entendre" és la millor estratègia. Li explicaria que és normal no entendre-ho tot al principi i que el professor i els companys estan allà per ajudar. Li suggeriria que no tingui por de preguntar, ja sigui aixecant la mà, utilitzant gestos per indicar que no ha entès, o demanant a un company que li expliqui amb paraules més senzilles. També podria animar-lo a utilitzar eines de traducció si les té a mà per buscar paraules clau. L'objectiu és que l'alumne entengui que la comunicació és bidireccional i que la seva participació activa en el procés de comprensió és fonamental per al seu èxit.
 
-**Fonament:** Un alumne nouvingut pot tenir una comprensió excel·lent de matemàtiques o ciències naturals però no ser capaç d'expressar-la en català perquè la seva competència lingüística encara no ho permet. Avaluar-lo amb els mateixos instruments que la resta del grup pot generar resultats molt poc fiables i, el que és pitjor, una percepció falsa de "no sap". L'avaluació de l'alumnat nouvingut ha de preveure alternatives: problemes matemàtics amb suport visual, explicació oral en la L1 valorada per un mediador, avaluació de processos en lloc de productes escrits, portfolis d'evidències multimodals.
+*   **Heurística: Connecta amb els teus companys.**
+    *   **Quan aplica:** Quan un alumne nouvingut se sent sol o té dificultats per fer amics.
+    *   **Fonament:** La interacció social és vital per a la integració i per a l'adquisició natural de la llengua. Els companys són un recurs valuós per a l'aprenentatge i el suport emocional.
+    *   **Exemple complet de raonament:** Un alumne nouvingut em confessa que se sent sol a l'escola i li costa fer amics. L'agent raonaria que "connectar amb els seus companys" és crucial per a la seva integració. Li suggeriria que busqui oportunitats per interactuar, com participar en activitats de grup a classe, oferir-se a ajudar un company, o simplement somriure i saludar. Li explicaria que molts companys estaran contents de conèixer-lo i que, fins i tot amb poques paraules, es poden establir connexions. També podria animar-lo a participar en activitats extraescolars no competitives (DOC 6) si n'hi ha, per trobar interessos comuns. L'objectiu és que l'alumne entengui que la socialització és un procés actiu i que, a mesura que interactuï, la seva confiança i la seva capacitat de comunicació milloraran.
 
-**Exemple (≥80 paraules):** El docent de Ciències Naturals de 5è de Primària té una alumna nouvinguda d'Ucraïna, la Nastia, que sembla no entendre res. Però quan li permet dibuixar el cicle de l'aigua en lloc d'escriure'l, la Nastia produeix un esquema perfectament correcte, detallat i amb totes les fases. El docent s'adona que la Nastia entén perfectament el contingut però no pot expressar-lo en català. A partir d'aquí, li permet usar el dibuix, els esquemes visuals i les respostes en ucraïnès traduïdes per un company bilingüe, modificant el format de l'avaluació per reflectir el seu coneixement real de la matèria.
+*   **Heurística: La teva història és un tresor.**
+    *   **Quan aplica:** Quan un alumne nouvingut dubta sobre compartir aspectes de la seva cultura o experiències, o se sent diferent.
+    *   **Fonament:** La "identitat de múltiples pertinences" (DOC 1) i la diversitat cultural són una riquesa. Compartir la pròpia història i cultura pot empoderar l'alumne i enriquir l'experiència de tots.
+    *   **Exemple complet de raonament:** Un alumne nouvingut em pregunta si hauria d'amagar que ve d'un altre país o que parla una altra llengua perquè se sent diferent. L'agent raonaria que "la seva història és un tresor" i que no hauria d'amagar-la. Li explicaria que la seva cultura i les seves experiències són úniques i valuoses, i que poden aportar molt a la classe i als seus companys. L'animaria a compartir aspectes de la seva vida, costums o coneixements quan se senti còmode, ja sigui en un projecte de classe, una presentació o una conversa informal. Li recordaria que la "diversitat és una realitat ineludible i la seva existència una riquesa i un bé comú" (DOC 10). L'objectiu és que l'alumne se senti orgullós de qui és i d'on ve, i que entengui que la seva identitat diversa és una fortalesa, no una feblesa.
 
----
-
-## H4 Comunicació accessible amb la família — DOCENT
-
-**Quan aplica:** Quan cal comunicar informació rellevant del centre a les famílies nouvingudes (horaris, permisos, progressos acadèmics, citacions a entrevista) i existeix una barrera lingüística.
-
-**Fonament:** Les famílies nouvingudes tenen el dret d'estar informades sobre l'escolarització dels seus fills i de participar en la vida del centre, però la barrera lingüística pot convertir-se en un mur. El centre té l'obligació legal (Llei 12/2009 d'Educació, art. 25) de proporcionar informació accessible a les famílies. Hi ha recursos concrets per superar aquesta barrera: notes estandarditzades bilingües (disponibles a XTEC en 14 idiomes), mediadors interculturals, aplicacions de traducció, intèrprets de la comunitat, o companyes-famílies que fan de pont lingüístic.
-
-**Exemple (≥80 paraules):** La família d'en Bilal, un alumne de 2n de Primària recent incorporat de Pakistan, no parla ni català ni castellà, sinó urdú. La tutora necessita comunicar l'horari setmanal i demanar autorització per a una sortida escolar. En lloc d'enviar una nota en català que la família no entendrà, utilitza les notes estandarditzades bilingües de XTEC per descarregar la nota d'horari en català i urdú. Per a la sortida, demana a l'orientadora del centre que li proporcioni contacte amb un mediador intercultural de l'Ajuntament que en coneix l'idioma. A la reunió amb la família, el mediador facilita la comunicació i la família, per primera vegada, entén clarament el que l'escola espera del seu fill i pot fer preguntes.
-
----
-
-## H5 Reconèixer i aprofitar el bagatge lingüístic i cultural com a recurs — DOCENT
-
-**Quan aplica:** En el disseny de les activitats d'aula i en la construcció del clima de grup, sempre que hi hagi diversitat lingüística i cultural al grup classe.
-
-**Fonament:** Les llengües i cultures que els alumnes nouvinguts porten a l'escola no són obstacles ni curiositats exòtiques, sinó recursos cognitius i pedagògics reals. L'enfocament del translanguaging (ús fluid de múltiples recursos lingüístics) i de la pedagogia intercultural mostren que les aules on es reconeix i s'aprofita la diversitat lingüística generen un clima de respecte i aprenentatge enriquidor per a tots. Preguntar a l'alumne nouvingut com es diu un objecte en la seva llengua, comparar sistemes d'escriptura, explorar les similituds i diferències entre cultures, introduir referents culturals diversos als materials: tot això transmet un missatge poderós que la seva identitat és benvinguda i valorada, i alhora proporciona una motivació intrínseca per aprendre.
-
-**Exemple (≥80 paraules):** En una activitat de vocabulari sobre els aliments, la tutora de 3r de Primària demana a la Samira, que ve d'Algèria, i al Kenji, que ve del Japó, que escriguin com es diuen en la seva llengua els aliments que s'estudien. Quan comparteixen les seves paraules amb la classe, sorgeix una conversa sobre com en àrab els números i les lletres van de dreta a esquerra, i sobre com el japonès té tres sistemes d'escriptura. La classe queda fascinada i demana aprendre'n. La Samira i el Kenji, que fins aleshores es sentien com "els estranys", ara se senten protagonistes i experts, i la seva motivació per participar augmenta notablement les setmanes posteriors.
-
----
-
-## H6 Demanar ajuda quan no entenc — ALUMNE
-
-**Quan aplica:** Quan l'alumne nouvingut no entén una explicació, una activitat o una instrucció a l'aula.
-
-**Fonament:** En les primeres etapes d'integració, és molt difícil per a un alumne nouvingut saber quan i com demanar ajuda. La por de quedar en ridícul, la manca de vocabulari per formular la pregunta i la incertesa sobre les convencions socials de l'aula contribueixen al silenci. Aprendre a demanar ajuda en situacions molt bàsiques és una de les primeres habilitats comunicatives que l'alumne nouvingut necessita i que el docent pot ensenyar explícitament: "Pot repetir, si us plau?", "No entenc", "Puc preguntar?", "Com es diu...?".
-
-**Exemple (≥80 paraules):** La Irina, que acaba d'arribar de Rússia i estudia a 5è de Primària, no entén les instruccions d'un exercici de matemàtiques. Se sent paralitzada per la vergonya i no diu res, i passa tota la classe sense poder fer res. El seu professor li ha ensenyat tres frases en català que pot usar quan no entén: "No entenc", "Pots repetir?", i "Com es fa?". Ara, quan no entén, la Irina aixeca la mà i diu "No entenc" o utilitza la targeta verda que té a la taula (senyal acordat amb el professor). El professor s'acosta, li explica amb suport visual o demana al company de taula que ajudi. Irina ja no passa les hores paralitzada pel pànic.
-
----
-
-## H7 Compartir la meva cultura sense por — ALUMNE
-
-**Quan aplica:** Quan el docent crea oportunitats per compartir elements culturals a l'aula i l'alumne nouvingut no sap si ha de participar o tem ser vist com "diferent".
-
-**Fonament:** La identitat cultural és un actiu, no un problema. Compartir elements de la cultura d'origen (gastronomia, festes, música, contes, paraules) en un ambient de respecte mutu és una experiència que enforteix l'autoestima i la sensació de pertinença. Alhora, enriqueix el grup classe sencer amb perspectives diverses. L'agent ha d'animar l'alumne nouvingut a participar en les activitats de compartir cultura des d'una posició d'elecció (no d'obligació) i d'equitat (no d'exhibició).
-
-**Exemple (≥80 paraules):** El Moussa, de 11 anys, que ve del Senegal, s'assabenta que la classe de l'Arantxa farà una activitat on cada alumne porta un aliment típic del seu país o regió per celebrar la diversitat cultural de la classe. El Moussa se sent nerviós i no sap si ho farà: i si els seus companys no li agrada el thiéboudienne (arròs amb peix)? L'agent el tranquil·litza i l'ajuda a pensar com presentar el plat d'una manera senzilla. Quan la classe tasten l'arròs del Moussa i li fan preguntes amb curiositat genuïna, el Moussa se sent per primera vegada completament part del grup. La seva autoestima millora visiblement i les setmanes posteriors participa molt més a les discussions de classe.
+*   **Heurística: "El meu espai segur"**
+    *   **Quan aplica:** Quan un alumne nouvingut se sent sol, trist o amb por de no encaixar en el nou entorn escolar.
+    *   **Fonament:** L'escola ha de ser un lloc segur on l'alumne se senti acceptat i protegit. Identificar adults de confiança i espais on sentir-se còmode és vital per al seu benestar emocional i la seva integració, permetent-li expressar les seves emocions i trobar suport.
+    *   **Exemple complet de raonament:** Si em sento trist o sol, o si trobo a faltar la meva família o el meu país, recordaré que hi ha adults a l'escola que em poden ajudar. Puc parlar amb el meu tutor, amb el professor de l'aula d'acollida o amb algun altre adult amb qui em senti còmode. També puc buscar un espai tranquil a l'hora del pati si necessito un moment per mi. Recordaré que és normal sentir-se així al principi i que no estic sol. Intentaré apropar-me a algun company que em somrigui o que em sembli amable, encara que al principi em costi parlar. L'important és no guardar-me els sentiments i buscar suport, perquè parlar-ne ajuda a sentir-se millor.
 
 ---
 
-## H8 Usar la meva llengua per aprendre la nova — ALUMNE
+## 5. FONTS DEL CORPUS
 
-**Quan aplica:** Quan l'alumne nouvingut s'enfronta a conceptes difícils en català i no sap si és permès pensar en la seva llengua o usar recursos en la seva L1.
+| # | Títol | URL |
+|---|-------|-----|
+| 1 | cursos:escola_inclusiva:deic:modul_4:index [Formació del professorat] | https://ateneu.xtec.cat/wikiform/wikiexport/cursos/escola_inclusiva/deic/modul_4/index |
+| 2 | cursos:escola_inclusiva:deic:modul_1:index [Formació del professorat] | https://ateneu.xtec.cat/wikiform/wikiexport/cursos/escola_inclusiva/deic/modul_1/index |
+| 3 | cursos:escola_inclusiva:deic:modul_4:practica_1 [Formació del professorat] | https://ateneu.xtec.cat/wikiform/wikiexport/cursos/escola_inclusiva/deic/modul_4/practica_1 |
+| 4 | cursos:escola_inclusiva:deic:modul_1:practica_2 [Formació del professorat] | https://ateneu.xtec.cat/wikiform/wikiexport/cursos/escola_inclusiva/deic/modul_1/practica_2 |
+| 5 | annex1_aules_nov_09_45cd56f376.pdf | http://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0055/7192e6a8-1bb3-4030-b7f8-562ecd7ff933/annex1_aules_nov_09.pdf |
+| 6 | pla_ind_altes_capacitats_756fd2c5a7.pdf | http://ateneu.xtec.cat/wikiform/wikiexport/_media/cursos/escola_inclusiva/diee3/modul_4/pla_ind_altes_capacitats.pdf |
+| 7 | asma_d9939fd703.pdf | http://www.xtec.cat/~rgrau/exemples/asma.pdf |
+| 8 | cadsuports_a8c7a072f0.pdf | http://ateneu.xtec.cat/wikiform/wikiexport/_media/cursos/escola_inclusiva/diee3/modul_2/cadsuports.pdf |
+| 10 | pi_del_burgar_6348841d09.pdf | http://ateneu.xtec.cat/wikiform/wikiexport/_media/cursos/escola_inclusiva/diee/modul_2/pi_del_burgar.pdf |
 
-**Fonament:** Usar la llengua materna com a pont per aprendre la nova no és "fer trampes": és una estratègia cognitiva intel·ligent i fonamentalment recomanada per la recerca en adquisició de L2. Pensar primer en la L1, buscar la traducció, comparar les dues expressions, identificar similituds i diferències: tot això activa una comprensió més profunda i duradora. L'agent ha d'animar l'alumne nouvingut a usar els diccionaris bilingües, les aplicacions de traducció i el seu propi bagatge lingüístic com a eines d'aprenentatge, no com a muletes de les quals avergonyir-se.
-
-**Exemple (≥80 paraules):** La Yasmine, de 14 anys, arriba d'Algèria i estudia a 2n d'ESO. En una activitat de ciències socials sobre el feudalisme, no entén la paraula "servent". El seu professor li ha dit que pot usar el diccionari bilingüe arab-català que hi ha a l'ordinador de l'aula. La Yasmine busca la paraula, troba la traducció i, de sobte, ho entén tot, perquè ja coneixia el concepte en àrab. El professor la felicita per la seva estratègia. La Yasmine aprèn que usar la seva L1 com a pont no és una debilitat sinó una habilitat que l'ajuda a aprendre més ràpidament. A partir d'aquí, usa el diccionari regularment sense vergonya i el seu progrés en català s'accelera.
-
----
-
-## H9 L'encontre transforma el grup — DOCENT
-
-**Quan aplica:** Quan arriba un alumne nouvingut i el docent ha de decidir si tracta la incorporació com un "cas individual" a gestionar o com una oportunitat de transformació del grup sencer.
-
-**Fonament:** La perspectiva ignasiana de l'hospitalitat sosté que "en la trobada tots i totes som transformats" (Companyia de Jesús, 2022). Quan el docent aborda l'arribada d'un nouvingut exclusivament com a problema logístic i lingüístic, perd l'oportunitat pedagògica més profunda: fer visible la condició migratòria compartida de tot el grup. La recerca en pedagogia intercultural mostra que les aules on tothom reflexiona sobre els propis orígens generen climes de pertinença significativament més alts que les aules on s'aïlla el cas del nouvingut.
-
-**Exemple (≥80 paraules):** Quan arriba el Khalil, de 11 anys, procedent de Síria, la tutora Montse no anuncia que "tenim un alumne nou que no parla català". En canvi, organitza una activitat d'una sessió on cada alumne pregunta a casa seva: "D'on venen els nostres avis o besavis?". L'endemà comparteixen: la mare del Pau va venir d'Andalusia als anys 70, els avis de la Laia eren asturians, la família de la Maria va arribar de Romania fa deu anys. De 22 alumnes, 16 tenen alguna arrel migratòria recent o llunyana. Quan el Khalil comparteix la seva història, ja no és "l'estrany": és el membre del grup amb la migració més recent, en una comunitat que porta la migració en l'ADN. El canvi en la dinàmica de grup és immediat i durador: el nouvingut deixa de ser objecte d'acollida i es converteix en subjecte d'una història compartida.
-
----
-
-### Fonts i referències
-
-- Coelho, E., Oller, J., & Serra, J. M. (s.d.). *Más allá del primer contacto: ¿cómo dar la bienvenida a los estudiantes inmigrantes y a sus familias?* Consello da Cultura Galega.
-- Moreno, J. C., Serrat, E., Serra, J. M., & Farrés, J. (2005). *Llengua i immigració: diversitat lingüística i aprenentatge de llengües*. Departament de Benestar i Família, Generalitat de Catalunya. (Col·lecció Llengua, immigració i ensenyament del català, núm. 1).
-- Barrieras, M., Comellas, P., Junyent, M. C., & Unamuno, V. (2009). *Diversitat lingüística a l'aula*. Fundació Jaume Bofill.
-- Belart, M., & Rancé, L. (1995). *Nivell llindar per a escolars de 8 a 14 anys*. Departament d'Ensenyament.
-- Krashen, S. D. (1982). *Principles and Practice in Second Language Acquisition*. Pergamon Press.
-- Cummins, J. (1984). *Bilingualism and Special Education: Issues in Assessment and Pedagogy*. Multilingual Matters.
-- Llei 12/2009, del 10 de juliol, d'educació. Generalitat de Catalunya.
-- Convenció sobre els Drets de l'Infant (ONU, 1989).
-- Equip de Migracions, Companyia de Jesús — Província d'Espanya (2022). *Migrants som tots. Construir una cultura de l'hospitalitat al servei d'una societat comuna.*
-
-### Fonts del corpus scraped
-
-- https://xtec.gencat.cat/ca/projectes/alumnat-origen-estranger/alumnatnou/acollida/notes/index.html
-- https://xtec.gencat.cat/ca/projectes/alumnat-origen-estranger/alumnatnou/orientacions/
-- https://xtec.gencat.cat/ca/projectes/alumnat-origen-estranger/alumnatnou/reflexio/diversitatling/
-- https://xtec.gencat.cat/ca/projectes/alumnat-origen-estranger/alumnatnou/materials/occita/
-- https://consellodacultura.gal/fondos_documentais/web/coordinadoraendl/aletramiuda/outros/recomendacions/recom_9_4.pdf
-- https://igualtat.gencat.cat/web/.content/Ambits/antiracisme-migracions/publicacions/colleccio-llengua-immigracio-ensenyament/llengua_immigracio_01.pdf
-- https://xtec.gencat.cat/ca/projectes/intercultural/normativa/
+*9 documents citats de 10 al corpus · secció generada automàticament*

@@ -1,293 +1,193 @@
-```yaml
+---
 modul: M3
 titol: "Comunicació Augmentativa i Alternativa (CAA)"
 tipus: estrategia
 descripcio: "Sistemes CAA: PECS, SAAC, pictogrames per a alumnat amb dificultats de comunicació oral"
 review_status: esborrany
-generat_at: 2026-03-18T15:32:25
+generat_at: 2026-03-18T11:45:10
 ---
-# Comunicació Augmentativa i Alternativa (CAA)
 
-## 1. DESCRIPCIÓ I FONAMENT
+## 1. CONTINGUT ESPECÍFIC
 
-La Comunicació Augmentativa i Alternativa (CAA) és un conjunt d'eines i estratègies que ajuden les persones amb dificultats severes de comunicació oral a expressar-se i comprendre el món. No substitueix la parla, sinó que la complementa (augmentativa) o la reemplaça (alternativa) quan aquesta no és funcional. El seu fonament rau en la premissa que tothom té dret a comunicar-se i que la comunicació és essencial per a l'aprenentatge, el desenvolupament cognitiu, emocional i social.
+### Descripció i fonament
+Aquesta estratègia se centra en l'ús de suports visuals, incloent-hi pictogrames i imatges, com a eina fonamental per vehicular el coneixement i facilitar la comunicació en l'alumnat que presenta dificultats en l'adquisició i ús de la llengua vehicular (català), especialment l'alumnat d'incorporació tardana o amb poca escolarització prèvia. Cal aclarir que, tot i que el títol del document fa referència a la Comunicació Augmentativa i Alternativa (CAA) i sistemes com PECS o SAAC, els documents font proporcionats se centren en l'ús de suports visuals com a estratègia general d'aprenentatge de la llengua per a l'alumnat nouvingut, i no en sistemes clínics específics de CAA per a trastorns de la parla o del llenguatge.
 
-La CAA es basa en el Tractament Integrat de Llengua i Continguts (TILC), que reconeix la llengua com a base de tots els aprenentatges i un vehicle imprescindible per al pensament. En aquest sentit, la CAA permet vehicular el coneixement a través de diferents "patrons lingüístics" i "gèneres discursius" adaptats a les necessitats de l'alumnat. L'objectiu és facilitar l'accés al currículum ordinari, especialment per a alumnes amb L2 o amb necessitats educatives especials, garantint un "input comprensible" i oferint "bastides de suport" per a la comprensió i producció.
+El fonament d'aquesta estratègia rau en la importància dels estímuls visuals en l'aprenentatge. Les imatges, làmines, cartronets o dibuixos actuen com a "bastides" que ajuden l'alumnat a captar amb més facilitat objectes, persones o situacions de la vida real, accelerant l'assimilació de nous continguts. Aquests suports visuals faciliten la comprensió oral i escrita, permeten construir vocabulari bàsic i estructures lingüístiques, i ajuden a expressar idees i vivències. A més, redueixen l'ansietat, augmenten la motivació i permeten als alumnes participar activament en situacions comunicatives, connectant el llenguatge conversacional amb el llenguatge acadèmic. Aquesta metodologia s'alinea amb el Marc Europeu Comú de Referència per a les Llengües (MECR) en la definició d'objectius i continguts per a l'adquisició de L2.
 
-La interacció és un element indispensable en l'aprenentatge, i la CAA la fomenta, permetent negociar significats, obtenir models de llengua i rebre ajuda entre iguals i del docent. A més, reconeix la importància de la multimodalitat i els llenguatges no verbals (gestos, imatges, audiovisuals) per complementar la comunicació verbal i facilitar la comprensió i expressió del coneixement.
+### Quan i per a qui és útil
+Aquesta estratègia és especialment útil per a:
+- **Alumnat d'incorporació tardana o nouvingut:** Que desconeix la llengua catalana o té poca escolarització prèvia, des d'Educació Infantil fins a ESO i Batxillerat/FP.
+- **Etapes educatives:** Des d'Educació Infantil i Cicle Inicial de Primària, on l'ús comunicatiu de la llengua és fonamental, fins a Cicle Mitjà, Cicle Superior i Secundària, per continuar desenvolupant el llenguatge conversacional i acadèmic.
+- **Àrees d'aprenentatge:** Per a l'adquisició de vocabulari en totes les matèries, no només en llengua.
+- **Desenvolupament d'habilitats:** Per a la comprensió i expressió oral i escrita, la interacció comunicativa, la narració de fets, la descripció, l'argumentació i la reflexió metalingüística.
+- **Condicions d'èxit:** Requereix una preparació acurada dels materials per part del docent, una contextualització clara de les situacions comunicatives, una adaptació constant al nivell de competència lingüística de l'alumnat i la promoció activa de la interacció. És fonamental que el docent valori el bagatge cultural i lingüístic previ de l'alumne per construir sobre ell.
 
-## 2. QUAN I PER A QUI ÉS ÚTIL
+### Recursos necessaris
+- **Materials visuals:**
+    - **Cartronets i làmines:** Amb accions, objectes, llocs, animals, oficis, situacions quotidianes (ex: "112 accions", "Làmines Vivim junts", "Làmines Viure a Catalunya").
+    - **Àlbums il·lustrats i còmics:** Per a la construcció de la identitat, l'adquisició de lèxic i la comprensió lectora.
+    - **Fotografies i dibuixos:** Per a la descripció, narració de vivències i expressió d'emocions.
+    - **Targetes d'ajuda i de personatges:** Per a la preparació de jocs de rol i dramatitzacions.
+- **Tecnològics:** Ordinador o PDI per projectar imatges i materials interactius.
+- **Temporals:** Temps dedicat a la preparació, assaig i representació de les activitats.
+- **Humans:** Formació del professorat en l'ús d'aquestes metodologies i materials per a l'atenció a la diversitat lingüística.
 
-La CAA és útil per a qualsevol alumne amb dificultats significatives en la comunicació oral, ja sigui per raons de desenvolupament, neurològiques, físiques o lingüístiques (com l'alumnat nouvingut amb una L2 molt incipient).
+### Com implementar (3 nivells: bàsic, intermedi, avançat + adaptacions per diversitat)
 
-*   **Etapes educatives:** Des d'Infantil fins a Batxillerat/FP. En Infantil i Primària, pot ser crucial per al desenvolupament inicial del llenguatge i l'accés al joc i la interacció social. En ESO i Batxillerat/FP, ajuda a accedir al llenguatge acadèmic i a expressar coneixements més complexos.
-*   **Perfils d'alumnat:**
-    *   Alumnat amb Trastorn de l'Espectre Autista (TEA).
-    *   Alumnat amb paràlisi cerebral o altres condicions que afecten la parla.
-    *   Alumnat amb discapacitat intel·lectual.
-    *   Alumnat amb trastorns del llenguatge greus.
-    *   Alumnat nouvingut amb L2 molt baixa, especialment en les primeres fases d'acollida.
-    *   Alumnat amb dificultats de comprensió o expressió en situacions d'ansietat o estrès.
-*   **Àrees curriculars:** Totes les àrees es beneficien de la CAA, ja que la comunicació és transversal. Permet accedir a continguts acadèmics, expressar idees, fer preguntes, argumentar i justificar en qualsevol matèria.
-*   **Condicions d'èxit:**
-    *   **Implicació de tot l'equip docent:** La CAA no és responsabilitat exclusiva de l'especialista, sinó de tots els docents que interactuen amb l'alumne.
-    *   **Formació i sensibilització:** El professorat ha de conèixer els sistemes i principis de la CAA.
-    *   **Personalització:** L'elecció del sistema i les estratègies ha de ser individualitzada segons les necessitats i capacitats de cada alumne.
-    *   **Coherència i continuïtat:** Ús consistent dels sistemes en tots els contextos i amb totes les persones.
-    *   **Foment de la interacció:** Crear un clima d'aula que promogui la comunicació activa i el suport entre iguals.
-    *   **Ús de suports visuals i multimodals:** La informació ha de ser presentada en diferents formats per facilitar la comprensió.
+Aquesta estratègia es pot graduar en complexitat segons el nivell de competència lingüística de l'alumnat i els objectius d'aprenentatge.
 
-## 3. RECURSOS NECESSARIS
+#### Nivell Bàsic: Primer contacte i vocabulari essencial
+- **Accions:**
+    - **Associació imatge-paraula:** Utilitzar cartronets o làmines per presentar vocabulari bàsic (objectes de l'aula, accions quotidianes, membres de la família, animals, oficis). L'alumnat assenyala, nomena i repeteix.
+    - **Rutines i seqüències:** Ordenar cartronets d'accions per narrar rutines diàries o esdeveniments senzills (ex: "112 accions").
+    - **Descripció simple:** Descriure objectes o persones a partir d'imatges amb frases curtes i estructures bàsiques (ex: "La classe", "La família", "Els animals").
+- **Adaptacions per diversitat:**
+    - **Reduir elements:** Limitar el nombre de paraules o imatges a treballar simultàniament.
+    - **Suport del docent/company:** El docent o un company més competent fa de model, d'apuntador o ajuda a completar frases.
+    - **Lèxic marcat:** Marcar amb colors els exponents lingüístics clau a utilitzar en les targetes d'ajuda.
+    - **Repetició:** Repetir les instruccions i el vocabulari diverses vegades, amb entonació clara i pausada.
 
-*   **Temps:**
-    *   Per a la formació del professorat en sistemes CAA.
-    *   Per a la planificació i adaptació de materials.
-    *   Per a la implementació sistemàtica a l'aula.
-    *   Per a la interacció individualitzada amb l'alumnat.
-*   **Espai:**
-    *   Aula ordinària adaptada amb suports visuals (pictogrames, horaris visuals, etc.).
-    *   Espais tranquils per a sessions individualitzades si cal.
-*   **Materials:**
-    *   **Sistemes de comunicació:** PECS (Sistema de Comunicació per Intercanvi d'Imatges), SAAC (Sistemes Augmentatius i Alternatius de Comunicació) com ara taulers de comunicació, comunicadors amb veu, aplicacions digitals.
-    *   **Pictogrames:** Bancs de pictogrames (ARASAAC, etc.), targetes, llibres de comunicació.
-    *   **Organitzadors gràfics:** Esquemes, mapes conceptuals, bases d'orientació per a la producció de textos.
-    *   **Suports visuals:** Imatges, fotografies, vídeos, objectes reals.
-    *   **Tecnologia:** Tauletes, ordinadors, programari específic, impressora per a pictogrames.
-*   **Formació:**
-    *   Formació específica en CAA per a especialistes (logopedes, educadors d'educació especial).
-    *   Formació bàsica per a tot el professorat sobre l'ús de pictogrames i estratègies de suport a la comunicació.
-    *   Formació en metodologies TILC i ensenyament protegit.
+#### Nivell Intermedi: Interacció oral i comprensió de situacions
+- **Accions:**
+    - **Jocs de rol contextualitzats:** Dramatitzacions de situacions comunicatives quotidianes (anar al restaurant, comprar peix, visitar un malalt, organitzar-se en una illa deserta) amb targetes de personatges i d'ajuda que guien el diàleg.
+    - **Descripció i informació:** Descriure amb més detall imatges o situacions, demanar i donar informació concreta (ex: "El carril bici", "Anem d'excursió?", "Com puc anar a...?").
+    - **Expressió d'opinions i sentiments:** Manifestar acords i desacords, expressar satisfacció o malestar en contextos socials.
+    - **Lectura guiada amb suports visuals:** Utilitzar àlbums il·lustrats o còmics per a la comprensió lectora, amb suport d'imatges per deduir significats i narrar històries.
+- **Adaptacions per diversitat:**
+    - **Targetes d'ajuda completes:** Proporcionar targetes d'ajuda amb exponents lingüístics i vocabulari rellevant.
+    - **Assignació de rols:** Assignar rols que requereixin un domini lingüístic adequat al nivell de l'alumne (ex: el paper de "regidora" o "periodista" per a alumnes amb més domini, el de "pare" o "nena" per a menys).
+    - **Preparació en parelles:** Permetre la preparació de diàlegs en parelles, on un company expert pot fer de tutor.
+    - **Ús de plànols o mapes:** Per a activitats de localització i indicacions, si el nivell ho permet.
 
-## 4. COM IMPLEMENTAR
+#### Nivell Avançat: Reflexió metalingüística i llenguatge figurat
+- **Accions:**
+    - **Interpretació de llenguatge figurat:** Treballar amb frases fetes, endevinalles o acudits, utilitzant suports visuals per ajudar a deduir el significat literal i figurat (ex: "Què vol dir...?", "Endevina, endevinalla...", "Acudits, quin mal de cap!").
+    - **Argumentació i persuasió:** Participar en debats o simulacions on cal argumentar, convèncer, negociar i defensar un punt de vista (ex: "Hi ha polls a l'escola!", "Què em posaré demà?").
+    - **Improvisació i creativitat:** Crear nous diàlegs o situacions a partir de models, incorporant lèxic i expressions propis.
+    - **Anàlisi d'obres d'art:** Descriure i fer hipòtesis sobre obres d'art amb suport visual, expressant opinions i sentiments (ex: "Dalí, un gran pintor").
+- **Adaptacions per diversitat:**
+    - **Ampliació d'intervencions:** Animar els alumnes a allargar les seves intervencions, donar més detalls, justificar amb més arguments.
+    - **Eliminació de suports:** Reduir o eliminar les targetes d'ajuda per fomentar la improvisació.
+    - **Rols complexos:** Assignar rols que requereixin un alt domini lingüístic i capacitat d'adaptació.
+    - **Creació de materials:** Proposar als alumnes que creïn els seus propis materials visuals o situacions comunicatives.
 
-La implementació de la CAA ha de ser gradual, sistemàtica i adaptada a les necessitats de cada alumne i context.
+### Exemples d'aplicació per etapa
 
-### Nivell Bàsic (Introducció i sensibilització)
+-   **Educació Infantil / Cicle Inicial de Primària:**
+    -   **"El meu àlbum":** Creació d'un àlbum personal amb imatges autobiogràfiques per introduir vocabulari sobre la família, el lloc d'origen i les vivències personals, facilitant l'expressió de sentiments i afectes (DOC 30).
+    -   **"Les festes de l'hivern":** Col·lecció de cromos sobre tradicions catalanes per aprendre vocabulari festiu i expressions quotidianes, amb intercanvi de cromos per practicar la comunicació oral (DOC 34).
+    -   **"Parlem, llegim i escrivim amb la Nàdia i en Li":** Ús de quaderns amb il·lustracions per iniciar l'aprenentatge de la llengua oral i escrita amb estructures bàsiques i vocabulari usual, especialment per a alumnat amb poca escolarització prèvia (DOC 22).
 
-1.  **Observació i identificació:** Identificar alumnat amb dificultats de comunicació oral.
-2.  **Sensibilització:** Informar a l'equip docent i a la família sobre la importància de la CAA.
-3.  **Ús de pictogrames generals:**
-    *   **Horaris visuals:** Crear horaris diaris o de tasques amb pictogrames per a tot l'alumnat, especialment útil per a la previsibilitat.
-    *   **Normes de l'aula:** Pictogrames per a les normes bàsiques de convivència.
-    *   **Vocabulari clau:** Introduir pictogrames per a paraules clau de les rutines o conceptes senzills.
-4.  **Modelatge:** El docent utilitza els pictogrames mentre parla, assenyalant-los o mostrant-los.
-5.  **Foment de la interacció no verbal:** Animar l'alumne a assenyalar, fer gestos o utilitzar expressions facials per comunicar-se.
-6.  **Estratègies de "input comprensible":** Parlar lentament, amb frases curtes, utilitzar gestos, imatges i objectes reals per contextualitzar.
+-   **Cicle Mitjà / Cicle Superior de Primària:**
+    -   **Jocs de rol "Enrola't.cat":** Activitats com "Els nàufrags" (DOC 41) per planificar accions futures i argumentar, o "Una de bruixes i bruixots!" (DOC 50) per practicar l'imperatiu i la imaginació, amb targetes d'ajuda i personatges.
+    -   **"Làmines Viure a Catalunya":** Utilitzar làmines amb escenes quotidianes (la casa, el parc, el mercat) com a estímul visual per adquirir vocabulari, descriure situacions i practicar diàlegs (DOC 32).
+    -   **"Aprendre vocabulari en totes les matèries":** Ús de suports visuals per a l'adquisició de lèxic específic de matemàtiques, ciències o història, facilitant la comprensió dels continguts curriculars (DOC 8, DOC 16).
 
-### Nivell Intermedi (Sistemes de comunicació personalitzats)
+-   **ESO / Batxillerat / Formació Professional:**
+    -   **Jocs de rol complexos:** Simulacions com "Roda de premsa" (DOC 67) per practicar l'obtenció i donació d'informació, o "Viatge al Sàhara" (DOC 62) per prendre decisions i argumentar, amb rols de periodista, entrenador, germans, etc.
+    -   **Activitat "Què vol dir...?":** Treball amb frases fetes i llenguatge figurat, utilitzant imatges il·lustratives per reflexionar sobre el significat i el context d'ús, millorant les habilitats metalingüístiques (DOC 40, DOC 65).
+    -   **"Utilització dels textos literaris":** Ús d'àlbums il·lustrats o còmics per a la integració lingüística i cultural, fomentant l'alfabetització visual i la discussió interpretativa, especialment amb materials de Lectura Fàcil (DOC 18, DOC 19).
 
-1.  **Avaluació individualitzada:** Amb l'ajuda de l'EAP o especialistes, determinar el sistema CAA més adequat per a l'alumne (PECS, SAAC amb taulers, etc.).
-2.  **Creació de taulers de comunicació:** Dissenyar taulers de comunicació amb pictogrames o fotografies rellevants per a l'alumne i el seu entorn (família, escola, interessos).
-3.  **Ensenyament explícit del sistema:**
-    *   **PECS (Sistema de Comunicació per Intercanvi d'Imatges):** Ensenyar les fases del PECS (intercanvi simple, distància, discriminació, estructura de frase).
-    *   **SAAC:** Ensenyar l'ús dels taulers o comunicadors, començant per peticions bàsiques i ampliant a descripcions o comentaris.
-4.  **Integració en les àrees:**
-    *   **Vocabulari acadèmic:** Crear pictogrames per al lèxic especialitzat de cada matèria.
-    *   **Funcions cognitivolingüístiques:** Utilitzar pictogrames per representar accions com "descriure", "explicar", "comparar", "justificar".
-    *   **Organitzadors gràfics visuals:** Mapes conceptuals amb pictogrames per estructurar la informació.
-5.  **Aprenentatge cooperatiu:** Organitzar activitats en petit grup on l'alumne amb CAA pugui interactuar i rebre suport dels companys.
+### Indicadors d'èxit
+-   **Comprensió:** L'alumnat comprèn instruccions, preguntes i textos orals i escrits amb suport visual, i pot deduir significats de paraules o expressions noves.
+-   **Expressió oral:** Augmenta la fluïdesa, la precisió i la riquesa lèxica en les seves intervencions, utilitzant les funcions comunicatives adequades (informar, descriure, argumentar, expressar opinions).
+-   **Expressió escrita:** Millora la capacitat de produir textos curts i coherents, amb un vocabulari més ampli i estructures gramaticals correctes, amb suport de models visuals.
+-   **Interacció:** Participa activament en diàlegs i jocs de rol, respectant els torns de paraula i adaptant el seu llenguatge a l'interlocutor i al context.
+-   **Motivació i autonomia:** Mostra interès per l'aprenentatge de la llengua, s'esforça per comunicar-se i desenvolupa estratègies pròpies per comprendre i aprendre vocabulari nou.
+-   **Integració:** Utilitza la llengua catalana en situacions comunicatives diverses, tant a l'aula com en l'entorn escolar i social.
 
-### Nivell Avançat (Autonomia i complexitat comunicativa)
-
-1.  **Desenvolupament de la competència plurilingüe:** Si l'alumne té una L1 diferent, integrar elements de la seva llengua en el sistema CAA si és possible, o utilitzar-la com a pont per a la comprensió.
-2.  **Ús de comunicadors de veu/aplicacions:** Introduir dispositius electrònics que permetin a l'alumne generar missatges més complexos i amb veu sintetitzada.
-3.  **Producció de textos complexos:** Utilitzar el sistema CAA per planificar i estructurar textos escrits o exposicions orals (amb suport visual).
-4.  **Argumentació i justificació:** Entrenar l'alumne a utilitzar el sistema per expressar opinions, raons i evidències.
-5.  **Adaptació de gèneres discursius:** Ajudar l'alumne a comprendre i produir diferents gèneres (notícies, informes, descripcions científiques) amb el suport del sistema CAA.
-6.  **Foment de l'autoregulació:** Encoratjar l'alumne a utilitzar el seu sistema CAA de manera autònoma per resoldre dubtes, demanar ajuda o expressar frustració.
-
-### Adaptacions per diversitat
-
-*   **Alumnat amb NEE:** Implementació intensiva i personalitzada, amb coordinació constant amb l'EAP i la família.
-*   **Alumnat nouvingut:** Enfocament en la BICS inicialment, amb pictogrames per a rutines i necessitats bàsiques, progressant cap a la CALP amb vocabulari acadèmic i funcions cognitivolingüístiques.
-*   **Versions simplificades:** Per a alumnat amb dificultats cognitives severes, reduir el nombre de pictogrames, utilitzar imatges més concretes i centrar-se en la comunicació de necessitats bàsiques.
-*   **Digitalització:** Ús d'aplicacions en tauletes o ordinadors que permetin la creació ràpida de pictogrames, la generació de veu i l'accés a un vocabulari més ampli.
-
-## 5. EXEMPLES D'APLICACIÓ PER ETAPA
-
-### Primària (Cicle Inicial)
-
-*   **Context:** Classe de Coneixement del Medi, unitat sobre "Els animals de la granja". Un alumne amb TEA té dificultats per participar oralment i comprendre instruccions complexes.
-*   **Implementació:**
-    1.  **Horari visual:** L'horari del dia a l'aula inclou pictogrames de les activitats (ex: "Medi", "Pati", "Matemàtiques").
-    2.  **Tauler de comunicació temàtic:** Es crea un tauler amb pictogrames dels animals de la granja, les seves característiques (menjar, so, hàbitat) i accions (menjar, córrer, volar).
-    3.  **Activitat:** El docent mostra un pictograma d'un animal (ex: "vaca") i el so. Després, assenyala el pictograma de "menjar" i "herba". L'alumne, amb el seu tauler, pot assenyalar "vaca", "menjar", "herba" per respondre o fer una frase simple.
-    4.  **Interacció:** Durant una activitat de classificació d'animals, el docent anima l'alumne a utilitzar el seu tauler per dir "aquest és un mamífer" o "aquest pon ous", amb el suport de pictogrames de les categories.
-
-### Secundària (1r ESO)
-
-*   **Context:** Classe de Ciències Socials, unitat sobre "L'Antic Egipte". Una alumna nouvinguda amb un nivell A2 de català té dificultats per seguir les explicacions i expressar-se en els debats.
-*   **Implementació:**
-    1.  **Lèxic especialitzat:** Es crea un glossari visual amb pictogrames o imatges per a termes clau com "faraó", "piràmide", "jeroglífic", "riu Nil". Aquest glossari es penja a l'aula i es distribueix digitalment.
-    2.  **Organitzadors gràfics:** Per explicar el procés de momificació, s'utilitza un organitzador gràfic amb pictogrames de cada pas (ex: "treure òrgans", "sal", "embenar"). L'alumna pot utilitzar aquests pictogrames per ordenar les accions.
-    3.  **Suport a la comprensió:** El docent utilitza presentacions amb imatges i vídeos curts. Quan explica conceptes, assenyala els pictogrames del glossari.
-    4.  **Participació en debat:** Per a un debat sobre la importància del Nil, l'alumna rep una "bastida" de frases amb pictogrames per expressar opinions bàsiques (ex: "Jo penso que...", "El Nil és important per..."). Pot assenyalar els pictogrames per construir la seva intervenció.
-
-### Batxillerat/FP (2n Batxillerat)
-
-*   **Context:** Classe de Biologia, unitat sobre "La genètica". Un alumne amb dificultats de parla i un SAAC basat en una tauleta ha de fer una exposició sobre la replicació de l'ADN.
-*   **Implementació:**
-    1.  **Vocabulari complex:** L'alumne té un vocabulari ampliat al seu SAAC amb termes com "ADN", "ARN", "nucleòtids", "enzims", "replicació".
-    2.  **Planificació de l'exposició:** L'alumne utilitza el seu SAAC per organitzar les idees de l'exposició, creant una seqüència de frases i conceptes amb els pictogrames i la veu sintetitzada. Pot utilitzar un organitzador gràfic digital amb imatges i text.
-    3.  **Suport visual:** La presentació de l'alumne inclou diagrames, animacions i imatges clares que complementen el que diu el seu SAAC.
-    4.  **Interacció:** Durant el torn de preguntes, l'alumne pot utilitzar el seu SAAC per respondre, demanar aclariments o argumentar, amb el suport del docent si cal per interpretar missatges més complexos. Es pot haver preparat un banc de respostes o frases per a preguntes freqüents.
-
-## 6. INDICADORS D'ÈXIT
-
-*   **Augment de la participació:** L'alumnat amb dificultats de comunicació participa més activament en les activitats d'aula, tant en la comprensió com en l'expressió.
-*   **Millora de la comprensió:** L'alumnat demostra una millor comprensió dels continguts i les instruccions.
-*   **Increment de l'autonomia comunicativa:** L'alumnat utilitza el sistema CAA de manera més independent per iniciar comunicació, fer peticions, expressar idees o resoldre problemes.
-*   **Reducció de la frustració:** L'alumnat mostra menys signes de frustració o aïllament relacionats amb les dificultats de comunicació.
-*   **Integració social:** L'alumnat interacciona més amb els companys i el professorat.
-*   **Progrés acadèmic:** L'alumnat accedeix i processa millor els continguts curriculars.
-*   **Feedback positiu:** Docents, famílies i l'alumnat mateix reporten una millora en la comunicació i l'aprenentatge.
-*   **Ús consistent:** El sistema CAA s'utilitza de forma regular i coherent en tots els contextos rellevants.
-
-## 7. ERRORS COMUNS
-
-1.  **Considerar la CAA com a "substitut" de la parla:** La CAA és augmentativa (complementa) o alternativa (reemplaça si no hi ha parla funcional), però l'objectiu sempre és maximitzar el potencial comunicatiu de l'alumne, incloent la parla si és possible. No s'ha de deixar de fomentar la parla per l'ús de la CAA.
-2.  **No personalitzar el sistema:** Utilitzar un sistema genèric sense adaptar-lo als interessos, vocabulari i capacitats específiques de l'alumne. Això pot generar desmotivació i ineficàcia.
-3.  **No modelar l'ús del sistema:** Esperar que l'alumne utilitzi el sistema sense que els adults (docents, família, companys) el modelin activament en la interacció. El modelatge és clau per a l'adquisició.
-4.  **Limitar el vocabulari:** Restringir el vocabulari del sistema CAA a peticions bàsiques, sense incloure conceptes acadèmics, emocions, o la possibilitat de fer comentaris i preguntar. Això limita el desenvolupament cognitiu i social de l'alumne.
-5.  **No implicar tot l'equip docent i la família:** La manca de coherència en l'ús del sistema en diferents entorns i amb diferents interlocutors dificulta l'aprenentatge i la generalització de les habilitats comunicatives.
-6.  **No avaluar i ajustar:** No revisar periòdicament l'eficàcia del sistema, ni actualitzar el vocabulari o les estratègies a mesura que l'alumne progressa o les seves necessitats canvien.
-7.  **Centrar-se només en la producció:** Oblidar la importància de fer l'input comprensible per a l'alumne, utilitzant el sistema CAA per donar instruccions o explicar conceptes.
+### Errors comuns
+-   **No contextualitzar els suports visuals:** Presentar imatges o pictogrames de manera aïllada, sense vincular-los a situacions comunicatives reals o significatives per a l'alumnat. Els materials visuals han de ser un pont cap a la realitat.
+-   **No adaptar el nivell de complexitat:** Utilitzar materials o activitats massa complexes per al nivell lingüístic de l'alumnat, generant frustració. És crucial graduar la dificultat del lèxic, les estructures i les funcions comunicatives.
+-   **Centrar-se només en el reconeixement:** Limitar l'ús dels suports visuals a la identificació passiva, sense fomentar la producció activa oral i escrita per part de l'alumnat. L'objectiu és que els alumnes utilitzin la llengua.
+-   **Ometre la preparació i l'assaig:** En activitats de rol o dramatitzacions, no dedicar prou temps a la preparació dels diàlegs i a l'assaig, la qual cosa pot portar a una execució deficient i a la pèrdua d'oportunitats d'aprenentatge.
+-   **No connectar el llenguatge conversacional amb l'acadèmic:** Descuidar el desenvolupament del llenguatge d'ús habitual i conversacional, assumint que l'alumnat l'adquirirà de manera natural. Aquest és un pas fonamental per accedir al llenguatge acadèmic de les matèries.
+-   **Ignorar el bagatge lingüístic i cultural previ:** No valorar les llengües maternes i les experiències culturals de l'alumnat, perdent una oportunitat d'enriquiment i de connexió amb els seus aprenentatges.
 
 ---
 
-# 2. CONNEXIONS AMB ALTRES DOCUMENTS DEL CORPUS
-*   **perfil_TEA**: La CAA és una estratègia fonamental per donar suport a la comunicació i interacció social d'alumnes amb TEA.
-*   **perfil_NEE**: Aquesta estratègia és un suport clau per a la inclusió i l'accés al currículum d'alumnes amb necessitats educatives especials.
-*   **marc_TILC**: La CAA s'integra en els principis del TILC per vehicular el coneixement a través de la llengua i els continguts de manera adaptada.
-*   **estrategia_Aprenentatge_Cooperatiu**: L'aprenentatge cooperatiu és un context idoni per fomentar la interacció i l'ús de la CAA entre iguals.
-*   **estrategia_Suport_Linguístic_Social_SLS**: La CAA és una eina essencial dins del SLS per a l'alumnat d'origen estranger amb dificultats de comunicació.
-*   **eina_Organitzadors_Gràfics**: Els organitzadors gràfics, sovint amb suport visual, complementen la CAA per estructurar el pensament i la comunicació.
-*   **eina_Bastides_de_Suport**: La CAA actua com una bastida de suport lingüístic i cognitiu per facilitar l'aprenentatge.
-*   **normativa_Decret_Inclusió**: La implementació de la CAA s'alinea amb els principis d'equitat i inclusió del decret, garantint el dret a la comunicació.
+## 2. CONNEXIONS AMB ALTRES DOCUMENTS DEL CORPUS
+- **quaderns-SLS-aprendre-llengua-materies_3afd7edb65.pdf**: Aprofundeix en com la llengua vehicular s'aprèn en les diferents matèries, complementant l'ús de suports visuals per vehicular coneixement.
+- **quaderns-SLS-orientacions-EI-CI_e7fce57f30.pdf**: Ofereix orientacions específiques per a Educació Infantil i Cicle Inicial, etapes clau per a la introducció de suports visuals.
+- **quaderns-SLS-adequar-curriculum_366b5bcb5a.pdf**: Relacionat amb l'adaptació curricular a les necessitats de l'alumnat nouvingut, on l'ús de suports visuals és una eina clau.
+- **quaderns-SLS-aprendre-vocabulari-materies_0939b573dc.pdf**: Complementa aquesta estratègia amb tècniques específiques per a l'adquisició de vocabulari, sovint amb suport visual.
+- **Alumnat_origen_estranger_descriptors_llengua_c6438107b5.pdf**: Proporciona els descriptors dels nivells de competència lingüística (MECR) per avaluar el progrés de l'alumnat en l'ús de la llengua amb o sense suports.
+- **guia_didactica_projecte_mon_5843384272.pdf**: Presenta enfocaments pedagògics per a l'ensenyament de llengua i lectoescriptura a alumnes nouvinguts, on els suports visuals són un component.
+- **comunicacio_enrolat_16e6254639.pdf**: Detalla l'ús dels jocs de rol per a la millora de la llengua oral, una metodologia que sovint s'integra amb suports visuals.
+- **guia_didactica_2d378b6d4c.pdf**: Guia didàctica sobre el treball de la llengua oral al cicle mitjà i superior de primària, amb jocs de rol que utilitzen suports visuals.
+- **guia_el_meu_album_be568aed7c.pdf**: Explica l'ús d'un material visual (àlbum) per a l'aprenentatge del català L2 i l'expressió de vivències personals.
+- **guia_didactica_vivim_junts_29bdb108a5.pdf**: Guia per a l'ús de làmines amb diàlegs i personatges per acostar la llengua catalana a la població immigrada.
+- **guia_Viure_634b7c13ed.pdf**: Guia didàctica per a la utilització de làmines com a estímuls visuals per a l'aprenentatge del català L2 i vocabulari bàsic.
+- **xarranca_150416_9b8268a4f1.pdf**: Recull de jocs per a l'aprenentatge del català oral per a nouvinguts, molts dels quals es poden adaptar o utilitzar amb suports visuals.
 
-# 3. DETECCIÓ (Variables de Context)
+## 3. DETECCIÓ (Variables de Context)
+- **Senyals del docent**
+    - Observo que l'alumnat té dificultats per comprendre instruccions orals complexes.
+    - Els estudiants tenen un vocabulari limitat en català per expressar les seves idees.
+    - L'alumnat es mostra reticent a participar oralment per por a equivocar-se.
+    - Necessito eines per contextualitzar conceptes abstractes o nous per a l'alumnat.
+    - Busco maneres de fer les activitats més engrescadores i inclusives per a la diversitat lingüística.
+- **Senyals de l'alumne**
+    - L'alumne utilitza gestos o la seva L1 per comunicar-se, mostrant dificultat amb el català.
+    - L'alumne no respon a preguntes senzilles o mostra confusió davant d'explicacions orals.
+    - L'alumne es mostra aïllat o poc participatiu en activitats de grup que requereixen expressió oral.
+- **Senyals de context**
+    - Moment d'incorporació d'alumnat nouvingut a l'aula.
+    - Activitat que requereix l'adquisició de vocabulari nou o conceptes complexos.
+    - Composició del grup amb una alta diversitat lingüística i diferents nivells de català L2.
+    - Necessitat de fomentar la interacció oral i la comprensió en un entorn multilingüe.
+- **Anti-senyals**
+    - L'alumnat ja té un domini funcional de la llengua catalana (nivell B1 o superior del MECR) i pot expressar-se amb fluïdesa en la majoria de situacions.
+    - L'objectiu principal de l'activitat és la producció escrita formal sense necessitat de suports orals o visuals addicionals.
+    - El context de l'activitat ja proporciona una contextualització natural i suficient sense requerir ajudes visuals explícites.
 
-*   **Senyals del docent:**
-    *   "Tinc un alumne que li costa molt expressar-se oralment, fins i tot per a coses bàsiques."
-    *   "Les meves instruccions no sempre arriben a tots els alumnes, especialment als que tenen més dificultats amb el llenguatge."
-    *   "M'agradaria que els meus alumnes amb dificultats de comunicació poguessin participar més activament a classe."
-    *   "Necessito eines per fer el vocabulari de la meva matèria més accessible per a tothom."
-    *   "Com puc fomentar la interacció entre els alumnes quan alguns no parlen o tenen un llenguatge molt limitat?"
-*   **Senyals de l'alumne:**
-    *   Frustració o aïllament en intentar comunicar-se.
-    *   Dificultat per respondre preguntes o expressar necessitats bàsiques oralment.
-    *   Ús de gestos o senyals incomprensibles per als altres.
-    *   Manca de comprensió d'instruccions orals complexes.
-    *   Evitació de situacions que requereixen comunicació oral.
-*   **Senyals de context:**
-    *   Aula amb diversitat lingüística i alumnat nouvingut amb L2 incipient.
-    *   Activitats que requereixen una alta demanda de comunicació oral o expressió de conceptes abstractes.
-    *   Introducció de vocabulari nou o especialitzat en qualsevol àrea.
-    *   Situacions on la interacció social és clau (treball cooperatiu, debats).
-*   **Anti-senyals:**
-    *   L'alumne té una parla funcional i comprensible, tot i que amb alguna dificultat puntual que pot ser abordada amb estratègies de suport lingüístic més convencionals.
-    *   La dificultat de comunicació és temporal i lleu, sense afectar significativament la participació i l'aprenentatge.
-    *   La família o l'alumne rebutgen explícitament l'ús de sistemes alternatius, prioritzant altres enfocaments (tot i que caldria explorar el perquè d'aquesta reticència).
+## 4. HEURÍSTIQUES I RAONAMENT PER A L'AGENT
 
-# 4. HEURÍSTIQUES I RAONAMENT PER A L'AGENT
+-   **Principi general:** Prioritzar la comprensió i l'expressió significativa a través de múltiples canals, especialment el visual, per construir ponts cap a la llengua vehicular.
 
-**Principi general:** Prioritza sempre la comunicació efectiva i l'accés al coneixement per a tots els alumnes, utilitzant la CAA com a pont i suport, mai com a barrera.
+-   **Heurística per a l'Agent DOCENT: "Visualitza el Lèxic Clau"**
+    -   **Quan aplica:** Quan un docent expressa que l'alumnat té dificultats per adquirir vocabulari nou o per comprendre conceptes en qualsevol matèria, especialment amb alumnat nouvingut o en etapes inicials d'aprenentatge de L2.
+    -   **Fonament:** Els suports visuals (pictogrames, imatges, làmines) creen un vincle directe entre el concepte i la paraula, reduint la càrrega cognitiva de la comprensió lingüística i facilitant la memorització. Aquesta estratègia permet a l'alumne accedir al significat sense dependre exclusivament de la traducció o de l'explicació verbal, que pot ser insuficient en les primeres etapes d'adquisició de la llengua. A més, proporciona un referent comú a l'aula multilingüe.
+    -   **Exemple complet de raonament:** Un docent de primària vol ensenyar el vocabulari de les parts del cos en català a un grup d'alumnes nouvinguts que acaben d'arribar i tenen un nivell A1. Si el docent només utilitza la repetició oral o la traducció, és probable que l'aprenentatge sigui lent i poc significatiu. L'agent raonaria que, segons l'estratègia de suports visuals, el docent hauria de preparar làmines o cartronets amb dibuixos clars de cada part del cos i la paraula escrita a sota. Durant l'activitat, el docent assenyalaria la imatge, pronunciaria la paraula clarament i demanaria als alumnes que la repetissin i l'assenyalessin en el seu propi cos. Posteriorment, es podrien fer jocs d'associació imatge-paraula o de "Simon diu" (Simon Says) per reforçar el vocabulari de manera lúdica. Aquesta aproximació visual i multisensorial facilita la comprensió immediata i la retenció del lèxic, permetent als alumnes començar a utilitzar les paraules en contextos senzills.
 
-### Heurístiques per a l'Agent DOCENT
+-   **Heurística per a l'Agent DOCENT: "Escenifica la Interacció Oral"**
+    -   **Quan aplica:** Quan un docent vol fomentar la participació oral de l'alumnat amb diferents nivells de competència lingüística, especialment per practicar funcions comunicatives en situacions socials o acadèmiques.
+    -   **Fonament:** Els jocs de rol o dramatitzacions, amb el suport de targetes de personatges i d'ajuda (que inclouen exponents lingüístics i vocabulari), proporcionen un marc segur i estructurat per a la pràctica oral. Aquesta metodologia redueix la por a l'error, ja que l'alumne actua un rol i té suports explícits. Permet practicar la fluïdesa, la pronunciació, l'entonació i l'ús de fórmules de cortesia o d'argumentació en un context significatiu, connectant el llenguatge d'ús habitual amb el llenguatge acadèmic. A més, facilita la diferenciació pedagògica adaptant la complexitat dels rols i els suports.
+    -   **Exemple complet de raonament:** Una docent d'ESO observa que els seus alumnes nouvinguts tenen dificultats per iniciar converses, demanar informació o expressar opinions en català. L'agent suggeriria implementar una activitat de joc de rol com "Anem al restaurant" o "Anem d'excursió?". La docent prepararia targetes de personatges (client/cambrer, turista/vianant) i targetes d'ajuda amb frases útils (ex: "Sisplau, em pot portar...", "Com puc anar a...?", "Què en pensa de...?"). Els alumnes, en parelles o petits grups, assajarien els diàlegs, utilitzant els suports visuals i lingüístics. Per a alumnes amb menys domini, es podrien simplificar els guions o assignar rols amb intervencions més pautades. Per als més avançats, es fomentaria la improvisació i l'ampliació dels diàlegs. Aquesta pràctica guiada en un entorn lúdic permet als alumnes interioritzar estructures i vocabulari, guanyar confiança i transferir aquestes habilitats a situacions comunicatives reals.
 
-1.  **Heurística: "El pont visual és el primer pas"**
-    *   **Quan aplica:** Quan un docent expressa dificultats per fer-se entendre o per obtenir respostes d'alumnes amb barreres de comunicació oral, o quan hi ha alumnat nouvingut amb L2 molt baixa.
-    *   **Fonament:** La informació visual (pictogrames, imatges) redueix la càrrega cognitiva i lingüística, fent l'input més comprensible i proporcionant una via de producció alternativa. És un primer nivell de bastida per a l'aprenentatge de la llengua i els continguts.
-    *   **Exemple complet de raonament:** Un docent de primària comenta que un alumne amb TEA no segueix les instruccions de les activitats de matemàtiques i es frustra. L'agent raona que la complexitat de les instruccions orals pot ser una barrera. Proposa al docent començar per crear un horari visual amb pictogrames de les rutines de l'aula i de les activitats de matemàtiques (ex: "sumar", "restar", "problema"). A més, suggereix utilitzar pictogrames per a les paraules clau de les instruccions ("agafa", "dibuixa", "escriu") mentre les diu oralment. Això permetrà a l'alumne anticipar les tasques, comprendre millor les demandes i tenir un punt de referència visual per a la comunicació, reduint la frustració i augmentant la participació.
+-   **Heurística per a l'Agent DOCENT: "Descodifica el Llenguatge Figuratiu"**
+    -   **Quan aplica:** Quan l'alumnat, especialment en etapes més avançades de L2, troba dificultats per comprendre expressions idiomàtiques, frases fetes, endevinalles o acudits, que sovint tenen un significat no literal.
+    -   **Fonament:** El llenguatge figurat és un repte important en l'adquisició d'una segona llengua, ja que la comprensió literal no és suficient. L'ús de suports visuals que il·lustrin tant el sentit literal com el figurat de les expressions, juntament amb la discussió guiada, ajuda a l'alumnat a reflexionar sobre la funció metalingüística del llenguatge. Aquesta estratègia permet desglossar la complexitat, identificar el doble sentit i comprendre el context d'ús d'aquestes expressions, enriquint la competència comunicativa i cultural.
+    -   **Exemple complet de raonament:** Un docent de secundària vol que els seus alumnes de L2 comprenguin i utilitzin frases fetes comunes en català. L'agent recomanaria una activitat com "Què vol dir...?" o "Torna-m'ho a dir!". El docent podria presentar una frase feta (ex: "estar amb la lluna de València") amb dos dibuixos: un que il·lustri el sentit literal (algú a la lluna de València) i un altre que representi el sentit figurat (algú distret o despistat). Els alumnes, en parelles, haurien de discutir els dibuixos, intentar deduir el significat i explicar-lo amb les seves paraules. Per als alumnes amb més dificultats, el docent podria proporcionar explicacions més directes o exemples d'ús. Per als més avançats, es podria demanar que creessin les seves pròpies il·lustracions o que inventessin un diàleg on s'utilitzés la frase feta. Aquesta aproximació visual i reflexiva facilita la comprensió profunda del llenguatge figurat, un aspecte crucial per a un domini avançat de la llengua.
 
-2.  **Heurística: "Modelar és el camí, no només esperar"**
-    *   **Quan aplica:** Quan un docent ha introduït un sistema CAA però l'alumne no el fa servir de manera autònoma, o quan hi ha reticència a utilitzar-lo per part de l'entorn.
-    *   **Fonament:** L'adquisició de qualsevol sistema de comunicació, inclosa la CAA, requereix modelatge constant per part dels interlocutors. Els alumnes aprenen per imitació i per veure el valor funcional del sistema.
-    *   **Exemple complet de raonament:** Una professora d'ESO ha creat un tauler de comunicació per a una alumna amb paràlisi cerebral, però l'alumna el fa servir poc. L'agent raona que l'alumna necessita veure com s'utilitza el tauler en situacions reals. Aconsella a la professora que, quan parli amb l'alumna, assenyali els pictogrames corresponents al tauler mentre pronuncia les paraules. Per exemple, si pregunta "Què vols menjar?", assenyalarà "què", "voler", "menjar". També suggereix animar els companys a fer el mateix, creant un entorn comunicatiu on el tauler sigui una eina activa i natural, no només un objecte passiu. Això reforçarà l'aprenentatge i la funcionalitat del sistema per a l'alumna.
+-   **Heurística per a l'Agent ALUMNE: "Busca la Imatge que Parla"**
+    -   **Quan aplica:** Quan un alumne no entén una paraula, una frase o una instrucció oral o escrita en català.
+    -   **Fonament:** Davant la incomprensió, l'alumne pot sentir-se bloquejat. Buscar un suport visual (un dibuix, un pictograma, una fotografia) que acompanyi el text o la parla pot desbloquejar la comprensió. L'estratègia es basa en la capacitat del cervell de processar informació visual de manera ràpida i intuïtiva, complementant o substituint la informació lingüística que encara no es domina. Això fomenta l'autonomia en l'aprenentatge i redueix la dependència de la traducció directa.
+    -   **Exemple complet de raonament:** Un alumne de cicle inicial de primària està llegint una frase en català que diu "El gos corre al parc" i no entén la paraula "corre". En lloc de preguntar immediatament al docent, l'agent el guiaria a buscar si hi ha un dibuix del gos en moviment o un pictograma de l'acció de córrer a la mateixa pàgina o en un mural de l'aula. Si troba la imatge d'un gos corrent, podrà associar visualment l'acció amb la paraula. L'agent també podria suggerir-li que busqui al diccionari visual de l'aula o que observi els seus companys si estan fent alguna activitat relacionada amb "córrer". Aquesta acció proactiva de l'alumne, utilitzant els recursos visuals disponibles, reforça la seva capacitat de deducció i el seu aprenentatge autònom.
 
-3.  **Heurística: "Més enllà de la petició, cap a la cognició"**
-    *   **Quan aplica:** Quan el sistema CAA s'utilitza principalment per a peticions bàsiques i es vol fomentar un ús més complex i acadèmic.
-    *   **Fonament:** La CAA ha de donar suport no només a la comunicació funcional, sinó també al desenvolupament de les funcions cognitivolingüístiques (descriure, explicar, argumentar) i a l'accés al llenguatge acadèmic de les matèries.
-    *   **Exemple complet de raonament:** Un docent de ciències vol que un alumne amb dificultats de comunicació pugui explicar un experiment utilitzant el seu comunicador. L'agent raona que cal anar més enllà de les paraules aïllades. Proposa al docent crear un banc de pictogrames amb verbs d'acció científica ("observar", "mesurar", "comparar", "concloure") i connectors lògics ("perquè", "per tant", "després"). A més, suggereix utilitzar organitzadors gràfics visuals (amb pictogrames) per estructurar els passos de l'experiment i les seves conclusions. Això permetrà a l'alumne construir frases més complexes i expressar conceptes abstractes, utilitzant el comunicador per "explicar" el procés de manera coherent, no només per nomenar elements.
-
-4.  **Heurística: "La diversitat és un recurs, no un obstacle"**
-    *   **Quan aplica:** En aules multilingües o amb alumnat d'origen estranger amb dificultats de comunicació.
-    *   **Fonament:** Reconèixer i integrar la L1 i el bagatge cultural de l'alumnat potencia la competència plurilingüe i facilita l'aprenentatge de la L2 i els continguts.
-    *   **Exemple complet de raonament:** Un docent té una alumna nouvinguda que no parla català ni castellà i té dificultats per comunicar-se. L'agent raona que la L1 de l'alumna pot ser un pont per a la comprensió. Suggereix al docent utilitzar eines de traducció per a pictogrames clau o demanar a la família que identifiqui les paraules en la seva L1. També proposa crear un petit diccionari visual amb pictogrames i les paraules en català i la L1 de l'alumna per a conceptes bàsics. A més, anima a fomentar la interacció amb companys que puguin tenir una L1 similar, permetent-los negociar significats en la seva llengua per després intentar expressar-los en català amb el suport dels pictogrames. Això valida la seva llengua i facilita l'accés a la nova.
-
-5.  **Heurística: "L'error és part del procés, la frustració no"**
-    *   **Quan aplica:** Quan l'alumne es frustra en intentar comunicar-se o quan el docent té por de "corregir" l'ús del sistema CAA.
-    *   **Fonament:** L'aprenentatge de qualsevol llenguatge implica errors. L'important és mantenir la motivació i proporcionar un entorn de suport on l'error sigui una oportunitat d'aprenentatge, no una causa de frustració.
-    *   **Exemple complet de raonament:** Un docent observa que un alumne amb SAAC es frustra quan no aconsegueix expressar-se correctament o quan els altres no l'entenen. L'agent raona que la frustració pot bloquejar la comunicació. Aconsella al docent no centrar-se en la "correcció" immediata, sinó en la intenció comunicativa. Suggereix amplificar o aclarir el missatge de l'alumne amb naturalitat ("Ah, vols dir que..."). També proposa ensenyar a l'alumne pictogrames per expressar "no entenc", "ajuda'm", "repeteix", per donar-li eines per gestionar la comunicació. A més, recomana celebrar els petits èxits comunicatius i crear un clima d'aula on els companys siguin pacients i col·laboradors, reduint la pressió i fomentant un aprenentatge més relaxat i efectiu.
-
-### Heurístiques per a l'Agent ALUMNE
-
-1.  **Heurística: "El meu tauler/tauleta és la meva veu"**
-    *   **Quan aplica:** Quan l'alumne necessita expressar una idea, una necessitat o una emoció, però no pot fer-ho oralment.
-    *   **Fonament:** El sistema CAA és una eina personal per a l'expressió. L'alumne ha d'entendre que té el poder de comunicar-se a través d'ell.
-    *   **Exemple complet de raonament:** Un alumne amb dificultats de parla vol demanar anar al lavabo. L'agent raona que l'alumne pot utilitzar el seu sistema CAA per fer aquesta petició. L'agent el guia per trobar el pictograma de "lavabo" o "necessitat" al seu tauler de comunicació o aplicació. Si l'alumne té dificultats per construir la frase, l'agent pot suggerir assenyalar "jo" i "lavabo" o "voler" i "lavabo". L'objectiu és que l'alumne comprengui que el seu sistema és una eina efectiva per fer-se entendre i que pot confiar-hi per expressar les seves necessitats bàsiques i complexes.
-
-2.  **Heurística: "Les imatges m'ajuden a entendre i a aprendre"**
-    *   **Quan aplica:** Quan l'alumne no comprèn una instrucció, una explicació o un concepte nou.
-    *   **Fonament:** Els suports visuals complementen la informació oral i escrita, facilitant la comprensió i la retenció del coneixement.
-    *   **Exemple complet de raonament:** Un alumne està confós amb una tasca de ciències sobre el cicle de l'aigua. L'agent raona que les imatges poden aclarir els conceptes. Guia l'alumne a buscar els pictogrames o diagrames del cicle de l'aigua al seu material de suport o al tauler de l'aula. L'agent pot assenyalar els pictogrames de "sol", "aigua", "núvol", "pluja" mentre explica breument cada fase. Això permet a l'alumne visualitzar el procés, connectar les paraules amb les imatges i construir una comprensió més sòlida del concepte, fins i tot si la seva comprensió oral de la llengua és limitada.
-
-3.  **Heurística: "Puc compartir les meves idees amb els meus companys"**
-    *   **Quan aplica:** Quan l'alumne vol participar en un treball en grup o en una conversa amb els seus iguals.
-    *   **Fonament:** La interacció amb els companys és crucial per al desenvolupament social i l'aprenentatge. El sistema CAA permet a l'alumne contribuir i rebre suport dels seus iguals.
-    *   **Exemple complet de raonament:** En una activitat de treball cooperatiu, un alumne amb SAAC té una idea per al projecte però no sap com expressar-la. L'agent raona que l'alumne pot utilitzar el seu sistema per comunicar-se amb el grup. L'agent l'anima a utilitzar el seu comunicador per assenyalar els pictogrames que representen la seva idea (ex: "construir", "maqueta", "volcà"). Si els companys no l'entenen de seguida, l'agent pot facilitar la interacció, demanant als altres que facin preguntes o que intentin interpretar el missatge. Això fomenta la inclusió de l'alumne en el grup, li dóna l'oportunitat de contribuir amb les seves idees i reforça la percepció que el seu sistema de comunicació és una eina vàlida per a la col·laboració.
+-   **Heurística per a l'Agent ALUMNE: "Assaja la teva Veu amb Suport"**
+    -   **Quan aplica:** Quan un alumne ha de parlar en català en una situació nova o complexa i se sent insegur sobre què dir o com dir-ho.
+    -   **Fonament:** La pràctica guiada amb suports visuals i lingüístics (com les targetes d'ajuda dels jocs de rol) permet a l'alumne assajar les seves intervencions en un entorn de baix risc. Aquesta estratègia li proporciona les "eines" lingüístiques necessàries (frases fetes, vocabulari, estructures) per construir el seu discurs, augmentant la seva confiança i fluïdesa. L'assaig repetit, sovint amb un company, consolida els aprenentatges i prepara l'alumne per a la producció oral espontània.
+    -   **Exemple complet de raonament:** Un alumne de secundària ha de participar en un joc de rol on ha de fer una reclamació en un restaurant. Se sent nerviós perquè no sap quines frases utilitzar. L'agent li recordaria que té una "targeta d'ajuda" amb expressions com "Sisplau!", "No estic content amb...", "M'agradaria que...", "Podria fer...". L'agent el guiaria a assajar la conversa amb un company, utilitzant aquestes frases com a punt de partida. L'alumne podria assajar diverses vegades, primer llegint les frases, després intentant dir-les de memòria i, finalment, improvisant lleugerament. Aquest procés d'assaig amb suport li permet construir el seu discurs de manera progressiva, interioritzar les expressions i sentir-se més segur a l'hora de parlar davant del grup, millorant la seva competència comunicativa en un context real.
 ---
 
 ## 5. FONTS DEL CORPUS
 
-| # | Títol | URL |
+| # | Titol | URL |
 |---|-------|-----|
-| 1 | cursos:escola_inclusiva:ansu:b2:index [Formació del professorat] | https://ateneu.xtec.cat/wikiform/wikiexport/cursos/escola_inclusiva/ansu/b2/index |
-| 2 | cursos:escola_inclusiva:ansu:guia [Formació del professorat] | https://ateneu.xtec.cat/wikiform/wikiexport/cursos/escola_inclusiva/ansu/guia |
-| 3 | cursos:escola_inclusiva:ansu:b3:index [Formació del professorat] | https://ateneu.xtec.cat/wikiform/wikiexport/cursos/escola_inclusiva/ansu/b3/index |
-| 4 | cursos:escola_inclusiva:ansu:b4:index [Formació del professorat] | https://ateneu.xtec.cat/wikiform/wikiexport/cursos/escola_inclusiva/ansu/b4/index |
-| 5 | cursos:escola_inclusiva:ansu:b5:index [Formació del professorat] | https://ateneu.xtec.cat/wikiform/wikiexport/cursos/escola_inclusiva/ansu/b5/index |
-| 6 | cursos:escola_inclusiva:ansu:b2:b2t3 [Formació del professorat] | https://ateneu.xtec.cat/wikiform/wikiexport/cursos/escola_inclusiva/ansu/b2/b2t3 |
-| 7 | cursos:escola_inclusiva:ansu:b2:b2t1 [Formació del professorat] | https://ateneu.xtec.cat/wikiform/wikiexport/cursos/escola_inclusiva/ansu/b2/b2t1 |
-| 8 | cursos:escola_inclusiva:ansu:b2:b2t4 [Formació del professorat] | https://ateneu.xtec.cat/wikiform/wikiexport/cursos/escola_inclusiva/ansu/b2/b2t4 |
-| 9 | cursos:escola_inclusiva:ansu:b2:b2t2 [Formació del professorat] | https://ateneu.xtec.cat/wikiform/wikiexport/cursos/escola_inclusiva/ansu/b2/b2t2 |
-| 10 | cursos:escola_inclusiva:ansu:b1:b1t4 [Formació del professorat] | https://ateneu.xtec.cat/wikiform/wikiexport/cursos/escola_inclusiva/ansu/b1/b1t4 |
-| 11 | cursos:escola_inclusiva:ansu:b2:b2t5 [Formació del professorat] | https://ateneu.xtec.cat/wikiform/wikiexport/cursos/escola_inclusiva/ansu/b2/b2t5 |
-| 12 | cursos:escola_inclusiva:ansu:b1:b1t2 [Formació del professorat] | https://ateneu.xtec.cat/wikiform/wikiexport/cursos/escola_inclusiva/ansu/b1/b1t2 |
-| 13 | cursos:escola_inclusiva:ansu:b1:b1t3 [Formació del professorat] | https://ateneu.xtec.cat/wikiform/wikiexport/cursos/escola_inclusiva/ansu/b1/b1t3 |
-| 14 | cursos:escola_inclusiva:ansu:b3:b3t4 [Formació del professorat] | https://ateneu.xtec.cat/wikiform/wikiexport/cursos/escola_inclusiva/ansu/b3/b3t4 |
-| 15 | cursos:escola_inclusiva:ansu:b3:b3t1 [Formació del professorat] | https://ateneu.xtec.cat/wikiform/wikiexport/cursos/escola_inclusiva/ansu/b3/b3t1 |
-| 16 | cursos:escola_inclusiva:ansu:b7:b7t5 [Formació del professorat] | https://ateneu.xtec.cat/wikiform/wikiexport/cursos/escola_inclusiva/ansu/b7/b7t5 |
-| 17 | cursos:escola_inclusiva:ansu:b7:b7t3 [Formació del professorat] | https://ateneu.xtec.cat/wikiform/wikiexport/cursos/escola_inclusiva/ansu/b7/b7t3 |
-| 18 | cursos:escola_inclusiva:ansu:b6:b6t3 [Formació del professorat] | https://ateneu.xtec.cat/wikiform/wikiexport/cursos/escola_inclusiva/ansu/b6/b6t3 |
-| 19 | cursos:escola_inclusiva:ansu:b4:b4t1 [Formació del professorat] | https://ateneu.xtec.cat/wikiform/wikiexport/cursos/escola_inclusiva/ansu/b4/b4t1 |
-| 20 | cursos:escola_inclusiva:ansu:b4:b4t4 [Formació del professorat] | https://ateneu.xtec.cat/wikiform/wikiexport/cursos/escola_inclusiva/ansu/b4/b4t4 |
-| 21 | cursos:escola_inclusiva:ansu:b5:b5t1 [Formació del professorat] | https://ateneu.xtec.cat/wikiform/wikiexport/cursos/escola_inclusiva/ansu/b5/b5t1 |
-| 22 | cursos:curriculum:eso_btx:dcs1:modul_4:index [Formació del professorat] | http://ateneu.xtec.cat/wikiform/wikiexport/cursos/curriculum/eso_btx/dcs1/modul_4/index |
-| 23 | cursos:curriculum:eso_btx:dcs1:modul_3:index [Formació del professorat] | http://ateneu.xtec.cat/wikiform/wikiexport/cursos/curriculum/eso_btx/dcs1/modul_3/index |
-| 24 | cursos:curriculum:eso_btx:dcs1:modul_2:index [Formació del professorat] | http://ateneu.xtec.cat/wikiform/wikiexport/cursos/curriculum/eso_btx/dcs1/modul_2/index |
-| 25 | cursos:curriculum:eso_btx:dcs1:guia [Formació del professorat] | http://ateneu.xtec.cat/wikiform/wikiexport/cursos/curriculum/eso_btx/dcs1/guia |
-| 26 | cursos:curriculum:eso_btx:dcs1:modul_4:practica_2 [Formació del professorat] | http://ateneu.xtec.cat/wikiform/wikiexport/cursos/curriculum/eso_btx/dcs1/modul_4/practica_2 |
-| 27 | cursos:curriculum:eso_btx:dcs1:modul_4:practica_3 [Formació del professorat] | http://ateneu.xtec.cat/wikiform/wikiexport/cursos/curriculum/eso_btx/dcs1/modul_4/practica_3 |
-| 28 | cursos:curriculum:eso_btx:dcs1:modul_4:practica_1 [Formació del professorat] | http://ateneu.xtec.cat/wikiform/wikiexport/cursos/curriculum/eso_btx/dcs1/modul_4/practica_1 |
-| 29 | cursos:curriculum:eso_btx:dcs1:modul_3:practica_2 [Formació del professorat] | http://ateneu.xtec.cat/wikiform/wikiexport/cursos/curriculum/eso_btx/dcs1/modul_3/practica_2 |
-| 30 | cursos:curriculum:eso_btx:dcs1:modul_3:practica_3 [Formació del professorat] | http://ateneu.xtec.cat/wikiform/wikiexport/cursos/curriculum/eso_btx/dcs1/modul_3/practica_3 |
-| 31 | cursos:curriculum:eso_btx:dcs1:modul_3:practica_5 [Formació del professorat] | http://ateneu.xtec.cat/wikiform/wikiexport/cursos/curriculum/eso_btx/dcs1/modul_3/practica_5 |
-| 32 | cursos:curriculum:eso_btx:dcs1:modul_3:practica_4 [Formació del professorat] | http://ateneu.xtec.cat/wikiform/wikiexport/cursos/curriculum/eso_btx/dcs1/modul_3/practica_4 |
-| 33 | cursos:curriculum:eso_btx:dcs1:modul_3:practica_1 [Formació del professorat] | http://ateneu.xtec.cat/wikiform/wikiexport/cursos/curriculum/eso_btx/dcs1/modul_3/practica_1 |
-| 34 | cursos:curriculum:eso_btx:dcs1:modul_1:practica_1 [Formació del professorat] | http://ateneu.xtec.cat/wikiform/wikiexport/cursos/curriculum/eso_btx/dcs1/modul_1/practica_1 |
-| 35 | cursos:curriculum:eso_btx:dcs1:modul_1:practica_3 [Formació del professorat] | http://ateneu.xtec.cat/wikiform/wikiexport/cursos/curriculum/eso_btx/dcs1/modul_1/practica_3 |
-| 36 | cursos:curriculum:eso_btx:dcs1:modul_2:practica_1 [Formació del professorat] | http://ateneu.xtec.cat/wikiform/wikiexport/cursos/curriculum/eso_btx/dcs1/modul_2/practica_1 |
-| 37 | cursos:curriculum:eso_btx:dcs1:modul_2:practica_2 [Formació del professorat] | http://ateneu.xtec.cat/wikiform/wikiexport/cursos/curriculum/eso_btx/dcs1/modul_2/practica_2 |
-| 38 | cursos:curriculum:eso_btx:dcs1:modul_2:practica_4 [Formació del professorat] | http://ateneu.xtec.cat/wikiform/wikiexport/cursos/curriculum/eso_btx/dcs1/modul_2/practica_4 |
-| 39 | quaderns-SLS-adequar-curriculum_14e08d6baf.pdf | http://xtec.gencat.cat/web/.content/projectes/alumnat-origen-estranger/suport-linguistic-social/publicacions/quaderns/documents/quaderns-SLS-adequar-curriculum.pdf |
-| 40 | Nivells_materies_CELM_42330e1010.pdf | http://xtec.gencat.cat/web/.content/projectes/alumnat-origen-estranger/suport-linguistic-social/seguiment/Nivells_materies_CELM.pdf |
-| 41 | continguts_de_llengua_relacionats_amb_les_arees_no_8421d97948.pdf | https://ateneu.xtec.cat/wikiform/wikiexport/_media/cursos/escola_inclusiva/ansu/b2/continguts_de_llengua_relacionats_amb_les_arees_no_lingueistiques.b2.pdf |
-| 42 | quaderns-SLS-aprendre-llengua-materies_b77479aece.pdf | http://xtec.gencat.cat/web/.content/projectes/alumnat-origen-estranger/suport-linguistic-social/publicacions/quaderns/documents/quaderns-SLS-aprendre-llengua-materies.pdf |
-| 43 | quaderns-SLS-aprendre-vocabulari-materies_0939b573dc.pdf | http://xtec.gencat.cat/web/.content/projectes/alumnat-origen-estranger/suport-linguistic-social/publicacions/quaderns/documents/quaderns-SLS-aprendre-vocabulari-materies.pdf |
-| 44 | propostes_del_clil_b3_eab48abfe7.pdf | https://ateneu.xtec.cat/wikiform/wikiexport/_media/cursos/escola_inclusiva/ansu/b3/propostes_del_clil_b3.pdf |
-| 45 | input_comprensible_b3_d7bb1fd400.pdf | https://ateneu.xtec.cat/wikiform/wikiexport/_media/cursos/escola_inclusiva/ansu/b3/input_comprensible_b3.pdf |
-| 46 | punts_calents_lingueistics._actualitzat_oct25_b9f0738b54.pdf | https://ateneu.xtec.cat/wikiform/wikiexport/_media/cursos/escola_inclusiva/ansu/b6/punts_calents_lingueistics._actualitzat_oct25.pdf |
-| 47 | estrategies_b4_5de4162109.pdf | https://ateneu.xtec.cat/wikiform/wikiexport/_media/cursos/escola_inclusiva/ansu/b4/estrategies_b4.pdf |
+| 8 | quaderns-SLS-aprendre-vocabulari-materies_0939b573dc.pdf | http://xtec.gencat.cat/web/.content/projectes/alumnat-origen-estranger/suport-linguistic-social/publicacions/quaderns/documents/quaderns-SLS-aprendre-vocabulari-materies.pdf |
+| 16 | Nivells_materies_CELM_2bbf3c6e75.pdf | https://xtec.gencat.cat/web/.content/projectes/alumnat-origen-estranger/suport-linguistic-social/seguiment/Nivells_materies_CELM.pdf |
+| 18 | 1753m_a2910c9730.pdf | http://www.xtec.cat/sgfp/llicencies/200708/memories/1753m.pdf |
+| 19 | 911m_757ca1b3cd.pdf | http://www.xtec.cat/sgfp/llicencies/200405/memories/911m.pdf |
+| 22 | Tema1_lligada_4d09ff368b.pdf | http://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0052/632add3e-ec36-41c5-942e-518dade27a16/Tema1_lligada.pdf |
+| 30 | guia_el_meu_album_be568aed7c.pdf | https://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0069/9ee3a2c8-7e81-490d-9127-7fea655f33f9/guia_el_meu_album.pdf |
+| 32 | guia_Viure_634b7c13ed.pdf | https://llengua.gencat.cat/web/.content/documents/publicacions/viure_a_catalunya/guia_Viure.pdf |
+| 34 | 1_fitxa_practica_album_festes_hivern_b6f4af899a.pdf | https://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0062/8e961a7e-5de3-4337-aefe-17dccd4e71e1/1_fitxa_practica_album_festes_hivern.pdf |
+| 40 | CM_13_49e7652b72.pdf | http://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0068/9ce4ddc3-d644-4fd2-8f10-6366ce1dab2c/CM_13.pdf |
+| 41 | CM_9_e40012bad3.pdf | http://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0081/c2e13bd2-1178-4238-bde4-78bb750e8aaa/CM_9.pdf |
+| 50 | CM_2_9694f8d6ee.pdf | http://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0090/dfb2bb7e-e15b-4666-bd8c-6b7e992ccead/CM_2.pdf |
+| 62 | CS_11_3d3bd3cfc3.pdf | http://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0090/df5b428c-4a5a-43a7-a2ef-3413c51f9b2e/CS_11.pdf |
+| 65 | CS_15_84cd7e8c2f.pdf | http://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0069/9f7d24a9-1f42-48e2-9438-52ce7d2924cd/CS_15.pdf |
+| 67 | CS_12_3418358339.pdf | http://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0038/236482e7-2993-419e-9d00-c6108a7dd991/CS_12.pdf |
 
-*47 documents font · secció generada automàticament*
+*14 documents citats de 84 al corpus . seccio generada automaticament*
