@@ -1,115 +1,125 @@
-```yaml
 ---
 modul: M5
 titol: "AIA TPACK Framework"
 tipus: marc
 descripcio: "Integració del TPACK amb la IA: coneixement tecnològic, pedagògic i de contingut en l'era de l'IA"
 review_status: esborrany
-generat_at: 2026-03-18T15:33:09
+generat_at: 2026-03-21T07:17:18
 ---
+
+## 1. CONTINGUT ESPECÍFIC
+
 ### Definició i principis
-El document font proporcionat (`memoria_53cf553aa9.pdf`) és una memòria d'estudis de 2006-2007 centrada en l'ús pedagògic dels videojocs i les eines tecnològiques per a la construcció de coneixements i l'adquisició de competències, incloent l'alfabetització digital. Aquest document no conté informació sobre el marc TPACK (Technological Pedagogical Content Knowledge), la intel·ligència artificial (IA), ni la seva integració en un "AIA TPACK Framework". Per tant, no és possible generar una definició i principis d'aquest marc basats en la font proporcionada.
+Els documents proporcionats són informes interns de la Comissió Pedagògica Educsi (setembre de 2024) i no defineixen explícitament el marc TPACK (Technological Pedagogical Content Knowledge) ni la seva integració amb la Intel·ligència Artificial (AIA TPACK). Tanmateix, sí que estableixen un context fonamental i uns principis subjacents per entendre la necessitat d'una integració tecnològica reflexiva i adaptativa en l'educació, que són plenament rellevants per a qualsevol marc com el TPACK. Els principis que es desprenen dels textos giren al voltant de la presència ineludible i creixent dels dispositius digitals a l'aula, que és vista com un reflex natural de la societat actual. La institució educativa no pot ser una "illa" al marge d'aquesta realitat digital.
+
+Es destaca que la tecnologia ha evolucionat ràpidament, passant de ser una eina bàsica per a la consulta d'informació o l'intercanvi de correus electrònics a una part integral de gairebé totes les activitats professionals i personals. Avui dia, els dispositius digitals són eines necessàries en pràcticament qualsevol feina, permetent fer videollamades, comprar, vendre, crear i publicar contingut multimèdia en qüestió de segons, i mantenir una connexió quasi permanent i en temps real amb l'entorn. Aquesta omnipresència implica que l'escola ha d'integrar-los de manera significativa.
+
+Els documents subratllen que la integració tecnològica ha de ser complementària amb el món analògic, buscant una "convivència" que enriqueixi l'aprenentatge. L'ús d'Internet i els dispositius digitals ofereix oportunitats clau per a l'alumnat:
+1.  **Accés a la informació:** Els estudiants poden accedir a una vasta quantitat d'informació sense sortir de l'aula, facilitant la investigació amb més facilitat que amb fonts escrites tradicionals.
+2.  **Pensament actiu i presa de decisions:** La tecnologia permet als alumnes pensar activament sobre la informació, prendre decisions, manipular i mostrar dades, fomentant un aprenentatge més profund i participatiu.
+3.  **Motivació i interès:** Els estudiants mostren més interès, estan més centrats i apassionats amb els temes d'estudi quan s'integren les tecnologies.
+4.  **Instrucció individualitzada i ritme d'aprenentatge:** Facilita una instrucció més directa i individualitzada, permetent als alumnes aprendre a un ritme adaptat al seu desenvolupament.
+5.  **Noves metodologies:** L'accés ràpid a material curricular i l'emergència de models com les aules invertides, l'educació híbrida i en línia, ofereixen alternatives interessants al model educatiu tradicional.
+
+Finalment, un principi fonamental és la necessitat que cada centre adapti les mesures d'integració tecnològica a les seves circumstàncies i context específics. A més, donats els "canvis vertiginosos" que es produeixen en el món digital, aquestes orientacions han de ser avaluades i revisades amb regularitat per respondre millor a cada realitat i al moment que cada centre estigui vivint. Aquesta adaptabilitat i revisió constant són crucials per a una integració tecnològica efectiva i pertinent.
 
 ### Autors i evidència clau
-El document font no esmenta autors relacionats amb el marc TPACK ni amb la integració de la IA en l'educació. La memòria fa referència a Eudald Carbonell (2002) i Sherry Turkle (1997) en el seu prefaci, però aquestes cites són de caràcter general sobre la relació entre humanització, tecnociència i la construcció de la identitat humana a través de la tecnologia, sense abordar el TPACK o la IA. Per tant, no es pot proporcionar informació sobre autors i evidència clau per al marc AIA TPACK a partir d'aquesta font.
+Els documents proporcionats són informes interns de la Comissió Pedagògica Educsi (setembre de 2024) i no citen autors acadèmics ni estudis concrets sobre el marc TPACK o la seva extensió amb la IA. La seva evidència es basa en l'observació de la "inquietud social", la "preocupació de col·legis i famílies" i "publicacions sobre el tema" a nivell general, així com en l'experiència pràctica de la xarxa de centres Educsi respecte a la irrupció i l'ús creixent de dispositius digitals a l'aula. No hi ha tensions entre autors, ja que no se'n presenten.
 
 ### Exemples concrets d'aplicació a l'aula
-El document font se centra en l'ús pedagògic dels videojocs en el context de primària (CEIP Font de l'Alba, curs de 6è). Tot i que esmenta l'aplicació de tecnologia a l'aula, no ho fa sota el prisma del TPACK ni de la IA. Els exemples que podrien extreure's de la font es refereixen a:
-1.  **Primària:** Ús de videojocs per a l'adquisició de coneixements curriculars i el desenvolupament de competències. Això inclou activitats on els alumnes utilitzen entorns de joc per explorar conceptes de matemàtiques, llengua o ciències, integrant el joc com a part del currículum.
-2.  **Secundària (Inferit del concepte de la font):** Foment del treball cooperatiu mitjançant activitats basades en videojocs o simulacions en línia. Encara que la font esmenta primària, el concepte de treball cooperatiu amb tecnologia és aplicable a secundària, on els alumnes podrien col·laborar en projectes de disseny o resolució de problemes utilitzant plataformes digitals.
-3.  **Batxillerat/FP (Inferit del concepte de la font):** Desenvolupament de l'alfabetització digital a través de la interacció amb videojocs i eines tecnològiques més complexes. Això podria implicar l'anàlisi crítica de la informació en línia, la creació de continguts digitals o la programació bàsica, utilitzant la tecnologia no només com a eina sinó com a objecte d'estudi.
-Aquests exemples no il·lustren el marc AIA TPACK, ja que el document no el tracta.
+1.  **Primària:** Els infants utilitzen tauletes per investigar sobre animals en un projecte de medi natural, accedint a vídeos i imatges interactives, o per crear presentacions senzilles amb eines digitals que mostrin el que han après, fomentant la manipulació d'informació i l'interès.
+2.  **Secundària:** En una classe de ciències socials, els alumnes realitzen una investigació sobre un esdeveniment històric utilitzant recursos en línia (bases de dades, arxius digitals, notícies d'època), col·laboren en la creació d'un document compartit i presenten els seus resultats mitjançant una videollamada a un expert o publicant un podcast, aprofitant l'accés a recursos amplis i la creació de contingut multimèdia.
+3.  **Batxillerat/FP:** S'implementa un model d'aula invertida on els estudiants visualitzen vídeos explicatius o llegeixen materials digitals a casa sobre un concepte complex de matemàtiques o programació. A l'aula, el temps es dedica a la resolució de problemes pràctics, al debat i a la instrucció individualitzada amb el suport del docent, utilitzant eines digitals específiques de la matèria, facilitant l'aprenentatge al seu ritme i l'aplicació pràctica.
 
 ### Errors comuns — què NO fer
-Atès que el document font no aborda el marc AIA TPACK, no es poden identificar errors comuns específics relacionats amb la seva aplicació. No obstant això, de la lectura general del document sobre la integració tecnològica, es podria inferir que un error seria:
-1.  **Usar la tecnologia sense un propòsit pedagògic clar:** El document emfatitza l'"ús pedagògic" dels videojocs i la "construcció de coneixements i adquisició de competències". Un error seria introduir tecnologia (com els videojocs) a l'aula simplement per la seva novetat o per entretenir, sense una intenció educativa ben definida que connecti amb el currículum i els objectius d'aprenentatge. Això pot portar a una pèrdua de temps, una distracció per als alumnes i una manca de resultats d'aprenentatge significatius, ja que la tecnologia no estaria al servei de la pedagogia.
-2.  **No considerar la preparació del docent:** Encara que no s'esmenta explícitament, la implementació efectiva de qualsevol eina tecnològica requereix que el docent tingui les competències necessàries. Un error seria assumir que els docents poden integrar la tecnologia de manera efectiva sense formació o suport adequat, la qual cosa pot generar frustració i un ús ineficient dels recursos.
-3.  **Descuidar l'avaluació de l'impacte:** El document parla de "construcció de coneixements i adquisició de competències". Un error seria no avaluar si la tecnologia realment contribueix a aquests objectius. Sense una avaluació clara, és impossible saber si la inversió de temps i recursos en tecnologia està generant els beneficis esperats en l'aprenentatge dels alumnes.
+1.  **Considerar la tecnologia com una solució màgica per si mateixa:** Els documents emfatitzen que la tecnologia és una "eina necessària" i que ha de conviure amb el món analògic. L'error seria introduir dispositius sense una intenció pedagògica clara, esperant que per la seva simple presència millorin l'aprenentatge. El fonament teòric implícit és que la tecnologia per si sola no garanteix l'aprenentatge; requereix una planificació pedagògica que la integri amb els continguts i objectius.
+2.  **Aplicar un model d'integració tecnològica rígid i universal:** Els documents insisteixen que "cada centre, en funció de les seves circumstàncies i context, pugui adoptar les mesures necessàries". L'error seria imposar una única estratègia d'ús de dispositius sense tenir en compte les realitats diverses dels centres, els perfils de l'alumnat o les capacitats del professorat. Això aniria en contra del principi d'adaptabilitat i contextualització que es promou.
+3.  **No revisar ni actualitzar les estratègies d'integració tecnològica:** Els documents alerten sobre els "canvis vertiginosos que s'estan produint en aquest món digital" i la necessitat d'avaluar i revisar el document "amb certa regularitat". L'error seria adoptar una política tecnològica i mantenir-la inalterable durant anys, sense adaptar-se a les noves eines, metodologies o reptes que sorgeixen constantment. Això provocaria que la integració esdevingués obsoleta i ineficaç.
 
 ### Matissos i excepcions
-El document font no proporciona informació sobre el marc AIA TPACK, per la qual cosa no es poden detallar matisos ni excepcions sobre la seva aplicació o límits. La memòria se centra en les potencialitats dels videojocs i les eines tecnològiques per a l'aprenentatge i l'alfabetització digital, sense explorar les seves limitacions o tensions amb altres enfocaments pedagògics. El context temporal del document (2006-2007) també és una limitació important, ja que les tecnologies i les metodologies han evolucionat considerablement des d'aleshores, especialment amb l'aparició de la IA.
+El marc d'integració tecnològica que es desprèn dels documents no és una recepta tancada, sinó una guia flexible. La seva aplicació sempre ha d'estar matisada per la realitat específica de cada centre educatiu, el seu context socioeconòmic, la maduresa digital del seu professorat i alumnat, i els recursos disponibles. No aplica de la mateixa manera en un entorn amb accés limitat a la connectivitat que en un altre amb infraestructures avançades. Els límits d'aquesta integració venen donats per la necessitat de mantenir un equilibri amb el món analògic, evitant la tecnolatria i assegurant que la tecnologia serveixi sempre a un propòsit pedagògic clar. L'èmfasi en la revisió constant implica que cap solució és permanent i que la flexibilitat és clau. La tensió amb altres marcs podria sorgir si es prioritzés la tecnologia per sobre de la pedagogia o el contingut, cosa que el TPACK precisament busca evitar en la seva conceptualització.
 
----
+## 2. CONNEXIONS AMB ALTRES DOCUMENTS DEL CORPUS
+*   **Estrategia_Aula_Invertida**: El marc esmenta les aules invertides com una alternativa interessant que la tecnologia facilita.
+*   **Estrategia_Aprenentatge_Híbrid**: Els documents fan referència als models educatius híbrids i en línia com a noves opcions que la tecnologia permet.
+*   **Perfil_Alumnat_Digital**: Aquest marc contextualitza la presència d'un alumnat immers en el món digital i les seves necessitats d'aprenentatge amb tecnologia.
+*   **Normativa_Ús_Dispositius_Digitals**: Els documents són el resultat d'un encàrrec per establir orientacions sobre l'ús de dispositius, la qual cosa podria derivar en normativa interna o estar influenciada per normativa externa.
+*   **Eina_Planificació_Didàctica_Digital**: El marc subratlla la necessitat d'integrar la tecnologia amb propòsit pedagògic, la qual cosa requereix eines de planificació.
 
-# 2. CONNEXIONS AMB ALTRES DOCUMENTS DEL CORPUS
-Atès que el document font proporcionat no conté informació sobre el marc AIA TPACK, TPACK, ni la integració de la IA en l'educació, no es poden establir connexions significatives amb altres documents del corpus sobre aquest tema específic. El document se centra en l'ús pedagògic dels videojocs i les eines tecnològiques en un context anterior a la popularització de la IA en l'àmbit educatiu.
-
-# 3. DETECCIÓ (Variables de Context)
-Sense contingut específic sobre AIA TPACK en el document font, els senyals per a la detecció no poden ser detallats per a aquest marc concret. No obstant això, basant-nos en la temàtica general de la font (integració de tecnologia per a l'aprenentatge), podem inferir senyals més generals:
-
+## 3. DETECCIÓ (Variables de Context)
 -   **Senyals del docent:**
-    *   "Com puc fer servir aquesta nova eina digital (o videojoc) per millorar l'aprenentatge dels meus alumnes?"
-    *   "M'interessa que els meus alumnes desenvolupin competències digitals mentre aprenen continguts curriculars."
-    *   "Vull que la tecnologia faciliti el treball cooperatiu a l'aula."
-    *   "Estic buscant maneres d'integrar la tecnologia de forma significativa, no només com a entreteniment."
-    *   "Com puc assegurar que l'ús de la tecnologia es tradueixi en una construcció de coneixements sòlida?"
+    *   "Com puc integrar els dispositius digitals a la meva aula de manera efectiva sense que sigui una distracció?"
+    *   "Quines metodologies noves puc explorar amb l'ús de la tecnologia?"
+    *   "Em preocupa que els meus alumnes no estiguin prou motivats; la tecnologia podria ajudar?"
+    *   "Necessito orientació sobre com equilibrar l'ús de recursos digitals i analògics."
+    *   "El meu centre vol revisar la nostra política d'ús de pantalles; quins principis hauríem de tenir en compte?"
 -   **Senyals de l'alumne:**
-    *   Preguntes sobre l'ús de videojocs o aplicacions digitals per a tasques escolars.
-    *   Dificultat per connectar l'ús de la tecnologia amb els objectius d'aprenentatge.
-    *   Interès per explorar eines digitals més enllà del seu ús lúdic.
+    *   "Puc investigar això amb el meu telèfon/tauleta?"
+    *   "Hi ha alguna aplicació o eina digital que m'ajudi a entendre millor aquest tema?"
+    *   "M'agradaria fer el projecte en format vídeo o presentació interactiva."
 -   **Senyals de context:**
-    *   Introducció de noves eines o recursos digitals a l'escola o a l'aula.
-    *   Planificació d'activitats que requereixen l'ús de tecnologia (per exemple, projectes amb videojocs educatius).
-    *   Necessitat de millorar l'alfabetització digital de l'alumnat.
-    *   Discussió sobre l'ús de la tecnologia per fomentar el treball cooperatiu.
+    *   El centre està revisant el seu Pla Digital de Centre.
+    *   S'ha detectat una baixa motivació generalitzada en els alumnes cap a metodologies tradicionals.
+    *   Hi ha una nova dotació de dispositius digitals per a l'aula.
+    *   S'estan plantejant models d'aprenentatge híbrid o aula invertida.
+    *   La societat o les famílies expressen preocupació per l'ús de pantalles.
 -   **Anti-senyals:**
-    *   Quan la tecnologia s'introdueix sense un objectiu pedagògic clar, només per "estar al dia" o per omplir temps.
-    *   Quan l'ús de la tecnologia distreu de l'aprenentatge del contingut o de l'adquisició de competències.
-    *   Quan la tecnologia substitueix la interacció humana o la reflexió crítica sense aportar un valor afegit.
-    *   Quan es percep la tecnologia com una solució màgica a tots els problemes educatius sense una planificació didàctica acurada.
+    *   El docent busca una "solució ràpida" o una eina màgica que faci la feina per ell.
+    *   La proposta d'integració tecnològica no té un objectiu pedagògic clar i només busca "estar a la moda".
+    *   El centre no té cap infraestructura digital bàsica ni suport tècnic.
+    *   Es vol substituir completament els mètodes analògics sense una reflexió sobre el seu valor.
 
-# 4. HEURÍSTIQUES I RAONAMENT PER A L'AGENT
-A causa de la manca de contingut específic sobre AIA TPACK en el document font, les heurístiques es presenten de manera genèrica, enfocades a la integració tecnològica en l'educació, tal com el document font aborda l'ús de videojocs per a l'aprenentatge i l'adquisició de competències.
-
--   **Principi general:** La tecnologia és una eina poderosa per a l'aprenentatge quan s'integra amb un propòsit pedagògic clar i una comprensió profunda del contingut.
+## 4. HEURÍSTIQUES I RAONAMENT PER A L'AGENT
+-   **Principi general:** La tecnologia ha de ser un mitjà per potenciar l'aprenentatge, no una finalitat en si mateixa, sempre en equilibri amb la pedagogia i el contingut, i adaptada al context.
 
 -   **Heurístiques per a l'Agent DOCENT:**
-    *   **Nom:** **Enfocament Pedagògic Primer**
-        *   **Quan aplica:** Quan un docent es planteja introduir qualsevol eina tecnològica (com un videojoc, segons la font) a l'aula.
-        *   **Fonament:** El document emfatitza l'"ús pedagògic" dels videojocs i la "construcció de coneixements i adquisició de competències". Això implica que la decisió d'usar tecnologia ha de partir sempre d'un objectiu educatiu, no de la tecnologia en si.
-        *   **Exemple complet de raonament:** Un docent vol utilitzar una nova aplicació de realitat augmentada per a la classe de ciències. L'agent raonaria: "Abans de suggerir qualsevol aplicació, cal entendre quin objectiu pedagògic concret es vol assolir. Si l'objectiu és que els alumnes visualitzin l'estructura molecular de manera més interactiva per comprendre millor els enllaços químics, l'aplicació pot ser útil. Però si l'objectiu és simplement 'fer la classe més moderna', el valor pedagògic és incert. El docent hauria de començar definint quins coneixements o competències (per exemple, visualització espacial, anàlisi de models) vol que els alumnes construeixin, i només llavors avaluar si la realitat augmentada és la millor eina per a aquest propòsit, assegurant que no distregui del contingut essencial."
+    1.  **Heurística: Propòsit Pedagògic Primer**
+        *   **Quan aplica:** Quan el docent es planteja introduir una nova eina o recurs digital a l'aula.
+        *   **Fonament:** Els documents subratllen que els dispositius són "eines necessàries" i que la seva presència ha de ser "complementària". Un error comú és veure la tecnologia com una solució màgica. Per tant, la tecnologia ha de servir a un objectiu d'aprenentatge clar.
+        *   **Exemple complet de raonament:** Un docent vol utilitzar una nova aplicació de realitat augmentada per a la classe de ciències. L'agent raonaria: "Abans de suggerir l'aplicació, és crucial entendre quin objectiu pedagògic específic vol assolir el docent. L'aplicació de realitat augmentada pot ser molt atractiva, però si no s'integra amb un contingut i una metodologia clars, pot esdevenir una distracció. Per exemple, si l'objectiu és que els alumnes comprenguin l'estructura interna d'un volcà, l'aplicació podria visualitzar-la en 3D. Però, quina activitat faran amb aquesta visualització? Simplement observar? O hauran d'identificar parts, explicar processos o comparar tipus de volcans? La tecnologia ha de potenciar una activitat que ja té un sentit pedagògic, no ser un simple 'wow factor'. Per tant, preguntaria al docent: 'Quin concepte concret vols que els teus alumnes aprenguin o quina habilitat vols que desenvolupin amb aquesta aplicació? Com encaixa això amb el contingut curricular i la teva metodologia habitual?'".
 
-    *   **Nom:** **Tecnologia com a Facilitadora de Competències**
-        *   **Quan aplica:** Quan el docent busca maneres de desenvolupar competències (com l'alfabetització digital o el treball cooperatiu) a través de la tecnologia.
-        *   **Fonament:** La font destaca "Videojocs i alfabetització digital" i "Videojocs i treball cooperatiu" com a àmbits d'experiència. La tecnologia no només transmet contingut, sinó que també és un vehicle per a l'adquisició de competències transversals.
-        *   **Exemple complet de raonament:** Un docent vol fomentar el treball en equip i la resolució de problemes. L'agent consideraria: "El document suggereix que els videojocs poden ser un mitjà per al treball cooperatiu. Si el docent busca una activitat on els alumnes hagin de col·laborar per superar un repte, un videojoc educatiu multijugador o una simulació en línia podria ser una opció. El raonament seria que l'eina tecnològica no és un fi, sinó un context on es practiquen i s'avaluen les competències de comunicació, negociació i distribució de tasques, que són essencials per al treball cooperatiu. Caldria dissenyar l'activitat de manera que la col·laboració sigui indispensable per a l'èxit, no només una opció."
+    2.  **Heurística: Equilibri Digital-Analògic**
+        *   **Quan aplica:** Quan el docent expressa preocupació per l'excés de pantalles o vol trobar la millor manera de combinar recursos.
+        *   **Fonament:** Els documents parlen de la "convivència entre el món digital i analògic, ambdós complementaris i compatibles". No es tracta de substituir, sinó d'integrar.
+        *   **Exemple complet de raonament:** Un docent està considerant passar totes les lectures a format digital per comoditat. L'agent raonaria: "Els documents emfatitzen la complementarietat entre el món digital i l'analògic. Si bé l'accés a material curricular en línia és una gran avantatge, eliminar completament les lectures en paper podria no ser l'opció més beneficiosa per a tots els alumnes o per a tots els tipus de lectura. La lectura en paper pot afavorir la concentració en certs contextos o per a continguts més densos. Podria ser més efectiu utilitzar el format digital per a la investigació ràpida, l'accés a recursos multimèdia o la lectura de notícies actualitzades, mentre que els textos més llargs o que requereixen una anàlisi profunda es podrien mantenir en paper o oferir ambdues opcions. Per tant, suggeriria al docent: 'Considera quins tipus de lectura es beneficien més de cada format i ofereix varietat. Podries usar el digital per a la recerca i el paper per a l'anàlisi literària, per exemple, o deixar que els alumnes triïn el format per a certes tasques, sempre que l'objectiu d'aprenentatge es compleixi.'".
 
-    *   **Nom:** **Integració Curricular del Contingut**
-        *   **Quan aplica:** Quan s'avalua la pertinència de la tecnologia per a l'aprenentatge de continguts específics.
-        *   **Fonament:** La font esmenta "Videojocs i aprenentatges curriculars". La tecnologia ha de servir per aprofundir o fer més accessible el contingut del currículum.
-        *   **Exemple complet de raonament:** Un docent de primària vol ensenyar el cicle de l'aigua. L'agent podria suggerir: "En lloc de només mostrar un vídeo, es podria utilitzar una simulació interactiva on els alumnes controlin variables com la temperatura o la precipitació i observin els efectes en el cicle. Això permetria una 'construcció de coneixements' més activa. El raonament és que la tecnologia hauria de permetre als alumnes interactuar amb el contingut d'una manera que un llibre de text o una explicació tradicional no permetria, facilitant una comprensió més profunda i experiencial del concepte curricular."
+    3.  **Heurística: Adaptació al Context del Centre**
+        *   **Quan aplica:** Quan el docent busca implementar una estratègia tecnològica vista en un altre centre o context.
+        *   **Fonament:** Els documents indiquen que "cada centre, en funció de les seves circumstàncies i context, pugui adoptar les mesures necessàries". Un error comú és aplicar models rígids.
+        *   **Exemple complet de raonament:** Un docent vol replicar un projecte d'aula invertida amb dispositius individuals que ha vist en un congrés. L'agent raonaria: "És excel·lent inspirar-se en bones pràctiques, però els documents destaquen que les mesures han d'adaptar-se a les 'circumstàncies i context' de cada centre. Abans d'implementar el projecte, caldria avaluar si el centre disposa de la infraestructura tecnològica necessària (Wi-Fi estable, nombre suficient de dispositius), si el professorat té la formació adequada per a aquesta metodologia, i si l'alumnat està preparat per a un aprenentatge més autònom. També caldria considerar el suport de les famílies. Si el centre no té dispositius individuals, potser caldria començar amb un model d'aula invertida amb dispositius compartits o amb tasques offline. Per tant, preguntaria al docent: 'Quins recursos tecnològics teniu disponibles al vostre centre? Quin nivell de preparació tenen els teus alumnes per a l'autonomia que requereix l'aula invertida? Hi ha suport tècnic o formació per al professorat? Podries començar amb una versió més senzilla o adaptada a les vostres realitats?'".
 
-    *   **Nom:** **Alfabetització Digital Activa**
-        *   **Quan aplica:** Quan es vol que els alumnes no només consumeixin tecnologia, sinó que també la comprenguin i la utilitzin de manera crítica i productiva.
-        *   **Fonament:** La font inclou "alfabetització digital" com un dels objectius de l'ús de la tecnologia.
-        *   **Exemple complet de raonament:** Un docent vol que els seus alumnes siguin competents en l'ús d'eines de presentació. L'agent raonaria: "En lloc de només ensenyar-los a fer diapositives, el docent podria proposar un projecte on hagin de crear una presentació interactiva sobre un tema, utilitzant diferents formats (text, imatge, vídeo, àudio) i eines de col·laboració en línia. Això va més enllà de l'ús bàsic i fomenta una 'alfabetització digital' activa, on els alumnes aprenen a seleccionar, organitzar i presentar informació de manera efectiva en un entorn digital, desenvolupant un pensament crític sobre les eines que utilitzen."
+    4.  **Heurística: Foment de l'Autonomia i el Pensament Crític**
+        *   **Quan aplica:** Quan el docent vol que els alumnes vagin més enllà del simple consum d'informació digital.
+        *   **Fonament:** Els documents assenyalen que els estudiants "poden pensar activament en la informació, prendre decisions, manipular o mostrar informació" i "accedir a recursos amplis per facilitar la investigació".
+        *   **Exemple complet de raonament:** Un docent vol que els seus alumnes facin una recerca en línia. L'agent raonaria: "La tecnologia ofereix un accés sense precedents a la informació, però l'objectiu no és només 'consultar'. Els documents destaquen la importància de 'pensar activament', 'prendre decisions' i 'manipular o mostrar informació'. Per tant, en lloc de demanar només una recerca, el docent podria dissenyar una activitat on els alumnes hagin de comparar diverses fonts digitals, avaluar la seva fiabilitat, sintetitzar la informació de manera crítica i després presentar-la en un format creatiu (un pòster digital, un vídeo, un debat argumentat). Això els permetria no només accedir a la informació, sinó també processar-la, analitzar-la i transformar-la, desenvolupant habilitats de pensament crític i creació de contingut, que són essencials en l'era digital. Per tant, suggeriria: 'Com pots estructurar la tasca de recerca perquè els alumnes hagin de seleccionar, avaluar i transformar la informació digital, en lloc de només copiar i enganxar? Quines eines digitals els podrien ajudar a fer-ho de manera creativa?'".
 
-    *   **Nom:** **Avaluació del Valor Afegit Tecnològic**
-        *   **Quan aplica:** Abans i durant la implementació de qualsevol activitat tecnològica.
-        *   **Fonament:** Implícit en la idea d'ús "pedagògic" i "construcció de coneixements". La tecnologia ha de sumar, no només canviar el format.
-        *   **Exemple complet de raonament:** Un docent està considerant utilitzar una pissarra digital interactiva per a una explicació. L'agent preguntaria: "Què aporta la pissarra digital que no aportaria una pissarra tradicional o un projector? Si només s'utilitza per projectar diapositives, el valor afegit és mínim. Però si permet la interacció dels alumnes, la manipulació d'objectes virtuals, la creació col·laborativa en temps real o l'enregistrament de la sessió per a revisió posterior, llavors la tecnologia està 'construint coneixements' de manera diferent i més rica. El raonament és que cada decisió tecnològica ha de ser justificada pel seu impacte positiu i mesurable en l'aprenentatge."
+    5.  **Heurística: Revisió i Actualització Constant**
+        *   **Quan aplica:** Quan el docent o el centre estan establint o revisant polítiques o pràctiques d'integració tecnològica.
+        *   **Fonament:** Els documents adverteixen sobre els "canvis vertiginosos" i la necessitat d'"avaluar i revisar amb certa regularitat" les orientacions.
+        *   **Exemple complet de raonament:** El claustre ha definit una política d'ús de dispositius per al proper curs. L'agent raonaria: "És fonamental tenir una política clara, però el món digital evoluciona a una velocitat impressionant. Els documents ens recorden que el que és vàlid avui pot no ser-ho demà. Per exemple, l'aparició de noves eines d'IA generativa pot canviar dràsticament les dinàmiques d'aprenentatge i avaluació. Una política que no prevegi la seva revisió periòdica corre el risc de quedar obsoleta ràpidament, generant frustració i ineficàcia. Per tant, suggeriria al claustre: 'A més de definir la política, establiu un calendari de revisió anual o bianual. Qui serà el responsable d'aquesta revisió? Quins indicadors utilitzareu per avaluar l'eficàcia de la política? Com incorporareu les noves tendències tecnològiques i les necessitats emergents de la comunitat educativa en futures actualitzacions?'".
 
 -   **Heurístiques per a l'Agent ALUMNE:**
-    *   **Nom:** **Reflexió sobre el Propòsit de l'Eina**
-        *   **Quan aplica:** Quan l'alumne utilitza una eina tecnològica per a una tasca educativa.
-        *   **Fonament:** Ajuda a l'alumne a entendre el "per què" de l'ús de la tecnologia en el seu aprenentatge, connectant amb la "construcció de coneixements".
-        *   **Exemple complet de raonament:** Un alumne està jugant a un videojoc educatiu. L'agent podria preguntar: "Què estàs aprenent amb aquest joc que no podries aprendre d'una altra manera? Com t'ajuda el joc a entendre millor el tema de la classe?" El raonament és guiar l'alumne a anar més enllà de l'entreteniment i a reflexionar sobre el valor pedagògic de l'eina. Si el joc tracta sobre història, l'alumne hauria de poder identificar com la interacció amb el joc li permet visualitzar esdeveniments, prendre decisions en un context històric o comprendre les conseqüències, cosa que un llibre de text podria no oferir amb la mateixa immersió.
+    1.  **Heurística: La Tecnologia com a Eina de Recerca i Creació**
+        *   **Quan aplica:** Quan l'alumne necessita trobar informació o vol expressar les seves idees en un projecte.
+        *   **Fonament:** Els documents destaquen que els estudiants "poden accedir a recursos amplis per facilitar la investigació" i "crear i publicar contingut multimèdia".
+        *   **Exemple complet de raonament:** Un alumne ha de fer un treball sobre el canvi climàtic. L'agent raonaria: "La tecnologia no és només per jugar o veure vídeos. És una eina potent per aprendre i crear. En lloc de buscar només la primera informació que trobis, pots utilitzar internet per accedir a articles científics, notícies de diferents països, vídeos explicatius i fins i tot dades en temps real. Però no et quedis només a llegir! Pensa com pots 'mostrar' el que has après. Podries crear una infografia interactiva, un petit documental amb el teu mòbil, o una presentació amb animacions. Això no només t'ajudarà a entendre millor el tema, sinó que també et permetrà expressar les teves idees de manera més original i atractiva. Per tant, et suggeriria: 'Quines fonts diverses pots consultar en línia per tenir una visió completa? Com podries utilitzar una eina digital per crear un producte que mostri el teu aprenentatge de manera creativa i que no sigui només text?'".
 
-    *   **Nom:** **Col·laboració Digital Conscient**
-        *   **Quan aplica:** Quan l'alumne participa en activitats col·laboratives amb eines digitals.
-        *   **Fonament:** La font destaca el "treball cooperatiu" amb videojocs. L'alumne ha de ser conscient del seu rol i de la interdependència.
-        *   **Exemple complet de raonament:** Un alumne està treballant en un projecte de grup utilitzant un document compartit en línia. L'agent podria suggerir: "Assegura't que tots els membres del grup estan contribuint de manera equitativa. Com podeu utilitzar les funcions de comentaris o l'historial de revisions per millorar la vostra col·laboració i assegurar que les idees de tots s'integrin?" El raonament és que l'eina digital facilita la col·laboració, però la qualitat d'aquesta depèn de la consciència de l'alumne sobre la seva contribució i la del grup, i de com aprofitar les funcionalitats de l'eina per a una interacció efectiva.
+    2.  **Heurística: Aprenentatge al Teu Ritme amb Suport Digital**
+        *   **Quan aplica:** Quan l'alumne té dificultats amb un concepte o vol aprofundir en un tema.
+        *   **Fonament:** Els documents esmenten que els estudiants "són capaços de lograr directa e individualizada instrucción y de aprender a un ritmo acomodado a su desarrollo" i fan referència a les "aules invertides".
+        *   **Exemple complet de raonament:** Un alumne no ha entès bé una lliçó de matemàtiques a classe. L'agent raonaria: "No et preocupis si no ho has entès a la primera. La tecnologia et permet aprendre al teu propi ritme. El teu professor pot haver compartit vídeos o materials digitals que pots revisar tantes vegades com necessitis. També pots buscar tutorials en línia o aplicacions que t'ofereixin exercicis interactius. Si el professor utilitza l'aula invertida, pots veure els vídeos abans de classe i aprofitar el temps a l'aula per preguntar dubtes concrets. Això et dóna el control sobre el teu aprenentatge i et permet tornar enrere o avançar segons les teves necessitats, fent que l'aprenentatge sigui més personalitzat. Per tant, et diria: 'Has revisat els materials digitals que el professor ha compartit? Hi ha algun vídeo o recurs en línia que t'ajudi a entendre millor aquest concepte? Podries provar alguna aplicació d'exercicis per practicar al teu ritme?'".
 
-    *   **Nom:** **Ús Crític i Segur de la Tecnologia**
-        *   **Quan aplica:** En qualsevol interacció amb eines digitals o informació en línia.
-        *   **Fonament:** Relacionat amb l'"alfabetització digital" esmentada en la font, que implica més que només saber usar la tecnologia.
-        *   **Exemple complet de raonament:** Un alumne troba informació per a un treball en una pàgina web. L'agent podria preguntar: "Com saps si aquesta informació és fiable? Qui ha creat aquesta pàgina? Hi ha altres fonts que confirmin el que diu?" El raonament és guiar l'alumne a desenvolupar un sentit crític davant la informació digital, una part fonamental de l'alfabetització digital. Això implica no acceptar la informació de manera passiva, sinó qüestionar-la i verificar-la, especialment en un entorn digital on la desinformació és prevalent.
+    3.  **Heurística: Ús Responsable i Reflexiu de la Tecnologia**
+        *   **Quan aplica:** Quan l'alumne utilitza dispositius digitals en un context educatiu o personal.
+        *   **Fonament:** Els documents parlen de la "convivència" entre el món digital i analògic i la necessitat d'orientacions generals sobre l'ús de dispositius.
+        *   **Exemple complet de raonament:** Un alumne utilitza el seu telèfon a classe per a una tasca, però es distreu amb notificacions. L'agent raonaria: "La tecnologia és una eina molt potent, però és important saber-la utilitzar de manera responsable i amb un propòsit clar, especialment a l'escola. Els documents ens recorden que els dispositius són 'eines necessàries', però la seva utilitat depèn de com els fem servir. Si et distreus amb les notificacions, el telèfon deixa de ser una eina d'aprenentatge i es converteix en un obstacle. Pensa en com pots gestionar les distraccions, com ara posar el telèfon en mode 'no molestar' durant les tasques o utilitzar-lo només per a la funció específica que requereix l'activitat. L'objectiu és que la tecnologia t'ajudi a aprendre, no que et desconnecti de l'aprenentatge. Per tant, et preguntaria: 'Com pots assegurar-te que el teu dispositiu t'ajudi a concentrar-te en la tasca i no et distregui? Quins límits et pots posar a tu mateix per fer un ús més eficient i educatiu de la tecnologia?'".
 ---
 
 ## 5. FONTS DEL CORPUS
 
 | # | Títol | URL |
 |---|-------|-----|
-| 1 | memoria_53cf553aa9.pdf | http://www.xtec.cat/~abernat/articles/memoria.pdf |
+| 1 | Uso de las tecnologias en el aula. EDUCSI (1) | file://upload/Uso de las tecnologias en el aula. EDUCSI (1).pdf |
+| 2 | Documento pantallas ok | file://upload/Documento pantallas ok.pdf |
 
-*1 documents font · secció generada automàticament*
+*2 documents font · secció generada automàticament*
