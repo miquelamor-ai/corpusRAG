@@ -28,7 +28,7 @@ Abans d'iniciar el protocol, cal que el centre hagi establert:
     1.  **Reunió inicial de grup (inici de curs)**: Presentació de l'equip docent, del projecte educatiu del centre i de les línies generals de comunicació i participació.
     2.  **Entrevista individual inicial**: Trobar-se amb cada família per conèixer l'alumne/a des de la seva perspectiva, recollir informació rellevant sobre el seu desenvolupament, interessos, fortaleses i possibles preocupacions. Presentar el pla de treball conjunt previst per al curs.
     3.  **Acord de comunicació**: Pactar els canals i la freqüència de comunicació més adequats per a cada família, tenint en compte la seva disponibilitat i preferències.
-- **Responsable**: Tutor/a de l'alumne/a (principal), amb suport de l'Orientador/a o Cap d'Estudis si cal.
+- **Responsable**: Tutor/a de l'alumne/a (principal), amb suport de l'Orientador/a o la coordinació corresponent si cal.
 - **Temporització**: Primeres setmanes de curs (setembre/octubre).
 - **Eines**: Guia per a l'entrevista inicial, qüestionari de recollida d'informació familiar, agenda escolar/digital.
 - **Resultat esperat**: Coneixement mutu entre família i centre, establiment de canals de comunicació efectius, recollida d'informació bàsica de l'alumne/a i el seu context familiar, sentit de pertinença i confiança inicial.
@@ -61,7 +61,7 @@ Abans d'iniciar el protocol, cal que el centre hagi establert:
 |---|---|---|
 | **Tutor/a** | Responsable principal de la relació amb la família: entrevistes, seguiment, comunicació contínua, detecció de necessitats. | Fases 1, 2, 3 |
 | **Orientador/a** | Suport tècnic en l'avaluació psicopedagògica, assessorament a famílies i docents, derivació a serveis externs. | Fases 1, 3 |
-| **Cap d'Estudis / Equip directiu** | Garantir el marc institucional de col·laboració, intervenir en situacions de complexitat elevada. | Fases 1 (suport), 3 (si cal) |
+| **Direcció / Coordinació corresponent** | Garantir el marc institucional de col·laboració, intervenir en situacions de complexitat elevada. | Fases 1 (suport), 3 (si cal) |
 | **Docents especialistes** | Aportar informació específica sobre el progrés de l'alumne/a en àrees concretes (EE, AL, PT). | Fase 2 |
 | **Famílies / Tutors legals** | Compartir informació sobre l'alumne/a, participar en entrevistes i activitats, col·laborar en la resposta educativa des de casa. | Fases 1, 2, 3 |
 
